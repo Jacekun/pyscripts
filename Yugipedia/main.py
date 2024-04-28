@@ -300,12 +300,12 @@ try:
         
         if count == MAX_SET_TO_PROCESS:
             break
-    
+
+except Exception as e:
+    Utils.log_err("Error, main", e)
+finally:
     TIME_END = time.time() - TIME_START
     if TIME_END > 60:
         Utils.log(f"Elapsed minutes: {TIME_END/60}")
     else:
         Utils.log(f"Elapsed seconds: {TIME_END}")
-
-except Exception as e:
-    Utils.log_err("Error, main", e)
