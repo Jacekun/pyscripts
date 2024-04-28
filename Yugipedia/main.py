@@ -107,6 +107,19 @@ def process_setlist(inputString: str) -> list[CardData]:
     # Vars
     count = 0
     listCardItems = []
+
+    # Clear old log files
+    Utils.log("Start deleting older log files..")
+    log_path: str = "logs"
+    log_path_files = os.listdir(log_path)
+    for item in log_path_files:
+        if item.endswith(".log"):
+            logfile: str = os.path.join(log_path, item)
+            if os.path.isfile(logfile):
+                os.remove(logfile)
+
+    Utils.log("Done deleting old log files.")
+
     # Get page
     reqMain = requests.get(url = inputString, headers = HEADERS)
 
