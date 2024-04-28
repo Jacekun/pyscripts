@@ -9,10 +9,12 @@ from bs4 import BeautifulSoup
 from data.utils import Utils
 from data.model_card import CardData
 
-# Time calculate
+# Timer for processing
 TIME_START = time.time()
 
 # Global constants
+MAX_SET_TO_PROCESS = 5
+
 # Index
 INDEX_SETCODE = 0
 INDEX_NAME = 1
@@ -67,6 +69,7 @@ def get_setlist_from_wikilink(inputString: str, format: str) -> str:
     return inputString
 
 def get_card_passcode(wikilink: str) -> int:
+    cardPasscode: int = 0
     if wikilink:
         Utils.log(f"Searching passcode for {wikilink}")
         reqMain = requests.get(url = wikilink, headers = HEADERS)
@@ -95,9 +98,10 @@ def get_card_passcode(wikilink: str) -> int:
                 Utils.log(f"Passcode => Item: {otherInfoName} | {otherInfoValue}")
 
                 if otherInfoName == "PASSWORD":
-                    return int(otherInfoValue)
+                    cardPasscode = int(otherInfoValue)
+                    break
 
-    return 0
+    return cardPasscode
 
 def process_setlist(inputString: str) -> list[CardData]:
     # Vars
@@ -278,7 +282,7 @@ try:
                 
                 time.sleep(DELAY_SETLIST) # Throttle process to prevent overloading website.
         
-        if count == 1:
+        if count == MAX_SET_TO_PROCESS:
             break
     
     TIME_END = time.time() - TIME_START
