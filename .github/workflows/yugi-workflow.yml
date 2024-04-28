@@ -1,0 +1,77 @@
+name: Fetch Yu-Gi-Oh! AE sets from Yugipedia
+on:
+  # 01:00 UTC, Thursday
+  schedule:
+    - cron: '0 */12 * * *'
+
+   # Manual triggers
+  workflow_dispatch:
+    inputs:
+      git-ref:
+        description: Git Ref (Optional)
+        required: false
+
+permissions:
+  contents: write
+
+concurrency: 
+  group: "yugipedia"
+  cancel-in-progress: true
+
+
+env:
+  MAIN_BRANCH: main
+  REPO_BRANCH: yugipedia
+  FOLDER: Yugipedia
+  FOLDER_OUTPUT: output
+  FILE_SETDONE: setlist_done.log
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repo, using branch name
+        uses: actions/checkout@v2
+        if: github.event.inputs.git-ref == ''
+        with:
+          fetch-depth: 0
+          ref: ${{ env.REPO_BRANCH }}
+          
+      - name: Clone repo with ref
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.inputs.git-ref }}
+        if: github.event.inputs.git-ref != ''
+
+      - name: Merge upstream 'main' branch into current branch
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git fetch origin ${{ env.MAIN_BRANCH }}
+          git merge origin/${{ env.MAIN_BRANCH }}
+      
+      - name: Debugging files and refs
+        working-directory: './${{ env.FOLDER }}'
+        run: |
+            ls .
+            git show-ref
+            
+      - name: Install requirements.txt
+        working-directory: './${{ env.FOLDER }}'
+        run: pip install -r requirements.txt
+        
+      - name: Run main python script
+        working-directory: './${{ env.FOLDER }}'
+        run: python main.py
+
+      - name: Commit to the repo
+        working-directory: './${{ env.FOLDER }}'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add ${{ env.FOLDER_OUTPUT }}/*
+          git add ${{ env.FILE_SETDONE }}
+          # "echo" returns true so the build succeeds, even if no changed files
+          git commit -m '[skip ci] updated one piece tcg database' || echo
+          git push origin ${{ env.REPO_BRANCH }}
