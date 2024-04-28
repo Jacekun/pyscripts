@@ -98,7 +98,10 @@ def get_card_passcode(wikilink: str) -> int:
                 Utils.log(f"Passcode => Item: {otherInfoName} | {otherInfoValue}")
 
                 if otherInfoName == "PASSWORD":
-                    cardPasscode = int(otherInfoValue)
+                    if otherInfoValue.isdecimal():
+                        cardPasscode = int(otherInfoValue)
+                    else:
+                        Utils.log(f"Passcode => Invalid value.")
                     break
 
     return cardPasscode
