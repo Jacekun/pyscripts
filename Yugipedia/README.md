@@ -1,0 +1,1 @@
+# Yugipedia script
