@@ -4,13 +4,29 @@ from pathlib import Path
 from datetime import datetime
 
 class Utils(object):
+    FOLDER_LOGS = "logs"
+    EXT_LOGS = ".applog"
+
     # Methods
+    @staticmethod
+    # Clear old log files
+    def clear_logs():
+        Utils.log("Start deleting older log files..")
+        log_path_files = os.listdir(Utils.FOLDER_LOGS)
+        for item in log_path_files:
+            if item.endswith(Utils.EXT_LOGS):
+                logfile: str = os.path.join(Utils.FOLDER_LOGS, item)
+                if os.path.isfile(logfile):
+                    os.remove(logfile)
+
+        Utils.log("Done deleting old log files.")
+
     @staticmethod
     def write_to_log(content: str, fileprefix: str) -> bool:
         try:
-            Path("logs").mkdir(parents=True, exist_ok=True)
-            filename: str = f"{fileprefix}_{datetime.today().strftime('%Y-%m-%d')}.log"
-            filepath: str = os.path.join("logs", filename)
+            Path(Utils.FOLDER_LOGS).mkdir(parents=True, exist_ok=True)
+            filename: str = f"{fileprefix}_{datetime.today().strftime('%Y-%m-%d')}{Utils.EXT_LOGS}"
+            filepath: str = os.path.join(Utils.FOLDER_LOGS, filename)
             with open(filepath, 'a') as f:
                 f.write(f"{content}\n")
             return True
