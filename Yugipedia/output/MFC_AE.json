@@ -1,0 +1,866 @@
+[
+    {
+        "name": "Dark Magician Girl",
+        "passcode": 38033121,
+        "wikilink": "https://yugipedia.com/wiki/MFC-000",
+        "set_number": "MFC-000",
+        "rarity": "Secret Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "People Running About",
+        "passcode": 12143771,
+        "wikilink": "https://yugipedia.com/wiki/MFC-001",
+        "set_number": "MFC-001",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Oppressed People",
+        "passcode": 58538870,
+        "wikilink": "https://yugipedia.com/wiki/MFC-002",
+        "set_number": "MFC-002",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "United Resistance",
+        "passcode": 85936485,
+        "wikilink": "https://yugipedia.com/wiki/MFC-003",
+        "set_number": "MFC-003",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "X-Head Cannon",
+        "passcode": 62651957,
+        "wikilink": "https://yugipedia.com/wiki/MFC-004",
+        "set_number": "MFC-004",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Y-Dragon Head",
+        "passcode": 65622692,
+        "wikilink": "https://yugipedia.com/wiki/MFC-005",
+        "set_number": "MFC-005",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Z-Metal Tank",
+        "passcode": 64500000,
+        "wikilink": "https://yugipedia.com/wiki/MFC-006",
+        "set_number": "MFC-006",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Dark Blade",
+        "passcode": 11321183,
+        "wikilink": "https://yugipedia.com/wiki/MFC-007",
+        "set_number": "MFC-007",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Pitch-Dark Dragon",
+        "passcode": 47415292,
+        "wikilink": "https://yugipedia.com/wiki/MFC-008",
+        "set_number": "MFC-008",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Kiryu",
+        "passcode": 84814897,
+        "wikilink": "https://yugipedia.com/wiki/MFC-009",
+        "set_number": "MFC-009",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Decayed Commander",
+        "passcode": 10209545,
+        "wikilink": "https://yugipedia.com/wiki/MFC-010",
+        "set_number": "MFC-010",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Zombie Tiger",
+        "passcode": 47693640,
+        "wikilink": "https://yugipedia.com/wiki/MFC-011",
+        "set_number": "MFC-011",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Giant Orc",
+        "passcode": 73698349,
+        "wikilink": "https://yugipedia.com/wiki/MFC-012",
+        "set_number": "MFC-012",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Second Goblin",
+        "passcode": 19086954,
+        "wikilink": "https://yugipedia.com/wiki/MFC-013",
+        "set_number": "MFC-013",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Vampire Orchis",
+        "passcode": 46571052,
+        "wikilink": "https://yugipedia.com/wiki/MFC-014",
+        "set_number": "MFC-014",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Des Dendle",
+        "passcode": 12965761,
+        "wikilink": "https://yugipedia.com/wiki/MFC-015",
+        "set_number": "MFC-015",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Burning Beast",
+        "passcode": 59364406,
+        "wikilink": "https://yugipedia.com/wiki/MFC-016",
+        "set_number": "MFC-016",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Freezing Beast",
+        "passcode": 85359414,
+        "wikilink": "https://yugipedia.com/wiki/MFC-017",
+        "set_number": "MFC-017",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Union Rider",
+        "passcode": 11743119,
+        "wikilink": "https://yugipedia.com/wiki/MFC-018",
+        "set_number": "MFC-018",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "D.D. Crazy Beast",
+        "passcode": 48148828,
+        "wikilink": "https://yugipedia.com/wiki/MFC-019",
+        "set_number": "MFC-019",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Spell Canceller",
+        "passcode": 84636823,
+        "wikilink": "https://yugipedia.com/wiki/MFC-020",
+        "set_number": "MFC-020",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Neko Mane King",
+        "passcode": 11021521,
+        "wikilink": "https://yugipedia.com/wiki/MFC-021",
+        "set_number": "MFC-021",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Helping Robo for Combat",
+        "passcode": 47025270,
+        "wikilink": "https://yugipedia.com/wiki/MFC-022",
+        "set_number": "MFC-022",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Dimension Jar",
+        "passcode": 73414375,
+        "wikilink": "https://yugipedia.com/wiki/MFC-023",
+        "set_number": "MFC-023",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Great Phantom Thief",
+        "passcode": 10809984,
+        "wikilink": "https://yugipedia.com/wiki/MFC-024",
+        "set_number": "MFC-024",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Roulette Barrel",
+        "passcode": 46303688,
+        "wikilink": "https://yugipedia.com/wiki/MFC-025",
+        "set_number": "MFC-025",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Paladin of White Dragon",
+        "passcode": 73398797,
+        "wikilink": "https://yugipedia.com/wiki/MFC-026",
+        "set_number": "MFC-026",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "White Dragon Ritual",
+        "passcode": 9786492,
+        "wikilink": "https://yugipedia.com/wiki/MFC-027",
+        "set_number": "MFC-027",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Frontline Base",
+        "passcode": 46181000,
+        "wikilink": "https://yugipedia.com/wiki/MFC-028",
+        "set_number": "MFC-028",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Demotion",
+        "passcode": 72575145,
+        "wikilink": "https://yugipedia.com/wiki/MFC-029",
+        "set_number": "MFC-029",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Combination Attack",
+        "passcode": 8964854,
+        "wikilink": "https://yugipedia.com/wiki/MFC-030",
+        "set_number": "MFC-030",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Kaiser Colosseum",
+        "passcode": 35059553,
+        "wikilink": "https://yugipedia.com/wiki/MFC-031",
+        "set_number": "MFC-031",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Autonomous Action Unit",
+        "passcode": 71453557,
+        "wikilink": "https://yugipedia.com/wiki/MFC-032",
+        "set_number": "MFC-032",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Poison of the Old Man",
+        "passcode": 8842266,
+        "wikilink": "https://yugipedia.com/wiki/MFC-033",
+        "set_number": "MFC-033",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Ante",
+        "passcode": 34236961,
+        "wikilink": "https://yugipedia.com/wiki/MFC-034",
+        "set_number": "MFC-034",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Dark Core",
+        "passcode": 70231910,
+        "wikilink": "https://yugipedia.com/wiki/MFC-035",
+        "set_number": "MFC-035",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Raregold Armor",
+        "passcode": 7625614,
+        "wikilink": "https://yugipedia.com/wiki/MFC-036",
+        "set_number": "MFC-036",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Metalsilver Armor",
+        "passcode": 33114323,
+        "wikilink": "https://yugipedia.com/wiki/MFC-037",
+        "set_number": "MFC-037",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Kishido Spirit",
+        "passcode": 60519422,
+        "wikilink": "https://yugipedia.com/wiki/MFC-038",
+        "set_number": "MFC-038",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Tribute Doll",
+        "passcode": 2903036,
+        "wikilink": "https://yugipedia.com/wiki/MFC-039",
+        "set_number": "MFC-039",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Wave-Motion Cannon",
+        "passcode": 38992735,
+        "wikilink": "https://yugipedia.com/wiki/MFC-040",
+        "set_number": "MFC-040",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Huge Revolution",
+        "passcode": 65396880,
+        "wikilink": "https://yugipedia.com/wiki/MFC-041",
+        "set_number": "MFC-041",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Thunder of Ruler",
+        "passcode": 91781589,
+        "wikilink": "https://yugipedia.com/wiki/MFC-042",
+        "set_number": "MFC-042",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Spell Shield Type-8",
+        "passcode": 38275183,
+        "wikilink": "https://yugipedia.com/wiki/MFC-043",
+        "set_number": "MFC-043",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Meteorain",
+        "passcode": 64274292,
+        "wikilink": "https://yugipedia.com/wiki/MFC-044",
+        "set_number": "MFC-044",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Pineapple Blast",
+        "passcode": 90669991,
+        "wikilink": "https://yugipedia.com/wiki/MFC-045",
+        "set_number": "MFC-045",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Secret Barrel",
+        "passcode": 27053506,
+        "wikilink": "https://yugipedia.com/wiki/MFC-046",
+        "set_number": "MFC-046",
+        "rarity": "Super Short Print",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Physical Double",
+        "passcode": 63442604,
+        "wikilink": "https://yugipedia.com/wiki/MFC-047",
+        "set_number": "MFC-047",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Rivalry of Warlords",
+        "passcode": 90846359,
+        "wikilink": "https://yugipedia.com/wiki/MFC-048",
+        "set_number": "MFC-048",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Formation Union",
+        "passcode": 26931058,
+        "wikilink": "https://yugipedia.com/wiki/MFC-049",
+        "set_number": "MFC-049",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Adhesion Trap Hole",
+        "passcode": 62325062,
+        "wikilink": "https://yugipedia.com/wiki/MFC-050",
+        "set_number": "MFC-050",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "XY-Dragon Cannon",
+        "passcode": 2111707,
+        "wikilink": "https://yugipedia.com/wiki/MFC-051",
+        "set_number": "MFC-051",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "XYZ-Dragon Cannon",
+        "passcode": 91998119,
+        "wikilink": "https://yugipedia.com/wiki/MFC-052",
+        "set_number": "MFC-052",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "XZ-Tank Cannon",
+        "passcode": 99724761,
+        "wikilink": "https://yugipedia.com/wiki/MFC-053",
+        "set_number": "MFC-053",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "YZ-Tank Dragon",
+        "passcode": 25119460,
+        "wikilink": "https://yugipedia.com/wiki/MFC-054",
+        "set_number": "MFC-054",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Great Angus",
+        "passcode": 11813953,
+        "wikilink": "https://yugipedia.com/wiki/MFC-055",
+        "set_number": "MFC-055",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Aitsu",
+        "passcode": 48202661,
+        "wikilink": "https://yugipedia.com/wiki/MFC-056",
+        "set_number": "MFC-056",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Sonic Duck",
+        "passcode": 84696266,
+        "wikilink": "https://yugipedia.com/wiki/MFC-057",
+        "set_number": "MFC-057",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Luster Dragon",
+        "passcode": 11091375,
+        "wikilink": "https://yugipedia.com/wiki/MFC-058",
+        "set_number": "MFC-058",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Amazoness Paladin",
+        "passcode": 47480070,
+        "wikilink": "https://yugipedia.com/wiki/MFC-059",
+        "set_number": "MFC-059",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Amazoness Fighter",
+        "passcode": 55821894,
+        "wikilink": "https://yugipedia.com/wiki/MFC-060",
+        "set_number": "MFC-060",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Amazoness Swords Woman",
+        "passcode": 94004268,
+        "wikilink": "https://yugipedia.com/wiki/MFC-061",
+        "set_number": "MFC-061",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Amazoness Blowpiper",
+        "passcode": 73574678,
+        "wikilink": "https://yugipedia.com/wiki/MFC-062",
+        "set_number": "MFC-062",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Amazoness Tiger",
+        "passcode": 10979723,
+        "wikilink": "https://yugipedia.com/wiki/MFC-063",
+        "set_number": "MFC-063",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Skilled White Magician",
+        "passcode": 46363422,
+        "wikilink": "https://yugipedia.com/wiki/MFC-064",
+        "set_number": "MFC-064",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Skilled Dark Magician",
+        "passcode": 73752131,
+        "wikilink": "https://yugipedia.com/wiki/MFC-065",
+        "set_number": "MFC-065",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Apprentice Magician",
+        "passcode": 9156135,
+        "wikilink": "https://yugipedia.com/wiki/MFC-066",
+        "set_number": "MFC-066",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Old Vindictive Magician",
+        "passcode": 45141844,
+        "wikilink": "https://yugipedia.com/wiki/MFC-067",
+        "set_number": "MFC-067",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Chaos Command Magician",
+        "passcode": 72630549,
+        "wikilink": "https://yugipedia.com/wiki/MFC-068",
+        "set_number": "MFC-068",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Magical Marionette",
+        "passcode": 8034697,
+        "wikilink": "https://yugipedia.com/wiki/MFC-069",
+        "set_number": "MFC-069",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Pixie Knight",
+        "passcode": 35429292,
+        "wikilink": "https://yugipedia.com/wiki/MFC-070",
+        "set_number": "MFC-070",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Breaker the Magical Warrior",
+        "passcode": 71413901,
+        "wikilink": "https://yugipedia.com/wiki/MFC-071",
+        "set_number": "MFC-071",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Magical Plant Mandragola",
+        "passcode": 7802006,
+        "wikilink": "https://yugipedia.com/wiki/MFC-072",
+        "set_number": "MFC-072",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Magical Scientist",
+        "passcode": 34206604,
+        "wikilink": "https://yugipedia.com/wiki/MFC-073",
+        "set_number": "MFC-073",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Royal Magical Library",
+        "passcode": 70791313,
+        "wikilink": "https://yugipedia.com/wiki/MFC-074",
+        "set_number": "MFC-074",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Armor Exe",
+        "passcode": 7180418,
+        "wikilink": "https://yugipedia.com/wiki/MFC-075",
+        "set_number": "MFC-075",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Tribe-Infecting Virus",
+        "passcode": 33184167,
+        "wikilink": "https://yugipedia.com/wiki/MFC-076",
+        "set_number": "MFC-076",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Des Koala",
+        "passcode": 69579761,
+        "wikilink": "https://yugipedia.com/wiki/MFC-077",
+        "set_number": "MFC-077",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Dark Scorpion - Cliff the Trap Remover",
+        "passcode": 6967870,
+        "wikilink": "https://yugipedia.com/wiki/MFC-078",
+        "set_number": "MFC-078",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Magical Merchant",
+        "passcode": 32362575,
+        "wikilink": "https://yugipedia.com/wiki/MFC-079",
+        "set_number": "MFC-079",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Koitsu",
+        "passcode": 69456283,
+        "wikilink": "https://yugipedia.com/wiki/MFC-080",
+        "set_number": "MFC-080",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Cat's Ear Tribe",
+        "passcode": 95841282,
+        "wikilink": "https://yugipedia.com/wiki/MFC-081",
+        "set_number": "MFC-081",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Ultimate Obedient Fiend",
+        "passcode": 32240937,
+        "wikilink": "https://yugipedia.com/wiki/MFC-082",
+        "set_number": "MFC-082",
+        "rarity": "Short Print",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Dark Cat with White Tail",
+        "passcode": 8634636,
+        "wikilink": "https://yugipedia.com/wiki/MFC-083",
+        "set_number": "MFC-083",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Amazoness Spellcaster",
+        "passcode": 81325903,
+        "wikilink": "https://yugipedia.com/wiki/MFC-084",
+        "set_number": "MFC-084",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Continuous Destruction Punch",
+        "passcode": 68057622,
+        "wikilink": "https://yugipedia.com/wiki/MFC-085",
+        "set_number": "MFC-085",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Big Bang Shot",
+        "passcode": 61127349,
+        "wikilink": "https://yugipedia.com/wiki/MFC-086",
+        "set_number": "MFC-086",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Gather Your Mind",
+        "passcode": 7512044,
+        "wikilink": "https://yugipedia.com/wiki/MFC-087",
+        "set_number": "MFC-087",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Mass Driver",
+        "passcode": 34906152,
+        "wikilink": "https://yugipedia.com/wiki/MFC-088",
+        "set_number": "MFC-088",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Senri Eye",
+        "passcode": 60391791,
+        "wikilink": "https://yugipedia.com/wiki/MFC-089",
+        "set_number": "MFC-089",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Emblem of Dragon Destroyer",
+        "passcode": 6390406,
+        "wikilink": "https://yugipedia.com/wiki/MFC-090",
+        "set_number": "MFC-090",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Jar Robber",
+        "passcode": 33784505,
+        "wikilink": "https://yugipedia.com/wiki/MFC-091",
+        "set_number": "MFC-091",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "My Body as a Shield",
+        "passcode": 69279219,
+        "wikilink": "https://yugipedia.com/wiki/MFC-092",
+        "set_number": "MFC-092",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Spellbook Organization",
+        "passcode": 96677818,
+        "wikilink": "https://yugipedia.com/wiki/MFC-093",
+        "set_number": "MFC-093",
+        "rarity": "Short Print",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Mega Ton Magical Cannon",
+        "passcode": 32062913,
+        "wikilink": "https://yugipedia.com/wiki/MFC-094",
+        "set_number": "MFC-094",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Pitch-Black Power Stone",
+        "passcode": 34029630,
+        "wikilink": "https://yugipedia.com/wiki/MFC-095",
+        "set_number": "MFC-095",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Amazoness Archers",
+        "passcode": 67987611,
+        "wikilink": "https://yugipedia.com/wiki/MFC-096",
+        "set_number": "MFC-096",
+        "rarity": "Super Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Dramatic Rescue",
+        "passcode": 80193355,
+        "wikilink": "https://yugipedia.com/wiki/MFC-097",
+        "set_number": "MFC-097",
+        "rarity": "Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Exhausting Spell",
+        "passcode": 95451366,
+        "wikilink": "https://yugipedia.com/wiki/MFC-098",
+        "set_number": "MFC-098",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Hidden Spellbook",
+        "passcode": 21840375,
+        "wikilink": "https://yugipedia.com/wiki/MFC-099",
+        "set_number": "MFC-099",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Miracle Restoring",
+        "passcode": 68334074,
+        "wikilink": "https://yugipedia.com/wiki/MFC-100",
+        "set_number": "MFC-100",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Remove Brainwashing",
+        "passcode": 94739788,
+        "wikilink": "https://yugipedia.com/wiki/MFC-101",
+        "set_number": "MFC-101",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Disarmament",
+        "passcode": 20727787,
+        "wikilink": "https://yugipedia.com/wiki/MFC-102",
+        "set_number": "MFC-102",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Anti-Spell",
+        "passcode": 53112492,
+        "wikilink": "https://yugipedia.com/wiki/MFC-103",
+        "set_number": "MFC-103",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "The Spell Absorbing Life",
+        "passcode": 99517131,
+        "wikilink": "https://yugipedia.com/wiki/MFC-104",
+        "set_number": "MFC-104",
+        "rarity": "Common",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Dark Paladin",
+        "passcode": 98502113,
+        "wikilink": "https://yugipedia.com/wiki/MFC-105",
+        "set_number": "MFC-105",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Double Spell",
+        "passcode": 24096228,
+        "wikilink": "https://yugipedia.com/wiki/MFC-106",
+        "set_number": "MFC-106",
+        "rarity": "Ultra Rare",
+        "date_release": "22 January 2004"
+    },
+    {
+        "name": "Diffusion Wave-Motion",
+        "passcode": 87880531,
+        "wikilink": "https://yugipedia.com/wiki/MFC-107",
+        "set_number": "MFC-107",
+        "rarity": "Secret Rare",
+        "date_release": "22 January 2004"
+    }
+]
