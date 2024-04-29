@@ -1,0 +1,16 @@
+Done deleting old log files.
+Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Duelist_King_Tournament:_World_Ranking_Season_3_top_100_prize_card_(OCG-AE)
+Set list page => Release date: 16 July 2003
+Searching passcode for https://yugipedia.com/wiki/WCS-001
+Passcode => Page downloaded. Parsing content
+Passcode => Item: CARD TYPE | Monster
+Passcode => Item: ATTRIBUTE | EARTH
+Passcode => Item: TYPES | Warrior / Normal
+Passcode => Item: LEVEL | 4
+Passcode => Item: ATK  DEF | 1400 / 1400
+Passcode => Item: PASSWORD | 12829151
+Item => Setcode: WCS-001 | URL: https://yugipedia.com/wiki/WCS-001 | Name: Kanan the Swordmistress
+===================================================================================================
+Creating output json file for set 'WCS' => output/WCS_AE.json
+Successfully created json file.
+Elapsed minutes: 8.03074756860733
