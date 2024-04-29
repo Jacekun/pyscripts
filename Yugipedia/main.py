@@ -98,7 +98,10 @@ def get_card_passcode(wikilink: str) -> int:
                 Utils.log(f"Passcode => Item: {otherInfoName} | {otherInfoValue}")
 
                 if otherInfoName == "PASSWORD":
-                    cardPasscode = int(otherInfoValue)
+                    if otherInfoValue.isdecimal():
+                        cardPasscode = int(otherInfoValue)
+                    else:
+                        Utils.log(f"Passcode => Invalid value.")
                     break
 
     return cardPasscode
@@ -297,12 +300,12 @@ try:
         
         if count == MAX_SET_TO_PROCESS:
             break
-    
+
+except Exception as e:
+    Utils.log_err("Error, main", e)
+finally:
     TIME_END = time.time() - TIME_START
     if TIME_END > 60:
         Utils.log(f"Elapsed minutes: {TIME_END/60}")
     else:
         Utils.log(f"Elapsed seconds: {TIME_END}")
-
-except Exception as e:
-    Utils.log_err("Error, main", e)
