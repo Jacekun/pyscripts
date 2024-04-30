@@ -55,7 +55,7 @@ jobs:
       - name: Debugging files and refs
         working-directory: './${{ env.FOLDER }}'
         run: |
-            ls .
+            ls -R .
             git show-ref
             
       - name: Install requirements.txt
