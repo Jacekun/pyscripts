@@ -1,4 +1,4 @@
-name: Fetch Yu-Gi-Oh! AE sets from Yugipedia
+name: Yu-Gi-Oh! AE sets from Yugipedia
 on:
   # Run every 6 hours
   schedule:
@@ -71,9 +71,9 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add ${{ env.FOLDER_OUTPUT }}/*
+          git add -u ${{ env.FOLDER_OUTPUT }}/*
           git add -f ${{ env.FILE_SETDONE }}
-          git add -f ${{ env.FOLDER_LOGS }}/*
+          git add -f -u ${{ env.FOLDER_LOGS }}/*
           # "echo" returns true so the build succeeds, even if no changed files
           git commit -m '[skip ci] Updated output folder contents' || echo
           git push origin ${{ env.REPO_BRANCH }}
