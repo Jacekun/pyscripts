@@ -1,0 +1,898 @@
+[
+    {
+        "name": "Chaos Emperor Dragon - Envoy of the End",
+        "passcode": 82301904,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE000",
+        "set_number": "IOC-AE000",
+        "rarity": "Secret Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Ojama Yellow",
+        "passcode": 42941100,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE001",
+        "set_number": "IOC-AE001",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Ojama Black",
+        "passcode": 79335209,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE002",
+        "set_number": "IOC-AE002",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Soul Tiger",
+        "passcode": 15734813,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE003",
+        "set_number": "IOC-AE003",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Big Koala",
+        "passcode": 42129512,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE004",
+        "set_number": "IOC-AE004",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Des Kangaroo",
+        "passcode": 78613627,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE005",
+        "set_number": "IOC-AE005",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Crimson Ninja",
+        "passcode": 14618326,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE006",
+        "set_number": "IOC-AE006",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Strike Ninja",
+        "passcode": 41006930,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE007",
+        "set_number": "IOC-AE007",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Gale Lizard",
+        "passcode": 77491079,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE008",
+        "set_number": "IOC-AE008",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Spirit of the Pot of Greed",
+        "passcode": 4896788,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE009",
+        "set_number": "IOC-AE009",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Chopman the Desperate Outlaw",
+        "passcode": 40884383,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE010",
+        "set_number": "IOC-AE010",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Sasuke Samurai 3",
+        "passcode": 77379481,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE011",
+        "set_number": "IOC-AE011",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "D.D. Scout Plane",
+        "passcode": 3773196,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE012",
+        "set_number": "IOC-AE012",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Berserk Gorilla",
+        "passcode": 39168895,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE013",
+        "set_number": "IOC-AE013",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Freed the Brave Wanderer",
+        "passcode": 16556849,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE014",
+        "set_number": "IOC-AE014",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Coach Goblin",
+        "passcode": 42541548,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE015",
+        "set_number": "IOC-AE015",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Witch Doctor of Chaos",
+        "passcode": 75946257,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE016",
+        "set_number": "IOC-AE016",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Chaos Necromancer",
+        "passcode": 1434352,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE017",
+        "set_number": "IOC-AE017",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Chaosrider Gustaph",
+        "passcode": 47829960,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE018",
+        "set_number": "IOC-AE018",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Inferno",
+        "passcode": 74823665,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE019",
+        "set_number": "IOC-AE019",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Fenrir",
+        "passcode": 218704,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE020",
+        "set_number": "IOC-AE020",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Gigantes",
+        "passcode": 47606319,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE021",
+        "set_number": "IOC-AE021",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Silpheed",
+        "passcode": 73001017,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE022",
+        "set_number": "IOC-AE022",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Chaos Sorcerer",
+        "passcode": 9596126,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE023",
+        "set_number": "IOC-AE023",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Gren Maju Da Eiza",
+        "passcode": 36584821,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE024",
+        "set_number": "IOC-AE024",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Black Luster Soldier - Envoy of the Beginning",
+        "passcode": 72989439,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE025",
+        "set_number": "IOC-AE025",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Drillago",
+        "passcode": 99050989,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE026",
+        "set_number": "IOC-AE026",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Lekunga",
+        "passcode": 62543393,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE027",
+        "set_number": "IOC-AE027",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Lord Poison",
+        "passcode": 40320754,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE028",
+        "set_number": "IOC-AE028",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Bowganian",
+        "passcode": 52090844,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE029",
+        "set_number": "IOC-AE029",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Granadora",
+        "passcode": 13944422,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE030",
+        "set_number": "IOC-AE030",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Fuhma Shuriken",
+        "passcode": 9373534,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE031",
+        "set_number": "IOC-AE031",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Heart of the Underdog",
+        "passcode": 35762283,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE032",
+        "set_number": "IOC-AE032",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Wild Nature's Release",
+        "passcode": 61166988,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE033",
+        "set_number": "IOC-AE033",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Ojama Delta Hurricane!!",
+        "passcode": 8251996,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE034",
+        "set_number": "IOC-AE034",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Stumbling",
+        "passcode": 34646691,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE035",
+        "set_number": "IOC-AE035",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Chaos End",
+        "passcode": 61044390,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE036",
+        "set_number": "IOC-AE036",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Yellow Luster Shield",
+        "passcode": 4542651,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE037",
+        "set_number": "IOC-AE037",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Chaos Greed",
+        "passcode": 97439308,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE038",
+        "set_number": "IOC-AE038",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "D.D. Designator",
+        "passcode": 33423043,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE039",
+        "set_number": "IOC-AE039",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "D.D. Borderline",
+        "passcode": 60912752,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE040",
+        "set_number": "IOC-AE040",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Recycle",
+        "passcode": 96316857,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE041",
+        "set_number": "IOC-AE041",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Primal Seed",
+        "passcode": 23701465,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE042",
+        "set_number": "IOC-AE042",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Thunder Crash",
+        "passcode": 69196160,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE043",
+        "set_number": "IOC-AE043",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Dimension Distortion",
+        "passcode": 95194279,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE044",
+        "set_number": "IOC-AE044",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Reload",
+        "passcode": 22589918,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE045",
+        "set_number": "IOC-AE045",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Soul Absorption",
+        "passcode": 68073522,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE046",
+        "set_number": "IOC-AE046",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Big Burn",
+        "passcode": 95472621,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE047",
+        "set_number": "IOC-AE047",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Blasting the Ruins",
+        "passcode": 21466326,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE048",
+        "set_number": "IOC-AE048",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Cursed Seal of the Forbidden Spell",
+        "passcode": 58851034,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE049",
+        "set_number": "IOC-AE049",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Tower of Babel",
+        "passcode": 94256039,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE050",
+        "set_number": "IOC-AE050",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Spatial Collapse",
+        "passcode": 20644748,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE051",
+        "set_number": "IOC-AE051",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Chain Disappearance",
+        "passcode": 57139487,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE052",
+        "set_number": "IOC-AE052",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Zero Gravity",
+        "passcode": 83133491,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE053",
+        "set_number": "IOC-AE053",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Dark Mirror Force",
+        "passcode": 20522190,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE054",
+        "set_number": "IOC-AE054",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Energy Drain",
+        "passcode": 56916805,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE055",
+        "set_number": "IOC-AE055",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Giga Gagagigo",
+        "passcode": 43793530,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE056",
+        "set_number": "IOC-AE056",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Mad Dog of Darkness",
+        "passcode": 79182538,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE057",
+        "set_number": "IOC-AE057",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Neo Bug",
+        "passcode": 16587243,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE058",
+        "set_number": "IOC-AE058",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Sea Serpent Warrior of Darkness",
+        "passcode": 42071342,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE059",
+        "set_number": "IOC-AE059",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Terrorking Salmon",
+        "passcode": 78060096,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE060",
+        "set_number": "IOC-AE060",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Blazing Inpachi",
+        "passcode": 5464695,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE061",
+        "set_number": "IOC-AE061",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Burning Algae",
+        "passcode": 41859700,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE062",
+        "set_number": "IOC-AE062",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "The Thing in the Crater",
+        "passcode": 78243409,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE063",
+        "set_number": "IOC-AE063",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Molten Zombie",
+        "passcode": 4732017,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE064",
+        "set_number": "IOC-AE064",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Dark Magician of Chaos",
+        "passcode": 40737112,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE065",
+        "set_number": "IOC-AE065",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Gora Turtle of Illusion",
+        "passcode": 42868711,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE066",
+        "set_number": "IOC-AE066",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Manticore of Darkness",
+        "passcode": 77121851,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE067",
+        "set_number": "IOC-AE067",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Stealth Bird",
+        "passcode": 3510565,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE068",
+        "set_number": "IOC-AE068",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Sacred Crane",
+        "passcode": 30914564,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE069",
+        "set_number": "IOC-AE069",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Enraged Battle Ox",
+        "passcode": 76909279,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE070",
+        "set_number": "IOC-AE070",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Don Turtle",
+        "passcode": 3493978,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE071",
+        "set_number": "IOC-AE071",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Balloon Lizard",
+        "passcode": 39892082,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE072",
+        "set_number": "IOC-AE072",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Dark Driceratops",
+        "passcode": 65287621,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE073",
+        "set_number": "IOC-AE073",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Hyper Hammerhead",
+        "passcode": 2671330,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE074",
+        "set_number": "IOC-AE074",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Black Tyranno",
+        "passcode": 38670435,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE075",
+        "set_number": "IOC-AE075",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Anti-Aircraft Flower",
+        "passcode": 65064143,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE076",
+        "set_number": "IOC-AE076",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Prickle Fairy",
+        "passcode": 91559748,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE077",
+        "set_number": "IOC-AE077",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Pinch Hopper",
+        "passcode": 26185991,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE078",
+        "set_number": "IOC-AE078",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Skull-Mark Ladybug",
+        "passcode": 64306248,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE079",
+        "set_number": "IOC-AE079",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Insect Princess",
+        "passcode": 37957847,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE080",
+        "set_number": "IOC-AE080",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Amphibious Bugroth MK-3",
+        "passcode": 64342551,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE081",
+        "set_number": "IOC-AE081",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Torpedo Fish",
+        "passcode": 90337190,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE082",
+        "set_number": "IOC-AE082",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Levia-Dragon - Daedalus",
+        "passcode": 37721209,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE083",
+        "set_number": "IOC-AE083",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Orca Mega-Fortress of Darkness",
+        "passcode": 63120904,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE084",
+        "set_number": "IOC-AE084",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Cannonball Spear Shellfish",
+        "passcode": 95614612,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE085",
+        "set_number": "IOC-AE085",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Mataza the Zapper",
+        "passcode": 22609617,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE086",
+        "set_number": "IOC-AE086",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Guardian Angel Joan",
+        "passcode": 68007326,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE087",
+        "set_number": "IOC-AE087",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Manju of the Ten Thousand Hands",
+        "passcode": 95492061,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE088",
+        "set_number": "IOC-AE088",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Getsu Fuhma",
+        "passcode": 21887179,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE089",
+        "set_number": "IOC-AE089",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Ryu Kokki",
+        "passcode": 57281778,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE090",
+        "set_number": "IOC-AE090",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Gryphon's Feather Duster",
+        "passcode": 34370473,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE091",
+        "set_number": "IOC-AE091",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Stray Lambs",
+        "passcode": 60764581,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE092",
+        "set_number": "IOC-AE092",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Smashing Ground",
+        "passcode": 97169186,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE093",
+        "set_number": "IOC-AE093",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Dimension Fusion",
+        "passcode": 23557835,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE094",
+        "set_number": "IOC-AE094",
+        "rarity": "Ultra Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Dedication through Light and Darkness",
+        "passcode": 69542930,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE095",
+        "set_number": "IOC-AE095",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Salvage",
+        "passcode": 96947648,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE096",
+        "set_number": "IOC-AE096",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Ultra Evolution Pill",
+        "passcode": 22431243,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE097",
+        "set_number": "IOC-AE097",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Multiplication of Ants",
+        "passcode": 22493811,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE098",
+        "set_number": "IOC-AE098",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Earth Chant",
+        "passcode": 59820352,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE099",
+        "set_number": "IOC-AE099",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Jade Insect Whistle",
+        "passcode": 95214051,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE100",
+        "set_number": "IOC-AE100",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Destruction Ring",
+        "passcode": 21219755,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE101",
+        "set_number": "IOC-AE101",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Fiend's Hand Mirror",
+        "passcode": 58607704,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE102",
+        "set_number": "IOC-AE102",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Compulsory Evacuation Device",
+        "passcode": 94192409,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE103",
+        "set_number": "IOC-AE103",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "A Hero Emerges",
+        "passcode": 21597117,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE104",
+        "set_number": "IOC-AE104",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Self-Destruct Button",
+        "passcode": 57585212,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE105",
+        "set_number": "IOC-AE105",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Curse of Darkness",
+        "passcode": 84970821,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE106",
+        "set_number": "IOC-AE106",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Begone, Knave!",
+        "passcode": 20374520,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE107",
+        "set_number": "IOC-AE107",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "DNA Transplant",
+        "passcode": 56769674,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE108",
+        "set_number": "IOC-AE108",
+        "rarity": "Common",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Robbin' Zombie",
+        "passcode": 83258273,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE109",
+        "set_number": "IOC-AE109",
+        "rarity": "Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Trap Jammer",
+        "passcode": 19252988,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE110",
+        "set_number": "IOC-AE110",
+        "rarity": "Super Rare",
+        "date_release": "15 July 2004"
+    },
+    {
+        "name": "Invader of Darkness",
+        "passcode": 56647086,
+        "wikilink": "https://yugipedia.com/wiki/IOC-AE111",
+        "set_number": "IOC-AE111",
+        "rarity": "Secret Rare",
+        "date_release": "15 July 2004"
+    }
+]
