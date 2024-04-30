@@ -13,7 +13,10 @@ from data.model_card import CardData
 TIME_START = time.time()
 
 # Global constants
-MAX_SET_TO_PROCESS = 5
+MAX_SET_TO_PROCESS = 4
+NEWLINE = '\n'
+DELAY_SETLIST = 3
+DELAY_PASSCODE = 1
 
 # Index
 INDEX_SETCODE = 0
@@ -46,9 +49,6 @@ HEADERS = {
     'Referer': LINK_MAIN,
     "Content-Type": "text/html",
 }
-NEWLINE = '\n'
-DELAY_SETLIST = 3
-DELAY_PASSCODE = 2
 
 # Methods
 def get_setlist_from_wikilink(inputString: str, format: str) -> str:
@@ -110,9 +110,6 @@ def process_setlist(inputString: str) -> list[CardData]:
     # Vars
     count = 0
     listCardItems = []
-
-    # Clear old log files
-    Utils.clear_logs()
 
     # Get page
     reqMain = requests.get(url = inputString, headers = HEADERS)
@@ -197,6 +194,8 @@ def process_setlist(inputString: str) -> list[CardData]:
 
                 time.sleep(DELAY_PASSCODE) # Throttle process to prevent overloading website.
         ##
+    elif reqMain.status_code == 404:
+        Utils.log(f"Page not found. Will skip.")
     else:
         raise Exception(f"Cannot download page: {inputString}. Code: {reqMain.status_code}")
     
@@ -206,6 +205,9 @@ def process_setlist(inputString: str) -> list[CardData]:
 try:
     # Create folders
     Path(FOLDER_OUTPUT).mkdir(parents=True, exist_ok=True)
+
+    # Clear old log files
+    Utils.clear_logs()
 
     # Check URL
     if INPUT_URL is None or INPUT_URL == "":
@@ -271,13 +273,13 @@ try:
                 LIST_DONESET.remove(setPrefix)
             else:
                 #Utils.log(f"Prefix: {setPrefix} | Set URL: {setLinkWithCardSetList}")
-                listCardDate = process_setlist(setLinkWithCardSetList)
-                if listCardDate:
+                listCardData = process_setlist(setLinkWithCardSetList)
+                if listCardData:
                     outputFileSet = os.path.join(FOLDER_OUTPUT, f"{setPrefix}_AE.json")
                     Utils.log(f"Creating output json file for set '{setPrefix}' => {outputFileSet}")
 
                     dumpListToDict = []
-                    for itemListCardData in listCardDate:
+                    for itemListCardData in listCardData:
                         newItemDict = itemListCardData.model_dump(mode="dict")# IMPT! Convert data to format that can be serialized.
                         dumpListToDict.append(newItemDict)
 

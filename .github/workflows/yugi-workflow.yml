@@ -1,8 +1,8 @@
 name: Fetch Yu-Gi-Oh! AE sets from Yugipedia
 on:
-  # Run every 12 hours
+  # Run every 6 hours
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'
 
    # Manual triggers
   workflow_dispatch:
