@@ -17,6 +17,8 @@ MAX_SET_TO_PROCESS = 4
 NEWLINE = '\n'
 DELAY_SETLIST = 3
 DELAY_PASSCODE = 1
+BANLIST_FORMAT = "Yu-Gi-Oh! AE"
+BANLIST_TITLE = "2023.11 OCG_AE"
 
 # Index
 INDEX_SETCODE = 0
@@ -37,6 +39,7 @@ INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&limit=500&offset=
 # File paths
 FILE_OUTPUT_BODY = "body.html"
 FILE_OUTPUT_DONE_SET = "setlist_done.log"# Already processed setcode prefix
+FILE_OUTPUT_BANLIST = BANLIST_TITLE + ".lflist.conf"
 FOLDER_OUTPUT = "output"#Folder to save all json files per set
 
 # List objects
@@ -201,6 +204,44 @@ def process_setlist(inputString: str) -> list[CardData]:
     
     return listCardItems
 
+def process_banlist():
+    banlistContents: str = f"#[{BANLIST_FORMAT} {BANLIST_TITLE}]\n!{BANLIST_FORMAT} {BANLIST_TITLE}\n$whitelist\n"
+    banlistCardDict = { }
+    filesToProcess = Utils.list_files(FOLDER_OUTPUT)
+    for x in filesToProcess:
+        Utils.log(f"File => {x}")
+        jsonObj = Utils.read_json(x)
+        if jsonObj:
+            Utils.log(f"JSON file parsed.")
+            cardDataList = CardData.get_list_carddata(jsonObj)
+            Utils.log("CardData processed.")
+            for card in cardDataList:
+                cardPasscode: int = card.passcode
+                cardName: str = card.name
+                cardSetNumber: str = card.set_number
+                if cardPasscode in banlistCardDict:
+                    Utils.log(f"Card already exist => {cardPasscode} | name: {cardName}")
+                else:
+                    banlistCardDict[cardPasscode] = {
+                        "name": cardName,
+                        "setcode": cardSetNumber
+                    }
+                    Utils.log(f"Card info => {cardPasscode} | name: {cardName}")
+        else:
+            Utils.log("JSON file parsing failed!")
+
+    # Create conf whitelist file
+    if banlistCardDict:
+        for key in banlistCardDict:
+            if key and key != 0 :
+                item = banlistCardDict[key]
+                cardName: str = str(item["name"])
+                contentToWrite: str = f"{key} 3 # {cardName}"
+                banlistContents += contentToWrite + "\n"
+                Utils.log(f"Card to write => {contentToWrite}")
+        # Create output file
+        Utils.write_file(FILE_OUTPUT_BANLIST, banlistContents)
+
 # Main
 try:
     # Create folders
@@ -275,7 +316,7 @@ try:
                 #Utils.log(f"Prefix: {setPrefix} | Set URL: {setLinkWithCardSetList}")
                 listCardData = process_setlist(setLinkWithCardSetList)
                 if listCardData:
-                    outputFileSet = os.path.join(FOLDER_OUTPUT, f"{setPrefix}_AE.json")
+                    outputFileSet = os.path.join(FOLDER_OUTPUT, f"AE_{setPrefix}_.json")
                     Utils.log(f"Creating output json file for set '{setPrefix}' => {outputFileSet}")
 
                     dumpListToDict = []
@@ -293,6 +334,10 @@ try:
         
         if count == MAX_SET_TO_PROCESS:
             break
+
+    #TODO: Process whitelist for EDOPro when no set to process.
+    if count == 0:
+        process_banlist()
 
 except Exception as e:
     Utils.log_err("Error, main", e)
