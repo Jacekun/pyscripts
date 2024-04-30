@@ -41,9 +41,10 @@ class Utils(object):
             filename: str = f"{fileprefix}_{datetime.today().strftime('%Y-%m-%d')}{Utils.EXT_LOGS}"
             filepath: str = os.path.join(Utils.FOLDER_LOGS, filename)
             today: str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            print(f"[{today}] {content}")
+            content_to_write: str = f"[{today}] {content}"
+            print(content_to_write)
             with open(filepath, 'a') as f:
-                f.write(f"{content}\n")
+                f.write(f"{content_to_write}\n")
             return True
         except Exception as e:
             #Utils.log_err("Error", e)
