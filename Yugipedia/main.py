@@ -17,6 +17,8 @@ MAX_SET_TO_PROCESS = 4
 NEWLINE = '\n'
 DELAY_SETLIST = 3
 DELAY_PASSCODE = 1
+BANLIST_FORMAT = "Yu-Gi-Oh! AE"
+BANLIST_TITLE = "2023.11 OCG_AE"
 
 # Index
 INDEX_SETCODE = 0
@@ -32,11 +34,14 @@ LINK_MAIN = "https://yugipedia.com"
 LINK_WIKI = LINK_MAIN + "/wiki/"
 PREFIX_CARDLIST = "Set_Card_Lists:"
 
-INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&limit=500&offset=0&q=%5B%5BMedium%3A%3AOfficial%5D%5D++%3Cq%3E+%3Cq%3E%5B%5BAsian-English+set+prefix%3A%3A%2B%5D%5D%3C%2Fq%3E++OR++%3Cq%3E%5B%5BAsian-English+release+date%3A%3A%2B%5D%5D%3C%2Fq%3E+%3C%2Fq%3E&p=mainlabel%3D-20Set%2Fformat%3Dtable%2Fheaders%3D-20plain%2Fclass%3D-20wikitable-20sortable-20card-2Dlist&po=%3FAsian-English+set+and+region+prefix%3DPrefix%0A%3FAsian-English+release+date%3DRelease+date%0A&sort=+Asian-English+release+date%2C+Asian-English+set+prefix%2C+%23&order=asc%2Casc%2Casc&eq=no#search"#TODO: Proper INPUT_URL parsing
+INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&limit=500&offset=0&q=%5B%5BMedium%3A%3AOfficial%5D%5D++%3Cq%3E+%3Cq%3E%5B%5BAsian-English+set+prefix%3A%3A%2B%5D%5D%3C%2Fq%3E++OR++%3Cq%3E%5B%5BAsian-English+release+date%3A%3A%2B%5D%5D%3C%2Fq%3E+%3C%2Fq%3E&p=mainlabel%3D-20Set%2Fformat%3Dtable%2Fheaders%3D-20plain%2Fclass%3D-20wikitable-20sortable-20card-2Dlist&po=%3FAsian-English+set+and+region+prefix%3DPrefix%0A%3FAsian-English+release+date%3DRelease+date%0A&sort=+Asian-English+release+date%2C+Asian-English+set+prefix%2C+%23&order=asc%2Casc%2Casc&eq=no#search"
+URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202311&lang=en"
 
 # File paths
 FILE_OUTPUT_BODY = "body.html"
 FILE_OUTPUT_DONE_SET = "setlist_done.log"# Already processed setcode prefix
+FILE_OUTPUT_BANLIST = BANLIST_TITLE + ".lflist.conf"
+FILE_CACHE_BANLIST = BANLIST_TITLE + ".html"
 FOLDER_OUTPUT = "output"#Folder to save all json files per set
 
 # List objects
@@ -201,6 +206,92 @@ def process_setlist(inputString: str) -> list[CardData]:
     
     return listCardItems
 
+def process_banlist():
+    banlistContents: str = f"#[{BANLIST_FORMAT} {BANLIST_TITLE}]\n!{BANLIST_FORMAT} {BANLIST_TITLE}\n$whitelist\n"
+    banlistCardDict = { }
+    filesToProcess = Utils.list_files(FOLDER_OUTPUT)
+    listLimitBanned = []
+
+    # First, get the banlist and process it
+    contentsHtml: str = "<div></div>"#Placeholder that can be parsed by BSoup
+    if not os.path.exists(FILE_CACHE_BANLIST):
+        reqObj = requests.get(url = URL_BANLIST_AE, headers = HEADERS)
+        if reqObj.ok:
+            contentsHtml = reqObj.text
+            Utils.write_file(FILE_CACHE_BANLIST, contentsHtml)
+    else:
+        contentsHtml = Utils.read_file(FILE_CACHE_BANLIST)
+    
+    if contentsHtml:
+        Utils.log(f"Banlist => Content exist")
+        soupObj: BeautifulSoup = None
+
+        if not contentsHtml.isspace():
+            soupObj = BeautifulSoup(contentsHtml, "html.parser")
+
+        if soupObj:
+            Utils.log(f"Banlist => Main element exist")
+            soupMain = soupObj.find("table", { "class": "limit_list_style" } )
+            if soupMain:
+                Utils.log(f"Banlist => Main table exist")
+                soupMainBody = soupMain.find("tbody")
+                if soupMainBody:
+                    Utils.log(f"Banlist => Main table body exist")
+                    soupMainCardList = soupMainBody.find_all("tr")
+                    if soupMainCardList:
+                        Utils.log(f"Banlist => Element list of Card names found")
+                        for soupItem in soupMainCardList:
+                            if soupItem:
+                                soupCardName = soupItem.find("td")
+                                #Utils.log(f"Banlist => Element 'td' found on item.")
+                                if soupCardName:
+                                    cardName: str = soupCardName.text
+                                    Utils.log(f"Card Name => {cardName}")
+                                    listLimitBanned.append(cardName)
+    #raise Exception("dummy test")
+
+    for x in filesToProcess:
+        Utils.log(f"File => {x}")
+        jsonObj = Utils.read_json(x)
+        if jsonObj:
+            Utils.log(f"JSON file parsed.")
+            cardDataList = CardData.get_list_carddata(jsonObj)
+            Utils.log("CardData processed.")
+            for card in cardDataList:
+                cardPasscode: int = card.passcode
+                cardName: str = card.name
+                cardSetNumber: str = card.set_number
+                if cardPasscode in banlistCardDict:
+                    Utils.log(f"Card already exist => {cardPasscode} | name: {cardName}")
+                else:
+                    banlistCardDict[cardPasscode] = {
+                        "name": cardName,
+                        "setcode": cardSetNumber
+                    }
+                    Utils.log(f"Card info => {cardPasscode} | name: {cardName}")
+        else:
+            Utils.log("JSON file parsing failed!")
+
+    # Create conf whitelist file
+    if banlistCardDict:
+        for key in banlistCardDict:
+            if key and key != 0 :
+                item = banlistCardDict[key]
+                qty: int = 3
+                cardName: str = str(item["name"])
+
+                # Check qty
+                if cardName in listLimitBanned:
+                    qty = 0
+                    Utils.log(f"Card is banned => {cardName}")
+
+                if qty > 0:
+                    contentToWrite: str = f"{key} {qty} # {cardName}"
+                    banlistContents += contentToWrite + "\n"
+                    Utils.log(f"Card to write => {contentToWrite}")
+        # Create output file
+        Utils.write_file(FILE_OUTPUT_BANLIST, banlistContents)
+
 # Main
 try:
     # Create folders
@@ -275,7 +366,7 @@ try:
                 #Utils.log(f"Prefix: {setPrefix} | Set URL: {setLinkWithCardSetList}")
                 listCardData = process_setlist(setLinkWithCardSetList)
                 if listCardData:
-                    outputFileSet = os.path.join(FOLDER_OUTPUT, f"{setPrefix}_AE.json")
+                    outputFileSet = os.path.join(FOLDER_OUTPUT, f"AE_{setPrefix}_.json")
                     Utils.log(f"Creating output json file for set '{setPrefix}' => {outputFileSet}")
 
                     dumpListToDict = []
@@ -293,6 +384,10 @@ try:
         
         if count == MAX_SET_TO_PROCESS:
             break
+
+    #Process whitelist for EDOPro when all setlists are done.
+    if count == 0:
+        process_banlist()
 
 except Exception as e:
     Utils.log_err("Error, main", e)
