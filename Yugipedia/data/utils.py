@@ -8,8 +8,21 @@ class Utils(object):
     EXT_LOGS = ".applog"
 
     # Methods
+
+    # List files from path
     @staticmethod
+    def list_files(folderpath: str) -> list[str]:
+        listResult = []
+        basepathFiles = os.listdir(folderpath)
+        if basepathFiles:
+            for item in basepathFiles:
+                fileFullPath: str = os.path.join(folderpath, item)
+                if os.path.isfile(fileFullPath):
+                    listResult.append(fileFullPath)
+        return listResult
+
     # Clear old log files
+    @staticmethod
     def clear_logs():
         Utils.log("Start deleting older log files..")
         log_path_files = os.listdir(Utils.FOLDER_LOGS)
@@ -27,8 +40,11 @@ class Utils(object):
             Path(Utils.FOLDER_LOGS).mkdir(parents=True, exist_ok=True)
             filename: str = f"{fileprefix}_{datetime.today().strftime('%Y-%m-%d')}{Utils.EXT_LOGS}"
             filepath: str = os.path.join(Utils.FOLDER_LOGS, filename)
+            today: str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            content_to_write: str = f"[{today}] {content}"
+            print(content_to_write)
             with open(filepath, 'a') as f:
-                f.write(f"{content}\n")
+                f.write(f"{content_to_write}\n")
             return True
         except Exception as e:
             #Utils.log_err("Error", e)
@@ -36,13 +52,11 @@ class Utils(object):
 
     @staticmethod
     def log(content: str):
-        print(f"{content}")
         Utils.write_to_log(content, "log")
 
     @staticmethod
     def log_err(content: str, err: Exception):
         to_write: str = f"{content} => {err}"
-        print(to_write)
         Utils.write_to_log(to_write, "errlog")
 
     @staticmethod
