@@ -1,14 +1,20 @@
 name: Yu-Gi-Oh! AE sets from Yugipedia
 on:
-  # Run every 6 hours
+  # Run every 5 hours
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */5 * * *'
 
    # Manual triggers
   workflow_dispatch:
     inputs:
       git-ref:
         description: Git Ref (Optional)
+        required: false
+      clear-logs:
+        description: Clear Logs, 1 = true
+        required: false
+      clear-output:
+        description: Clear Output files, 1 = true
         required: false
 
 permissions:
@@ -51,6 +57,18 @@ jobs:
           git config user.email "actions@github.com"
           git fetch origin ${{ env.MAIN_BRANCH }}
           git merge origin/${{ env.MAIN_BRANCH }}
+        
+      - name: Clear logs
+        working-directory: './${{ env.FOLDER }}'
+        if: github.event.inputs.clear-logs == '1'
+        run: |
+            rm -r /${{ env.FOLDER_LOGS }}
+      
+      - name: Clear output files
+        working-directory: './${{ env.FOLDER }}'
+        if: github.event.inputs.clear-output == '1'
+        run: |
+            rm -r /${{ env.FOLDER_OUTPUT }}
       
       - name: Debugging files and refs
         working-directory: './${{ env.FOLDER }}'
@@ -71,7 +89,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add -u ${{ env.FOLDER_OUTPUT }}/*
+          git add ${{ env.FOLDER_OUTPUT }}/*
           git add -f ${{ env.FILE_SETDONE }}
           git add -f -u ${{ env.FOLDER_LOGS }}/*
           # "echo" returns true so the build succeeds, even if no changed files
