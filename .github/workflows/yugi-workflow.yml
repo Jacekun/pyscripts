@@ -14,7 +14,7 @@ on:
         description: Clear Logs, 1 = true
         required: false
       clear-output:
-        description: Clear Output files, 1 = true
+        description: Clear Output setlist, 1 = true
         required: false
 
 permissions:
@@ -64,11 +64,11 @@ jobs:
         run: |
             rm -r /${{ env.FOLDER_LOGS }}
       
-      - name: Clear output files
+      - name: Clear output setlist
         working-directory: './${{ env.FOLDER }}'
         if: github.event.inputs.clear-output == '1'
         run: |
-            rm -r /${{ env.FOLDER_OUTPUT }}
+            rm ${{ env.FILE_SETDONE }}
       
       - name: Debugging files and refs
         working-directory: './${{ env.FOLDER }}'
