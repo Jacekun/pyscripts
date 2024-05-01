@@ -1,0 +1,1016 @@
+[2024-05-01 04:57:41] Done deleting old log files.
+[2024-05-01 04:57:45] Set 'LOB' is already processed.
+[2024-05-01 04:57:45] Set 'SDK' is already processed.
+[2024-05-01 04:57:45] Set 'SDY' is already processed.
+[2024-05-01 04:57:45] Set 'MRD' is already processed.
+[2024-05-01 04:57:45] File loaded successfully
+[2024-05-01 04:57:45] Parsing soup...
+[2024-05-01 04:57:45] Finding main body from html...
+[2024-05-01 04:57:45] Parsing setlist...
+[2024-05-01 04:57:45] Prefix: LOB is skipped. Already processed.
+[2024-05-01 04:57:45] Prefix: SDK is skipped. Already processed.
+[2024-05-01 04:57:45] Prefix: SDY is skipped. Already processed.
+[2024-05-01 04:57:45] Prefix: MRD is skipped. Already processed.
+[2024-05-01 04:57:45] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Spell_Ruler_(OCG-AE)
+[2024-05-01 04:57:45] Set list page => Release date: 24 October 2002
+[2024-05-01 04:57:45] Searching passcode for https://yugipedia.com/wiki/MRL-000
+[2024-05-01 04:57:45] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:45] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:57:45] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 04:57:45] Passcode => Item: TYPES | Dragon / Toon / Effect
+[2024-05-01 04:57:45] Passcode => Item: LEVEL | 8
+[2024-05-01 04:57:45] Passcode => Item: ATK  DEF | 3000 / 2500
+[2024-05-01 04:57:45] Passcode => Item: PASSWORD | 53183600
+[2024-05-01 04:57:45] Item => Setcode: MRL-000 | URL: https://yugipedia.com/wiki/MRL-000 | Name: Blue-Eyes Toon Dragon
+[2024-05-01 04:57:45] ===================================================================================================
+[2024-05-01 04:57:46] Searching passcode for https://yugipedia.com/wiki/MRL-001
+[2024-05-01 04:57:46] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:47] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:57:47] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:57:47] Passcode => Item: TYPES | Aqua / Effect
+[2024-05-01 04:57:47] Passcode => Item: LEVEL | 3
+[2024-05-01 04:57:47] Passcode => Item: ATK  DEF | 900 / 800
+[2024-05-01 04:57:47] Passcode => Item: PASSWORD | 36039163
+[2024-05-01 04:57:47] Item => Setcode: MRL-001 | URL: https://yugipedia.com/wiki/MRL-001 | Name: Penguin Knight
+[2024-05-01 04:57:47] ===================================================================================================
+[2024-05-01 04:57:48] Searching passcode for https://yugipedia.com/wiki/MRL-002
+[2024-05-01 04:57:48] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:48] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:57:48] Passcode => Item: PROPERTY | Equip
+[2024-05-01 04:57:48] Passcode => Item: PASSWORD | 40619825
+[2024-05-01 04:57:48] Item => Setcode: MRL-002 | URL: https://yugipedia.com/wiki/MRL-002 | Name: Axe of Despair
+[2024-05-01 04:57:48] ===================================================================================================
+[2024-05-01 04:57:49] Searching passcode for https://yugipedia.com/wiki/MRL-003
+[2024-05-01 04:57:49] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:49] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:57:49] Passcode => Item: PROPERTY | Equip
+[2024-05-01 04:57:49] Passcode => Item: PASSWORD | 65169794
+[2024-05-01 04:57:49] Item => Setcode: MRL-003 | URL: https://yugipedia.com/wiki/MRL-003 | Name: Black Pendant
+[2024-05-01 04:57:49] ===================================================================================================
+[2024-05-01 04:57:50] Searching passcode for https://yugipedia.com/wiki/MRL-004
+[2024-05-01 04:57:50] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:50] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:57:50] Passcode => Item: PROPERTY | Equip
+[2024-05-01 04:57:50] Passcode => Item: PASSWORD | 38552107
+[2024-05-01 04:57:50] Item => Setcode: MRL-004 | URL: https://yugipedia.com/wiki/MRL-004 | Name: Horn of Light
+[2024-05-01 04:57:50] ===================================================================================================
+[2024-05-01 04:57:51] Searching passcode for https://yugipedia.com/wiki/MRL-005
+[2024-05-01 04:57:51] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:51] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:57:51] Passcode => Item: PROPERTY | Equip
+[2024-05-01 04:57:51] Passcode => Item: PASSWORD | 99597615
+[2024-05-01 04:57:51] Item => Setcode: MRL-005 | URL: https://yugipedia.com/wiki/MRL-005 | Name: Malevolent Nuzzler
+[2024-05-01 04:57:51] ===================================================================================================
+[2024-05-01 04:57:52] Searching passcode for https://yugipedia.com/wiki/MRL-006
+[2024-05-01 04:57:52] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:52] Passcode => Item: CARD TYPE | Trap
+[2024-05-01 04:57:52] Passcode => Item: PROPERTY | Continuous
+[2024-05-01 04:57:52] Passcode => Item: PASSWORD | 18807108
+[2024-05-01 04:57:52] Item => Setcode: MRL-006 | URL: https://yugipedia.com/wiki/MRL-006 | Name: Spellbinding Circle
+[2024-05-01 04:57:52] ===================================================================================================
+[2024-05-01 04:57:53] Searching passcode for https://yugipedia.com/wiki/MRL-007
+[2024-05-01 04:57:53] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:53] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:57:53] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:57:53] Passcode => Item: TYPES | Machine / Normal
+[2024-05-01 04:57:53] Passcode => Item: LEVEL | 5
+[2024-05-01 04:57:53] Passcode => Item: ATK  DEF | 1600 / 1900
+[2024-05-01 04:57:53] Passcode => Item: PASSWORD | 55998462
+[2024-05-01 04:57:53] Item => Setcode: MRL-007 | URL: https://yugipedia.com/wiki/MRL-007 | Name: Metal Fish
+[2024-05-01 04:57:53] ===================================================================================================
+[2024-05-01 04:57:54] Searching passcode for https://yugipedia.com/wiki/MRL-008
+[2024-05-01 04:57:54] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:54] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:57:54] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 04:57:54] Passcode => Item: TYPES | Thunder / Effect
+[2024-05-01 04:57:54] Passcode => Item: LEVEL | 3
+[2024-05-01 04:57:54] Passcode => Item: ATK  DEF | 800 / 900
+[2024-05-01 04:57:54] Passcode => Item: PASSWORD | 11324436
+[2024-05-01 04:57:54] Item => Setcode: MRL-008 | URL: https://yugipedia.com/wiki/MRL-008 | Name: Electric Snake
+[2024-05-01 04:57:54] ===================================================================================================
+[2024-05-01 04:57:55] Searching passcode for https://yugipedia.com/wiki/MRL-009
+[2024-05-01 04:57:56] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:56] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:57:56] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-01 04:57:56] Passcode => Item: TYPES | Winged Beast / Normal
+[2024-05-01 04:57:56] Passcode => Item: LEVEL | 5
+[2024-05-01 04:57:56] Passcode => Item: ATK  DEF | 1200 / 2000
+[2024-05-01 04:57:56] Passcode => Item: PASSWORD | 73081602
+[2024-05-01 04:57:56] Item => Setcode: MRL-009 | URL: https://yugipedia.com/wiki/MRL-009 | Name: Queen Bird
+[2024-05-01 04:57:56] ===================================================================================================
+[2024-05-01 04:57:57] Searching passcode for https://yugipedia.com/wiki/MRL-010
+[2024-05-01 04:57:58] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:57:58] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:57:58] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:57:58] Passcode => Item: TYPES | Aqua / Effect
+[2024-05-01 04:57:58] Passcode => Item: LEVEL | 1
+[2024-05-01 04:57:58] Passcode => Item: ATK  DEF | 300 / 350
+[2024-05-01 04:57:58] Passcode => Item: PASSWORD | 95174353
+[2024-05-01 04:57:58] Item => Setcode: MRL-010 | URL: https://yugipedia.com/wiki/MRL-010 | Name: Ameba
+[2024-05-01 04:57:58] ===================================================================================================
+[2024-05-01 04:57:59] Searching passcode for https://yugipedia.com/wiki/MRL-011
+[2024-05-01 04:58:01] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:01] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:01] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-01 04:58:01] Passcode => Item: TYPES | Winged Beast / Normal
+[2024-05-01 04:58:01] Passcode => Item: LEVEL | 5
+[2024-05-01 04:58:01] Passcode => Item: ATK  DEF | 1700 / 1500
+[2024-05-01 04:58:01] Passcode => Item: PASSWORD | 20624263
+[2024-05-01 04:58:01] Item => Setcode: MRL-011 | URL: https://yugipedia.com/wiki/MRL-011 | Name: Peacock
+[2024-05-01 04:58:01] ===================================================================================================
+[2024-05-01 04:58:02] Searching passcode for https://yugipedia.com/wiki/MRL-012
+[2024-05-01 04:58:03] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:03] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:03] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 04:58:03] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-01 04:58:03] Passcode => Item: LEVEL | 4
+[2024-05-01 04:58:03] Passcode => Item: ATK  DEF | 1550 / 1400
+[2024-05-01 04:58:03] Passcode => Item: PASSWORD | 93013676
+[2024-05-01 04:58:03] Item => Setcode: MRL-012 | URL: https://yugipedia.com/wiki/MRL-012 | Name: Maha Vailo
+[2024-05-01 04:58:03] ===================================================================================================
+[2024-05-01 04:58:04] Searching passcode for https://yugipedia.com/wiki/MRL-013
+[2024-05-01 04:58:04] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:04] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:04] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 04:58:04] Passcode => Item: TYPES | Machine / Normal
+[2024-05-01 04:58:04] Passcode => Item: LEVEL | 4
+[2024-05-01 04:58:04] Passcode => Item: ATK  DEF | 1650 / 1600
+[2024-05-01 04:58:04] Passcode => Item: PASSWORD | 47879985
+[2024-05-01 04:58:04] Item => Setcode: MRL-013 | URL: https://yugipedia.com/wiki/MRL-013 | Name: Guardian of the Throne Room
+[2024-05-01 04:58:04] ===================================================================================================
+[2024-05-01 04:58:05] Searching passcode for https://yugipedia.com/wiki/MRL-014
+[2024-05-01 04:58:05] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:05] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:05] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-01 04:58:05] Passcode => Item: TYPES | Aqua / Normal
+[2024-05-01 04:58:05] Passcode => Item: LEVEL | 4
+[2024-05-01 04:58:05] Passcode => Item: ATK  DEF | 1600 / 1500
+[2024-05-01 04:58:05] Passcode => Item: PASSWORD | 46534755
+[2024-05-01 04:58:05] Item => Setcode: MRL-014 | URL: https://yugipedia.com/wiki/MRL-014 | Name: Fire Kraken
+[2024-05-01 04:58:05] ===================================================================================================
+[2024-05-01 04:58:06] Searching passcode for https://yugipedia.com/wiki/MRL-015
+[2024-05-01 04:58:06] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:06] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:06] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:58:06] Passcode => Item: TYPES | Insect / Effect
+[2024-05-01 04:58:06] Passcode => Item: LEVEL | 3
+[2024-05-01 04:58:06] Passcode => Item: ATK  DEF | 850 / 750
+[2024-05-01 04:58:06] Passcode => Item: PASSWORD | 32539892
+[2024-05-01 04:58:06] Item => Setcode: MRL-015 | URL: https://yugipedia.com/wiki/MRL-015 | Name: Minar
+[2024-05-01 04:58:06] ===================================================================================================
+[2024-05-01 04:58:07] Searching passcode for https://yugipedia.com/wiki/MRL-016
+[2024-05-01 04:58:07] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:07] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:07] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:58:07] Passcode => Item: TYPES | Plant / Effect
+[2024-05-01 04:58:07] Passcode => Item: LEVEL | 1
+[2024-05-01 04:58:07] Passcode => Item: ATK  DEF | 350 / 300
+[2024-05-01 04:58:07] Passcode => Item: PASSWORD | 95744531
+[2024-05-01 04:58:07] Item => Setcode: MRL-016 | URL: https://yugipedia.com/wiki/MRL-016 | Name: Griggle
+[2024-05-01 04:58:07] ===================================================================================================
+[2024-05-01 04:58:08] Searching passcode for https://yugipedia.com/wiki/MRL-017
+[2024-05-01 04:58:10] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:10] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:10] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-01 04:58:10] Passcode => Item: TYPES | Dragon / Normal
+[2024-05-01 04:58:10] Passcode => Item: LEVEL | 6
+[2024-05-01 04:58:10] Passcode => Item: ATK  DEF | 1700 / 1900
+[2024-05-01 04:58:10] Passcode => Item: PASSWORD | 56789759
+[2024-05-01 04:58:10] Item => Setcode: MRL-017 | URL: https://yugipedia.com/wiki/MRL-017 | Name: Tyhone 2
+[2024-05-01 04:58:10] ===================================================================================================
+[2024-05-01 04:58:11] Searching passcode for https://yugipedia.com/wiki/MRL-018
+[2024-05-01 04:58:11] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:11] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:11] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:58:11] Passcode => Item: TYPES | Beast / Normal
+[2024-05-01 04:58:11] Passcode => Item: LEVEL | 6
+[2024-05-01 04:58:11] Passcode => Item: ATK  DEF | 1800 / 1900
+[2024-05-01 04:58:11] Passcode => Item: PASSWORD | 14015067
+[2024-05-01 04:58:11] Item => Setcode: MRL-018 | URL: https://yugipedia.com/wiki/MRL-018 | Name: Ancient One of the Deep Forest
+[2024-05-01 04:58:11] ===================================================================================================
+[2024-05-01 04:58:12] Searching passcode for https://yugipedia.com/wiki/MRL-019
+[2024-05-01 04:58:12] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:12] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:12] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 04:58:12] Passcode => Item: TYPES | Fairy / Normal
+[2024-05-01 04:58:12] Passcode => Item: LEVEL | 5
+[2024-05-01 04:58:12] Passcode => Item: ATK  DEF | 1800 / 1700
+[2024-05-01 04:58:12] Passcode => Item: PASSWORD | 35565537
+[2024-05-01 04:58:12] Item => Setcode: MRL-019 | URL: https://yugipedia.com/wiki/MRL-019 | Name: Dark Witch
+[2024-05-01 04:58:12] ===================================================================================================
+[2024-05-01 04:58:13] Searching passcode for https://yugipedia.com/wiki/MRL-020
+[2024-05-01 04:58:15] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:16] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:16] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:58:16] Passcode => Item: TYPES | Aqua / Flip / Effect
+[2024-05-01 04:58:16] Passcode => Item: LEVEL | 4
+[2024-05-01 04:58:16] Passcode => Item: ATK  DEF | 950 / 1500
+[2024-05-01 04:58:16] Passcode => Item: PASSWORD | 72053645
+[2024-05-01 04:58:16] Item => Setcode: MRL-020 | URL: https://yugipedia.com/wiki/MRL-020 | Name: Weather Report
+[2024-05-01 04:58:16] ===================================================================================================
+[2024-05-01 04:58:17] Searching passcode for https://yugipedia.com/wiki/MRL-021
+[2024-05-01 04:58:17] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:17] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:17] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:58:17] Passcode => Item: TYPES | Machine / Normal
+[2024-05-01 04:58:17] Passcode => Item: LEVEL | 3
+[2024-05-01 04:58:17] Passcode => Item: ATK  DEF | 800 / 1000
+[2024-05-01 04:58:17] Passcode => Item: PASSWORD | 34442949
+[2024-05-01 04:58:17] Item => Setcode: MRL-021 | URL: https://yugipedia.com/wiki/MRL-021 | Name: Mechanical Snail
+[2024-05-01 04:58:17] ===================================================================================================
+[2024-05-01 04:58:18] Searching passcode for https://yugipedia.com/wiki/MRL-022
+[2024-05-01 04:58:18] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:18] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:18] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:58:18] Passcode => Item: TYPES | Aqua / Normal
+[2024-05-01 04:58:18] Passcode => Item: LEVEL | 5
+[2024-05-01 04:58:18] Passcode => Item: ATK  DEF | 1400 / 1800
+[2024-05-01 04:58:18] Passcode => Item: PASSWORD | 96981563
+[2024-05-01 04:58:18] Item => Setcode: MRL-022 | URL: https://yugipedia.com/wiki/MRL-022 | Name: Giant Turtle Who Feeds on Flames
+[2024-05-01 04:58:18] ===================================================================================================
+[2024-05-01 04:58:19] Searching passcode for https://yugipedia.com/wiki/MRL-023
+[2024-05-01 04:58:19] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:19] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:19] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:58:19] Passcode => Item: TYPES | Aqua / Normal
+[2024-05-01 04:58:19] Passcode => Item: LEVEL | 3
+[2024-05-01 04:58:19] Passcode => Item: ATK  DEF | 950 / 800
+[2024-05-01 04:58:19] Passcode => Item: PASSWORD | 93108297
+[2024-05-01 04:58:19] Item => Setcode: MRL-023 | URL: https://yugipedia.com/wiki/MRL-023 | Name: Liquid Beast
+[2024-05-01 04:58:19] ===================================================================================================
+[2024-05-01 04:58:20] Searching passcode for https://yugipedia.com/wiki/MRL-024
+[2024-05-01 04:58:20] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:20] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:20] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:58:20] Passcode => Item: TYPES | Fiend / Flip / Effect
+[2024-05-01 04:58:20] Passcode => Item: LEVEL | 2
+[2024-05-01 04:58:20] Passcode => Item: ATK  DEF | 650 / 500
+[2024-05-01 04:58:20] Passcode => Item: PASSWORD | 81863068
+[2024-05-01 04:58:20] Item => Setcode: MRL-024 | URL: https://yugipedia.com/wiki/MRL-024 | Name: Hiro's Shadow Scout
+[2024-05-01 04:58:20] ===================================================================================================
+[2024-05-01 04:58:21] Searching passcode for https://yugipedia.com/wiki/MRL-025
+[2024-05-01 04:58:21] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:21] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:21] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:58:21] Passcode => Item: TYPES | Aqua / Normal
+[2024-05-01 04:58:21] Passcode => Item: LEVEL | 4
+[2024-05-01 04:58:21] Passcode => Item: ATK  DEF | 1650 / 1300
+[2024-05-01 04:58:21] Passcode => Item: PASSWORD | 54579801
+[2024-05-01 04:58:21] Item => Setcode: MRL-025 | URL: https://yugipedia.com/wiki/MRL-025 | Name: High Tide Gyojin
+[2024-05-01 04:58:21] ===================================================================================================
+[2024-05-01 04:58:22] Searching passcode for https://yugipedia.com/wiki/MRL-026
+[2024-05-01 04:58:24] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:24] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:24] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:58:24] Passcode => Item: TYPES | Warrior / Flip / Effect
+[2024-05-01 04:58:24] Passcode => Item: LEVEL | 4
+[2024-05-01 04:58:24] Passcode => Item: ATK  DEF | 1350 / 1700
+[2024-05-01 04:58:24] Passcode => Item: PASSWORD | 03056267
+[2024-05-01 04:58:24] Item => Setcode: MRL-026 | URL: https://yugipedia.com/wiki/MRL-026 | Name: Invader of the Throne
+[2024-05-01 04:58:24] ===================================================================================================
+[2024-05-01 04:58:25] Searching passcode for https://yugipedia.com/wiki/MRL-027
+[2024-05-01 04:58:25] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:25] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:25] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:58:25] Passcode => Item: TYPES | Fiend / Normal
+[2024-05-01 04:58:25] Passcode => Item: LEVEL | 4
+[2024-05-01 04:58:25] Passcode => Item: ATK  DEF | 1650 / 1600
+[2024-05-01 04:58:25] Passcode => Item: PASSWORD | 91996584
+[2024-05-01 04:58:25] Item => Setcode: MRL-027 | URL: https://yugipedia.com/wiki/MRL-027 | Name: Whiptail Crow
+[2024-05-01 04:58:25] ===================================================================================================
+[2024-05-01 04:58:26] Searching passcode for https://yugipedia.com/wiki/MRL-028
+[2024-05-01 04:58:26] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:26] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:26] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:58:26] Passcode => Item: TYPES | Machine / Normal
+[2024-05-01 04:58:26] Passcode => Item: LEVEL | 7
+[2024-05-01 04:58:26] Passcode => Item: ATK  DEF | 2000 / 2300
+[2024-05-01 04:58:26] Passcode => Item: PASSWORD | 03797883
+[2024-05-01 04:58:26] Item => Setcode: MRL-028 | URL: https://yugipedia.com/wiki/MRL-028 | Name: Slot Machine
+[2024-05-01 04:58:26] ===================================================================================================
+[2024-05-01 04:58:27] Searching passcode for https://yugipedia.com/wiki/MRL-029
+[2024-05-01 04:58:27] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:27] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:27] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:58:27] Passcode => Item: TYPES | Spellcaster / Ritual / Effect
+[2024-05-01 04:58:27] Passcode => Item: LEVEL | 1
+[2024-05-01 04:58:27] Passcode => Item: ATK  DEF | 0 / 0
+[2024-05-01 04:58:27] Passcode => Item: PASSWORD | 64631466
+[2024-05-01 04:58:27] Item => Setcode: MRL-029 | URL: https://yugipedia.com/wiki/MRL-029 | Name: Relinquished
+[2024-05-01 04:58:27] ===================================================================================================
+[2024-05-01 04:58:28] Searching passcode for https://yugipedia.com/wiki/MRL-030
+[2024-05-01 04:58:29] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:29] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:58:29] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:58:29] Passcode => Item: TYPES | Aqua / Normal
+[2024-05-01 04:58:29] Passcode => Item: LEVEL | 4
+[2024-05-01 04:58:29] Passcode => Item: ATK  DEF | 1400 / 1500
+[2024-05-01 04:58:29] Passcode => Item: PASSWORD | 65570596
+[2024-05-01 04:58:29] Item => Setcode: MRL-030 | URL: https://yugipedia.com/wiki/MRL-030 | Name: Red Archery Girl
+[2024-05-01 04:58:29] ===================================================================================================
+[2024-05-01 04:58:30] Searching passcode for https://yugipedia.com/wiki/MRL-031
+[2024-05-01 04:58:30] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:30] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:30] Passcode => Item: PROPERTY | Continuous
+[2024-05-01 04:58:30] Passcode => Item: PASSWORD | 16762927
+[2024-05-01 04:58:30] Item => Setcode: MRL-031 | URL: https://yugipedia.com/wiki/MRL-031 | Name: Gravekeeper's Servant
+[2024-05-01 04:58:30] ===================================================================================================
+[2024-05-01 04:58:31] Searching passcode for https://yugipedia.com/wiki/MRL-032
+[2024-05-01 04:58:31] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:31] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:31] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:31] Passcode => Item: PASSWORD | 12470447
+[2024-05-01 04:58:31] Item => Setcode: MRL-032 | URL: https://yugipedia.com/wiki/MRL-032 | Name: Curse of Fiend
+[2024-05-01 04:58:31] ===================================================================================================
+[2024-05-01 04:58:32] Searching passcode for https://yugipedia.com/wiki/MRL-033
+[2024-05-01 04:58:35] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:35] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:35] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:35] Passcode => Item: PASSWORD | 70368879
+[2024-05-01 04:58:35] Item => Setcode: MRL-033 | URL: https://yugipedia.com/wiki/MRL-033 | Name: Upstart Goblin
+[2024-05-01 04:58:35] ===================================================================================================
+[2024-05-01 04:58:36] Searching passcode for https://yugipedia.com/wiki/MRL-034
+[2024-05-01 04:58:36] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:36] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:36] Passcode => Item: PROPERTY | Continuous
+[2024-05-01 04:58:36] Passcode => Item: PASSWORD | 82003859
+[2024-05-01 04:58:36] Item => Setcode: MRL-034 | URL: https://yugipedia.com/wiki/MRL-034 | Name: Toll
+[2024-05-01 04:58:36] ===================================================================================================
+[2024-05-01 04:58:37] Searching passcode for https://yugipedia.com/wiki/MRL-035
+[2024-05-01 04:58:38] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:38] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:38] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:38] Passcode => Item: PASSWORD | 18591904
+[2024-05-01 04:58:38] Item => Setcode: MRL-035 | URL: https://yugipedia.com/wiki/MRL-035 | Name: Final Destiny
+[2024-05-01 04:58:38] ===================================================================================================
+[2024-05-01 04:58:39] Searching passcode for https://yugipedia.com/wiki/MRL-036
+[2024-05-01 04:58:39] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:39] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:39] Passcode => Item: PROPERTY | Equip
+[2024-05-01 04:58:39] Passcode => Item: PASSWORD | 45986603
+[2024-05-01 04:58:39] Item => Setcode: MRL-036 | URL: https://yugipedia.com/wiki/MRL-036 | Name: Snatch Steal
+[2024-05-01 04:58:39] ===================================================================================================
+[2024-05-01 04:58:40] Searching passcode for https://yugipedia.com/wiki/MRL-037
+[2024-05-01 04:58:40] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:40] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:40] Passcode => Item: PROPERTY | Field
+[2024-05-01 04:58:40] Passcode => Item: PASSWORD | 81380218
+[2024-05-01 04:58:40] Item => Setcode: MRL-037 | URL: https://yugipedia.com/wiki/MRL-037 | Name: Chorus of Sanctuary
+[2024-05-01 04:58:40] ===================================================================================================
+[2024-05-01 04:58:41] Searching passcode for https://yugipedia.com/wiki/MRL-038
+[2024-05-01 04:58:41] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:41] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:41] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:41] Passcode => Item: PASSWORD | 17375316
+[2024-05-01 04:58:41] Item => Setcode: MRL-038 | URL: https://yugipedia.com/wiki/MRL-038 | Name: Confiscation
+[2024-05-01 04:58:41] ===================================================================================================
+[2024-05-01 04:58:42] Searching passcode for https://yugipedia.com/wiki/MRL-039
+[2024-05-01 04:58:42] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:42] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:42] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:42] Passcode => Item: PASSWORD | 44763025
+[2024-05-01 04:58:42] Item => Setcode: MRL-039 | URL: https://yugipedia.com/wiki/MRL-039 | Name: Delinquent Duo
+[2024-05-01 04:58:42] ===================================================================================================
+[2024-05-01 04:58:43] Searching passcode for https://yugipedia.com/wiki/MRL-040
+[2024-05-01 04:58:43] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:43] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:43] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:43] Passcode => Item: PASSWORD | 80168720
+[2024-05-01 04:58:43] Item => Setcode: MRL-040 | URL: https://yugipedia.com/wiki/MRL-040 | Name: Darkness Approaches
+[2024-05-01 04:58:43] ===================================================================================================
+[2024-05-01 04:58:44] Searching passcode for https://yugipedia.com/wiki/MRL-041
+[2024-05-01 04:58:44] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:44] Passcode => Item: CARD TYPE | Trap
+[2024-05-01 04:58:44] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:44] Passcode => Item: PASSWORD | 17653779
+[2024-05-01 04:58:44] Item => Setcode: MRL-041 | URL: https://yugipedia.com/wiki/MRL-041 | Name: Fairy's Hand Mirror
+[2024-05-01 04:58:44] ===================================================================================================
+[2024-05-01 04:58:45] Searching passcode for https://yugipedia.com/wiki/MRL-042
+[2024-05-01 04:58:46] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:46] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:46] Passcode => Item: PROPERTY | Quick-Play
+[2024-05-01 04:58:46] Passcode => Item: PASSWORD | 43641473
+[2024-05-01 04:58:46] Item => Setcode: MRL-042 | URL: https://yugipedia.com/wiki/MRL-042 | Name: Tailor of the Fickle
+[2024-05-01 04:58:46] ===================================================================================================
+[2024-05-01 04:58:47] Searching passcode for https://yugipedia.com/wiki/MRL-043
+[2024-05-01 04:58:47] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:47] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:47] Passcode => Item: PROPERTY | Quick-Play
+[2024-05-01 04:58:47] Passcode => Item: PASSWORD | 70046172
+[2024-05-01 04:58:47] Item => Setcode: MRL-043 | URL: https://yugipedia.com/wiki/MRL-043 | Name: Rush Recklessly
+[2024-05-01 04:58:47] ===================================================================================================
+[2024-05-01 04:58:48] Searching passcode for https://yugipedia.com/wiki/MRL-044
+[2024-05-01 04:58:48] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:48] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:48] Passcode => Item: PROPERTY | Quick-Play
+[2024-05-01 04:58:48] Passcode => Item: PASSWORD | 16430187
+[2024-05-01 04:58:48] Item => Setcode: MRL-044 | URL: https://yugipedia.com/wiki/MRL-044 | Name: The Reliable Guardian
+[2024-05-01 04:58:48] ===================================================================================================
+[2024-05-01 04:58:49] Searching passcode for https://yugipedia.com/wiki/MRL-045
+[2024-05-01 04:58:49] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:49] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:49] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:49] Passcode => Item: PASSWORD | 42829885
+[2024-05-01 04:58:49] Item => Setcode: MRL-045 | URL: https://yugipedia.com/wiki/MRL-045 | Name: The Forceful Sentry
+[2024-05-01 04:58:49] ===================================================================================================
+[2024-05-01 04:58:50] Searching passcode for https://yugipedia.com/wiki/MRL-046
+[2024-05-01 04:58:51] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:51] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:51] Passcode => Item: PROPERTY | Continuous
+[2024-05-01 04:58:51] Passcode => Item: PASSWORD | 79323590
+[2024-05-01 04:58:51] Item => Setcode: MRL-046 | URL: https://yugipedia.com/wiki/MRL-046 | Name: Chain Energy
+[2024-05-01 04:58:51] ===================================================================================================
+[2024-05-01 04:58:52] Searching passcode for https://yugipedia.com/wiki/MRL-047
+[2024-05-01 04:58:52] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:53] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:53] Passcode => Item: PROPERTY | Quick-Play
+[2024-05-01 04:58:53] Passcode => Item: PASSWORD | 05318639
+[2024-05-01 04:58:53] Item => Setcode: MRL-047 | URL: https://yugipedia.com/wiki/MRL-047 | Name: Mystical Space Typhoon
+[2024-05-01 04:58:53] ===================================================================================================
+[2024-05-01 04:58:54] Searching passcode for https://yugipedia.com/wiki/MRL-048
+[2024-05-01 04:58:54] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:54] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:54] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:54] Passcode => Item: PASSWORD | 42703248
+[2024-05-01 04:58:54] Item => Setcode: MRL-048 | URL: https://yugipedia.com/wiki/MRL-048 | Name: Giant Trunade
+[2024-05-01 04:58:54] ===================================================================================================
+[2024-05-01 04:58:55] Searching passcode for https://yugipedia.com/wiki/MRL-049
+[2024-05-01 04:58:57] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:57] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:57] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:57] Passcode => Item: PASSWORD | 74191942
+[2024-05-01 04:58:57] Item => Setcode: MRL-049 | URL: https://yugipedia.com/wiki/MRL-049 | Name: Painful Choice
+[2024-05-01 04:58:57] ===================================================================================================
+[2024-05-01 04:58:58] Searching passcode for https://yugipedia.com/wiki/MRL-050
+[2024-05-01 04:58:58] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:58] Passcode => Item: CARD TYPE | Trap
+[2024-05-01 04:58:58] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:58:58] Passcode => Item: PASSWORD | 00596051
+[2024-05-01 04:58:58] Item => Setcode: MRL-050 | URL: https://yugipedia.com/wiki/MRL-050 | Name: Snake Fang
+[2024-05-01 04:58:58] ===================================================================================================
+[2024-05-01 04:58:59] Searching passcode for https://yugipedia.com/wiki/MRL-051
+[2024-05-01 04:58:59] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:58:59] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:58:59] Passcode => Item: PROPERTY | Ritual
+[2024-05-01 04:58:59] Passcode => Item: PASSWORD | 41426869
+[2024-05-01 04:58:59] Item => Setcode: MRL-051 | URL: https://yugipedia.com/wiki/MRL-051 | Name: Black Illusion Ritual
+[2024-05-01 04:58:59] ===================================================================================================
+[2024-05-01 04:59:00] Searching passcode for https://yugipedia.com/wiki/MRL-052
+[2024-05-01 04:59:00] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:01] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:01] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:59:01] Passcode => Item: TYPES | Aqua / Normal
+[2024-05-01 04:59:01] Passcode => Item: LEVEL | 5
+[2024-05-01 04:59:01] Passcode => Item: ATK  DEF | 1600 / 1400
+[2024-05-01 04:59:01] Passcode => Item: PASSWORD | 74637266
+[2024-05-01 04:59:01] Item => Setcode: MRL-052 | URL: https://yugipedia.com/wiki/MRL-052 | Name: Octoberser
+[2024-05-01 04:59:01] ===================================================================================================
+[2024-05-01 04:59:02] Searching passcode for https://yugipedia.com/wiki/MRL-053
+[2024-05-01 04:59:02] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:02] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:02] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:59:02] Passcode => Item: TYPES | Aqua / Normal
+[2024-05-01 04:59:02] Passcode => Item: LEVEL | 2
+[2024-05-01 04:59:02] Passcode => Item: ATK  DEF | 400 / 1000
+[2024-05-01 04:59:02] Passcode => Item: PASSWORD | 07892180
+[2024-05-01 04:59:02] Item => Setcode: MRL-053 | URL: https://yugipedia.com/wiki/MRL-053 | Name: Psychic Kappa
+[2024-05-01 04:59:02] ===================================================================================================
+[2024-05-01 04:59:03] Searching passcode for https://yugipedia.com/wiki/MRL-054
+[2024-05-01 04:59:03] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:03] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:59:03] Passcode => Item: PROPERTY | Equip
+[2024-05-01 04:59:03] Passcode => Item: PASSWORD | 64047146
+[2024-05-01 04:59:03] Item => Setcode: MRL-054 | URL: https://yugipedia.com/wiki/MRL-054 | Name: Horn of the Unicorn
+[2024-05-01 04:59:03] ===================================================================================================
+[2024-05-01 04:59:04] Searching passcode for https://yugipedia.com/wiki/MRL-055
+[2024-05-01 04:59:04] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:04] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:04] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:59:04] Passcode => Item: TYPES | Rock / Normal
+[2024-05-01 04:59:04] Passcode => Item: LEVEL | 5
+[2024-05-01 04:59:04] Passcode => Item: ATK  DEF | 0 / 3000
+[2024-05-01 04:59:04] Passcode => Item: PASSWORD | 67284908
+[2024-05-01 04:59:04] Item => Setcode: MRL-055 | URL: https://yugipedia.com/wiki/MRL-055 | Name: Labyrinth Wall
+[2024-05-01 04:59:04] ===================================================================================================
+[2024-05-01 04:59:05] Searching passcode for https://yugipedia.com/wiki/MRL-056
+[2024-05-01 04:59:05] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:05] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:05] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:59:05] Passcode => Item: TYPES | Warrior / Effect
+[2024-05-01 04:59:05] Passcode => Item: LEVEL | 7
+[2024-05-01 04:59:05] Passcode => Item: ATK  DEF | 1600 / 3000
+[2024-05-01 04:59:05] Passcode => Item: PASSWORD | 63162310
+[2024-05-01 04:59:05] Item => Setcode: MRL-056 | URL: https://yugipedia.com/wiki/MRL-056 | Name: Wall Shadow
+[2024-05-01 04:59:05] ===================================================================================================
+[2024-05-01 04:59:06] Searching passcode for https://yugipedia.com/wiki/MRL-057
+[2024-05-01 04:59:08] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:08] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:08] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:59:08] Passcode => Item: TYPES | Aqua / Normal
+[2024-05-01 04:59:08] Passcode => Item: LEVEL | 3
+[2024-05-01 04:59:08] Passcode => Item: ATK  DEF | 850 / 700
+[2024-05-01 04:59:08] Passcode => Item: PASSWORD | 29692206
+[2024-05-01 04:59:08] Item => Setcode: MRL-057 | URL: https://yugipedia.com/wiki/MRL-057 | Name: Twin Long Rods 2
+[2024-05-01 04:59:08] ===================================================================================================
+[2024-05-01 04:59:09] Searching passcode for https://yugipedia.com/wiki/MRL-058
+[2024-05-01 04:59:09] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:09] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:09] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:59:09] Passcode => Item: TYPES | Rock / Normal
+[2024-05-01 04:59:09] Passcode => Item: LEVEL | 5
+[2024-05-01 04:59:09] Passcode => Item: ATK  DEF | 1600 / 1500
+[2024-05-01 04:59:09] Passcode => Item: PASSWORD | 15023985
+[2024-05-01 04:59:09] Item => Setcode: MRL-058 | URL: https://yugipedia.com/wiki/MRL-058 | Name: Stone Ogre Grotto
+[2024-05-01 04:59:09] ===================================================================================================
+[2024-05-01 04:59:10] Searching passcode for https://yugipedia.com/wiki/MRL-059
+[2024-05-01 04:59:11] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:11] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:59:11] Passcode => Item: PROPERTY | Equip
+[2024-05-01 04:59:11] Passcode => Item: PASSWORD | 64389297
+[2024-05-01 04:59:11] Item => Setcode: MRL-059 | URL: https://yugipedia.com/wiki/MRL-059 | Name: Magical Labyrinth
+[2024-05-01 04:59:11] ===================================================================================================
+[2024-05-01 04:59:12] Searching passcode for https://yugipedia.com/wiki/MRL-060
+[2024-05-01 04:59:12] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:13] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:59:13] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:59:13] Passcode => Item: PASSWORD | 95051344
+[2024-05-01 04:59:13] Item => Setcode: MRL-060 | URL: https://yugipedia.com/wiki/MRL-060 | Name: Eternal Rest
+[2024-05-01 04:59:13] ===================================================================================================
+[2024-05-01 04:59:14] Searching passcode for https://yugipedia.com/wiki/MRL-061
+[2024-05-01 04:59:14] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:14] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:59:14] Passcode => Item: PROPERTY | Equip
+[2024-05-01 04:59:14] Passcode => Item: PASSWORD | 22046459
+[2024-05-01 04:59:14] Item => Setcode: MRL-061 | URL: https://yugipedia.com/wiki/MRL-061 | Name: Megamorph
+[2024-05-01 04:59:14] ===================================================================================================
+[2024-05-01 04:59:15] Searching passcode for https://yugipedia.com/wiki/MRL-062
+[2024-05-01 04:59:15] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:15] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:59:15] Passcode => Item: PROPERTY | Ritual
+[2024-05-01 04:59:15] Passcode => Item: PASSWORD | 43417563
+[2024-05-01 04:59:15] Item => Setcode: MRL-062 | URL: https://yugipedia.com/wiki/MRL-062 | Name: Commencement Dance
+[2024-05-01 04:59:15] ===================================================================================================
+[2024-05-01 04:59:16] Searching passcode for https://yugipedia.com/wiki/MRL-063
+[2024-05-01 04:59:18] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:18] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:59:18] Passcode => Item: PROPERTY | Ritual
+[2024-05-01 04:59:18] Passcode => Item: PASSWORD | 80811661
+[2024-05-01 04:59:18] Item => Setcode: MRL-063 | URL: https://yugipedia.com/wiki/MRL-063 | Name: Hamburger Recipe
+[2024-05-01 04:59:18] ===================================================================================================
+[2024-05-01 04:59:19] Searching passcode for https://yugipedia.com/wiki/MRL-064
+[2024-05-01 04:59:19] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:19] Passcode => Item: CARD TYPE | Trap
+[2024-05-01 04:59:19] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:59:19] Passcode => Item: PASSWORD | 15083728
+[2024-05-01 04:59:19] Item => Setcode: MRL-064 | URL: https://yugipedia.com/wiki/MRL-064 | Name: House of Adhesive Tape
+[2024-05-01 04:59:19] ===================================================================================================
+[2024-05-01 04:59:20] Searching passcode for https://yugipedia.com/wiki/MRL-065
+[2024-05-01 04:59:20] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:20] Passcode => Item: CARD TYPE | Trap
+[2024-05-01 04:59:20] Passcode => Item: PROPERTY | Normal
+[2024-05-01 04:59:20] Passcode => Item: PASSWORD | 42578427
+[2024-05-01 04:59:20] Item => Setcode: MRL-065 | URL: https://yugipedia.com/wiki/MRL-065 | Name: Eatgaboon
+[2024-05-01 04:59:20] ===================================================================================================
+[2024-05-01 04:59:21] Searching passcode for https://yugipedia.com/wiki/MRL-066
+[2024-05-01 04:59:21] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:21] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:59:21] Passcode => Item: PROPERTY | Ritual
+[2024-05-01 04:59:21] Passcode => Item: PASSWORD | 76806714
+[2024-05-01 04:59:21] Item => Setcode: MRL-066 | URL: https://yugipedia.com/wiki/MRL-066 | Name: Turtle Oath
+[2024-05-01 04:59:21] ===================================================================================================
+[2024-05-01 04:59:22] Searching passcode for https://yugipedia.com/wiki/MRL-067
+[2024-05-01 04:59:22] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:22] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:22] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:59:22] Passcode => Item: TYPES | Warrior / Ritual
+[2024-05-01 04:59:22] Passcode => Item: LEVEL | 6
+[2024-05-01 04:59:22] Passcode => Item: ATK  DEF | 1950 / 1850
+[2024-05-01 04:59:22] Passcode => Item: PASSWORD | 04849037
+[2024-05-01 04:59:22] Item => Setcode: MRL-067 | URL: https://yugipedia.com/wiki/MRL-067 | Name: Performance of Sword
+[2024-05-01 04:59:22] ===================================================================================================
+[2024-05-01 04:59:23] Searching passcode for https://yugipedia.com/wiki/MRL-068
+[2024-05-01 04:59:24] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:24] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:24] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:59:24] Passcode => Item: TYPES | Warrior / Ritual
+[2024-05-01 04:59:24] Passcode => Item: LEVEL | 6
+[2024-05-01 04:59:24] Passcode => Item: ATK  DEF | 2000 / 1850
+[2024-05-01 04:59:24] Passcode => Item: PASSWORD | 30243636
+[2024-05-01 04:59:24] Item => Setcode: MRL-068 | URL: https://yugipedia.com/wiki/MRL-068 | Name: Hungry Burger
+[2024-05-01 04:59:24] ===================================================================================================
+[2024-05-01 04:59:25] Searching passcode for https://yugipedia.com/wiki/MRL-069
+[2024-05-01 04:59:25] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:25] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:25] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:59:25] Passcode => Item: TYPES | Aqua / Ritual
+[2024-05-01 04:59:25] Passcode => Item: LEVEL | 8
+[2024-05-01 04:59:25] Passcode => Item: ATK  DEF | 2550 / 2500
+[2024-05-01 04:59:25] Passcode => Item: PASSWORD | 91782219
+[2024-05-01 04:59:25] Item => Setcode: MRL-069 | URL: https://yugipedia.com/wiki/MRL-069 | Name: Crab Turtle
+[2024-05-01 04:59:25] ===================================================================================================
+[2024-05-01 04:59:26] Searching passcode for https://yugipedia.com/wiki/MRL-070
+[2024-05-01 04:59:26] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:26] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:26] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-01 04:59:26] Passcode => Item: TYPES | Dragon / Normal
+[2024-05-01 04:59:26] Passcode => Item: LEVEL | 7
+[2024-05-01 04:59:26] Passcode => Item: ATK  DEF | 2200 / 2600
+[2024-05-01 04:59:26] Passcode => Item: PASSWORD | 02964201
+[2024-05-01 04:59:26] Item => Setcode: MRL-070 | URL: https://yugipedia.com/wiki/MRL-070 | Name: Ryu-Ran
+[2024-05-01 04:59:26] ===================================================================================================
+[2024-05-01 04:59:27] Searching passcode for https://yugipedia.com/wiki/MRL-071
+[2024-05-01 04:59:27] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:27] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:27] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-01 04:59:27] Passcode => Item: TYPES | Dragon / Toon / Effect
+[2024-05-01 04:59:27] Passcode => Item: LEVEL | 7
+[2024-05-01 04:59:27] Passcode => Item: ATK  DEF | 2200 / 2600
+[2024-05-01 04:59:27] Passcode => Item: PASSWORD | 38369349
+[2024-05-01 04:59:27] Item => Setcode: MRL-071 | URL: https://yugipedia.com/wiki/MRL-071 | Name: Manga Ryu-Ran
+[2024-05-01 04:59:27] ===================================================================================================
+[2024-05-01 04:59:28] Searching passcode for https://yugipedia.com/wiki/MRL-072
+[2024-05-01 04:59:28] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:28] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:28] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 04:59:28] Passcode => Item: TYPES | Aqua / Toon / Effect
+[2024-05-01 04:59:28] Passcode => Item: LEVEL | 4
+[2024-05-01 04:59:28] Passcode => Item: ATK  DEF | 1400 / 1500
+[2024-05-01 04:59:28] Passcode => Item: PASSWORD | 65458948
+[2024-05-01 04:59:28] Item => Setcode: MRL-072 | URL: https://yugipedia.com/wiki/MRL-072 | Name: Toon Mermaid
+[2024-05-01 04:59:28] ===================================================================================================
+[2024-05-01 04:59:29] Searching passcode for https://yugipedia.com/wiki/MRL-073
+[2024-05-01 04:59:30] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:30] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:30] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:59:30] Passcode => Item: TYPES | Fiend / Toon / Effect
+[2024-05-01 04:59:30] Passcode => Item: LEVEL | 6
+[2024-05-01 04:59:30] Passcode => Item: ATK  DEF | 2500 / 1200
+[2024-05-01 04:59:30] Passcode => Item: PASSWORD | 91842653
+[2024-05-01 04:59:30] Item => Setcode: MRL-073 | URL: https://yugipedia.com/wiki/MRL-073 | Name: Toon Summoned Skull
+[2024-05-01 04:59:30] ===================================================================================================
+[2024-05-01 04:59:31] Searching passcode for https://yugipedia.com/wiki/MRL-074
+[2024-05-01 04:59:31] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:31] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:31] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-01 04:59:31] Passcode => Item: TYPES | Pyro / Flip / Effect
+[2024-05-01 04:59:31] Passcode => Item: LEVEL | 2
+[2024-05-01 04:59:31] Passcode => Item: ATK  DEF | 200 / 1000
+[2024-05-01 04:59:31] Passcode => Item: PASSWORD | 90020065
+[2024-05-01 04:59:31] Item => Setcode: MRL-074 | URL: https://yugipedia.com/wiki/MRL-074 | Name: Jigen Bakudan
+[2024-05-01 04:59:31] ===================================================================================================
+[2024-05-01 04:59:32] Searching passcode for https://yugipedia.com/wiki/MRL-075
+[2024-05-01 04:59:32] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:32] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:32] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 04:59:32] Passcode => Item: TYPES | Dragon / Normal
+[2024-05-01 04:59:32] Passcode => Item: LEVEL | 7
+[2024-05-01 04:59:32] Passcode => Item: ATK  DEF | 2100 / 2800
+[2024-05-01 04:59:32] Passcode => Item: PASSWORD | 62397231
+[2024-05-01 04:59:32] Item => Setcode: MRL-075 | URL: https://yugipedia.com/wiki/MRL-075 | Name: Hyozanryu
+[2024-05-01 04:59:32] ===================================================================================================
+[2024-05-01 04:59:33] Searching passcode for https://yugipedia.com/wiki/MRL-076
+[2024-05-01 04:59:42] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:42] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 04:59:42] Passcode => Item: PROPERTY | Continuous
+[2024-05-01 04:59:42] Passcode => Item: PASSWORD | 15259703
+[2024-05-01 04:59:42] Item => Setcode: MRL-076 | URL: https://yugipedia.com/wiki/MRL-076 | Name: Toon World
+[2024-05-01 04:59:42] ===================================================================================================
+[2024-05-01 04:59:43] Searching passcode for https://yugipedia.com/wiki/MRL-077
+[2024-05-01 04:59:46] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:46] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:46] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:59:46] Passcode => Item: TYPES | Rock / Flip / Effect
+[2024-05-01 04:59:46] Passcode => Item: LEVEL | 3
+[2024-05-01 04:59:46] Passcode => Item: ATK  DEF | 900 / 900
+[2024-05-01 04:59:46] Passcode => Item: PASSWORD | 34124316
+[2024-05-01 04:59:46] Item => Setcode: MRL-077 | URL: https://yugipedia.com/wiki/MRL-077 | Name: Cyber Jar
+[2024-05-01 04:59:46] ===================================================================================================
+[2024-05-01 04:59:47] Searching passcode for https://yugipedia.com/wiki/MRL-078
+[2024-05-01 04:59:48] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:48] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:48] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 04:59:48] Passcode => Item: TYPES | Fairy / Effect
+[2024-05-01 04:59:48] Passcode => Item: LEVEL | 3
+[2024-05-01 04:59:48] Passcode => Item: ATK  DEF | 100 / 2000
+[2024-05-01 04:59:48] Passcode => Item: PASSWORD | 61528025
+[2024-05-01 04:59:48] Item => Setcode: MRL-078 | URL: https://yugipedia.com/wiki/MRL-078 | Name: Banisher of the Light
+[2024-05-01 04:59:48] ===================================================================================================
+[2024-05-01 04:59:49] Searching passcode for https://yugipedia.com/wiki/MRL-079
+[2024-05-01 04:59:49] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:49] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:49] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:59:49] Passcode => Item: TYPES | Beast / Effect
+[2024-05-01 04:59:49] Passcode => Item: LEVEL | 4
+[2024-05-01 04:59:49] Passcode => Item: ATK  DEF | 1400 / 1450
+[2024-05-01 04:59:49] Passcode => Item: PASSWORD | 97017120
+[2024-05-01 04:59:49] Item => Setcode: MRL-079 | URL: https://yugipedia.com/wiki/MRL-079 | Name: Giant Rat
+[2024-05-01 04:59:49] ===================================================================================================
+[2024-05-01 04:59:50] Searching passcode for https://yugipedia.com/wiki/MRL-080
+[2024-05-01 04:59:50] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:50] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:50] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 04:59:50] Passcode => Item: TYPES | Fairy / Effect
+[2024-05-01 04:59:50] Passcode => Item: LEVEL | 4
+[2024-05-01 04:59:50] Passcode => Item: ATK  DEF | 1400 / 1000
+[2024-05-01 04:59:50] Passcode => Item: PASSWORD | 23401839
+[2024-05-01 04:59:50] Item => Setcode: MRL-080 | URL: https://yugipedia.com/wiki/MRL-080 | Name: Senju of the Thousand Hands
+[2024-05-01 04:59:50] ===================================================================================================
+[2024-05-01 04:59:51] Searching passcode for https://yugipedia.com/wiki/MRL-081
+[2024-05-01 04:59:51] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:51] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:51] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-01 04:59:51] Passcode => Item: TYPES | Machine / Effect
+[2024-05-01 04:59:51] Passcode => Item: LEVEL | 4
+[2024-05-01 04:59:51] Passcode => Item: ATK  DEF | 1400 / 1200
+[2024-05-01 04:59:51] Passcode => Item: PASSWORD | 60806437
+[2024-05-01 04:59:51] Item => Setcode: MRL-081 | URL: https://yugipedia.com/wiki/MRL-081 | Name: UFO Turtle
+[2024-05-01 04:59:51] ===================================================================================================
+[2024-05-01 04:59:52] Searching passcode for https://yugipedia.com/wiki/MRL-082
+[2024-05-01 04:59:53] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:53] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:53] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:59:53] Passcode => Item: TYPES | Fiend / Effect
+[2024-05-01 04:59:53] Passcode => Item: LEVEL | 4
+[2024-05-01 04:59:53] Passcode => Item: ATK  DEF | 2000 / 2000
+[2024-05-01 04:59:53] Passcode => Item: PASSWORD | 96890582
+[2024-05-01 04:59:53] Item => Setcode: MRL-082 | URL: https://yugipedia.com/wiki/MRL-082 | Name: Flash Assailant
+[2024-05-01 04:59:53] ===================================================================================================
+[2024-05-01 04:59:54] Searching passcode for https://yugipedia.com/wiki/MRL-083
+[2024-05-01 04:59:55] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:55] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:55] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:59:55] Passcode => Item: TYPES | Warrior / Effect
+[2024-05-01 04:59:55] Passcode => Item: LEVEL | 3
+[2024-05-01 04:59:55] Passcode => Item: ATK  DEF | 1000 / 1000
+[2024-05-01 04:59:55] Passcode => Item: PASSWORD | 23289281
+[2024-05-01 04:59:55] Item => Setcode: MRL-083 | URL: https://yugipedia.com/wiki/MRL-083 | Name: Karate Man
+[2024-05-01 04:59:55] ===================================================================================================
+[2024-05-01 04:59:56] Searching passcode for https://yugipedia.com/wiki/MRL-084
+[2024-05-01 04:59:56] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:56] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:56] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:59:56] Passcode => Item: TYPES | Beast / Effect
+[2024-05-01 04:59:56] Passcode => Item: LEVEL | 4
+[2024-05-01 04:59:56] Passcode => Item: ATK  DEF | 1800 / 400
+[2024-05-01 04:59:56] Passcode => Item: PASSWORD | 59784896
+[2024-05-01 04:59:56] Item => Setcode: MRL-084 | URL: https://yugipedia.com/wiki/MRL-084 | Name: Dark Zebra
+[2024-05-01 04:59:56] ===================================================================================================
+[2024-05-01 04:59:57] Searching passcode for https://yugipedia.com/wiki/MRL-085
+[2024-05-01 04:59:57] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:57] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:57] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:59:57] Passcode => Item: TYPES | Fiend / Effect
+[2024-05-01 04:59:57] Passcode => Item: LEVEL | 2
+[2024-05-01 04:59:57] Passcode => Item: ATK  DEF | 1000 / 100
+[2024-05-01 04:59:57] Passcode => Item: PASSWORD | 95178994
+[2024-05-01 04:59:57] Item => Setcode: MRL-085 | URL: https://yugipedia.com/wiki/MRL-085 | Name: Giant Germ
+[2024-05-01 04:59:57] ===================================================================================================
+[2024-05-01 04:59:58] Searching passcode for https://yugipedia.com/wiki/MRL-086
+[2024-05-01 04:59:58] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:58] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:58] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 04:59:58] Passcode => Item: TYPES | Beast / Effect
+[2024-05-01 04:59:58] Passcode => Item: LEVEL | 2
+[2024-05-01 04:59:58] Passcode => Item: ATK  DEF | 1000 / 100
+[2024-05-01 04:59:58] Passcode => Item: PASSWORD | 22567609
+[2024-05-01 04:59:58] Item => Setcode: MRL-086 | URL: https://yugipedia.com/wiki/MRL-086 | Name: Nimble Momonga
+[2024-05-01 04:59:58] ===================================================================================================
+[2024-05-01 04:59:59] Searching passcode for https://yugipedia.com/wiki/MRL-087
+[2024-05-01 04:59:59] Passcode => Page downloaded. Parsing content
+[2024-05-01 04:59:59] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 04:59:59] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 04:59:59] Passcode => Item: TYPES | Fiend / Flip / Effect
+[2024-05-01 04:59:59] Passcode => Item: LEVEL | 2
+[2024-05-01 04:59:59] Passcode => Item: ATK  DEF | 500 / 500
+[2024-05-01 04:59:59] Passcode => Item: PASSWORD | 58551308
+[2024-05-01 04:59:59] Item => Setcode: MRL-087 | URL: https://yugipedia.com/wiki/MRL-087 | Name: Spear Cretin
+[2024-05-01 04:59:59] ===================================================================================================
+[2024-05-01 05:00:00] Searching passcode for https://yugipedia.com/wiki/MRL-088
+[2024-05-01 05:00:00] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:00] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:00] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 05:00:00] Passcode => Item: TYPES | Fairy / Effect
+[2024-05-01 05:00:00] Passcode => Item: LEVEL | 4
+[2024-05-01 05:00:00] Passcode => Item: ATK  DEF | 1400 / 800
+[2024-05-01 05:00:00] Passcode => Item: PASSWORD | 95956346
+[2024-05-01 05:00:00] Item => Setcode: MRL-088 | URL: https://yugipedia.com/wiki/MRL-088 | Name: Shining Angel
+[2024-05-01 05:00:00] ===================================================================================================
+[2024-05-01 05:00:01] Searching passcode for https://yugipedia.com/wiki/MRL-089
+[2024-05-01 05:00:04] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:04] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:04] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 05:00:04] Passcode => Item: TYPES | Beast-Warrior / Effect
+[2024-05-01 05:00:04] Passcode => Item: LEVEL | 4
+[2024-05-01 05:00:04] Passcode => Item: ATK  DEF | 2000 / 500
+[2024-05-01 05:00:04] Passcode => Item: PASSWORD | 21340051
+[2024-05-01 05:00:04] Item => Setcode: MRL-089 | URL: https://yugipedia.com/wiki/MRL-089 | Name: Boar Soldier
+[2024-05-01 05:00:04] ===================================================================================================
+[2024-05-01 05:00:05] Searching passcode for https://yugipedia.com/wiki/MRL-090
+[2024-05-01 05:00:12] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:12] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:12] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-01 05:00:12] Passcode => Item: TYPES | Beast-Warrior / Effect
+[2024-05-01 05:00:12] Passcode => Item: LEVEL | 4
+[2024-05-01 05:00:12] Passcode => Item: ATK  DEF | 1400 / 1000
+[2024-05-01 05:00:12] Passcode => Item: PASSWORD | 57839750
+[2024-05-01 05:00:12] Item => Setcode: MRL-090 | URL: https://yugipedia.com/wiki/MRL-090 | Name: Mother Grizzly
+[2024-05-01 05:00:12] ===================================================================================================
+[2024-05-01 05:00:13] Searching passcode for https://yugipedia.com/wiki/MRL-091
+[2024-05-01 05:00:13] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:13] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:13] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-01 05:00:13] Passcode => Item: TYPES | Insect / Effect
+[2024-05-01 05:00:13] Passcode => Item: LEVEL | 4
+[2024-05-01 05:00:13] Passcode => Item: ATK  DEF | 1400 / 900
+[2024-05-01 05:00:13] Passcode => Item: PASSWORD | 84834865
+[2024-05-01 05:00:13] Item => Setcode: MRL-091 | URL: https://yugipedia.com/wiki/MRL-091 | Name: Flying Kamakiri 1
+[2024-05-01 05:00:13] ===================================================================================================
+[2024-05-01 05:00:14] Searching passcode for https://yugipedia.com/wiki/MRL-092
+[2024-05-01 05:00:15] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:15] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:15] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-01 05:00:15] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-01 05:00:15] Passcode => Item: LEVEL | 3
+[2024-05-01 05:00:15] Passcode => Item: ATK  DEF | 0 / 1850
+[2024-05-01 05:00:15] Passcode => Item: PASSWORD | 20228463
+[2024-05-01 05:00:15] Item => Setcode: MRL-092 | URL: https://yugipedia.com/wiki/MRL-092 | Name: Ceremonial Bell
+[2024-05-01 05:00:15] ===================================================================================================
+[2024-05-01 05:00:16] Searching passcode for https://yugipedia.com/wiki/MRL-093
+[2024-05-01 05:00:16] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:16] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:16] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-01 05:00:16] Passcode => Item: TYPES | Winged Beast / Effect
+[2024-05-01 05:00:16] Passcode => Item: LEVEL | 4
+[2024-05-01 05:00:16] Passcode => Item: ATK  DEF | 1400 / 1000
+[2024-05-01 05:00:16] Passcode => Item: PASSWORD | 57617178
+[2024-05-01 05:00:16] Item => Setcode: MRL-093 | URL: https://yugipedia.com/wiki/MRL-093 | Name: Sonic Bird
+[2024-05-01 05:00:16] ===================================================================================================
+[2024-05-01 05:00:17] Searching passcode for https://yugipedia.com/wiki/MRL-094
+[2024-05-01 05:00:34] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:34] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:34] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 05:00:34] Passcode => Item: TYPES | Plant / Effect
+[2024-05-01 05:00:34] Passcode => Item: LEVEL | 4
+[2024-05-01 05:00:34] Passcode => Item: ATK  DEF | 1400 / 1100
+[2024-05-01 05:00:34] Passcode => Item: PASSWORD | 83011277
+[2024-05-01 05:00:34] Item => Setcode: MRL-094 | URL: https://yugipedia.com/wiki/MRL-094 | Name: Mystic Tomato
+[2024-05-01 05:00:34] ===================================================================================================
+[2024-05-01 05:00:35] Searching passcode for https://yugipedia.com/wiki/MRL-095
+[2024-05-01 05:00:35] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:35] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:35] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 05:00:35] Passcode => Item: TYPES | Fairy / Effect
+[2024-05-01 05:00:35] Passcode => Item: LEVEL | 3
+[2024-05-01 05:00:35] Passcode => Item: ATK  DEF | 0 / 1600
+[2024-05-01 05:00:35] Passcode => Item: PASSWORD | 19406822
+[2024-05-01 05:00:35] Item => Setcode: MRL-095 | URL: https://yugipedia.com/wiki/MRL-095 | Name: Kotodama
+[2024-05-01 05:00:35] ===================================================================================================
+[2024-05-01 05:00:36] Searching passcode for https://yugipedia.com/wiki/MRL-096
+[2024-05-01 05:00:36] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:36] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 05:00:36] Passcode => Item: PROPERTY | Field
+[2024-05-01 05:00:36] Passcode => Item: PASSWORD | 56594520
+[2024-05-01 05:00:36] Item => Setcode: MRL-096 | URL: https://yugipedia.com/wiki/MRL-096 | Name: Gaia Power
+[2024-05-01 05:00:36] ===================================================================================================
+[2024-05-01 05:00:37] Searching passcode for https://yugipedia.com/wiki/MRL-097
+[2024-05-01 05:00:37] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:37] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 05:00:37] Passcode => Item: PROPERTY | Field
+[2024-05-01 05:00:37] Passcode => Item: PASSWORD | 82999629
+[2024-05-01 05:00:37] Item => Setcode: MRL-097 | URL: https://yugipedia.com/wiki/MRL-097 | Name: Umiiruka
+[2024-05-01 05:00:37] ===================================================================================================
+[2024-05-01 05:00:38] Searching passcode for https://yugipedia.com/wiki/MRL-098
+[2024-05-01 05:00:38] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:38] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 05:00:38] Passcode => Item: PROPERTY | Field
+[2024-05-01 05:00:38] Passcode => Item: PASSWORD | 19384334
+[2024-05-01 05:00:38] Item => Setcode: MRL-098 | URL: https://yugipedia.com/wiki/MRL-098 | Name: Molten Destruction
+[2024-05-01 05:00:38] ===================================================================================================
+[2024-05-01 05:00:39] Searching passcode for https://yugipedia.com/wiki/MRL-099
+[2024-05-01 05:00:40] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:40] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 05:00:40] Passcode => Item: PROPERTY | Field
+[2024-05-01 05:00:40] Passcode => Item: PASSWORD | 45778932
+[2024-05-01 05:00:40] Item => Setcode: MRL-099 | URL: https://yugipedia.com/wiki/MRL-099 | Name: Rising Air Current
+[2024-05-01 05:00:40] ===================================================================================================
+[2024-05-01 05:00:41] Searching passcode for https://yugipedia.com/wiki/MRL-100
+[2024-05-01 05:00:54] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:54] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 05:00:54] Passcode => Item: PROPERTY | Field
+[2024-05-01 05:00:54] Passcode => Item: PASSWORD | 81777047
+[2024-05-01 05:00:54] Item => Setcode: MRL-100 | URL: https://yugipedia.com/wiki/MRL-100 | Name: Luminous Spark
+[2024-05-01 05:00:54] ===================================================================================================
+[2024-05-01 05:00:55] Searching passcode for https://yugipedia.com/wiki/MRL-101
+[2024-05-01 05:00:55] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:55] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 05:00:55] Passcode => Item: PROPERTY | Field
+[2024-05-01 05:00:55] Passcode => Item: PASSWORD | 18161786
+[2024-05-01 05:00:55] Item => Setcode: MRL-101 | URL: https://yugipedia.com/wiki/MRL-101 | Name: Mystic Plasma Zone
+[2024-05-01 05:00:55] ===================================================================================================
+[2024-05-01 05:00:56] Searching passcode for https://yugipedia.com/wiki/MRL-102
+[2024-05-01 05:00:56] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:56] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 05:00:56] Passcode => Item: PROPERTY | Continuous
+[2024-05-01 05:00:56] Passcode => Item: PASSWORD | 44656491
+[2024-05-01 05:00:56] Item => Setcode: MRL-102 | URL: https://yugipedia.com/wiki/MRL-102 | Name: Messenger of Peace
+[2024-05-01 05:00:56] ===================================================================================================
+[2024-05-01 05:00:57] Searching passcode for https://yugipedia.com/wiki/MRL-103
+[2024-05-01 05:00:57] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:00:57] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:00:57] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 05:00:57] Passcode => Item: TYPES | Dragon / Normal
+[2024-05-01 05:00:57] Passcode => Item: LEVEL | 7
+[2024-05-01 05:00:57] Passcode => Item: ATK  DEF | 2350 / 2400
+[2024-05-01 05:00:57] Passcode => Item: PASSWORD | 66516792
+[2024-05-01 05:00:57] Item => Setcode: MRL-103 | URL: https://yugipedia.com/wiki/MRL-103 | Name: Serpent Night Dragon
+[2024-05-01 05:00:57] ===================================================================================================
+[2024-05-01 05:00:58] Creating output json file for set 'MRL' => output/AE_MRL_.json
+[2024-05-01 05:00:58] Successfully created json file.
+[2024-05-01 05:01:13] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards_(OCG-AE)
+[2024-05-01 05:01:13] Set list page => Release date: 17 April 2003
+[2024-05-01 05:01:13] Searching passcode for https://yugipedia.com/wiki/GBI-001
+[2024-05-01 05:01:13] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:01:13] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:01:13] Passcode => Item: ATTRIBUTE | DIVINE
+[2024-05-01 05:01:13] Passcode => Item: TYPES | Divine-Beast
+[2024-05-01 05:01:13] Passcode => Item: LEVEL | 10
+[2024-05-01 05:01:13] Passcode => Item: ATK  DEF | X000 / X000
+[2024-05-01 05:01:13] Passcode => Item: PASSWORD | None
+[2024-05-01 05:01:13] Passcode => Invalid value.
+[2024-05-01 05:01:13] Item => Setcode: GBI-001 | URL: https://yugipedia.com/wiki/GBI-001 | Name: Slifer the Sky Dragon
+[2024-05-01 05:01:13] ===================================================================================================
+[2024-05-01 05:01:14] Searching passcode for https://yugipedia.com/wiki/GBI-002
+[2024-05-01 05:01:14] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:01:14] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:01:14] Passcode => Item: ATTRIBUTE | DIVINE
+[2024-05-01 05:01:14] Passcode => Item: TYPES | Divine-Beast
+[2024-05-01 05:01:14] Passcode => Item: LEVEL | 10
+[2024-05-01 05:01:14] Passcode => Item: ATK  DEF | 4000 / 4000
+[2024-05-01 05:01:14] Passcode => Item: PASSWORD | None
+[2024-05-01 05:01:14] Passcode => Invalid value.
+[2024-05-01 05:01:14] Item => Setcode: GBI-002 | URL: https://yugipedia.com/wiki/GBI-002 | Name: Obelisk the Tormentor
+[2024-05-01 05:01:14] ===================================================================================================
+[2024-05-01 05:01:15] Searching passcode for https://yugipedia.com/wiki/GBI-003
+[2024-05-01 05:01:24] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:01:24] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:01:24] Passcode => Item: ATTRIBUTE | DIVINE
+[2024-05-01 05:01:24] Passcode => Item: TYPES | Divine-Beast
+[2024-05-01 05:01:24] Passcode => Item: LEVEL | 10
+[2024-05-01 05:01:24] Passcode => Item: ATK  DEF | ???? / ????
+[2024-05-01 05:01:24] Passcode => Item: PASSWORD | None
+[2024-05-01 05:01:24] Passcode => Invalid value.
+[2024-05-01 05:01:24] Item => Setcode: GBI-003 | URL: https://yugipedia.com/wiki/GBI-003 | Name: The Winged Dragon of Ra
+[2024-05-01 05:01:24] ===================================================================================================
+[2024-05-01 05:01:25] Creating output json file for set 'GBI' => output/AE_GBI_.json
+[2024-05-01 05:01:25] Successfully created json file.
+[2024-05-01 05:01:28] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Pharaoh%27s_Servant_(OCG-AE)
+[2024-05-01 05:01:28] Set list page => Release date: 24 April 2003
+[2024-05-01 05:01:28] Searching passcode for https://yugipedia.com/wiki/PSV-000
+[2024-05-01 05:01:29] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:01:29] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:01:29] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 05:01:29] Passcode => Item: TYPES | Machine / Effect
+[2024-05-01 05:01:29] Passcode => Item: LEVEL | 6
+[2024-05-01 05:01:29] Passcode => Item: ATK  DEF | 2400 / 1500
+[2024-05-01 05:01:29] Passcode => Item: PASSWORD | 77585513
+[2024-05-01 05:01:29] Item => Setcode: PSV-000 | URL: https://yugipedia.com/wiki/PSV-000 | Name: Jinzo
+[2024-05-01 05:01:29] ===================================================================================================
+[2024-05-01 05:01:30] Searching passcode for https://yugipedia.com/wiki/PSV-001
+[2024-05-01 05:01:30] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:01:30] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:01:30] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 05:01:30] Passcode => Item: TYPES | Machine / Normal
+[2024-05-01 05:01:30] Passcode => Item: LEVEL | 6
+[2024-05-01 05:01:30] Passcode => Item: ATK  DEF | 1900 / 2200
+[2024-05-01 05:01:30] Passcode => Item: PASSWORD | 90908427
+[2024-05-01 05:01:30] Item => Setcode: PSV-001 | URL: https://yugipedia.com/wiki/PSV-001 | Name: Steel Ogre Grotto 2
+[2024-05-01 05:01:30] ===================================================================================================
+[2024-05-01 05:01:31] Searching passcode for https://yugipedia.com/wiki/PSV-002
+[2024-05-01 05:01:31] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:01:31] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:01:31] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-01 05:01:31] Passcode => Item: TYPES | Fiend / Normal
+[2024-05-01 05:01:31] Passcode => Item: LEVEL | 4
+[2024-05-01 05:01:31] Passcode => Item: ATK  DEF | 1200 / 1400
+[2024-05-01 05:01:31] Passcode => Item: PASSWORD | 78423643
+[2024-05-01 05:01:31] Item => Setcode: PSV-002 | URL: https://yugipedia.com/wiki/PSV-002 | Name: Three-Headed Geedo
+[2024-05-01 05:01:31] ===================================================================================================
+[2024-05-01 05:01:32] Searching passcode for https://yugipedia.com/wiki/PSV-003
+[2024-05-01 05:01:38] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:01:38] Passcode => Item: CARD TYPE | Monster
+[2024-05-01 05:01:38] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-01 05:01:38] Passcode => Item: TYPES | Insect / Flip / Effect
+[2024-05-01 05:01:38] Passcode => Item: LEVEL | 2
+[2024-05-01 05:01:38] Passcode => Item: ATK  DEF | 500 / 300
+[2024-05-01 05:01:38] Passcode => Item: PASSWORD | 27911549
+[2024-05-01 05:01:38] Item => Setcode: PSV-003 | URL: https://yugipedia.com/wiki/PSV-003 | Name: Parasite Paracide
+[2024-05-01 05:01:38] ===================================================================================================
+[2024-05-01 05:01:39] Searching passcode for https://yugipedia.com/wiki/PSV-004
+[2024-05-01 05:01:39] Passcode => Page downloaded. Parsing content
+[2024-05-01 05:01:40] Passcode => Item: CARD TYPE | Spell
+[2024-05-01 05:01:40] Passcode => Item: PROPERTY | Equip
+[2024-05-01 05:01:40] Passcode => Item: PASSWORD | 86198326
+[2024-05-01 05:01:40] Item => Setcode: PSV-004 | URL: https://yugipedia.com/wiki/PSV-004 | Name: 7 Completed
+[2024-05-01 05:01:40] ===================================================================================================
+[2024-05-01 05:01:41] Searching passcode for https://yugipedia.com/wiki/PSV-005
+[2024-05-01 05:01:41] Elapsed minutes: 3.9924948692321776
