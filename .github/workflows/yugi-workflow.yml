@@ -58,11 +58,17 @@ jobs:
           git fetch origin ${{ env.MAIN_BRANCH }}
           git merge origin/${{ env.MAIN_BRANCH }}
         
+      - name: Debugging files and refs (1)
+        working-directory: './${{ env.FOLDER }}'
+        run: |
+            ls -R .
+            git show-ref
+        
       - name: Clear logs
         working-directory: './${{ env.FOLDER }}'
         if: github.event.inputs.clear-logs == '1'
         run: |
-            rm -r /${{ env.FOLDER_LOGS }}
+            rm -r ${{ env.FOLDER_LOGS }}
       
       - name: Clear output setlist
         working-directory: './${{ env.FOLDER }}'
@@ -70,7 +76,7 @@ jobs:
         run: |
             rm ${{ env.FILE_SETDONE }}
       
-      - name: Debugging files and refs
+      - name: Debugging files and refs (2)
         working-directory: './${{ env.FOLDER }}'
         run: |
             ls -R .
