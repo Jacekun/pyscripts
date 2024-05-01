@@ -95,9 +95,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add ${{ env.FOLDER_OUTPUT }}/*
-          git add -f ${{ env.FILE_SETDONE }}
-          git add -f --all ${{ env.FOLDER_LOGS }}/*
+          git add --all -- ':!*.html'
           # "echo" returns true so the build succeeds, even if no changed files
           git commit -m '[skip ci] Updated output folder contents' || echo
           git push origin ${{ env.REPO_BRANCH }}
