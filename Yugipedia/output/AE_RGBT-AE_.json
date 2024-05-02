@@ -1,0 +1,738 @@
+[
+    {
+        "name": "Rockstone Warrior",
+        "passcode": 51987571,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE001",
+        "set_number": "RGBT-AE001",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Level Warrior",
+        "passcode": 97385276,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE002",
+        "set_number": "RGBT-AE002",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Strong Wind Dragon",
+        "passcode": 23770284,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE003",
+        "set_number": "RGBT-AE003",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Dark Verger",
+        "passcode": 50164989,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE004",
+        "set_number": "RGBT-AE004",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Phoenixian Seed",
+        "passcode": 96553688,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE005",
+        "set_number": "RGBT-AE005",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Phoenixian Cluster Amaryllis",
+        "passcode": 23558733,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE006",
+        "set_number": "RGBT-AE006",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Rose Tentacles",
+        "passcode": 41160533,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE007",
+        "set_number": "RGBT-AE007",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Hedge Guard",
+        "passcode": 59042331,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE008",
+        "set_number": "RGBT-AE008",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Evil Thorn",
+        "passcode": 85431040,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE009",
+        "set_number": "RGBT-AE009",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Blackwing - Blizzard the Far North",
+        "passcode": 22835145,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE010",
+        "set_number": "RGBT-AE010",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Blackwing - Shura the Blue Flame",
+        "passcode": 58820853,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE011",
+        "set_number": "RGBT-AE011",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Blackwing - Kalut the Moon Shadow",
+        "passcode": 85215458,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE012",
+        "set_number": "RGBT-AE012",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Blackwing - Elphin the Raven",
+        "passcode": 11613567,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE013",
+        "set_number": "RGBT-AE013",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Morphtronic Remoten",
+        "passcode": 57108202,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE014",
+        "set_number": "RGBT-AE014",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Morphtronic Videon",
+        "passcode": 84592800,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE015",
+        "set_number": "RGBT-AE015",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Morphtronic Scopen",
+        "passcode": 10591919,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE016",
+        "set_number": "RGBT-AE016",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Gadget Arms",
+        "passcode": 47985614,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE017",
+        "set_number": "RGBT-AE017",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Torapart",
+        "passcode": 83370323,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE018",
+        "set_number": "RGBT-AE018",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Earthbound Immortal Aslla piscu",
+        "passcode": 10875327,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE019",
+        "set_number": "RGBT-AE019",
+        "rarity": "Ultra Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Earthbound Immortal Aslla piscu",
+        "passcode": 10875327,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE019",
+        "set_number": "RGBT-AE019",
+        "rarity": "",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Earthbound Immortal Aslla piscu",
+        "passcode": 10875327,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE019",
+        "set_number": "RGBT-AE019",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Earthbound Immortal Ccapac Apu",
+        "passcode": 46263076,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE020",
+        "set_number": "RGBT-AE020",
+        "rarity": "Ultra Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Earthbound Immortal Ccapac Apu",
+        "passcode": 46263076,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE020",
+        "set_number": "RGBT-AE020",
+        "rarity": "",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Earthbound Immortal Ccapac Apu",
+        "passcode": 46263076,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE020",
+        "set_number": "RGBT-AE020",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Valafar",
+        "passcode": 72258771,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE021",
+        "set_number": "RGBT-AE021",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Powerhand",
+        "passcode": 19642889,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE022",
+        "set_number": "RGBT-AE022",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Guardian",
+        "passcode": 45041488,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE023",
+        "set_number": "RGBT-AE023",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Drago",
+        "passcode": 12435193,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE024",
+        "set_number": "RGBT-AE024",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Ice",
+        "passcode": 54520292,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE025",
+        "set_number": "RGBT-AE025",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Doom",
+        "passcode": 80925836,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE026",
+        "set_number": "RGBT-AE026",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Brain Golem",
+        "passcode": 17313545,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE027",
+        "set_number": "RGBT-AE027",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Minoan Centaur",
+        "passcode": 43708640,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE028",
+        "set_number": "RGBT-AE028",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Reinforced Human Psychic Borg",
+        "passcode": 80102359,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE029",
+        "set_number": "RGBT-AE029",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Master Gig",
+        "passcode": 16191953,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE030",
+        "set_number": "RGBT-AE030",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Emissary from Pandemonium",
+        "passcode": 42685062,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE031",
+        "set_number": "RGBT-AE031",
+        "rarity": "Normal Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Gigastone Omega",
+        "passcode": 79080761,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE032",
+        "set_number": "RGBT-AE032",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Alien Dog",
+        "passcode": 15475415,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE033",
+        "set_number": "RGBT-AE033",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Spined Gillman",
+        "passcode": 42463414,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE034",
+        "set_number": "RGBT-AE034",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Deep Sea Diva",
+        "passcode": 78868119,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE035",
+        "set_number": "RGBT-AE035",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Mermaid Archer",
+        "passcode": 4252828,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE036",
+        "set_number": "RGBT-AE036",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Lava Dragon",
+        "passcode": 41741922,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE037",
+        "set_number": "RGBT-AE037",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Vanguard of the Dragon",
+        "passcode": 77135531,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE038",
+        "set_number": "RGBT-AE038",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "G.B. Hunter",
+        "passcode": 4130270,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE039",
+        "set_number": "RGBT-AE039",
+        "rarity": "Normal Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Exploder Dragonwing",
+        "passcode": 40529384,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE040",
+        "set_number": "RGBT-AE040",
+        "rarity": "Ultra Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Exploder Dragonwing",
+        "passcode": 40529384,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE040",
+        "set_number": "RGBT-AE040",
+        "rarity": "",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Exploder Dragonwing",
+        "passcode": 40529384,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE040",
+        "set_number": "RGBT-AE040",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Blackwing Armed Wing",
+        "passcode": 76913983,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE041",
+        "set_number": "RGBT-AE041",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "rarity": "Ultra Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "rarity": "",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "rarity": "",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "rarity": "Holographic Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Trident Dragion",
+        "passcode": 39402797,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE043",
+        "set_number": "RGBT-AE043",
+        "rarity": "Ultra Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Trident Dragion",
+        "passcode": 39402797,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE043",
+        "set_number": "RGBT-AE043",
+        "rarity": "",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Trident Dragion",
+        "passcode": 39402797,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE043",
+        "set_number": "RGBT-AE043",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Sea Dragon Lord Gishilnodon",
+        "passcode": 76891401,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE044",
+        "set_number": "RGBT-AE044",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "One for One",
+        "passcode": 2295440,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE045",
+        "set_number": "RGBT-AE045",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Mind Trust",
+        "passcode": 38680149,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE046",
+        "set_number": "RGBT-AE046",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Thorn of Malice",
+        "passcode": 65079854,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE047",
+        "set_number": "RGBT-AE047",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Magic Planter",
+        "passcode": 1073952,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE048",
+        "set_number": "RGBT-AE048",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Wonder Clover",
+        "passcode": 38568567,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE049",
+        "set_number": "RGBT-AE049",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Against the Wind",
+        "passcode": 64952266,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE050",
+        "set_number": "RGBT-AE050",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Black Whirlwind",
+        "passcode": 91351370,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE051",
+        "set_number": "RGBT-AE051",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Junk Box",
+        "passcode": 37745919,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE052",
+        "set_number": "RGBT-AE052",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Double Tool C&D",
+        "passcode": 63730624,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE053",
+        "set_number": "RGBT-AE053",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Morphtronic Repair Unit",
+        "passcode": 90239723,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE054",
+        "set_number": "RGBT-AE054",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Iron Core of Koa'ki Meiru",
+        "passcode": 36623431,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE055",
+        "set_number": "RGBT-AE055",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Iron Core Immediate Disposal",
+        "passcode": 63018036,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE056",
+        "set_number": "RGBT-AE056",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Urgent Synthesis",
+        "passcode": 99002135,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE057",
+        "set_number": "RGBT-AE057",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Psychic Path",
+        "passcode": 25401880,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE058",
+        "set_number": "RGBT-AE058",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Natural Tune",
+        "passcode": 62896588,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE059",
+        "set_number": "RGBT-AE059",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Supremacy Berry",
+        "passcode": 98380593,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE060",
+        "set_number": "RGBT-AE060",
+        "rarity": "Normal Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Forbidden Chalice",
+        "passcode": 25789292,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE061",
+        "set_number": "RGBT-AE061",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Calming Magic",
+        "passcode": 51773900,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE062",
+        "set_number": "RGBT-AE062",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Miracle Locus",
+        "passcode": 97168905,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE063",
+        "set_number": "RGBT-AE063",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Crimson Fire",
+        "passcode": 24566654,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE064",
+        "set_number": "RGBT-AE064",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Tuner Capture",
+        "passcode": 50951359,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE065",
+        "set_number": "RGBT-AE065",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Overdoom Line",
+        "passcode": 87046457,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE066",
+        "set_number": "RGBT-AE066",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Wicked Rebirth",
+        "passcode": 23440062,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE067",
+        "set_number": "RGBT-AE067",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Delta Crow - Anti Reverse",
+        "passcode": 59839761,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE068",
+        "set_number": "RGBT-AE068",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Level Retuner",
+        "passcode": 86223870,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE069",
+        "set_number": "RGBT-AE069",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Fake Feather",
+        "passcode": 22628574,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE070",
+        "set_number": "RGBT-AE070",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Trap Stun",
+        "passcode": 59616123,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE071",
+        "set_number": "RGBT-AE071",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Morphtronic Bind",
+        "passcode": 85101228,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE072",
+        "set_number": "RGBT-AE072",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Reckoned Power",
+        "passcode": 11596936,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE073",
+        "set_number": "RGBT-AE073",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Automatic Laser",
+        "passcode": 58990631,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE074",
+        "set_number": "RGBT-AE074",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Attack of the Cornered Rat",
+        "passcode": 84389640,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE075",
+        "set_number": "RGBT-AE075",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Proof of Powerlessness",
+        "passcode": 11373345,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE076",
+        "set_number": "RGBT-AE076",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Bone Temple Block",
+        "passcode": 47778083,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE077",
+        "set_number": "RGBT-AE077",
+        "rarity": "Normal Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Grave of the Super Ancient Organism",
+        "passcode": 83266092,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE078",
+        "set_number": "RGBT-AE078",
+        "rarity": "Super Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Swallow Flip",
+        "passcode": 10651797,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE079",
+        "set_number": "RGBT-AE079",
+        "rarity": "Rare",
+        "date_release": "6 August 2009"
+    },
+    {
+        "name": "Mirror of Oaths",
+        "passcode": 46656406,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE080",
+        "set_number": "RGBT-AE080",
+        "rarity": "Common",
+        "date_release": "6 August 2009"
+    }
+]

@@ -1,0 +1,1132 @@
+[2024-05-02 00:51:18] Done deleting old log files.
+[2024-05-02 00:51:18] Set 'LOB' is already processed.
+[2024-05-02 00:51:18] Set 'SDK' is already processed.
+[2024-05-02 00:51:18] Set 'SDY' is already processed.
+[2024-05-02 00:51:18] Set 'MRD' is already processed.
+[2024-05-02 00:51:18] Set 'MRL' is already processed.
+[2024-05-02 00:51:18] Set 'GBI' is already processed.
+[2024-05-02 00:51:18] Set 'PSV' is already processed.
+[2024-05-02 00:51:18] Set 'LON' is already processed.
+[2024-05-02 00:51:18] Set 'WCS' is already processed.
+[2024-05-02 00:51:18] Set 'WCS' is already processed.
+[2024-05-02 00:51:18] Set 'LOD' is already processed.
+[2024-05-02 00:51:18] Set 'PGD' is already processed.
+[2024-05-02 00:51:18] Set 'MFC' is already processed.
+[2024-05-02 00:51:18] Set 'DCR' is already processed.
+[2024-05-02 00:51:18] Set 'WCS-AE4' is already processed.
+[2024-05-02 00:51:18] Set 'IOC-AE' is already processed.
+[2024-05-02 00:51:18] Set 'AST-AE' is already processed.
+[2024-05-02 00:51:18] Set 'SOD-AE' is already processed.
+[2024-05-02 00:51:18] Set 'RDS-AE' is already processed.
+[2024-05-02 00:51:18] Set 'WCS-AE5' is already processed.
+[2024-05-02 00:51:18] Set 'FET-AE' is already processed.
+[2024-05-02 00:51:18] Set 'TLM-AE' is already processed.
+[2024-05-02 00:51:18] Set 'CRV-AE' is already processed.
+[2024-05-02 00:51:18] Set 'WCPS-AE6' is already processed.
+[2024-05-02 00:51:18] Set 'EEN-AE' is already processed.
+[2024-05-02 00:51:18] Set 'SOI-AE' is already processed.
+[2024-05-02 00:51:18] Set 'EOJ-AE' is already processed.
+[2024-05-02 00:51:18] Set 'WCPS-AE7' is already processed.
+[2024-05-02 00:51:18] Set 'WCPS-AE8' is already processed.
+[2024-05-02 00:51:18] Set 'CRMS-AE' is already processed.
+[2024-05-02 00:51:18] File loaded successfully
+[2024-05-02 00:51:18] Parsing soup...
+[2024-05-02 00:51:18] Finding main body from html...
+[2024-05-02 00:51:18] Parsing setlist...
+[2024-05-02 00:51:18] Prefix: LOB is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: SDK is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: SDY is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: MRD is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: MRL is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: GBI is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: PSV is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: LON is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: WCS is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: WCS is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: LOD is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: PGD is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: MFC is skipped. Already processed.
+[2024-05-02 00:51:18] Prefix: DCR is skipped. Already processed.
+[2024-05-02 00:51:18] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2024-05-02 00:51:18] Page not found. Will skip.
+[2024-05-02 00:51:21] Prefix: WCS-AE4 is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: IOC-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: AST-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: SOD-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: RDS-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: WCS-AE5 is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: FET-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: TLM-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: CRV-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: WCPS-AE6 is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: EEN-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: SOI-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: EOJ-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: WCPS-AE7 is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: WCPS-AE8 is skipped. Already processed.
+[2024-05-02 00:51:21] Prefix: CRMS-AE is skipped. Already processed.
+[2024-05-02 00:51:21] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Structure_Deck:_Lord_of_the_Magician_(OCG-AE)
+[2024-05-02 00:51:21] Set list page => Release date: 11 June 2009
+[2024-05-02 00:51:21] Searching passcode for https://yugipedia.com/wiki/SD16-AE001
+[2024-05-02 00:51:22] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:22] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:22] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:22] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:22] Passcode => Item: LEVEL | 7
+[2024-05-02 00:51:22] Passcode => Item: ATK  DEF | 2700 / 1700
+[2024-05-02 00:51:22] Passcode => Item: PASSWORD | 40732515
+[2024-05-02 00:51:22] Item => Setcode: SD16-AE001 | URL: https://yugipedia.com/wiki/SD16-AE001 | Name: Endymion, the Master Magician
+[2024-05-02 00:51:22] ===================================================================================================
+[2024-05-02 00:51:23] Searching passcode for https://yugipedia.com/wiki/SD16-AE002
+[2024-05-02 00:51:23] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:23] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:23] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:51:23] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:23] Passcode => Item: LEVEL | 5
+[2024-05-02 00:51:23] Passcode => Item: ATK  DEF | 2000 / 2300
+[2024-05-02 00:51:23] Passcode => Item: PASSWORD | 76137614
+[2024-05-02 00:51:23] Item => Setcode: SD16-AE002 | URL: https://yugipedia.com/wiki/SD16-AE002 | Name: Disenchanter
+[2024-05-02 00:51:23] ===================================================================================================
+[2024-05-02 00:51:24] Searching passcode for https://yugipedia.com/wiki/SD16-AE003
+[2024-05-02 00:51:24] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:24] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:24] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:51:24] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:24] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:24] Passcode => Item: ATK  DEF | 1600 / 2000
+[2024-05-02 00:51:24] Passcode => Item: PASSWORD | 02525268
+[2024-05-02 00:51:24] Item => Setcode: SD16-AE003 | URL: https://yugipedia.com/wiki/SD16-AE003 | Name: Defender, the Magical Knight
+[2024-05-02 00:51:24] ===================================================================================================
+[2024-05-02 00:51:25] Searching passcode for https://yugipedia.com/wiki/SD16-AE004
+[2024-05-02 00:51:25] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:25] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:25] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:25] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:25] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:25] Passcode => Item: ATK  DEF | 1400 / 1800
+[2024-05-02 00:51:25] Passcode => Item: PASSWORD | 05640330
+[2024-05-02 00:51:25] Item => Setcode: SD16-AE004 | URL: https://yugipedia.com/wiki/SD16-AE004 | Name: Hannibal Necromancer
+[2024-05-02 00:51:25] ===================================================================================================
+[2024-05-02 00:51:26] Searching passcode for https://yugipedia.com/wiki/SD16-AE005
+[2024-05-02 00:51:26] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:26] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:26] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:51:26] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:26] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:26] Passcode => Item: ATK  DEF | 1000 / 1000
+[2024-05-02 00:51:26] Passcode => Item: PASSWORD | 73665146
+[2024-05-02 00:51:26] Item => Setcode: SD16-AE005 | URL: https://yugipedia.com/wiki/SD16-AE005 | Name: Silent Magician LV4
+[2024-05-02 00:51:26] ===================================================================================================
+[2024-05-02 00:51:27] Searching passcode for https://yugipedia.com/wiki/SD16-AE006
+[2024-05-02 00:51:27] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:27] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:27] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:51:27] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:27] Passcode => Item: LEVEL | 8
+[2024-05-02 00:51:27] Passcode => Item: ATK  DEF | 3500 / 1000
+[2024-05-02 00:51:27] Passcode => Item: PASSWORD | 72443568
+[2024-05-02 00:51:27] Item => Setcode: SD16-AE006 | URL: https://yugipedia.com/wiki/SD16-AE006 | Name: Silent Magician LV8
+[2024-05-02 00:51:27] ===================================================================================================
+[2024-05-02 00:51:28] Searching passcode for https://yugipedia.com/wiki/SD16-AE007
+[2024-05-02 00:51:33] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:33] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:33] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:33] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:33] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:33] Passcode => Item: ATK  DEF | 800 / 1600
+[2024-05-02 00:51:33] Passcode => Item: PASSWORD | 00423585
+[2024-05-02 00:51:33] Item => Setcode: SD16-AE007 | URL: https://yugipedia.com/wiki/SD16-AE007 | Name: Summoner Monk
+[2024-05-02 00:51:33] ===================================================================================================
+[2024-05-02 00:51:34] Searching passcode for https://yugipedia.com/wiki/SD16-AE008
+[2024-05-02 00:51:34] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:34] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:34] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:34] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:34] Passcode => Item: LEVEL | 6
+[2024-05-02 00:51:34] Passcode => Item: ATK  DEF | 1700 / 2200
+[2024-05-02 00:51:34] Passcode => Item: PASSWORD | 45462639
+[2024-05-02 00:51:34] Item => Setcode: SD16-AE008 | URL: https://yugipedia.com/wiki/SD16-AE008 | Name: Dark Red Enchanter
+[2024-05-02 00:51:34] ===================================================================================================
+[2024-05-02 00:51:35] Searching passcode for https://yugipedia.com/wiki/SD16-AE009
+[2024-05-02 00:51:37] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:37] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:37] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:51:37] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:37] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:37] Passcode => Item: ATK  DEF | 1700 / 1900
+[2024-05-02 00:51:37] Passcode => Item: PASSWORD | 46363422
+[2024-05-02 00:51:37] Item => Setcode: SD16-AE009 | URL: https://yugipedia.com/wiki/SD16-AE009 | Name: Skilled White Magician
+[2024-05-02 00:51:37] ===================================================================================================
+[2024-05-02 00:51:38] Searching passcode for https://yugipedia.com/wiki/SD16-AE010
+[2024-05-02 00:51:38] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:38] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:38] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:38] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:38] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:38] Passcode => Item: ATK  DEF | 1900 / 1700
+[2024-05-02 00:51:38] Passcode => Item: PASSWORD | 73752131
+[2024-05-02 00:51:38] Item => Setcode: SD16-AE010 | URL: https://yugipedia.com/wiki/SD16-AE010 | Name: Skilled Dark Magician
+[2024-05-02 00:51:38] ===================================================================================================
+[2024-05-02 00:51:39] Searching passcode for https://yugipedia.com/wiki/SD16-AE011
+[2024-05-02 00:51:42] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:42] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:42] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:42] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:42] Passcode => Item: LEVEL | 2
+[2024-05-02 00:51:42] Passcode => Item: ATK  DEF | 400 / 800
+[2024-05-02 00:51:42] Passcode => Item: PASSWORD | 09156135
+[2024-05-02 00:51:42] Item => Setcode: SD16-AE011 | URL: https://yugipedia.com/wiki/SD16-AE011 | Name: Apprentice Magician
+[2024-05-02 00:51:42] ===================================================================================================
+[2024-05-02 00:51:43] Searching passcode for https://yugipedia.com/wiki/SD16-AE012
+[2024-05-02 00:51:43] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:43] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:43] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:43] Passcode => Item: TYPES | Spellcaster / Flip / Effect
+[2024-05-02 00:51:43] Passcode => Item: LEVEL | 2
+[2024-05-02 00:51:43] Passcode => Item: ATK  DEF | 450 / 600
+[2024-05-02 00:51:43] Passcode => Item: PASSWORD | 45141844
+[2024-05-02 00:51:43] Item => Setcode: SD16-AE012 | URL: https://yugipedia.com/wiki/SD16-AE012 | Name: Old Vindictive Magician
+[2024-05-02 00:51:43] ===================================================================================================
+[2024-05-02 00:51:44] Searching passcode for https://yugipedia.com/wiki/SD16-AE013
+[2024-05-02 00:51:44] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:44] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:44] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:44] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:44] Passcode => Item: LEVEL | 5
+[2024-05-02 00:51:44] Passcode => Item: ATK  DEF | 2000 / 1000
+[2024-05-02 00:51:44] Passcode => Item: PASSWORD | 08034697
+[2024-05-02 00:51:44] Item => Setcode: SD16-AE013 | URL: https://yugipedia.com/wiki/SD16-AE013 | Name: Magical Marionette
+[2024-05-02 00:51:44] ===================================================================================================
+[2024-05-02 00:51:45] Searching passcode for https://yugipedia.com/wiki/SD16-AE014
+[2024-05-02 00:51:46] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:46] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:46] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:46] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:46] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:46] Passcode => Item: ATK  DEF | 1600 / 1000
+[2024-05-02 00:51:46] Passcode => Item: PASSWORD | 71413901
+[2024-05-02 00:51:46] Item => Setcode: SD16-AE014 | URL: https://yugipedia.com/wiki/SD16-AE014 | Name: Breaker the Magical Warrior
+[2024-05-02 00:51:46] ===================================================================================================
+[2024-05-02 00:51:47] Searching passcode for https://yugipedia.com/wiki/SD16-AE015
+[2024-05-02 00:51:47] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:47] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:47] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:51:47] Passcode => Item: TYPES | Spellcaster / Flip / Effect
+[2024-05-02 00:51:47] Passcode => Item: LEVEL | 2
+[2024-05-02 00:51:47] Passcode => Item: ATK  DEF | 500 / 200
+[2024-05-02 00:51:47] Passcode => Item: PASSWORD | 07802006
+[2024-05-02 00:51:47] Item => Setcode: SD16-AE015 | URL: https://yugipedia.com/wiki/SD16-AE015 | Name: Magical Plant Mandragola
+[2024-05-02 00:51:47] ===================================================================================================
+[2024-05-02 00:51:48] Searching passcode for https://yugipedia.com/wiki/SD16-AE016
+[2024-05-02 00:51:48] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:48] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:48] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:51:48] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:48] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:48] Passcode => Item: ATK  DEF | 0 / 2000
+[2024-05-02 00:51:48] Passcode => Item: PASSWORD | 70791313
+[2024-05-02 00:51:48] Item => Setcode: SD16-AE016 | URL: https://yugipedia.com/wiki/SD16-AE016 | Name: Royal Magical Library
+[2024-05-02 00:51:48] ===================================================================================================
+[2024-05-02 00:51:49] Searching passcode for https://yugipedia.com/wiki/SD16-AE017
+[2024-05-02 00:51:51] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:51] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:51] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 00:51:51] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:51] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:51] Passcode => Item: ATK  DEF | 1400 / 1700
+[2024-05-02 00:51:51] Passcode => Item: PASSWORD | 21051146
+[2024-05-02 00:51:51] Item => Setcode: SD16-AE017 | URL: https://yugipedia.com/wiki/SD16-AE017 | Name: Blast Magician
+[2024-05-02 00:51:51] ===================================================================================================
+[2024-05-02 00:51:52] Searching passcode for https://yugipedia.com/wiki/SD16-AE018
+[2024-05-02 00:51:52] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:52] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:52] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:51:52] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:52] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:52] Passcode => Item: ATK  DEF | 1400 / 1400
+[2024-05-02 00:51:52] Passcode => Item: PASSWORD | 55424270
+[2024-05-02 00:51:52] Item => Setcode: SD16-AE018 | URL: https://yugipedia.com/wiki/SD16-AE018 | Name: Mythical Beast Cerberus
+[2024-05-02 00:51:52] ===================================================================================================
+[2024-05-02 00:51:53] Searching passcode for https://yugipedia.com/wiki/SD16-AE019
+[2024-05-02 00:51:53] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:53] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:53] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:51:53] Passcode => Item: TYPES | Spellcaster / Effect
+[2024-05-02 00:51:53] Passcode => Item: LEVEL | 4
+[2024-05-02 00:51:53] Passcode => Item: ATK  DEF | 1700 / 600
+[2024-05-02 00:51:53] Passcode => Item: PASSWORD | 47731128
+[2024-05-02 00:51:53] Item => Setcode: SD16-AE019 | URL: https://yugipedia.com/wiki/SD16-AE019 | Name: Mei-Kou, Master of Barriers
+[2024-05-02 00:51:53] ===================================================================================================
+[2024-05-02 00:51:54] Searching passcode for https://yugipedia.com/wiki/SD16-AE020
+[2024-05-02 00:51:54] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:54] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:51:54] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-02 00:51:54] Passcode => Item: TYPES | Spellcaster / Flip / Effect
+[2024-05-02 00:51:54] Passcode => Item: LEVEL | 1
+[2024-05-02 00:51:54] Passcode => Item: ATK  DEF | 100 / 100
+[2024-05-02 00:51:54] Passcode => Item: PASSWORD | 82099401
+[2024-05-02 00:51:54] Item => Setcode: SD16-AE020 | URL: https://yugipedia.com/wiki/SD16-AE020 | Name: Crystal Seer
+[2024-05-02 00:51:54] ===================================================================================================
+[2024-05-02 00:51:55] Searching passcode for https://yugipedia.com/wiki/SD16-AE021
+[2024-05-02 00:51:55] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:55] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:51:55] Passcode => Item: PROPERTY | Field
+[2024-05-02 00:51:55] Passcode => Item: PASSWORD | 39910367
+[2024-05-02 00:51:55] Item => Setcode: SD16-AE021 | URL: https://yugipedia.com/wiki/SD16-AE021 | Name: Magical Citadel of Endymion
+[2024-05-02 00:51:55] ===================================================================================================
+[2024-05-02 00:51:56] Searching passcode for https://yugipedia.com/wiki/SD16-AE022
+[2024-05-02 00:51:56] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:56] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:51:56] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:51:56] Passcode => Item: PASSWORD | 75014062
+[2024-05-02 00:51:56] Item => Setcode: SD16-AE022 | URL: https://yugipedia.com/wiki/SD16-AE022 | Name: Spell Power Grasp
+[2024-05-02 00:51:56] ===================================================================================================
+[2024-05-02 00:51:57] Searching passcode for https://yugipedia.com/wiki/SD16-AE023
+[2024-05-02 00:51:58] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:51:58] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:51:58] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:51:58] Passcode => Item: PASSWORD | 36045450
+[2024-05-02 00:51:58] Item => Setcode: SD16-AE023 | URL: https://yugipedia.com/wiki/SD16-AE023 | Name: Magicians Unite
+[2024-05-02 00:51:58] ===================================================================================================
+[2024-05-02 00:51:59] Searching passcode for https://yugipedia.com/wiki/SD16-AE024
+[2024-05-02 00:52:00] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:00] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:00] Passcode => Item: PROPERTY | Equip
+[2024-05-02 00:52:00] Passcode => Item: PASSWORD | 47529357
+[2024-05-02 00:52:00] Item => Setcode: SD16-AE024 | URL: https://yugipedia.com/wiki/SD16-AE024 | Name: Mist Body
+[2024-05-02 00:52:00] ===================================================================================================
+[2024-05-02 00:52:01] Searching passcode for https://yugipedia.com/wiki/SD16-AE025
+[2024-05-02 00:52:01] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:01] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:01] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:52:01] Passcode => Item: PASSWORD | 42703248
+[2024-05-02 00:52:01] Item => Setcode: SD16-AE025 | URL: https://yugipedia.com/wiki/SD16-AE025 | Name: Giant Trunade
+[2024-05-02 00:52:01] ===================================================================================================
+[2024-05-02 00:52:02] Searching passcode for https://yugipedia.com/wiki/SD16-AE026
+[2024-05-02 00:52:02] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:02] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:02] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:52:02] Passcode => Item: PASSWORD | 66788016
+[2024-05-02 00:52:02] Item => Setcode: SD16-AE026 | URL: https://yugipedia.com/wiki/SD16-AE026 | Name: Fissure
+[2024-05-02 00:52:02] ===================================================================================================
+[2024-05-02 00:52:03] Searching passcode for https://yugipedia.com/wiki/SD16-AE027
+[2024-05-02 00:52:03] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:03] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:03] Passcode => Item: PROPERTY | Equip
+[2024-05-02 00:52:03] Passcode => Item: PASSWORD | 83746708
+[2024-05-02 00:52:03] Item => Setcode: SD16-AE027 | URL: https://yugipedia.com/wiki/SD16-AE027 | Name: Mage Power
+[2024-05-02 00:52:03] ===================================================================================================
+[2024-05-02 00:52:04] Searching passcode for https://yugipedia.com/wiki/SD16-AE028
+[2024-05-02 00:52:05] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:05] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:05] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:52:05] Passcode => Item: PASSWORD | 73628505
+[2024-05-02 00:52:05] Item => Setcode: SD16-AE028 | URL: https://yugipedia.com/wiki/SD16-AE028 | Name: Terraforming
+[2024-05-02 00:52:05] ===================================================================================================
+[2024-05-02 00:52:06] Searching passcode for https://yugipedia.com/wiki/SD16-AE029
+[2024-05-02 00:52:06] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:06] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:06] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:52:06] Passcode => Item: PASSWORD | 32062913
+[2024-05-02 00:52:06] Item => Setcode: SD16-AE029 | URL: https://yugipedia.com/wiki/SD16-AE029 | Name: Mega Ton Magical Cannon
+[2024-05-02 00:52:06] ===================================================================================================
+[2024-05-02 00:52:07] Searching passcode for https://yugipedia.com/wiki/SD16-AE030
+[2024-05-02 00:52:07] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:07] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:07] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:52:07] Passcode => Item: PASSWORD | 91819979
+[2024-05-02 00:52:07] Item => Setcode: SD16-AE030 | URL: https://yugipedia.com/wiki/SD16-AE030 | Name: Magical Blast
+[2024-05-02 00:52:07] ===================================================================================================
+[2024-05-02 00:52:08] Searching passcode for https://yugipedia.com/wiki/SD16-AE031
+[2024-05-02 00:52:08] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:08] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:08] Passcode => Item: PROPERTY | Quick-Play
+[2024-05-02 00:52:08] Passcode => Item: PASSWORD | 28553439
+[2024-05-02 00:52:08] Item => Setcode: SD16-AE031 | URL: https://yugipedia.com/wiki/SD16-AE031 | Name: Magical Dimension
+[2024-05-02 00:52:08] ===================================================================================================
+[2024-05-02 00:52:09] Searching passcode for https://yugipedia.com/wiki/SD16-AE032
+[2024-05-02 00:52:09] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:09] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:52:09] Passcode => Item: PROPERTY | Quick-Play
+[2024-05-02 00:52:09] Passcode => Item: PASSWORD | 45939841
+[2024-05-02 00:52:09] Item => Setcode: SD16-AE032 | URL: https://yugipedia.com/wiki/SD16-AE032 | Name: Twister
+[2024-05-02 00:52:09] ===================================================================================================
+[2024-05-02 00:52:10] Searching passcode for https://yugipedia.com/wiki/SD16-AE033
+[2024-05-02 00:52:11] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:11] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:52:11] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:52:11] Passcode => Item: PASSWORD | 00050755
+[2024-05-02 00:52:11] Item => Setcode: SD16-AE033 | URL: https://yugipedia.com/wiki/SD16-AE033 | Name: Magician's Circle
+[2024-05-02 00:52:11] ===================================================================================================
+[2024-05-02 00:52:12] Searching passcode for https://yugipedia.com/wiki/SD16-AE034
+[2024-05-02 00:52:12] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:12] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:52:12] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 00:52:12] Passcode => Item: PASSWORD | 34029630
+[2024-05-02 00:52:12] Item => Setcode: SD16-AE034 | URL: https://yugipedia.com/wiki/SD16-AE034 | Name: Pitch-Black Power Stone
+[2024-05-02 00:52:12] ===================================================================================================
+[2024-05-02 00:52:13] Searching passcode for https://yugipedia.com/wiki/SD16-AE035
+[2024-05-02 00:52:13] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:13] Passcode => Item: OTHER NAMES | Hidden Book of Spell
+[2024-05-02 00:52:13] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:52:13] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:52:13] Passcode => Item: PASSWORD | 21840375
+[2024-05-02 00:52:13] Item => Setcode: SD16-AE035 | URL: https://yugipedia.com/wiki/SD16-AE035 | Name: Hidden Book of Spell
+[2024-05-02 00:52:13] ===================================================================================================
+[2024-05-02 00:52:14] Searching passcode for https://yugipedia.com/wiki/SD16-AE036
+[2024-05-02 00:52:14] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:14] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:52:14] Passcode => Item: PROPERTY | Counter
+[2024-05-02 00:52:14] Passcode => Item: PASSWORD | 53112492
+[2024-05-02 00:52:14] Item => Setcode: SD16-AE036 | URL: https://yugipedia.com/wiki/SD16-AE036 | Name: Anti-Spell
+[2024-05-02 00:52:14] ===================================================================================================
+[2024-05-02 00:52:15] Searching passcode for https://yugipedia.com/wiki/SD16-AE037
+[2024-05-02 00:52:16] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:16] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:52:16] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 00:52:16] Passcode => Item: PASSWORD | 94256039
+[2024-05-02 00:52:16] Item => Setcode: SD16-AE037 | URL: https://yugipedia.com/wiki/SD16-AE037 | Name: Tower of Babel
+[2024-05-02 00:52:16] ===================================================================================================
+[2024-05-02 00:52:17] Searching passcode for https://yugipedia.com/wiki/SD16-AE038
+[2024-05-02 00:52:18] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:18] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:52:18] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:52:18] Passcode => Item: PASSWORD | 62279055
+[2024-05-02 00:52:18] Item => Setcode: SD16-AE038 | URL: https://yugipedia.com/wiki/SD16-AE038 | Name: Magic Cylinder
+[2024-05-02 00:52:18] ===================================================================================================
+[2024-05-02 00:52:19] Searching passcode for https://yugipedia.com/wiki/SD16-AE039
+[2024-05-02 00:52:20] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:20] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:52:20] Passcode => Item: PROPERTY | Counter
+[2024-05-02 00:52:20] Passcode => Item: PASSWORD | 50323155
+[2024-05-02 00:52:20] Item => Setcode: SD16-AE039 | URL: https://yugipedia.com/wiki/SD16-AE039 | Name: Black Horn of Heaven
+[2024-05-02 00:52:20] ===================================================================================================
+[2024-05-02 00:52:21] Creating output json file for set 'SD16-AE' => output/AE_SD16-AE_.json
+[2024-05-02 00:52:21] Successfully created json file.
+[2024-05-02 00:52:24] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Raging_Battle_(OCG-AE)
+[2024-05-02 00:52:24] Set list page => Release date: 6 August 2009
+[2024-05-02 00:52:24] Searching passcode for https://yugipedia.com/wiki/RGBT-AE001
+[2024-05-02 00:52:24] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:24] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:24] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:52:24] Passcode => Item: TYPES | Rock / Effect
+[2024-05-02 00:52:24] Passcode => Item: LEVEL | 4
+[2024-05-02 00:52:24] Passcode => Item: ATK  DEF | 1800 / 1600
+[2024-05-02 00:52:24] Passcode => Item: PASSWORD | 51987571
+[2024-05-02 00:52:24] Item => Setcode: RGBT-AE001 | URL: https://yugipedia.com/wiki/RGBT-AE001 | Name: Rockstone Warrior
+[2024-05-02 00:52:24] ===================================================================================================
+[2024-05-02 00:52:25] Searching passcode for https://yugipedia.com/wiki/RGBT-AE002
+[2024-05-02 00:52:27] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:27] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:27] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:52:27] Passcode => Item: TYPES | Warrior / Effect
+[2024-05-02 00:52:27] Passcode => Item: LEVEL | 3
+[2024-05-02 00:52:27] Passcode => Item: ATK  DEF | 300 / 600
+[2024-05-02 00:52:27] Passcode => Item: PASSWORD | 97385276
+[2024-05-02 00:52:27] Item => Setcode: RGBT-AE002 | URL: https://yugipedia.com/wiki/RGBT-AE002 | Name: Level Warrior
+[2024-05-02 00:52:27] ===================================================================================================
+[2024-05-02 00:52:28] Searching passcode for https://yugipedia.com/wiki/RGBT-AE003
+[2024-05-02 00:52:28] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:28] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:28] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-02 00:52:28] Passcode => Item: TYPES | Dragon / Effect
+[2024-05-02 00:52:28] Passcode => Item: LEVEL | 6
+[2024-05-02 00:52:28] Passcode => Item: ATK  DEF | 2400 / 1000
+[2024-05-02 00:52:28] Passcode => Item: PASSWORD | 23770284
+[2024-05-02 00:52:28] Item => Setcode: RGBT-AE003 | URL: https://yugipedia.com/wiki/RGBT-AE003 | Name: Strong Wind Dragon
+[2024-05-02 00:52:28] ===================================================================================================
+[2024-05-02 00:52:29] Searching passcode for https://yugipedia.com/wiki/RGBT-AE004
+[2024-05-02 00:52:29] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:29] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:29] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:52:29] Passcode => Item: TYPES | Plant / Effect
+[2024-05-02 00:52:29] Passcode => Item: LEVEL | 2
+[2024-05-02 00:52:29] Passcode => Item: ATK  DEF | 0 / 1000
+[2024-05-02 00:52:29] Passcode => Item: PASSWORD | 50164989
+[2024-05-02 00:52:29] Item => Setcode: RGBT-AE004 | URL: https://yugipedia.com/wiki/RGBT-AE004 | Name: Dark Verger
+[2024-05-02 00:52:29] ===================================================================================================
+[2024-05-02 00:52:30] Searching passcode for https://yugipedia.com/wiki/RGBT-AE005
+[2024-05-02 00:52:30] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:30] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:30] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 00:52:30] Passcode => Item: TYPES | Plant / Effect
+[2024-05-02 00:52:30] Passcode => Item: LEVEL | 2
+[2024-05-02 00:52:30] Passcode => Item: ATK  DEF | 800 / 0
+[2024-05-02 00:52:30] Passcode => Item: PASSWORD | 96553688
+[2024-05-02 00:52:30] Item => Setcode: RGBT-AE005 | URL: https://yugipedia.com/wiki/RGBT-AE005 | Name: Phoenixian Seed
+[2024-05-02 00:52:30] ===================================================================================================
+[2024-05-02 00:52:31] Searching passcode for https://yugipedia.com/wiki/RGBT-AE006
+[2024-05-02 00:52:32] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:32] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:32] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 00:52:32] Passcode => Item: TYPES | Plant / Effect
+[2024-05-02 00:52:32] Passcode => Item: LEVEL | 8
+[2024-05-02 00:52:32] Passcode => Item: ATK  DEF | 2200 / 0
+[2024-05-02 00:52:32] Passcode => Item: PASSWORD | 23558733
+[2024-05-02 00:52:32] Item => Setcode: RGBT-AE006 | URL: https://yugipedia.com/wiki/RGBT-AE006 | Name: Phoenixian Cluster Amaryllis
+[2024-05-02 00:52:32] ===================================================================================================
+[2024-05-02 00:52:33] Searching passcode for https://yugipedia.com/wiki/RGBT-AE007
+[2024-05-02 00:52:33] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:33] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:33] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:52:33] Passcode => Item: TYPES | Plant / Effect
+[2024-05-02 00:52:33] Passcode => Item: LEVEL | 6
+[2024-05-02 00:52:33] Passcode => Item: ATK  DEF | 2200 / 1200
+[2024-05-02 00:52:33] Passcode => Item: PASSWORD | 41160533
+[2024-05-02 00:52:33] Item => Setcode: RGBT-AE007 | URL: https://yugipedia.com/wiki/RGBT-AE007 | Name: Rose Tentacles
+[2024-05-02 00:52:33] ===================================================================================================
+[2024-05-02 00:52:34] Searching passcode for https://yugipedia.com/wiki/RGBT-AE008
+[2024-05-02 00:52:35] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:35] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:35] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:52:35] Passcode => Item: TYPES | Plant / Effect
+[2024-05-02 00:52:35] Passcode => Item: LEVEL | 3
+[2024-05-02 00:52:35] Passcode => Item: ATK  DEF | 0 / 2100
+[2024-05-02 00:52:35] Passcode => Item: PASSWORD | 59042331
+[2024-05-02 00:52:35] Item => Setcode: RGBT-AE008 | URL: https://yugipedia.com/wiki/RGBT-AE008 | Name: Hedge Guard
+[2024-05-02 00:52:35] ===================================================================================================
+[2024-05-02 00:52:36] Searching passcode for https://yugipedia.com/wiki/RGBT-AE009
+[2024-05-02 00:52:36] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:36] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:36] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:52:36] Passcode => Item: TYPES | Plant / Effect
+[2024-05-02 00:52:36] Passcode => Item: LEVEL | 1
+[2024-05-02 00:52:36] Passcode => Item: ATK  DEF | 100 / 300
+[2024-05-02 00:52:36] Passcode => Item: PASSWORD | 85431040
+[2024-05-02 00:52:36] Item => Setcode: RGBT-AE009 | URL: https://yugipedia.com/wiki/RGBT-AE009 | Name: Evil Thorn
+[2024-05-02 00:52:36] ===================================================================================================
+[2024-05-02 00:52:37] Searching passcode for https://yugipedia.com/wiki/RGBT-AE010
+[2024-05-02 00:52:37] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:37] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:37] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:52:37] Passcode => Item: TYPES | Winged Beast / Tuner / Effect
+[2024-05-02 00:52:37] Passcode => Item: LEVEL | 2
+[2024-05-02 00:52:37] Passcode => Item: ATK  DEF | 1300 / 0
+[2024-05-02 00:52:37] Passcode => Item: PASSWORD | 22835145
+[2024-05-02 00:52:37] Item => Setcode: RGBT-AE010 | URL: https://yugipedia.com/wiki/RGBT-AE010 | Name: Blackwing - Blizzard the Far North
+[2024-05-02 00:52:37] ===================================================================================================
+[2024-05-02 00:52:38] Searching passcode for https://yugipedia.com/wiki/RGBT-AE011
+[2024-05-02 00:52:38] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:38] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:38] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:52:38] Passcode => Item: TYPES | Winged Beast / Effect
+[2024-05-02 00:52:38] Passcode => Item: LEVEL | 4
+[2024-05-02 00:52:38] Passcode => Item: ATK  DEF | 1800 / 1200
+[2024-05-02 00:52:38] Passcode => Item: PASSWORD | 58820853
+[2024-05-02 00:52:38] Item => Setcode: RGBT-AE011 | URL: https://yugipedia.com/wiki/RGBT-AE011 | Name: Blackwing - Shura the Blue Flame
+[2024-05-02 00:52:38] ===================================================================================================
+[2024-05-02 00:52:39] Searching passcode for https://yugipedia.com/wiki/RGBT-AE012
+[2024-05-02 00:52:40] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:40] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:40] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:52:40] Passcode => Item: TYPES | Winged Beast / Effect
+[2024-05-02 00:52:40] Passcode => Item: LEVEL | 3
+[2024-05-02 00:52:40] Passcode => Item: ATK  DEF | 1400 / 1000
+[2024-05-02 00:52:40] Passcode => Item: PASSWORD | 85215458
+[2024-05-02 00:52:40] Item => Setcode: RGBT-AE012 | URL: https://yugipedia.com/wiki/RGBT-AE012 | Name: Blackwing - Kalut the Moon Shadow
+[2024-05-02 00:52:40] ===================================================================================================
+[2024-05-02 00:52:41] Searching passcode for https://yugipedia.com/wiki/RGBT-AE013
+[2024-05-02 00:52:41] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:41] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:41] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:52:41] Passcode => Item: TYPES | Winged Beast / Effect
+[2024-05-02 00:52:41] Passcode => Item: LEVEL | 6
+[2024-05-02 00:52:41] Passcode => Item: ATK  DEF | 2200 / 1200
+[2024-05-02 00:52:41] Passcode => Item: PASSWORD | 11613567
+[2024-05-02 00:52:41] Item => Setcode: RGBT-AE013 | URL: https://yugipedia.com/wiki/RGBT-AE013 | Name: Blackwing - Elphin the Raven
+[2024-05-02 00:52:41] ===================================================================================================
+[2024-05-02 00:52:42] Searching passcode for https://yugipedia.com/wiki/RGBT-AE014
+[2024-05-02 00:52:43] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:43] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:43] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:52:43] Passcode => Item: TYPES | Machine / Tuner / Effect
+[2024-05-02 00:52:43] Passcode => Item: LEVEL | 3
+[2024-05-02 00:52:43] Passcode => Item: ATK  DEF | 300 / 1200
+[2024-05-02 00:52:43] Passcode => Item: PASSWORD | 57108202
+[2024-05-02 00:52:43] Item => Setcode: RGBT-AE014 | URL: https://yugipedia.com/wiki/RGBT-AE014 | Name: Morphtronic Remoten
+[2024-05-02 00:52:43] ===================================================================================================
+[2024-05-02 00:52:44] Searching passcode for https://yugipedia.com/wiki/RGBT-AE015
+[2024-05-02 00:52:44] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:44] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:44] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:52:44] Passcode => Item: TYPES | Machine / Effect
+[2024-05-02 00:52:44] Passcode => Item: LEVEL | 4
+[2024-05-02 00:52:44] Passcode => Item: ATK  DEF | 1000 / 1000
+[2024-05-02 00:52:44] Passcode => Item: PASSWORD | 84592800
+[2024-05-02 00:52:44] Item => Setcode: RGBT-AE015 | URL: https://yugipedia.com/wiki/RGBT-AE015 | Name: Morphtronic Videon
+[2024-05-02 00:52:44] ===================================================================================================
+[2024-05-02 00:52:45] Searching passcode for https://yugipedia.com/wiki/RGBT-AE016
+[2024-05-02 00:52:45] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:45] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:45] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:52:45] Passcode => Item: TYPES | Machine / Tuner
+[2024-05-02 00:52:45] Passcode => Item: LEVEL | 3
+[2024-05-02 00:52:45] Passcode => Item: ATK  DEF | 800 / 1400
+[2024-05-02 00:52:45] Passcode => Item: PASSWORD | 10591919
+[2024-05-02 00:52:45] Item => Setcode: RGBT-AE016 | URL: https://yugipedia.com/wiki/RGBT-AE016 | Name: Morphtronic Scopen
+[2024-05-02 00:52:45] ===================================================================================================
+[2024-05-02 00:52:46] Searching passcode for https://yugipedia.com/wiki/RGBT-AE017
+[2024-05-02 00:52:48] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:48] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:48] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-02 00:52:48] Passcode => Item: TYPES | Machine / Effect
+[2024-05-02 00:52:48] Passcode => Item: LEVEL | 2
+[2024-05-02 00:52:48] Passcode => Item: ATK  DEF | 200 / 400
+[2024-05-02 00:52:48] Passcode => Item: PASSWORD | 47985614
+[2024-05-02 00:52:48] Item => Setcode: RGBT-AE017 | URL: https://yugipedia.com/wiki/RGBT-AE017 | Name: Gadget Arms
+[2024-05-02 00:52:48] ===================================================================================================
+[2024-05-02 00:52:49] Searching passcode for https://yugipedia.com/wiki/RGBT-AE018
+[2024-05-02 00:52:50] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:50] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:50] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:52:50] Passcode => Item: TYPES | Warrior / Tuner
+[2024-05-02 00:52:50] Passcode => Item: LEVEL | 2
+[2024-05-02 00:52:50] Passcode => Item: ATK  DEF | 600 / 600
+[2024-05-02 00:52:50] Passcode => Item: PASSWORD | 83370323
+[2024-05-02 00:52:50] Item => Setcode: RGBT-AE018 | URL: https://yugipedia.com/wiki/RGBT-AE018 | Name: Torapart
+[2024-05-02 00:52:50] ===================================================================================================
+[2024-05-02 00:52:51] Searching passcode for https://yugipedia.com/wiki/RGBT-AE019
+[2024-05-02 00:52:51] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:51] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:51] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:52:51] Passcode => Item: TYPES | Winged Beast / Effect
+[2024-05-02 00:52:51] Passcode => Item: LEVEL | 10
+[2024-05-02 00:52:51] Passcode => Item: ATK  DEF | 2500 / 2500
+[2024-05-02 00:52:51] Passcode => Item: PASSWORD | 10875327
+[2024-05-02 00:52:51] Item => Setcode: RGBT-AE019 | URL: https://yugipedia.com/wiki/RGBT-AE019 | Name: Earthbound Immortal Aslla piscu
+[2024-05-02 00:52:51] ===================================================================================================
+[2024-05-02 00:52:52] Searching passcode for https://yugipedia.com/wiki/RGBT-AE020
+[2024-05-02 00:52:54] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:54] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:54] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:52:54] Passcode => Item: TYPES | Fiend / Effect
+[2024-05-02 00:52:54] Passcode => Item: LEVEL | 10
+[2024-05-02 00:52:54] Passcode => Item: ATK  DEF | 3000 / 2500
+[2024-05-02 00:52:54] Passcode => Item: PASSWORD | 46263076
+[2024-05-02 00:52:54] Item => Setcode: RGBT-AE020 | URL: https://yugipedia.com/wiki/RGBT-AE020 | Name: Earthbound Immortal Ccapac Apu
+[2024-05-02 00:52:54] ===================================================================================================
+[2024-05-02 00:52:55] Searching passcode for https://yugipedia.com/wiki/RGBT-AE021
+[2024-05-02 00:52:55] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:55] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:55] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 00:52:55] Passcode => Item: TYPES | Fiend / Effect
+[2024-05-02 00:52:55] Passcode => Item: LEVEL | 8
+[2024-05-02 00:52:55] Passcode => Item: ATK  DEF | 3000 / 2100
+[2024-05-02 00:52:55] Passcode => Item: PASSWORD | 72258771
+[2024-05-02 00:52:55] Item => Setcode: RGBT-AE021 | URL: https://yugipedia.com/wiki/RGBT-AE021 | Name: Koa'ki Meiru Valafar
+[2024-05-02 00:52:55] ===================================================================================================
+[2024-05-02 00:52:56] Searching passcode for https://yugipedia.com/wiki/RGBT-AE022
+[2024-05-02 00:52:57] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:57] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:57] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:52:57] Passcode => Item: TYPES | Machine / Effect
+[2024-05-02 00:52:57] Passcode => Item: LEVEL | 4
+[2024-05-02 00:52:57] Passcode => Item: ATK  DEF | 2100 / 1600
+[2024-05-02 00:52:57] Passcode => Item: PASSWORD | 19642889
+[2024-05-02 00:52:57] Item => Setcode: RGBT-AE022 | URL: https://yugipedia.com/wiki/RGBT-AE022 | Name: Koa'ki Meiru Powerhand
+[2024-05-02 00:52:57] ===================================================================================================
+[2024-05-02 00:52:58] Searching passcode for https://yugipedia.com/wiki/RGBT-AE023
+[2024-05-02 00:52:58] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:52:58] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:52:58] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:52:58] Passcode => Item: TYPES | Rock / Effect
+[2024-05-02 00:52:58] Passcode => Item: LEVEL | 4
+[2024-05-02 00:52:58] Passcode => Item: ATK  DEF | 1900 / 1200
+[2024-05-02 00:52:58] Passcode => Item: PASSWORD | 45041488
+[2024-05-02 00:52:58] Item => Setcode: RGBT-AE023 | URL: https://yugipedia.com/wiki/RGBT-AE023 | Name: Koa'ki Meiru Guardian
+[2024-05-02 00:52:58] ===================================================================================================
+[2024-05-02 00:52:59] Searching passcode for https://yugipedia.com/wiki/RGBT-AE024
+[2024-05-02 00:53:01] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:01] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:01] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-02 00:53:01] Passcode => Item: TYPES | Dragon / Effect
+[2024-05-02 00:53:01] Passcode => Item: LEVEL | 4
+[2024-05-02 00:53:01] Passcode => Item: ATK  DEF | 1900 / 1600
+[2024-05-02 00:53:01] Passcode => Item: PASSWORD | 12435193
+[2024-05-02 00:53:01] Item => Setcode: RGBT-AE024 | URL: https://yugipedia.com/wiki/RGBT-AE024 | Name: Koa'ki Meiru Drago
+[2024-05-02 00:53:01] ===================================================================================================
+[2024-05-02 00:53:02] Searching passcode for https://yugipedia.com/wiki/RGBT-AE025
+[2024-05-02 00:53:02] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:02] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:02] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-02 00:53:02] Passcode => Item: TYPES | Aqua / Effect
+[2024-05-02 00:53:02] Passcode => Item: LEVEL | 4
+[2024-05-02 00:53:02] Passcode => Item: ATK  DEF | 1900 / 1200
+[2024-05-02 00:53:02] Passcode => Item: PASSWORD | 54520292
+[2024-05-02 00:53:02] Item => Setcode: RGBT-AE025 | URL: https://yugipedia.com/wiki/RGBT-AE025 | Name: Koa'ki Meiru Ice
+[2024-05-02 00:53:02] ===================================================================================================
+[2024-05-02 00:53:03] Searching passcode for https://yugipedia.com/wiki/RGBT-AE026
+[2024-05-02 00:53:03] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:03] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:03] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-02 00:53:03] Passcode => Item: TYPES | Fiend / Effect
+[2024-05-02 00:53:03] Passcode => Item: LEVEL | 3
+[2024-05-02 00:53:03] Passcode => Item: ATK  DEF | 1700 / 800
+[2024-05-02 00:53:03] Passcode => Item: PASSWORD | 80925836
+[2024-05-02 00:53:03] Item => Setcode: RGBT-AE026 | URL: https://yugipedia.com/wiki/RGBT-AE026 | Name: Koa'ki Meiru Doom
+[2024-05-02 00:53:03] ===================================================================================================
+[2024-05-02 00:53:04] Searching passcode for https://yugipedia.com/wiki/RGBT-AE027
+[2024-05-02 00:53:04] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:04] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:04] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:53:04] Passcode => Item: TYPES | Fiend / Effect
+[2024-05-02 00:53:04] Passcode => Item: LEVEL | 6
+[2024-05-02 00:53:04] Passcode => Item: ATK  DEF | 2500 / 1800
+[2024-05-02 00:53:04] Passcode => Item: PASSWORD | 17313545
+[2024-05-02 00:53:04] Item => Setcode: RGBT-AE027 | URL: https://yugipedia.com/wiki/RGBT-AE027 | Name: Brain Golem
+[2024-05-02 00:53:04] ===================================================================================================
+[2024-05-02 00:53:05] Searching passcode for https://yugipedia.com/wiki/RGBT-AE028
+[2024-05-02 00:53:06] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:06] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:06] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:53:06] Passcode => Item: TYPES | Beast-Warrior / Effect
+[2024-05-02 00:53:06] Passcode => Item: LEVEL | 6
+[2024-05-02 00:53:06] Passcode => Item: ATK  DEF | 1800 / 1000
+[2024-05-02 00:53:06] Passcode => Item: PASSWORD | 43708640
+[2024-05-02 00:53:06] Item => Setcode: RGBT-AE028 | URL: https://yugipedia.com/wiki/RGBT-AE028 | Name: Minoan Centaur
+[2024-05-02 00:53:06] ===================================================================================================
+[2024-05-02 00:53:07] Searching passcode for https://yugipedia.com/wiki/RGBT-AE029
+[2024-05-02 00:53:07] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:07] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:07] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:53:07] Passcode => Item: TYPES | Psychic / Effect
+[2024-05-02 00:53:07] Passcode => Item: LEVEL | 4
+[2024-05-02 00:53:07] Passcode => Item: ATK  DEF | 1500 / 800
+[2024-05-02 00:53:07] Passcode => Item: PASSWORD | 80102359
+[2024-05-02 00:53:07] Item => Setcode: RGBT-AE029 | URL: https://yugipedia.com/wiki/RGBT-AE029 | Name: Reinforced Human Psychic Borg
+[2024-05-02 00:53:07] ===================================================================================================
+[2024-05-02 00:53:08] Searching passcode for https://yugipedia.com/wiki/RGBT-AE030
+[2024-05-02 00:53:08] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:08] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:08] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:53:08] Passcode => Item: TYPES | Psychic / Effect
+[2024-05-02 00:53:08] Passcode => Item: LEVEL | 8
+[2024-05-02 00:53:08] Passcode => Item: ATK  DEF | 2600 / 1400
+[2024-05-02 00:53:08] Passcode => Item: PASSWORD | 16191953
+[2024-05-02 00:53:08] Item => Setcode: RGBT-AE030 | URL: https://yugipedia.com/wiki/RGBT-AE030 | Name: Master Gig
+[2024-05-02 00:53:08] ===================================================================================================
+[2024-05-02 00:53:09] Searching passcode for https://yugipedia.com/wiki/RGBT-AE031
+[2024-05-02 00:53:10] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:10] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:10] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:53:10] Passcode => Item: TYPES | Fiend / Tuner
+[2024-05-02 00:53:10] Passcode => Item: LEVEL | 7
+[2024-05-02 00:53:10] Passcode => Item: ATK  DEF | 2600 / 1800
+[2024-05-02 00:53:10] Passcode => Item: PASSWORD | 42685062
+[2024-05-02 00:53:10] Item => Setcode: RGBT-AE031 | URL: https://yugipedia.com/wiki/RGBT-AE031 | Name: Emissary from Pandemonium
+[2024-05-02 00:53:10] ===================================================================================================
+[2024-05-02 00:53:11] Searching passcode for https://yugipedia.com/wiki/RGBT-AE032
+[2024-05-02 00:53:11] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:11] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:11] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:53:11] Passcode => Item: TYPES | Rock / Effect
+[2024-05-02 00:53:11] Passcode => Item: LEVEL | 5
+[2024-05-02 00:53:11] Passcode => Item: ATK  DEF | 1000 / 2300
+[2024-05-02 00:53:11] Passcode => Item: PASSWORD | 79080761
+[2024-05-02 00:53:11] Item => Setcode: RGBT-AE032 | URL: https://yugipedia.com/wiki/RGBT-AE032 | Name: Gigastone Omega
+[2024-05-02 00:53:11] ===================================================================================================
+[2024-05-02 00:53:12] Searching passcode for https://yugipedia.com/wiki/RGBT-AE033
+[2024-05-02 00:53:13] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:13] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:13] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:53:13] Passcode => Item: TYPES | Reptile / Effect
+[2024-05-02 00:53:13] Passcode => Item: LEVEL | 3
+[2024-05-02 00:53:13] Passcode => Item: ATK  DEF | 1500 / 1000
+[2024-05-02 00:53:13] Passcode => Item: PASSWORD | 15475415
+[2024-05-02 00:53:13] Item => Setcode: RGBT-AE033 | URL: https://yugipedia.com/wiki/RGBT-AE033 | Name: Alien Dog
+[2024-05-02 00:53:13] ===================================================================================================
+[2024-05-02 00:53:14] Searching passcode for https://yugipedia.com/wiki/RGBT-AE034
+[2024-05-02 00:53:14] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:14] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:14] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-02 00:53:14] Passcode => Item: TYPES | Sea Serpent / Effect
+[2024-05-02 00:53:14] Passcode => Item: LEVEL | 3
+[2024-05-02 00:53:14] Passcode => Item: ATK  DEF | 1300 / 0
+[2024-05-02 00:53:14] Passcode => Item: PASSWORD | 42463414
+[2024-05-02 00:53:14] Item => Setcode: RGBT-AE034 | URL: https://yugipedia.com/wiki/RGBT-AE034 | Name: Spined Gillman
+[2024-05-02 00:53:14] ===================================================================================================
+[2024-05-02 00:53:15] Searching passcode for https://yugipedia.com/wiki/RGBT-AE035
+[2024-05-02 00:53:15] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:15] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:15] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-02 00:53:15] Passcode => Item: TYPES | Sea Serpent / Tuner / Effect
+[2024-05-02 00:53:15] Passcode => Item: LEVEL | 2
+[2024-05-02 00:53:15] Passcode => Item: ATK  DEF | 200 / 400
+[2024-05-02 00:53:15] Passcode => Item: PASSWORD | 78868119
+[2024-05-02 00:53:15] Item => Setcode: RGBT-AE035 | URL: https://yugipedia.com/wiki/RGBT-AE035 | Name: Deep Sea Diva
+[2024-05-02 00:53:15] ===================================================================================================
+[2024-05-02 00:53:16] Searching passcode for https://yugipedia.com/wiki/RGBT-AE036
+[2024-05-02 00:53:16] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:16] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:16] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-02 00:53:16] Passcode => Item: TYPES | Sea Serpent / Effect
+[2024-05-02 00:53:16] Passcode => Item: LEVEL | 3
+[2024-05-02 00:53:16] Passcode => Item: ATK  DEF | 1200 / 200
+[2024-05-02 00:53:16] Passcode => Item: PASSWORD | 04252828
+[2024-05-02 00:53:16] Item => Setcode: RGBT-AE036 | URL: https://yugipedia.com/wiki/RGBT-AE036 | Name: Mermaid Archer
+[2024-05-02 00:53:16] ===================================================================================================
+[2024-05-02 00:53:17] Searching passcode for https://yugipedia.com/wiki/RGBT-AE037
+[2024-05-02 00:53:17] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:17] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:17] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 00:53:17] Passcode => Item: TYPES | Dragon / Effect
+[2024-05-02 00:53:17] Passcode => Item: LEVEL | 4
+[2024-05-02 00:53:17] Passcode => Item: ATK  DEF | 1600 / 1200
+[2024-05-02 00:53:17] Passcode => Item: PASSWORD | 41741922
+[2024-05-02 00:53:17] Item => Setcode: RGBT-AE037 | URL: https://yugipedia.com/wiki/RGBT-AE037 | Name: Lava Dragon
+[2024-05-02 00:53:17] ===================================================================================================
+[2024-05-02 00:53:18] Searching passcode for https://yugipedia.com/wiki/RGBT-AE038
+[2024-05-02 00:53:20] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:20] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:20] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:53:20] Passcode => Item: TYPES | Dragon / Effect
+[2024-05-02 00:53:20] Passcode => Item: LEVEL | 4
+[2024-05-02 00:53:20] Passcode => Item: ATK  DEF | 1700 / 1300
+[2024-05-02 00:53:20] Passcode => Item: PASSWORD | 77135531
+[2024-05-02 00:53:20] Item => Setcode: RGBT-AE038 | URL: https://yugipedia.com/wiki/RGBT-AE038 | Name: Vanguard of the Dragon
+[2024-05-02 00:53:20] ===================================================================================================
+[2024-05-02 00:53:21] Searching passcode for https://yugipedia.com/wiki/RGBT-AE039
+[2024-05-02 00:53:22] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:22] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:22] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:53:22] Passcode => Item: TYPES | Warrior / Effect
+[2024-05-02 00:53:22] Passcode => Item: LEVEL | 4
+[2024-05-02 00:53:22] Passcode => Item: ATK  DEF | 1200 / 2000
+[2024-05-02 00:53:22] Passcode => Item: PASSWORD | 04130270
+[2024-05-02 00:53:22] Item => Setcode: RGBT-AE039 | URL: https://yugipedia.com/wiki/RGBT-AE039 | Name: G.B. Hunter
+[2024-05-02 00:53:22] ===================================================================================================
+[2024-05-02 00:53:23] Searching passcode for https://yugipedia.com/wiki/RGBT-AE040
+[2024-05-02 00:53:24] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:24] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:24] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:53:24] Passcode => Item: TYPES | Dragon / Synchro / Effect
+[2024-05-02 00:53:24] Passcode => Item: LEVEL | 7
+[2024-05-02 00:53:24] Passcode => Item: ATK  DEF | 2400 / 1600
+[2024-05-02 00:53:24] Passcode => Item: PASSWORD | 40529384
+[2024-05-02 00:53:24] Item => Setcode: RGBT-AE040 | URL: https://yugipedia.com/wiki/RGBT-AE040 | Name: Exploder Dragonwing
+[2024-05-02 00:53:24] ===================================================================================================
+[2024-05-02 00:53:25] Searching passcode for https://yugipedia.com/wiki/RGBT-AE041
+[2024-05-02 00:53:27] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:27] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:27] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 00:53:27] Passcode => Item: TYPES | Winged Beast / Synchro / Effect
+[2024-05-02 00:53:27] Passcode => Item: LEVEL | 6
+[2024-05-02 00:53:27] Passcode => Item: ATK  DEF | 2300 / 1000
+[2024-05-02 00:53:27] Passcode => Item: PASSWORD | 76913983
+[2024-05-02 00:53:27] Item => Setcode: RGBT-AE041 | URL: https://yugipedia.com/wiki/RGBT-AE041 | Name: Blackwing Armed Wing
+[2024-05-02 00:53:27] ===================================================================================================
+[2024-05-02 00:53:28] Searching passcode for https://yugipedia.com/wiki/RGBT-AE042
+[2024-05-02 00:53:30] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:30] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:30] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 00:53:30] Passcode => Item: TYPES | Machine / Synchro / Effect
+[2024-05-02 00:53:30] Passcode => Item: LEVEL | 7
+[2024-05-02 00:53:30] Passcode => Item: ATK  DEF | 2300 / 2500
+[2024-05-02 00:53:30] Passcode => Item: PASSWORD | 02403771
+[2024-05-02 00:53:30] Item => Setcode: RGBT-AE042 | URL: https://yugipedia.com/wiki/RGBT-AE042 | Name: Power Tool Dragon
+[2024-05-02 00:53:30] ===================================================================================================
+[2024-05-02 00:53:31] Searching passcode for https://yugipedia.com/wiki/RGBT-AE043
+[2024-05-02 00:53:31] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:31] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:31] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 00:53:31] Passcode => Item: TYPES | Dragon / Synchro / Effect
+[2024-05-02 00:53:31] Passcode => Item: LEVEL | 10
+[2024-05-02 00:53:31] Passcode => Item: ATK  DEF | 3000 / 2800
+[2024-05-02 00:53:31] Passcode => Item: PASSWORD | 39402797
+[2024-05-02 00:53:31] Item => Setcode: RGBT-AE043 | URL: https://yugipedia.com/wiki/RGBT-AE043 | Name: Trident Dragion
+[2024-05-02 00:53:31] ===================================================================================================
+[2024-05-02 00:53:32] Searching passcode for https://yugipedia.com/wiki/RGBT-AE044
+[2024-05-02 00:53:33] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:33] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:53:33] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-02 00:53:33] Passcode => Item: TYPES | Sea Serpent / Synchro / Effect
+[2024-05-02 00:53:33] Passcode => Item: LEVEL | 5
+[2024-05-02 00:53:33] Passcode => Item: ATK  DEF | 2300 / 1800
+[2024-05-02 00:53:33] Passcode => Item: PASSWORD | 76891401
+[2024-05-02 00:53:33] Item => Setcode: RGBT-AE044 | URL: https://yugipedia.com/wiki/RGBT-AE044 | Name: Sea Dragon Lord Gishilnodon
+[2024-05-02 00:53:33] ===================================================================================================
+[2024-05-02 00:53:34] Searching passcode for https://yugipedia.com/wiki/RGBT-AE045
+[2024-05-02 00:53:34] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:34] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:34] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:34] Passcode => Item: PASSWORD | 02295440
+[2024-05-02 00:53:34] Item => Setcode: RGBT-AE045 | URL: https://yugipedia.com/wiki/RGBT-AE045 | Name: One for One
+[2024-05-02 00:53:34] ===================================================================================================
+[2024-05-02 00:53:35] Searching passcode for https://yugipedia.com/wiki/RGBT-AE046
+[2024-05-02 00:53:35] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:35] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:35] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:35] Passcode => Item: PASSWORD | 38680149
+[2024-05-02 00:53:35] Item => Setcode: RGBT-AE046 | URL: https://yugipedia.com/wiki/RGBT-AE046 | Name: Mind Trust
+[2024-05-02 00:53:35] ===================================================================================================
+[2024-05-02 00:53:36] Searching passcode for https://yugipedia.com/wiki/RGBT-AE047
+[2024-05-02 00:53:36] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:36] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:36] Passcode => Item: PROPERTY | Equip
+[2024-05-02 00:53:36] Passcode => Item: PASSWORD | 65079854
+[2024-05-02 00:53:36] Item => Setcode: RGBT-AE047 | URL: https://yugipedia.com/wiki/RGBT-AE047 | Name: Thorn of Malice
+[2024-05-02 00:53:36] ===================================================================================================
+[2024-05-02 00:53:37] Searching passcode for https://yugipedia.com/wiki/RGBT-AE048
+[2024-05-02 00:53:37] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:37] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:37] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:37] Passcode => Item: PASSWORD | 01073952
+[2024-05-02 00:53:37] Item => Setcode: RGBT-AE048 | URL: https://yugipedia.com/wiki/RGBT-AE048 | Name: Magic Planter
+[2024-05-02 00:53:37] ===================================================================================================
+[2024-05-02 00:53:38] Searching passcode for https://yugipedia.com/wiki/RGBT-AE049
+[2024-05-02 00:53:39] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:39] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:39] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:39] Passcode => Item: PASSWORD | 38568567
+[2024-05-02 00:53:39] Item => Setcode: RGBT-AE049 | URL: https://yugipedia.com/wiki/RGBT-AE049 | Name: Wonder Clover
+[2024-05-02 00:53:39] ===================================================================================================
+[2024-05-02 00:53:40] Searching passcode for https://yugipedia.com/wiki/RGBT-AE050
+[2024-05-02 00:53:40] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:40] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:40] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:40] Passcode => Item: PASSWORD | 64952266
+[2024-05-02 00:53:40] Item => Setcode: RGBT-AE050 | URL: https://yugipedia.com/wiki/RGBT-AE050 | Name: Against the Wind
+[2024-05-02 00:53:40] ===================================================================================================
+[2024-05-02 00:53:41] Searching passcode for https://yugipedia.com/wiki/RGBT-AE051
+[2024-05-02 00:53:41] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:42] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:42] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 00:53:42] Passcode => Item: PASSWORD | 91351370
+[2024-05-02 00:53:42] Item => Setcode: RGBT-AE051 | URL: https://yugipedia.com/wiki/RGBT-AE051 | Name: Black Whirlwind
+[2024-05-02 00:53:42] ===================================================================================================
+[2024-05-02 00:53:43] Searching passcode for https://yugipedia.com/wiki/RGBT-AE052
+[2024-05-02 00:53:43] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:43] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:43] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:43] Passcode => Item: PASSWORD | 37745919
+[2024-05-02 00:53:43] Item => Setcode: RGBT-AE052 | URL: https://yugipedia.com/wiki/RGBT-AE052 | Name: Junk Box
+[2024-05-02 00:53:43] ===================================================================================================
+[2024-05-02 00:53:44] Searching passcode for https://yugipedia.com/wiki/RGBT-AE053
+[2024-05-02 00:53:45] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:45] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:45] Passcode => Item: PROPERTY | Equip
+[2024-05-02 00:53:45] Passcode => Item: PASSWORD | 63730624
+[2024-05-02 00:53:45] Item => Setcode: RGBT-AE053 | URL: https://yugipedia.com/wiki/RGBT-AE053 | Name: Double Tool C&D
+[2024-05-02 00:53:45] ===================================================================================================
+[2024-05-02 00:53:46] Searching passcode for https://yugipedia.com/wiki/RGBT-AE054
+[2024-05-02 00:53:46] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:46] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:46] Passcode => Item: PROPERTY | Equip
+[2024-05-02 00:53:46] Passcode => Item: PASSWORD | 90239723
+[2024-05-02 00:53:46] Item => Setcode: RGBT-AE054 | URL: https://yugipedia.com/wiki/RGBT-AE054 | Name: Morphtronic Repair Unit
+[2024-05-02 00:53:46] ===================================================================================================
+[2024-05-02 00:53:47] Searching passcode for https://yugipedia.com/wiki/RGBT-AE055
+[2024-05-02 00:53:47] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:47] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:47] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:47] Passcode => Item: PASSWORD | 36623431
+[2024-05-02 00:53:47] Item => Setcode: RGBT-AE055 | URL: https://yugipedia.com/wiki/RGBT-AE055 | Name: Iron Core of Koa'ki Meiru
+[2024-05-02 00:53:47] ===================================================================================================
+[2024-05-02 00:53:48] Searching passcode for https://yugipedia.com/wiki/RGBT-AE056
+[2024-05-02 00:53:49] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:49] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:49] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:49] Passcode => Item: PASSWORD | 63018036
+[2024-05-02 00:53:49] Item => Setcode: RGBT-AE056 | URL: https://yugipedia.com/wiki/RGBT-AE056 | Name: Iron Core Immediate Disposal
+[2024-05-02 00:53:49] ===================================================================================================
+[2024-05-02 00:53:50] Searching passcode for https://yugipedia.com/wiki/RGBT-AE057
+[2024-05-02 00:53:50] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:50] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:50] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:50] Passcode => Item: PASSWORD | 99002135
+[2024-05-02 00:53:50] Item => Setcode: RGBT-AE057 | URL: https://yugipedia.com/wiki/RGBT-AE057 | Name: Urgent Synthesis
+[2024-05-02 00:53:50] ===================================================================================================
+[2024-05-02 00:53:51] Searching passcode for https://yugipedia.com/wiki/RGBT-AE058
+[2024-05-02 00:53:51] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:51] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:51] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:51] Passcode => Item: PASSWORD | 25401880
+[2024-05-02 00:53:51] Item => Setcode: RGBT-AE058 | URL: https://yugipedia.com/wiki/RGBT-AE058 | Name: Psychic Path
+[2024-05-02 00:53:51] ===================================================================================================
+[2024-05-02 00:53:52] Searching passcode for https://yugipedia.com/wiki/RGBT-AE059
+[2024-05-02 00:53:53] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:53] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:53] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:53] Passcode => Item: PASSWORD | 62896588
+[2024-05-02 00:53:53] Item => Setcode: RGBT-AE059 | URL: https://yugipedia.com/wiki/RGBT-AE059 | Name: Natural Tune
+[2024-05-02 00:53:53] ===================================================================================================
+[2024-05-02 00:53:54] Searching passcode for https://yugipedia.com/wiki/RGBT-AE060
+[2024-05-02 00:53:55] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:55] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:55] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:55] Passcode => Item: PASSWORD | 98380593
+[2024-05-02 00:53:55] Item => Setcode: RGBT-AE060 | URL: https://yugipedia.com/wiki/RGBT-AE060 | Name: Supremacy Berry
+[2024-05-02 00:53:55] ===================================================================================================
+[2024-05-02 00:53:56] Searching passcode for https://yugipedia.com/wiki/RGBT-AE061
+[2024-05-02 00:53:56] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:56] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:56] Passcode => Item: PROPERTY | Quick-Play
+[2024-05-02 00:53:56] Passcode => Item: PASSWORD | 25789292
+[2024-05-02 00:53:56] Item => Setcode: RGBT-AE061 | URL: https://yugipedia.com/wiki/RGBT-AE061 | Name: Forbidden Chalice
+[2024-05-02 00:53:56] ===================================================================================================
+[2024-05-02 00:53:57] Searching passcode for https://yugipedia.com/wiki/RGBT-AE062
+[2024-05-02 00:53:57] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:57] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 00:53:57] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:57] Passcode => Item: PASSWORD | 51773900
+[2024-05-02 00:53:57] Item => Setcode: RGBT-AE062 | URL: https://yugipedia.com/wiki/RGBT-AE062 | Name: Calming Magic
+[2024-05-02 00:53:57] ===================================================================================================
+[2024-05-02 00:53:58] Searching passcode for https://yugipedia.com/wiki/RGBT-AE063
+[2024-05-02 00:53:59] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:53:59] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:53:59] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:53:59] Passcode => Item: PASSWORD | 97168905
+[2024-05-02 00:53:59] Item => Setcode: RGBT-AE063 | URL: https://yugipedia.com/wiki/RGBT-AE063 | Name: Miracle Locus
+[2024-05-02 00:53:59] ===================================================================================================
+[2024-05-02 00:54:00] Searching passcode for https://yugipedia.com/wiki/RGBT-AE064
+[2024-05-02 00:54:00] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:00] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:00] Passcode => Item: PROPERTY | Counter
+[2024-05-02 00:54:00] Passcode => Item: PASSWORD | 24566654
+[2024-05-02 00:54:00] Item => Setcode: RGBT-AE064 | URL: https://yugipedia.com/wiki/RGBT-AE064 | Name: Crimson Fire
+[2024-05-02 00:54:00] ===================================================================================================
+[2024-05-02 00:54:01] Searching passcode for https://yugipedia.com/wiki/RGBT-AE065
+[2024-05-02 00:54:01] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:01] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:01] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:01] Passcode => Item: PASSWORD | 50951359
+[2024-05-02 00:54:01] Item => Setcode: RGBT-AE065 | URL: https://yugipedia.com/wiki/RGBT-AE065 | Name: Tuner Capture
+[2024-05-02 00:54:01] ===================================================================================================
+[2024-05-02 00:54:02] Searching passcode for https://yugipedia.com/wiki/RGBT-AE066
+[2024-05-02 00:54:03] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:03] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:03] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 00:54:03] Passcode => Item: PASSWORD | 87046457
+[2024-05-02 00:54:03] Item => Setcode: RGBT-AE066 | URL: https://yugipedia.com/wiki/RGBT-AE066 | Name: Overdoom Line
+[2024-05-02 00:54:03] ===================================================================================================
+[2024-05-02 00:54:04] Searching passcode for https://yugipedia.com/wiki/RGBT-AE067
+[2024-05-02 00:54:05] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:05] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:05] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 00:54:05] Passcode => Item: PASSWORD | 23440062
+[2024-05-02 00:54:05] Item => Setcode: RGBT-AE067 | URL: https://yugipedia.com/wiki/RGBT-AE067 | Name: Wicked Rebirth
+[2024-05-02 00:54:05] ===================================================================================================
+[2024-05-02 00:54:06] Searching passcode for https://yugipedia.com/wiki/RGBT-AE068
+[2024-05-02 00:54:07] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:07] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:07] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:07] Passcode => Item: PASSWORD | 59839761
+[2024-05-02 00:54:07] Item => Setcode: RGBT-AE068 | URL: https://yugipedia.com/wiki/RGBT-AE068 | Name: Delta Crow - Anti Reverse
+[2024-05-02 00:54:07] ===================================================================================================
+[2024-05-02 00:54:08] Searching passcode for https://yugipedia.com/wiki/RGBT-AE069
+[2024-05-02 00:54:08] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:08] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:08] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:08] Passcode => Item: PASSWORD | 86223870
+[2024-05-02 00:54:08] Item => Setcode: RGBT-AE069 | URL: https://yugipedia.com/wiki/RGBT-AE069 | Name: Level Retuner
+[2024-05-02 00:54:08] ===================================================================================================
+[2024-05-02 00:54:09] Searching passcode for https://yugipedia.com/wiki/RGBT-AE070
+[2024-05-02 00:54:10] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:11] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:11] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:11] Passcode => Item: PASSWORD | 22628574
+[2024-05-02 00:54:11] Item => Setcode: RGBT-AE070 | URL: https://yugipedia.com/wiki/RGBT-AE070 | Name: Fake Feather
+[2024-05-02 00:54:11] ===================================================================================================
+[2024-05-02 00:54:12] Searching passcode for https://yugipedia.com/wiki/RGBT-AE071
+[2024-05-02 00:54:12] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:12] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:12] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:12] Passcode => Item: PASSWORD | 59616123
+[2024-05-02 00:54:12] Item => Setcode: RGBT-AE071 | URL: https://yugipedia.com/wiki/RGBT-AE071 | Name: Trap Stun
+[2024-05-02 00:54:12] ===================================================================================================
+[2024-05-02 00:54:13] Searching passcode for https://yugipedia.com/wiki/RGBT-AE072
+[2024-05-02 00:54:13] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:13] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:13] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 00:54:13] Passcode => Item: PASSWORD | 85101228
+[2024-05-02 00:54:13] Item => Setcode: RGBT-AE072 | URL: https://yugipedia.com/wiki/RGBT-AE072 | Name: Morphtronic Bind
+[2024-05-02 00:54:13] ===================================================================================================
+[2024-05-02 00:54:14] Searching passcode for https://yugipedia.com/wiki/RGBT-AE073
+[2024-05-02 00:54:15] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:15] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:15] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:15] Passcode => Item: PASSWORD | 11596936
+[2024-05-02 00:54:15] Item => Setcode: RGBT-AE073 | URL: https://yugipedia.com/wiki/RGBT-AE073 | Name: Reckoned Power
+[2024-05-02 00:54:15] ===================================================================================================
+[2024-05-02 00:54:16] Searching passcode for https://yugipedia.com/wiki/RGBT-AE074
+[2024-05-02 00:54:16] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:16] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:16] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:16] Passcode => Item: PASSWORD | 58990631
+[2024-05-02 00:54:16] Item => Setcode: RGBT-AE074 | URL: https://yugipedia.com/wiki/RGBT-AE074 | Name: Automatic Laser
+[2024-05-02 00:54:16] ===================================================================================================
+[2024-05-02 00:54:17] Searching passcode for https://yugipedia.com/wiki/RGBT-AE075
+[2024-05-02 00:54:18] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:18] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:18] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 00:54:18] Passcode => Item: PASSWORD | 84389640
+[2024-05-02 00:54:18] Item => Setcode: RGBT-AE075 | URL: https://yugipedia.com/wiki/RGBT-AE075 | Name: Attack of the Cornered Rat
+[2024-05-02 00:54:18] ===================================================================================================
+[2024-05-02 00:54:19] Searching passcode for https://yugipedia.com/wiki/RGBT-AE076
+[2024-05-02 00:54:19] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:19] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:19] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:19] Passcode => Item: PASSWORD | 11373345
+[2024-05-02 00:54:19] Item => Setcode: RGBT-AE076 | URL: https://yugipedia.com/wiki/RGBT-AE076 | Name: Proof of Powerlessness
+[2024-05-02 00:54:19] ===================================================================================================
+[2024-05-02 00:54:20] Searching passcode for https://yugipedia.com/wiki/RGBT-AE077
+[2024-05-02 00:54:20] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:20] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:20] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:20] Passcode => Item: PASSWORD | 47778083
+[2024-05-02 00:54:20] Item => Setcode: RGBT-AE077 | URL: https://yugipedia.com/wiki/RGBT-AE077 | Name: Bone Temple Block
+[2024-05-02 00:54:20] ===================================================================================================
+[2024-05-02 00:54:21] Searching passcode for https://yugipedia.com/wiki/RGBT-AE078
+[2024-05-02 00:54:23] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:23] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:23] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 00:54:23] Passcode => Item: PASSWORD | 83266092
+[2024-05-02 00:54:23] Item => Setcode: RGBT-AE078 | URL: https://yugipedia.com/wiki/RGBT-AE078 | Name: Grave of the Super Ancient Organism
+[2024-05-02 00:54:23] ===================================================================================================
+[2024-05-02 00:54:24] Searching passcode for https://yugipedia.com/wiki/RGBT-AE079
+[2024-05-02 00:54:25] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:25] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:25] Passcode => Item: PROPERTY | Counter
+[2024-05-02 00:54:25] Passcode => Item: PASSWORD | 10651797
+[2024-05-02 00:54:25] Item => Setcode: RGBT-AE079 | URL: https://yugipedia.com/wiki/RGBT-AE079 | Name: Swallow Flip
+[2024-05-02 00:54:25] ===================================================================================================
+[2024-05-02 00:54:26] Searching passcode for https://yugipedia.com/wiki/RGBT-AE080
+[2024-05-02 00:54:26] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:26] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 00:54:26] Passcode => Item: PROPERTY | Normal
+[2024-05-02 00:54:26] Passcode => Item: PASSWORD | 46656406
+[2024-05-02 00:54:26] Item => Setcode: RGBT-AE080 | URL: https://yugipedia.com/wiki/RGBT-AE080 | Name: Mirror of Oaths
+[2024-05-02 00:54:26] ===================================================================================================
+[2024-05-02 00:54:27] Creating output json file for set 'RGBT-AE' => output/AE_RGBT-AE_.json
+[2024-05-02 00:54:27] Successfully created json file.
+[2024-05-02 00:54:30] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2009_prize_cards_(OCG-AE)
+[2024-05-02 00:54:30] Set list page => Release date: 9 August 2009
+[2024-05-02 00:54:30] Searching passcode for https://yugipedia.com/wiki/WCPS-AE903
+[2024-05-02 00:54:31] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:31] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:54:31] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:54:31] Passcode => Item: TYPES | Fairy / Effect
+[2024-05-02 00:54:31] Passcode => Item: LEVEL | 10
+[2024-05-02 00:54:31] Passcode => Item: ATK  DEF | 3000 / 3000
+[2024-05-02 00:54:31] Passcode => Item: PASSWORD | None
+[2024-05-02 00:54:31] Passcode => Invalid value.
+[2024-05-02 00:54:31] Item => Setcode: WCPS-AE903 | URL: https://yugipedia.com/wiki/WCPS-AE903 | Name: Tyr, the Vanquishing Warlord
+[2024-05-02 00:54:31] ===================================================================================================
+[2024-05-02 00:54:32] Creating output json file for set 'WCPS-AE9' => output/AE_WCPS-AE9_.json
+[2024-05-02 00:54:32] Successfully created json file.
+[2024-05-02 00:54:35] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2010_prize_cards_(OCG-AE)
+[2024-05-02 00:54:35] Set list page => Release date: 15 August 2010
+[2024-05-02 00:54:35] Searching passcode for https://yugipedia.com/wiki/2010-AE003
+[2024-05-02 00:54:35] Passcode => Page downloaded. Parsing content
+[2024-05-02 00:54:35] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 00:54:35] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 00:54:35] Passcode => Item: TYPES | Fiend / Effect
+[2024-05-02 00:54:35] Passcode => Item: LEVEL | 10
+[2024-05-02 00:54:35] Passcode => Item: ATK  DEF | 3000 / 3000
+[2024-05-02 00:54:35] Passcode => Item: PASSWORD | None
+[2024-05-02 00:54:35] Passcode => Invalid value.
+[2024-05-02 00:54:35] Item => Setcode: 2010-AE003 | URL: https://yugipedia.com/wiki/2010-AE003 | Name: Aggiba, the Malevolent Sh'nn S'yo
+[2024-05-02 00:54:35] ===================================================================================================
+[2024-05-02 00:54:36] Creating output json file for set '2010-AE' => output/AE_2010-AE_.json
+[2024-05-02 00:54:36] Successfully created json file.
+[2024-05-02 00:54:39] Elapsed minutes: 3.353200058142344
