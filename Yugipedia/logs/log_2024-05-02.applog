@@ -1,136 +1,474 @@
-[2024-05-02 05:12:27] Done deleting old log files.
-[2024-05-02 05:12:28] Set 'LOB' is already processed.
-[2024-05-02 05:12:28] Set 'SDK' is already processed.
-[2024-05-02 05:12:28] Set 'SDY' is already processed.
-[2024-05-02 05:12:28] Set 'MRD' is already processed.
-[2024-05-02 05:12:28] Set 'MRL' is already processed.
-[2024-05-02 05:12:28] Set 'GBI' is already processed.
-[2024-05-02 05:12:28] Set 'PSV' is already processed.
-[2024-05-02 05:12:28] Set 'LON' is already processed.
-[2024-05-02 05:12:28] Set 'WCS' is already processed.
-[2024-05-02 05:12:28] Set 'WCS' is already processed.
-[2024-05-02 05:12:28] Set 'LOD' is already processed.
-[2024-05-02 05:12:28] Set 'PGD' is already processed.
-[2024-05-02 05:12:28] Set 'MFC' is already processed.
-[2024-05-02 05:12:28] Set 'DCR' is already processed.
-[2024-05-02 05:12:28] Set 'WCS-AE4' is already processed.
-[2024-05-02 05:12:28] Set 'IOC-AE' is already processed.
-[2024-05-02 05:12:28] Set 'AST-AE' is already processed.
-[2024-05-02 05:12:28] Set 'SOD-AE' is already processed.
-[2024-05-02 05:12:28] Set 'RDS-AE' is already processed.
-[2024-05-02 05:12:28] Set 'WCS-AE5' is already processed.
-[2024-05-02 05:12:28] Set 'FET-AE' is already processed.
-[2024-05-02 05:12:28] Set 'TLM-AE' is already processed.
-[2024-05-02 05:12:28] Set 'CRV-AE' is already processed.
-[2024-05-02 05:12:28] Set 'WCPS-AE6' is already processed.
-[2024-05-02 05:12:28] Set 'EEN-AE' is already processed.
-[2024-05-02 05:12:28] Set 'SOI-AE' is already processed.
-[2024-05-02 05:12:28] Set 'EOJ-AE' is already processed.
-[2024-05-02 05:12:28] Set 'WCPS-AE7' is already processed.
-[2024-05-02 05:12:28] Set 'WCPS-AE8' is already processed.
-[2024-05-02 05:12:28] Set 'CRMS-AE' is already processed.
-[2024-05-02 05:12:28] Set 'SD16-AE' is already processed.
-[2024-05-02 05:12:28] Set 'RGBT-AE' is already processed.
-[2024-05-02 05:12:28] Set 'WCPS-AE9' is already processed.
-[2024-05-02 05:12:28] Set '2010-AE' is already processed.
-[2024-05-02 05:12:28] File loaded successfully
-[2024-05-02 05:12:28] Parsing soup...
-[2024-05-02 05:12:28] Finding main body from html...
-[2024-05-02 05:12:28] Parsing setlist...
-[2024-05-02 05:12:28] Prefix: LOB is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: SDK is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: SDY is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: MRD is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: MRL is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: GBI is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: PSV is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: LON is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: WCS is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: WCS is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: LOD is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: PGD is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: MFC is skipped. Already processed.
-[2024-05-02 05:12:28] Prefix: DCR is skipped. Already processed.
-[2024-05-02 05:12:28] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
-[2024-05-02 05:12:28] Page not found. Will skip.
-[2024-05-02 05:12:31] Prefix: WCS-AE4 is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: IOC-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: AST-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: SOD-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: RDS-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: WCS-AE5 is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: FET-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: TLM-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: CRV-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: WCPS-AE6 is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: EEN-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: SOI-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: EOJ-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: WCPS-AE7 is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: WCPS-AE8 is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: CRMS-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: SD16-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: RGBT-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: WCPS-AE9 is skipped. Already processed.
-[2024-05-02 05:12:31] Prefix: 2010-AE is skipped. Already processed.
-[2024-05-02 05:12:31] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2011_prize_cards_(OCG-AE)
-[2024-05-02 05:12:31] Set list page => Release date: 14 August 2011
-[2024-05-02 05:12:31] Searching passcode for https://yugipedia.com/wiki/2011-AE003
-[2024-05-02 05:12:32] Passcode => Page downloaded. Parsing content
-[2024-05-02 05:12:32] Passcode => Item: CARD TYPE | Monster
-[2024-05-02 05:12:32] Passcode => Item: ATTRIBUTE | LIGHT
-[2024-05-02 05:12:32] Passcode => Item: TYPES | Fairy / Synchro / Effect
-[2024-05-02 05:12:32] Passcode => Item: LEVEL | 10
-[2024-05-02 05:12:32] Passcode => Item: ATK  DEF | 3000 / 3000
-[2024-05-02 05:12:32] Passcode => Item: PASSWORD | None
-[2024-05-02 05:12:32] Passcode => Invalid value.
-[2024-05-02 05:12:32] Item => Setcode: 2011-AE003 | URL: https://yugipedia.com/wiki/2011-AE003 | Name: Stardust Divinity
-[2024-05-02 05:12:32] ===================================================================================================
-[2024-05-02 05:12:33] Creating output json file for set '2011-AE' => output/AE_2011-AE_.json
-[2024-05-02 05:12:33] Successfully created json file.
-[2024-05-02 05:12:36] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2012_participation_card_(OCG-AE)
-[2024-05-02 05:12:36] Set list page => Release date: 7 July 2012
-[2024-05-02 05:12:36] Searching passcode for https://yugipedia.com/wiki/2012-AE003
-[2024-05-02 05:12:37] Passcode => Page downloaded. Parsing content
-[2024-05-02 05:12:37] Passcode => Item: CARD TYPE | Monster
-[2024-05-02 05:12:37] Passcode => Item: ATTRIBUTE | LIGHT
-[2024-05-02 05:12:37] Passcode => Item: TYPES | Beast-Warrior / Xyz / Effect
-[2024-05-02 05:12:37] Passcode => Item: RANK | 8
-[2024-05-02 05:12:37] Passcode => Item: ATK  DEF | 3000 / 2500
-[2024-05-02 05:12:37] Passcode => Item: PASSWORD | None
-[2024-05-02 05:12:37] Passcode => Invalid value.
-[2024-05-02 05:12:37] Item => Setcode: 2012-AE003 | URL: https://yugipedia.com/wiki/2012-AE003 | Name: King Landia the Goldfang
-[2024-05-02 05:12:37] ===================================================================================================
-[2024-05-02 05:12:38] Creating output json file for set '2012-AE' => output/AE_2012-AE_.json
-[2024-05-02 05:12:38] Successfully created json file.
-[2024-05-02 05:12:41] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2013_participation_card_(OCG-AE)
-[2024-05-02 05:12:41] Set list page => Release date: 29 June 2013
-[2024-05-02 05:12:41] Searching passcode for https://yugipedia.com/wiki/2013-AE003
-[2024-05-02 05:12:41] Passcode => Page downloaded. Parsing content
-[2024-05-02 05:12:41] Passcode => Item: CARD TYPE | Monster
-[2024-05-02 05:12:41] Passcode => Item: ATTRIBUTE | LIGHT
-[2024-05-02 05:12:41] Passcode => Item: TYPES | Dragon / Xyz / Effect
-[2024-05-02 05:12:41] Passcode => Item: RANK | 8
-[2024-05-02 05:12:41] Passcode => Item: ATK  DEF | 3000 / 2500
-[2024-05-02 05:12:41] Passcode => Item: PASSWORD | None
-[2024-05-02 05:12:41] Passcode => Invalid value.
-[2024-05-02 05:12:41] Item => Setcode: 2013-AE003 | URL: https://yugipedia.com/wiki/2013-AE003 | Name: Legendary Dragon of White
-[2024-05-02 05:12:41] ===================================================================================================
-[2024-05-02 05:12:42] Creating output json file for set '2013-AE' => output/AE_2013-AE_.json
-[2024-05-02 05:12:42] Successfully created json file.
-[2024-05-02 05:12:45] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2014_participation_card_(OCG-AE)
-[2024-05-02 05:12:45] Set list page => Release date: 28 June 2014
-[2024-05-02 05:12:45] Searching passcode for https://yugipedia.com/wiki/2014-AE003
-[2024-05-02 05:12:45] Passcode => Page downloaded. Parsing content
-[2024-05-02 05:12:45] Passcode => Item: CARD TYPE | Monster
-[2024-05-02 05:12:45] Passcode => Item: ATTRIBUTE | LIGHT
-[2024-05-02 05:12:45] Passcode => Item: TYPES | Machine / Xyz / Effect
-[2024-05-02 05:12:45] Passcode => Item: RANK | 8
-[2024-05-02 05:12:45] Passcode => Item: ATK  DEF | 2800 / 3500
-[2024-05-02 05:12:45] Passcode => Item: PASSWORD | None
-[2024-05-02 05:12:45] Passcode => Invalid value.
-[2024-05-02 05:12:45] Item => Setcode: 2014-AE003 | URL: https://yugipedia.com/wiki/2014-AE003 | Name: Grandopolis, The Eternal Golden City
-[2024-05-02 05:12:45] ===================================================================================================
-[2024-05-02 05:12:46] Creating output json file for set '2014-AE' => output/AE_2014-AE_.json
-[2024-05-02 05:12:46] Successfully created json file.
-[2024-05-02 05:12:49] Elapsed seconds: 21.59785008430481
+[2024-05-02 10:12:41] Done deleting old log files.
+[2024-05-02 10:12:41] Set 'LOB' is already processed.
+[2024-05-02 10:12:41] Set 'SDK' is already processed.
+[2024-05-02 10:12:41] Set 'SDY' is already processed.
+[2024-05-02 10:12:41] Set 'MRD' is already processed.
+[2024-05-02 10:12:41] Set 'MRL' is already processed.
+[2024-05-02 10:12:41] Set 'GBI' is already processed.
+[2024-05-02 10:12:41] Set 'PSV' is already processed.
+[2024-05-02 10:12:41] Set 'LON' is already processed.
+[2024-05-02 10:12:41] Set 'WCS' is already processed.
+[2024-05-02 10:12:41] Set 'WCS' is already processed.
+[2024-05-02 10:12:41] Set 'LOD' is already processed.
+[2024-05-02 10:12:41] Set 'PGD' is already processed.
+[2024-05-02 10:12:41] Set 'MFC' is already processed.
+[2024-05-02 10:12:41] Set 'DCR' is already processed.
+[2024-05-02 10:12:41] Set 'WCS-AE4' is already processed.
+[2024-05-02 10:12:41] Set 'IOC-AE' is already processed.
+[2024-05-02 10:12:41] Set 'AST-AE' is already processed.
+[2024-05-02 10:12:41] Set 'SOD-AE' is already processed.
+[2024-05-02 10:12:41] Set 'RDS-AE' is already processed.
+[2024-05-02 10:12:41] Set 'WCS-AE5' is already processed.
+[2024-05-02 10:12:41] Set 'FET-AE' is already processed.
+[2024-05-02 10:12:41] Set 'TLM-AE' is already processed.
+[2024-05-02 10:12:41] Set 'CRV-AE' is already processed.
+[2024-05-02 10:12:41] Set 'WCPS-AE6' is already processed.
+[2024-05-02 10:12:41] Set 'EEN-AE' is already processed.
+[2024-05-02 10:12:41] Set 'SOI-AE' is already processed.
+[2024-05-02 10:12:41] Set 'EOJ-AE' is already processed.
+[2024-05-02 10:12:41] Set 'WCPS-AE7' is already processed.
+[2024-05-02 10:12:41] Set 'WCPS-AE8' is already processed.
+[2024-05-02 10:12:41] Set 'CRMS-AE' is already processed.
+[2024-05-02 10:12:41] Set 'SD16-AE' is already processed.
+[2024-05-02 10:12:41] Set 'RGBT-AE' is already processed.
+[2024-05-02 10:12:41] Set 'WCPS-AE9' is already processed.
+[2024-05-02 10:12:41] Set '2010-AE' is already processed.
+[2024-05-02 10:12:41] Set '2011-AE' is already processed.
+[2024-05-02 10:12:41] Set '2012-AE' is already processed.
+[2024-05-02 10:12:41] Set '2013-AE' is already processed.
+[2024-05-02 10:12:41] Set '2014-AE' is already processed.
+[2024-05-02 10:12:41] File loaded successfully
+[2024-05-02 10:12:41] Parsing soup...
+[2024-05-02 10:12:41] Finding main body from html...
+[2024-05-02 10:12:41] Parsing setlist...
+[2024-05-02 10:12:41] Prefix: LOB is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: SDK is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: SDY is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: MRD is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: MRL is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: GBI is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: PSV is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: LON is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: WCS is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: WCS is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: LOD is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: PGD is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: MFC is skipped. Already processed.
+[2024-05-02 10:12:41] Prefix: DCR is skipped. Already processed.
+[2024-05-02 10:12:41] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2024-05-02 10:12:41] Page not found. Will skip.
+[2024-05-02 10:12:44] Prefix: WCS-AE4 is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: IOC-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: AST-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: SOD-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: RDS-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: WCS-AE5 is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: FET-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: TLM-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: CRV-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: WCPS-AE6 is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: EEN-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: SOI-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: EOJ-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: WCPS-AE7 is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: WCPS-AE8 is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: CRMS-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: SD16-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: RGBT-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: WCPS-AE9 is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: 2010-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: 2011-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: 2012-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: 2013-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Prefix: 2014-AE is skipped. Already processed.
+[2024-05-02 10:12:44] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2015_attendance_cards_(OCG-AE)
+[2024-05-02 10:12:44] Set list page => Release date: 16 August 2015
+[2024-05-02 10:12:44] Searching passcode for https://yugipedia.com/wiki/2015-JPP01
+[2024-05-02 10:12:45] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:45] Passcode => Item: OTHER NAMES (JAPANESE) | Ｂ・Ｗ・ＤBurūaizu Howaito Doragon
+[2024-05-02 10:12:45] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:45] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 10:12:45] Passcode => Item: TYPES | Dragon / Normal
+[2024-05-02 10:12:45] Passcode => Item: LEVEL | 8
+[2024-05-02 10:12:45] Passcode => Item: ATK  DEF | 3000 / 2500
+[2024-05-02 10:12:45] Passcode => Item: PASSWORD | 89631139
+[2024-05-02 10:12:45] Item => Setcode: 2015-JPP01 | URL: https://yugipedia.com/wiki/2015-JPP01 | Name: Blue-Eyes White Dragon
+[2024-05-02 10:12:45] ===================================================================================================
+[2024-05-02 10:12:46] Searching passcode for https://yugipedia.com/wiki/2015-JPP02
+[2024-05-02 10:12:46] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:46] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:46] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 10:12:46] Passcode => Item: TYPES | Spellcaster / Normal
+[2024-05-02 10:12:46] Passcode => Item: LEVEL | 7
+[2024-05-02 10:12:46] Passcode => Item: ATK  DEF | 2500 / 2100
+[2024-05-02 10:12:46] Passcode => Item: PASSWORD | 46986414
+[2024-05-02 10:12:46] Item => Setcode: 2015-JPP02 | URL: https://yugipedia.com/wiki/2015-JPP02 | Name: Dark Magician
+[2024-05-02 10:12:46] ===================================================================================================
+[2024-05-02 10:12:47] Creating output json file for set '2015-JPP' => output/AE_2015-JPP_.json
+[2024-05-02 10:12:47] Successfully created json file.
+[2024-05-02 10:12:50] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Speed_Start_Deck_Link_Edition_(OCG-AE)
+[2024-05-02 10:12:50] Set list page => Release date: 21 October 2023
+[2024-05-02 10:12:50] Searching passcode for https://yugipedia.com/wiki/SSD1-AE001
+[2024-05-02 10:12:50] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:50] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:50] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 10:12:50] Passcode => Item: TYPES | Warrior
+[2024-05-02 10:12:50] Passcode => Item: LEVEL | 4
+[2024-05-02 10:12:50] Passcode => Item: ATK  DEF | 1800 / 1800
+[2024-05-02 10:12:50] Passcode => Item: PASSWORD | 92125819
+[2024-05-02 10:12:50] Item => Setcode: SSD1-AE001 | URL: https://yugipedia.com/wiki/SSD1-AE001 | Name: Noble Knight Artorigus
+[2024-05-02 10:12:50] ===================================================================================================
+[2024-05-02 10:12:51] Searching passcode for https://yugipedia.com/wiki/SSD1-AE002
+[2024-05-02 10:12:52] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:52] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:52] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:12:52] Passcode => Item: TYPES | Warrior / Normal
+[2024-05-02 10:12:52] Passcode => Item: LEVEL | 4
+[2024-05-02 10:12:52] Passcode => Item: ATK  DEF | 1700 / 1150
+[2024-05-02 10:12:52] Passcode => Item: PASSWORD | 48305365
+[2024-05-02 10:12:52] Item => Setcode: SSD1-AE002 | URL: https://yugipedia.com/wiki/SSD1-AE002 | Name: Axe Raider
+[2024-05-02 10:12:52] ===================================================================================================
+[2024-05-02 10:12:53] Searching passcode for https://yugipedia.com/wiki/SSD1-AE003
+[2024-05-02 10:12:53] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:53] Passcode => Item: OTHER NAMES | Elemental Hero Sparkman
+[2024-05-02 10:12:53] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:53] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 10:12:53] Passcode => Item: TYPES | Warrior / Normal
+[2024-05-02 10:12:53] Passcode => Item: LEVEL | 4
+[2024-05-02 10:12:53] Passcode => Item: ATK  DEF | 1600 / 1400
+[2024-05-02 10:12:53] Passcode => Item: PASSWORD | 20721928
+[2024-05-02 10:12:53] Item => Setcode: SSD1-AE003 | URL: https://yugipedia.com/wiki/SSD1-AE003 | Name: Elemental HERO Sparkman
+[2024-05-02 10:12:53] ===================================================================================================
+[2024-05-02 10:12:54] Searching passcode for https://yugipedia.com/wiki/SSD1-AE004
+[2024-05-02 10:12:55] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:56] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:56] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:12:56] Passcode => Item: TYPES | Warrior / Normal
+[2024-05-02 10:12:56] Passcode => Item: LEVEL | 4
+[2024-05-02 10:12:56] Passcode => Item: ATK  DEF | 1600 / 1600
+[2024-05-02 10:12:56] Passcode => Item: PASSWORD | 66073051
+[2024-05-02 10:12:56] Item => Setcode: SSD1-AE004 | URL: https://yugipedia.com/wiki/SSD1-AE004 | Name: Warrior of Zera
+[2024-05-02 10:12:56] ===================================================================================================
+[2024-05-02 10:12:57] Searching passcode for https://yugipedia.com/wiki/SSD1-AE005
+[2024-05-02 10:12:57] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:57] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:57] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:12:57] Passcode => Item: TYPES | Warrior / Normal
+[2024-05-02 10:12:57] Passcode => Item: LEVEL | 3
+[2024-05-02 10:12:57] Passcode => Item: ATK  DEF | 200 / 2000
+[2024-05-02 10:12:57] Passcode => Item: PASSWORD | 44430454
+[2024-05-02 10:12:57] Item => Setcode: SSD1-AE005 | URL: https://yugipedia.com/wiki/SSD1-AE005 | Name: Chamberlain of the Six Samurai
+[2024-05-02 10:12:57] ===================================================================================================
+[2024-05-02 10:12:58] Searching passcode for https://yugipedia.com/wiki/SSD1-AE006
+[2024-05-02 10:12:58] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:58] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:58] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:12:58] Passcode => Item: TYPES | Fiend / Effect
+[2024-05-02 10:12:58] Passcode => Item: LEVEL | 4
+[2024-05-02 10:12:58] Passcode => Item: ATK  DEF | 2200 / 1500
+[2024-05-02 10:12:58] Passcode => Item: PASSWORD | 85306040
+[2024-05-02 10:12:58] Item => Setcode: SSD1-AE006 | URL: https://yugipedia.com/wiki/SSD1-AE006 | Name: Goblin Elite Attack Force
+[2024-05-02 10:12:58] ===================================================================================================
+[2024-05-02 10:12:59] Searching passcode for https://yugipedia.com/wiki/SSD1-AE007
+[2024-05-02 10:12:59] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:12:59] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:12:59] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:12:59] Passcode => Item: TYPES | Warrior / Effect
+[2024-05-02 10:12:59] Passcode => Item: LEVEL | 3
+[2024-05-02 10:12:59] Passcode => Item: ATK  DEF | 1200 / 400
+[2024-05-02 10:12:59] Passcode => Item: PASSWORD | 02460565
+[2024-05-02 10:12:59] Item => Setcode: SSD1-AE007 | URL: https://yugipedia.com/wiki/SSD1-AE007 | Name: Marauding Captain
+[2024-05-02 10:12:59] ===================================================================================================
+[2024-05-02 10:13:00] Searching passcode for https://yugipedia.com/wiki/SSD1-AE008
+[2024-05-02 10:13:00] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:00] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:00] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:13:00] Passcode => Item: TYPES | Warrior / Effect
+[2024-05-02 10:13:00] Passcode => Item: LEVEL | 3
+[2024-05-02 10:13:00] Passcode => Item: ATK  DEF | 1000 / 700
+[2024-05-02 10:13:00] Passcode => Item: PASSWORD | 21015833
+[2024-05-02 10:13:00] Item => Setcode: SSD1-AE008 | URL: https://yugipedia.com/wiki/SSD1-AE008 | Name: Hayabusa Knight
+[2024-05-02 10:13:00] ===================================================================================================
+[2024-05-02 10:13:01] Searching passcode for https://yugipedia.com/wiki/SSD1-AE009
+[2024-05-02 10:13:03] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:03] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:03] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:13:03] Passcode => Item: TYPES | Beast / Effect
+[2024-05-02 10:13:03] Passcode => Item: LEVEL | 3
+[2024-05-02 10:13:03] Passcode => Item: ATK  DEF | 900 / 300
+[2024-05-02 10:13:03] Passcode => Item: PASSWORD | 13409151
+[2024-05-02 10:13:03] Item => Setcode: SSD1-AE009 | URL: https://yugipedia.com/wiki/SSD1-AE009 | Name: Desertapir
+[2024-05-02 10:13:03] ===================================================================================================
+[2024-05-02 10:13:04] Searching passcode for https://yugipedia.com/wiki/SSD1-AE010
+[2024-05-02 10:13:04] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:04] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:04] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:13:04] Passcode => Item: TYPES | Beast / Flip / Effect
+[2024-05-02 10:13:04] Passcode => Item: LEVEL | 2
+[2024-05-02 10:13:04] Passcode => Item: ATK  DEF | 450 / 500
+[2024-05-02 10:13:04] Passcode => Item: PASSWORD | 07089711
+[2024-05-02 10:13:04] Item => Setcode: SSD1-AE010 | URL: https://yugipedia.com/wiki/SSD1-AE010 | Name: Hane-Hane
+[2024-05-02 10:13:04] ===================================================================================================
+[2024-05-02 10:13:05] Searching passcode for https://yugipedia.com/wiki/SSD1-AE011
+[2024-05-02 10:13:05] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:05] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:05] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:05] Passcode => Item: PASSWORD | 26412047
+[2024-05-02 10:13:05] Item => Setcode: SSD1-AE011 | URL: https://yugipedia.com/wiki/SSD1-AE011 | Name: Hammer Shot
+[2024-05-02 10:13:05] ===================================================================================================
+[2024-05-02 10:13:06] Searching passcode for https://yugipedia.com/wiki/SSD1-AE012
+[2024-05-02 10:13:06] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:06] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:06] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:06] Passcode => Item: PASSWORD | 20871001
+[2024-05-02 10:13:06] Item => Setcode: SSD1-AE012 | URL: https://yugipedia.com/wiki/SSD1-AE012 | Name: Blue Medicine
+[2024-05-02 10:13:06] ===================================================================================================
+[2024-05-02 10:13:07] Searching passcode for https://yugipedia.com/wiki/SSD1-AE013
+[2024-05-02 10:13:07] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:08] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:08] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:08] Passcode => Item: PASSWORD | 15866454
+[2024-05-02 10:13:08] Item => Setcode: SSD1-AE013 | URL: https://yugipedia.com/wiki/SSD1-AE013 | Name: Spiritualism
+[2024-05-02 10:13:08] ===================================================================================================
+[2024-05-02 10:13:09] Searching passcode for https://yugipedia.com/wiki/SSD1-AE014
+[2024-05-02 10:13:09] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:09] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:09] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:09] Passcode => Item: PASSWORD | 63102017
+[2024-05-02 10:13:09] Item => Setcode: SSD1-AE014 | URL: https://yugipedia.com/wiki/SSD1-AE014 | Name: Stop Defense
+[2024-05-02 10:13:09] ===================================================================================================
+[2024-05-02 10:13:10] Searching passcode for https://yugipedia.com/wiki/SSD1-AE015
+[2024-05-02 10:13:10] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:10] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:10] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:10] Passcode => Item: PASSWORD | 42534368
+[2024-05-02 10:13:10] Item => Setcode: SSD1-AE015 | URL: https://yugipedia.com/wiki/SSD1-AE015 | Name: Silent Doom
+[2024-05-02 10:13:10] ===================================================================================================
+[2024-05-02 10:13:11] Searching passcode for https://yugipedia.com/wiki/SSD1-AE016
+[2024-05-02 10:13:11] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:11] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:11] Passcode => Item: PROPERTY | Equip
+[2024-05-02 10:13:11] Passcode => Item: PASSWORD | 64047146
+[2024-05-02 10:13:11] Item => Setcode: SSD1-AE016 | URL: https://yugipedia.com/wiki/SSD1-AE016 | Name: Horn of the Unicorn
+[2024-05-02 10:13:11] ===================================================================================================
+[2024-05-02 10:13:12] Searching passcode for https://yugipedia.com/wiki/SSD1-AE017
+[2024-05-02 10:13:15] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:15] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 10:13:15] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:15] Passcode => Item: PASSWORD | 17814387
+[2024-05-02 10:13:15] Item => Setcode: SSD1-AE017 | URL: https://yugipedia.com/wiki/SSD1-AE017 | Name: Reinforcements
+[2024-05-02 10:13:15] ===================================================================================================
+[2024-05-02 10:13:16] Searching passcode for https://yugipedia.com/wiki/SSD1-AE018
+[2024-05-02 10:13:16] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:16] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 10:13:16] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:16] Passcode => Item: PASSWORD | 43250041
+[2024-05-02 10:13:16] Item => Setcode: SSD1-AE018 | URL: https://yugipedia.com/wiki/SSD1-AE018 | Name: Draining Shield
+[2024-05-02 10:13:16] ===================================================================================================
+[2024-05-02 10:13:17] Searching passcode for https://yugipedia.com/wiki/SSD1-AE019
+[2024-05-02 10:13:18] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:19] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 10:13:19] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:19] Passcode => Item: PASSWORD | 24068492
+[2024-05-02 10:13:19] Item => Setcode: SSD1-AE019 | URL: https://yugipedia.com/wiki/SSD1-AE019 | Name: Just Desserts
+[2024-05-02 10:13:19] ===================================================================================================
+[2024-05-02 10:13:20] Searching passcode for https://yugipedia.com/wiki/SSD1-AE020
+[2024-05-02 10:13:20] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:20] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 10:13:20] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 10:13:20] Passcode => Item: PASSWORD | 29267084
+[2024-05-02 10:13:20] Item => Setcode: SSD1-AE020 | URL: https://yugipedia.com/wiki/SSD1-AE020 | Name: Shadow Spell
+[2024-05-02 10:13:20] ===================================================================================================
+[2024-05-02 10:13:21] Searching passcode for https://yugipedia.com/wiki/SSD1-AE021
+[2024-05-02 10:13:21] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:21] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:21] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 10:13:21] Passcode => Item: TYPES | Cyberse / Link / Effect
+[2024-05-02 10:13:21] Passcode => Item: LINK ARROWS | Top-Center,  Bottom-Center
+[2024-05-02 10:13:21] Passcode => Item: ATK  LINK | 1300 / 2
+[2024-05-02 10:13:21] Passcode => Item: PASSWORD | 53413628
+[2024-05-02 10:13:21] Item => Setcode: SSD1-AE021 | URL: https://yugipedia.com/wiki/SSD1-AE021 | Name: Code Talker
+[2024-05-02 10:13:21] ===================================================================================================
+[2024-05-02 10:13:22] Creating output json file for set 'SSD1-AE' => output/AE_SSD1-AE_.json
+[2024-05-02 10:13:22] Successfully created json file.
+[2024-05-02 10:13:25] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Speed_Start_Deck_Synchro_Edition_(OCG-AE)
+[2024-05-02 10:13:25] Set list page => Release date: 21 October 2023
+[2024-05-02 10:13:25] Searching passcode for https://yugipedia.com/wiki/SSD2-AE001
+[2024-05-02 10:13:27] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:27] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:27] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:13:27] Passcode => Item: TYPES | Dinosaur / Normal
+[2024-05-02 10:13:27] Passcode => Item: LEVEL | 4
+[2024-05-02 10:13:27] Passcode => Item: ATK  DEF | 1600 / 1200
+[2024-05-02 10:13:27] Passcode => Item: PASSWORD | 94119974
+[2024-05-02 10:13:27] Item => Setcode: SSD2-AE001 | URL: https://yugipedia.com/wiki/SSD2-AE001 | Name: Two-Headed King Rex
+[2024-05-02 10:13:27] ===================================================================================================
+[2024-05-02 10:13:28] Searching passcode for https://yugipedia.com/wiki/SSD2-AE002
+[2024-05-02 10:13:30] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:30] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:30] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-02 10:13:30] Passcode => Item: TYPES | Dragon / Normal
+[2024-05-02 10:13:30] Passcode => Item: LEVEL | 4
+[2024-05-02 10:13:30] Passcode => Item: ATK  DEF | 1300 / 2000
+[2024-05-02 10:13:30] Passcode => Item: PASSWORD | 93346024
+[2024-05-02 10:13:30] Item => Setcode: SSD2-AE002 | URL: https://yugipedia.com/wiki/SSD2-AE002 | Name: The Dragon Dwelling in the Cave
+[2024-05-02 10:13:30] ===================================================================================================
+[2024-05-02 10:13:31] Searching passcode for https://yugipedia.com/wiki/SSD2-AE003
+[2024-05-02 10:13:33] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:33] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:33] Passcode => Item: ATTRIBUTE | DARK
+[2024-05-02 10:13:33] Passcode => Item: TYPES | Dragon / Normal
+[2024-05-02 10:13:33] Passcode => Item: LEVEL | 3
+[2024-05-02 10:13:33] Passcode => Item: ATK  DEF | 1700 / 100
+[2024-05-02 10:13:33] Passcode => Item: PASSWORD | 96005454
+[2024-05-02 10:13:33] Item => Setcode: SSD2-AE003 | URL: https://yugipedia.com/wiki/SSD2-AE003 | Name: Hunter Dragon
+[2024-05-02 10:13:33] ===================================================================================================
+[2024-05-02 10:13:34] Searching passcode for https://yugipedia.com/wiki/SSD2-AE004
+[2024-05-02 10:13:35] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:35] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:35] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 10:13:35] Passcode => Item: TYPES | Dragon / Tuner / Normal
+[2024-05-02 10:13:35] Passcode => Item: LEVEL | 2
+[2024-05-02 10:13:35] Passcode => Item: ATK  DEF | 1000 / 0
+[2024-05-02 10:13:35] Passcode => Item: PASSWORD | 11066358
+[2024-05-02 10:13:35] Item => Setcode: SSD2-AE004 | URL: https://yugipedia.com/wiki/SSD2-AE004 | Name: Galaxy Serpent
+[2024-05-02 10:13:35] ===================================================================================================
+[2024-05-02 10:13:36] Searching passcode for https://yugipedia.com/wiki/SSD2-AE005
+[2024-05-02 10:13:38] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:38] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:38] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-02 10:13:38] Passcode => Item: TYPES | Dragon / Effect
+[2024-05-02 10:13:38] Passcode => Item: LEVEL | 4
+[2024-05-02 10:13:38] Passcode => Item: ATK  DEF | 1900 / 0
+[2024-05-02 10:13:38] Passcode => Item: PASSWORD | 31553716
+[2024-05-02 10:13:38] Item => Setcode: SSD2-AE005 | URL: https://yugipedia.com/wiki/SSD2-AE005 | Name: Spear Dragon
+[2024-05-02 10:13:38] ===================================================================================================
+[2024-05-02 10:13:39] Searching passcode for https://yugipedia.com/wiki/SSD2-AE006
+[2024-05-02 10:13:40] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:40] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:40] Passcode => Item: ATTRIBUTE | EARTH
+[2024-05-02 10:13:40] Passcode => Item: TYPES | Dragon / Effect
+[2024-05-02 10:13:40] Passcode => Item: LEVEL | 4
+[2024-05-02 10:13:40] Passcode => Item: ATK  DEF | 1700 / 1300
+[2024-05-02 10:13:40] Passcode => Item: PASSWORD | 77135531
+[2024-05-02 10:13:40] Item => Setcode: SSD2-AE006 | URL: https://yugipedia.com/wiki/SSD2-AE006 | Name: Vanguard of the Dragon
+[2024-05-02 10:13:40] ===================================================================================================
+[2024-05-02 10:13:41] Searching passcode for https://yugipedia.com/wiki/SSD2-AE007
+[2024-05-02 10:13:42] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:42] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:42] Passcode => Item: ATTRIBUTE | LIGHT
+[2024-05-02 10:13:42] Passcode => Item: TYPES | Dragon / Effect
+[2024-05-02 10:13:42] Passcode => Item: LEVEL | 4
+[2024-05-02 10:13:42] Passcode => Item: ATK  DEF | 1400 / 1300
+[2024-05-02 10:13:42] Passcode => Item: PASSWORD | 38520918
+[2024-05-02 10:13:42] Item => Setcode: SSD2-AE007 | URL: https://yugipedia.com/wiki/SSD2-AE007 | Name: Ancient Dragon
+[2024-05-02 10:13:42] ===================================================================================================
+[2024-05-02 10:13:43] Searching passcode for https://yugipedia.com/wiki/SSD2-AE008
+[2024-05-02 10:13:43] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:43] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:43] Passcode => Item: ATTRIBUTE | WATER
+[2024-05-02 10:13:43] Passcode => Item: TYPES | Reptile / Flip / Effect
+[2024-05-02 10:13:43] Passcode => Item: LEVEL | 4
+[2024-05-02 10:13:43] Passcode => Item: ATK  DEF | 1400 / 700
+[2024-05-02 10:13:43] Passcode => Item: PASSWORD | 77491079
+[2024-05-02 10:13:43] Item => Setcode: SSD2-AE008 | URL: https://yugipedia.com/wiki/SSD2-AE008 | Name: Gale Lizard
+[2024-05-02 10:13:43] ===================================================================================================
+[2024-05-02 10:13:44] Searching passcode for https://yugipedia.com/wiki/SSD2-AE009
+[2024-05-02 10:13:45] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:45] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:45] Passcode => Item: ATTRIBUTE | WIND
+[2024-05-02 10:13:45] Passcode => Item: TYPES | Dragon / Tuner
+[2024-05-02 10:13:45] Passcode => Item: LEVEL | 3
+[2024-05-02 10:13:45] Passcode => Item: ATK  DEF | 1500 / 900
+[2024-05-02 10:13:45] Passcode => Item: PASSWORD | 57568840
+[2024-05-02 10:13:45] Item => Setcode: SSD2-AE009 | URL: https://yugipedia.com/wiki/SSD2-AE009 | Name: Delta Flyer
+[2024-05-02 10:13:45] ===================================================================================================
+[2024-05-02 10:13:46] Searching passcode for https://yugipedia.com/wiki/SSD2-AE010
+[2024-05-02 10:13:46] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:46] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:46] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 10:13:46] Passcode => Item: TYPES | Dragon / Effect
+[2024-05-02 10:13:46] Passcode => Item: LEVEL | 3
+[2024-05-02 10:13:46] Passcode => Item: ATK  DEF | 1400 / 1100
+[2024-05-02 10:13:46] Passcode => Item: PASSWORD | 39191307
+[2024-05-02 10:13:46] Item => Setcode: SSD2-AE010 | URL: https://yugipedia.com/wiki/SSD2-AE010 | Name: Masked Dragon
+[2024-05-02 10:13:46] ===================================================================================================
+[2024-05-02 10:13:47] Searching passcode for https://yugipedia.com/wiki/SSD2-AE011
+[2024-05-02 10:13:48] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:48] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:48] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 10:13:48] Passcode => Item: TYPES | Dragon / Tuner / Effect
+[2024-05-02 10:13:48] Passcode => Item: LEVEL | 2
+[2024-05-02 10:13:48] Passcode => Item: ATK  DEF | 1400 / 600
+[2024-05-02 10:13:48] Passcode => Item: PASSWORD | 36750412
+[2024-05-02 10:13:48] Item => Setcode: SSD2-AE011 | URL: https://yugipedia.com/wiki/SSD2-AE011 | Name: Magna Drago
+[2024-05-02 10:13:48] ===================================================================================================
+[2024-05-02 10:13:49] Searching passcode for https://yugipedia.com/wiki/SSD2-AE012
+[2024-05-02 10:13:49] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:49] Passcode => Item: CARD TYPE | Monster
+[2024-05-02 10:13:49] Passcode => Item: ATTRIBUTE | FIRE
+[2024-05-02 10:13:49] Passcode => Item: TYPES | Dragon / Tuner
+[2024-05-02 10:13:49] Passcode => Item: LEVEL | 2
+[2024-05-02 10:13:49] Passcode => Item: ATK  DEF | 1100 / 400
+[2024-05-02 10:13:49] Passcode => Item: PASSWORD | 51925772
+[2024-05-02 10:13:49] Item => Setcode: SSD2-AE012 | URL: https://yugipedia.com/wiki/SSD2-AE012 | Name: Dread Dragon
+[2024-05-02 10:13:49] ===================================================================================================
+[2024-05-02 10:13:50] Searching passcode for https://yugipedia.com/wiki/SSD2-AE013
+[2024-05-02 10:13:50] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:50] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:50] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:50] Passcode => Item: PASSWORD | 81510157
+[2024-05-02 10:13:50] Item => Setcode: SSD2-AE013 | URL: https://yugipedia.com/wiki/SSD2-AE013 | Name: Soul Taker
+[2024-05-02 10:13:50] ===================================================================================================
+[2024-05-02 10:13:51] Searching passcode for https://yugipedia.com/wiki/SSD2-AE014
+[2024-05-02 10:13:53] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:53] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:53] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:53] Passcode => Item: PASSWORD | 96765646
+[2024-05-02 10:13:53] Item => Setcode: SSD2-AE014 | URL: https://yugipedia.com/wiki/SSD2-AE014 | Name: Swing of Memories
+[2024-05-02 10:13:53] ===================================================================================================
+[2024-05-02 10:13:54] Searching passcode for https://yugipedia.com/wiki/SSD2-AE015
+[2024-05-02 10:13:54] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:54] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:54] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:54] Passcode => Item: PASSWORD | 45311864
+[2024-05-02 10:13:54] Item => Setcode: SSD2-AE015 | URL: https://yugipedia.com/wiki/SSD2-AE015 | Name: Goblin Thief
+[2024-05-02 10:13:54] ===================================================================================================
+[2024-05-02 10:13:55] Searching passcode for https://yugipedia.com/wiki/SSD2-AE016
+[2024-05-02 10:13:55] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:55] Passcode => Item: CARD TYPE | Spell
+[2024-05-02 10:13:55] Passcode => Item: PROPERTY | Equip
+[2024-05-02 10:13:55] Passcode => Item: PASSWORD | 99597615
+[2024-05-02 10:13:55] Item => Setcode: SSD2-AE016 | URL: https://yugipedia.com/wiki/SSD2-AE016 | Name: Malevolent Nuzzler
+[2024-05-02 10:13:55] ===================================================================================================
+[2024-05-02 10:13:56] Searching passcode for https://yugipedia.com/wiki/SSD2-AE017
+[2024-05-02 10:13:56] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:56] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 10:13:56] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:56] Passcode => Item: PASSWORD | 04206964
+[2024-05-02 10:13:56] Item => Setcode: SSD2-AE017 | URL: https://yugipedia.com/wiki/SSD2-AE017 | Name: Trap Hole
+[2024-05-02 10:13:56] ===================================================================================================
+[2024-05-02 10:13:57] Searching passcode for https://yugipedia.com/wiki/SSD2-AE018
+[2024-05-02 10:13:59] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:13:59] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 10:13:59] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:13:59] Passcode => Item: PASSWORD | 03244563
+[2024-05-02 10:13:59] Item => Setcode: SSD2-AE018 | URL: https://yugipedia.com/wiki/SSD2-AE018 | Name: Shield Spear
+[2024-05-02 10:13:59] ===================================================================================================
+[2024-05-02 10:14:00] Searching passcode for https://yugipedia.com/wiki/SSD2-AE019
+[2024-05-02 10:14:00] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:14:00] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 10:14:00] Passcode => Item: PROPERTY | Continuous
+[2024-05-02 10:14:00] Passcode => Item: PASSWORD | 92924317
+[2024-05-02 10:14:00] Item => Setcode: SSD2-AE019 | URL: https://yugipedia.com/wiki/SSD2-AE019 | Name: Soul Resurrection
+[2024-05-02 10:14:00] ===================================================================================================
+[2024-05-02 10:14:01] Searching passcode for https://yugipedia.com/wiki/SSD2-AE020
+[2024-05-02 10:14:01] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:14:01] Passcode => Item: CARD TYPE | Trap
+[2024-05-02 10:14:01] Passcode => Item: PROPERTY | Normal
+[2024-05-02 10:14:01] Passcode => Item: PASSWORD | 56120475
+[2024-05-02 10:14:01] Item => Setcode: SSD2-AE020 | URL: https://yugipedia.com/wiki/SSD2-AE020 | Name: Sakuretsu Armor
+[2024-05-02 10:14:01] ===================================================================================================
+[2024-05-02 10:14:02] Searching passcode for https://yugipedia.com/wiki/SSD2-AE021?action=edit&redlink=1
+[2024-05-02 10:14:02] Passcode => Page downloaded. Parsing content
+[2024-05-02 10:14:02] Elapsed minutes: 1.3630035281181336
