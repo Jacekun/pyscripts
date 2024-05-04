@@ -41,7 +41,7 @@ URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_ca
 # File paths
 FILE_OUTPUT_BODY = "body.html"
 FILE_OUTPUT_DONE_SET = "setlist_done.log"# Already processed setcode prefix
-FILE_OUTPUT_BANLIST = BANLIST_TITLE + ".lflist.conf"
+FILE_OUTPUT_BANLIST = BANLIST_TITLE + ".lflist.conf.edopro"
 FILE_CACHE_BANLIST = BANLIST_TITLE + ".html"
 FOLDER_OUTPUT = "output"#Folder to save all json files per set
 
