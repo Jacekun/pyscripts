@@ -11,10 +11,13 @@ on:
         description: Git Ref (Optional)
         required: false
       clear-logs:
-        description: Clear Logs, 1 = true
+        description: Clear 'logs' folder | 1 = true
         required: false
       clear-output:
-        description: Clear Output setlist, 1 = true
+        description: Clear 'output' folder | 1 = true
+        required: false
+      clear-setlist-log:
+        description: Clear Setlist log | 1 = true
         required: false
 
 permissions:
@@ -64,15 +67,21 @@ jobs:
             ls -R .
             git show-ref
         
-      - name: Clear logs
+      - name: Clear logs subfolder
         working-directory: './${{ env.FOLDER }}'
         if: github.event.inputs.clear-logs == '1'
         run: |
             rm -r ${{ env.FOLDER_LOGS }}
       
-      - name: Clear output setlist
+      - name: Clear output subfolder
         working-directory: './${{ env.FOLDER }}'
         if: github.event.inputs.clear-output == '1'
+        run: |
+            rm -r ${{ env.FOLDER_OUTPUT }}
+      
+      - name: Clear setlist log file
+        working-directory: './${{ env.FOLDER }}'
+        if: github.event.inputs.clear-setlist-log == '1'
         run: |
             rm ${{ env.FILE_SETDONE }}
       
