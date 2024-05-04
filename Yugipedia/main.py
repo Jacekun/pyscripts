@@ -437,7 +437,8 @@ try:
                         if successCardList:
                             Utils.append_file(FILE_OUTPUT_DONE_SET, f"{NEWLINE}{setPrefix}")
                         else:
-                            raise Exception(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
+                            Utils.log(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
+                            #raise Exception(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
                     
                     outputListCardData.clear()
 
