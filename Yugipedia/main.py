@@ -182,80 +182,81 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
 
         Utils.log(f"Set list page => Release date: {setReleaseDate}")
         
-        soupListMain = soupObj.find("div", { "class": "set-list" })
+        soupListMain = soupObj.find_all("div", { "class": "set-list" })
         if not soupListMain:
             raise Exception("Set list page => 'div' with class 'set-list' not found.")
+        
+        for soupItemMain in soupListMain:
+            soupListMainElem = soupItemMain.find_all("tr")
+            if not soupListMainElem:
+                raise Exception("Set list page => 'tr' element not found.")
 
-        soupListMainElem = soupListMain.find_all("tr")
-        if not soupListMainElem:
-            raise Exception("Set list page => 'tr' element not found.")
-
-        dictAlreadyExist = load_dict_from_json(filename)
-        for soupItem in soupListMainElem:
-            soupItemListProp = soupItem.find_all("td")
-            
-            if soupItemListProp:    
-                lenSoupListProp: int = len(soupItemListProp)
+            dictAlreadyExist = load_dict_from_json(filename)
+            for soupItem in soupListMainElem:
+                soupItemListProp = soupItem.find_all("td")
                 
-                cardUrlElemA = soupItemListProp[INDEX_SETCODE].find("a")
-                if not cardUrlElemA:
-                    raise Exception("Set list page => 'a' element not found for Card URL.")
+                if soupItemListProp:    
+                    lenSoupListProp: int = len(soupItemListProp)
+                    
+                    cardUrlElemA = soupItemListProp[INDEX_SETCODE].find("a")
+                    if not cardUrlElemA:
+                        raise Exception("Set list page => 'a' element not found for Card URL.")
 
-                cardUrl = cardUrlElemA["href"]
-                cardUrl = cardUrl if cardUrl.startswith(LINK_MAIN) else LINK_MAIN + cardUrl
-                cardSetcode = cardUrlElemA.text.strip().upper()
-                cardName = soupItemListProp[INDEX_NAME].find("a").text.strip()
-                cardNameJap = ""
-                cardCategory = ""
-                cardRaritiesElem = None
-                cardPasscode = 0
+                    cardUrl = cardUrlElemA["href"]
+                    cardUrl = cardUrl if cardUrl.startswith(LINK_MAIN) else LINK_MAIN + cardUrl
+                    cardSetcode = cardUrlElemA.text.strip().upper()
+                    cardName = soupItemListProp[INDEX_NAME].find("a").text.strip()
+                    cardNameJap = ""
+                    cardCategory = ""
+                    cardRaritiesElem = None
+                    cardPasscode = 0
 
-                if dictAlreadyExist:
-                    if cardSetcode in dictAlreadyExist:
-                        cardPasscode = dictAlreadyExist[cardSetcode]
-                        Utils.log(f"Set list page => Use cached passcode from existing json file. Passcode: {cardPasscode}")
+                    if dictAlreadyExist:
+                        if cardSetcode in dictAlreadyExist:
+                            cardPasscode = dictAlreadyExist[cardSetcode]
+                            Utils.log(f"Set list page => Use cached passcode from existing json file. Passcode: {cardPasscode}")
 
-                if cardPasscode == 0:
-                    cardPasscode = get_card_passcode(cardUrl)
+                    if cardPasscode == 0:
+                        cardPasscode = get_card_passcode(cardUrl)
 
-                if lenSoupListProp >= 5:
-                    cardNameJap = soupItemListProp[INDEX_JAP_NAME].text.strip()
-                    cardCategory = soupItemListProp[INDEX_CATEGORY].text.strip()
-                    cardRaritiesElem = soupItemListProp[INDEX_RARITY]
-                else:
-                    cardCategory = soupItemListProp[INDEX_CATEGORY_NOJP].text.strip()
-                    cardRaritiesElem = soupItemListProp[INDEX_RARITY_NOJP]
+                    if lenSoupListProp >= 5:
+                        cardNameJap = soupItemListProp[INDEX_JAP_NAME].text.strip()
+                        cardCategory = soupItemListProp[INDEX_CATEGORY].text.strip()
+                        cardRaritiesElem = soupItemListProp[INDEX_RARITY]
+                    else:
+                        cardCategory = soupItemListProp[INDEX_CATEGORY_NOJP].text.strip()
+                        cardRaritiesElem = soupItemListProp[INDEX_RARITY_NOJP]
 
-                if not cardRaritiesElem:
-                    cardItem = CardData(
-                        name = cardName, 
-                        passcode = cardPasscode,
-                        wikilink = cardUrl, 
-                        set_number = cardSetcode,
-                        rarity =  "Normal", 
-                        date_release = setReleaseDate,
-                        date_release_epoch = setReleaseDateEpoch
-                    )
-                    listCardItems.append(cardItem)
-                else:
-                    for cardRarityEl in cardRaritiesElem:
-                        cardRarity = cardRarityEl.text.strip()
+                    if not cardRaritiesElem:
                         cardItem = CardData(
                             name = cardName, 
                             passcode = cardPasscode,
                             wikilink = cardUrl, 
                             set_number = cardSetcode,
-                            rarity =  cardRarity, 
+                            rarity =  "", 
                             date_release = setReleaseDate,
                             date_release_epoch = setReleaseDateEpoch
                         )
                         listCardItems.append(cardItem)
+                    else:
+                        for cardRarityEl in cardRaritiesElem:
+                            cardRarity = cardRarityEl.text.strip()
+                            cardItem = CardData(
+                                name = cardName, 
+                                passcode = cardPasscode,
+                                wikilink = cardUrl, 
+                                set_number = cardSetcode,
+                                rarity =  cardRarity, 
+                                date_release = setReleaseDate,
+                                date_release_epoch = setReleaseDateEpoch
+                            )
+                            listCardItems.append(cardItem)
 
-                Utils.log(f"Item => Setcode: {cardSetcode} | URL: {cardUrl} | Name: {cardName}")
-                Utils.log(LINE_BREAK)
+                    Utils.log(f"Item => Setcode: {cardSetcode} | URL: {cardUrl} | Name: {cardName}")
+                    Utils.log(LINE_BREAK)
 
-                time.sleep(DELAY_PASSCODE) # Throttle process to prevent overloading website.
-        ##
+                    time.sleep(DELAY_PASSCODE) # Throttle process to prevent overloading website.
+            ##
     elif reqMain.status_code == 404:
         Utils.log(f"Page not found. Will skip.")
     else:
@@ -459,8 +460,8 @@ try:
                 # Save output even if not succes, for cache
                 if outputListCardData:
                     Utils.log(f"Creating output json file for set '{setPrefix}' => {outputFileSet}")
-                    outputListCardDataFiltered = filter_list_unique_set(outputListCardData)
-                    resultSuccess = save_cardlist_to_json(outputFileSet, outputListCardDataFiltered)
+                    #outputListCardDataFiltered = filter_list_unique_set(outputListCardData)
+                    resultSuccess = save_cardlist_to_json(outputFileSet, outputListCardData)
                     if resultSuccess:
                         count += 1
                         # Save prefix only if all cards from setlist is processed.
