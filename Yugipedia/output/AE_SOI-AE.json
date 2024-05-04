@@ -1,0 +1,882 @@
+[
+    {
+        "name": "Uria, Lord of Searing Flames",
+        "passcode": 6007213,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE001",
+        "set_number": "SOI-AE001",
+        "rarity": "Ultra Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Uria, Lord of Searing Flames",
+        "passcode": 6007213,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE001",
+        "set_number": "SOI-AE001",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Uria, Lord of Searing Flames",
+        "passcode": 6007213,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE001",
+        "set_number": "SOI-AE001",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Hamon, Lord of Striking Thunder",
+        "passcode": 32491822,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE002",
+        "set_number": "SOI-AE002",
+        "rarity": "Ultra Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Hamon, Lord of Striking Thunder",
+        "passcode": 32491822,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE002",
+        "set_number": "SOI-AE002",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Hamon, Lord of Striking Thunder",
+        "passcode": 32491822,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE002",
+        "set_number": "SOI-AE002",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Raviel, Lord of Phantasms",
+        "passcode": 69890967,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE003",
+        "set_number": "SOI-AE003",
+        "rarity": "Ultra Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Raviel, Lord of Phantasms",
+        "passcode": 69890967,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE003",
+        "set_number": "SOI-AE003",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Raviel, Lord of Phantasms",
+        "passcode": 69890967,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE003",
+        "set_number": "SOI-AE003",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Elemental Hero Neo Bubbleman",
+        "passcode": 5285665,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE004",
+        "set_number": "SOI-AE004",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Hero Kid",
+        "passcode": 32679370,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE005",
+        "set_number": "SOI-AE005",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyber Barrier Dragon",
+        "passcode": 68774379,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE006",
+        "set_number": "SOI-AE006",
+        "rarity": "Super Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyber Barrier Dragon",
+        "passcode": 68774379,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE006",
+        "set_number": "SOI-AE006",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyber Barrier Dragon",
+        "passcode": 68774379,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE006",
+        "set_number": "SOI-AE006",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyber Laser Dragon",
+        "passcode": 4162088,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE007",
+        "set_number": "SOI-AE007",
+        "rarity": "Ultra Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyber Laser Dragon",
+        "passcode": 4162088,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE007",
+        "set_number": "SOI-AE007",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyber Laser Dragon",
+        "passcode": 4162088,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE007",
+        "set_number": "SOI-AE007",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ancient Gear",
+        "passcode": 31557782,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE008",
+        "set_number": "SOI-AE008",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ancient Gear Cannon",
+        "passcode": 80045583,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE009",
+        "set_number": "SOI-AE009",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Proto-Cyber Dragon",
+        "passcode": 26439287,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE010",
+        "set_number": "SOI-AE010",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Proto-Cyber Dragon",
+        "passcode": 26439287,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE010",
+        "set_number": "SOI-AE010",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Proto-Cyber Dragon",
+        "passcode": 26439287,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE010",
+        "set_number": "SOI-AE010",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Adhesive Explosive",
+        "passcode": 53828396,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE011",
+        "set_number": "SOI-AE011",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Adhesive Explosive",
+        "passcode": 53828396,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE011",
+        "set_number": "SOI-AE011",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Adhesive Explosive",
+        "passcode": 53828396,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE011",
+        "set_number": "SOI-AE011",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Machine King Prototype",
+        "passcode": 89222931,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE012",
+        "set_number": "SOI-AE012",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "B.E.S. Covered Core",
+        "passcode": 15317640,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE013",
+        "set_number": "SOI-AE013",
+        "rarity": "Super Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "B.E.S. Covered Core",
+        "passcode": 15317640,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE013",
+        "set_number": "SOI-AE013",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "B.E.S. Covered Core",
+        "passcode": 15317640,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE013",
+        "set_number": "SOI-AE013",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "D.D. Guide",
+        "passcode": 52702748,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE014",
+        "set_number": "SOI-AE014",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Chain Thrasher",
+        "passcode": 88190453,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE015",
+        "set_number": "SOI-AE015",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Disciple of the Forbidden Spell",
+        "passcode": 15595052,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE016",
+        "set_number": "SOI-AE016",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Tenkabito Shien",
+        "passcode": 41589166,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE017",
+        "set_number": "SOI-AE017",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Parasitic Ticky",
+        "passcode": 87978805,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE018",
+        "set_number": "SOI-AE018",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Gokipon",
+        "passcode": 14472500,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE019",
+        "set_number": "SOI-AE019",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Silent Insect",
+        "passcode": 40867519,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE020",
+        "set_number": "SOI-AE020",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Chainsaw Insect",
+        "passcode": 77252217,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE021",
+        "set_number": "SOI-AE021",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Chainsaw Insect",
+        "passcode": 77252217,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE021",
+        "set_number": "SOI-AE021",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Chainsaw Insect",
+        "passcode": 77252217,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE021",
+        "set_number": "SOI-AE021",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Anteatereatingant",
+        "passcode": 13250922,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE022",
+        "set_number": "SOI-AE022",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Saber Beetle",
+        "passcode": 49645921,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE023",
+        "set_number": "SOI-AE023",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Doom Dozer",
+        "passcode": 76039636,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE024",
+        "set_number": "SOI-AE024",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Doom Dozer",
+        "passcode": 76039636,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE024",
+        "set_number": "SOI-AE024",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Doom Dozer",
+        "passcode": 76039636,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE024",
+        "set_number": "SOI-AE024",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Treeborn Frog",
+        "passcode": 12538374,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE025",
+        "set_number": "SOI-AE025",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Treeborn Frog",
+        "passcode": 12538374,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE025",
+        "set_number": "SOI-AE025",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Treeborn Frog",
+        "passcode": 12538374,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE025",
+        "set_number": "SOI-AE025",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Beelze Frog",
+        "passcode": 49522489,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE026",
+        "set_number": "SOI-AE026",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Princess Pikeru",
+        "passcode": 75917088,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE027",
+        "set_number": "SOI-AE027",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Princess Pikeru",
+        "passcode": 75917088,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE027",
+        "set_number": "SOI-AE027",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Princess Pikeru",
+        "passcode": 75917088,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE027",
+        "set_number": "SOI-AE027",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Princess Curran",
+        "passcode": 2316186,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE028",
+        "set_number": "SOI-AE028",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Princess Curran",
+        "passcode": 2316186,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE028",
+        "set_number": "SOI-AE028",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Princess Curran",
+        "passcode": 2316186,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE028",
+        "set_number": "SOI-AE028",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Memory Crusher",
+        "passcode": 48700891,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE029",
+        "set_number": "SOI-AE029",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Memory Crusher",
+        "passcode": 48700891,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE029",
+        "set_number": "SOI-AE029",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Memory Crusher",
+        "passcode": 48700891,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE029",
+        "set_number": "SOI-AE029",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Malice Ascendant",
+        "passcode": 14255590,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE030",
+        "set_number": "SOI-AE030",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Grass Phantom",
+        "passcode": 41249545,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE031",
+        "set_number": "SOI-AE031",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Sand Moth",
+        "passcode": 73648243,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE032",
+        "set_number": "SOI-AE032",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Divine Dragon - Excelion",
+        "passcode": 10032958,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE033",
+        "set_number": "SOI-AE033",
+        "rarity": "Super Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Divine Dragon - Excelion",
+        "passcode": 10032958,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE033",
+        "set_number": "SOI-AE033",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Divine Dragon - Excelion",
+        "passcode": 10032958,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE033",
+        "set_number": "SOI-AE033",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ruin, Queen of Oblivion",
+        "passcode": 46427957,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE034",
+        "set_number": "SOI-AE034",
+        "rarity": "Super Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ruin, Queen of Oblivion",
+        "passcode": 46427957,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE034",
+        "set_number": "SOI-AE034",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ruin, Queen of Oblivion",
+        "passcode": 46427957,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE034",
+        "set_number": "SOI-AE034",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Demise, King of Armageddon",
+        "passcode": 72426662,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE035",
+        "set_number": "SOI-AE035",
+        "rarity": "Super Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Demise, King of Armageddon",
+        "passcode": 72426662,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE035",
+        "set_number": "SOI-AE035",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Demise, King of Armageddon",
+        "passcode": 72426662,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE035",
+        "set_number": "SOI-AE035",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "D.3.S. Frog",
+        "passcode": 9910360,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE036",
+        "set_number": "SOI-AE036",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Hero Heart",
+        "passcode": 67951831,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE037",
+        "set_number": "SOI-AE037",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Magnet Circle LV2",
+        "passcode": 94940436,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE038",
+        "set_number": "SOI-AE038",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ancient Gear Factory",
+        "passcode": 30435145,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE039",
+        "set_number": "SOI-AE039",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ancient Gear Drill",
+        "passcode": 67829249,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE040",
+        "set_number": "SOI-AE040",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Phantasmal Martyrs",
+        "passcode": 93224848,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE041",
+        "set_number": "SOI-AE041",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Phantasmal Martyrs",
+        "passcode": 93224848,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE041",
+        "set_number": "SOI-AE041",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Phantasmal Martyrs",
+        "passcode": 93224848,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE041",
+        "set_number": "SOI-AE041",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyclone Boomerang",
+        "passcode": 29612557,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE042",
+        "set_number": "SOI-AE042",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyclone Boomerang",
+        "passcode": 29612557,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE042",
+        "set_number": "SOI-AE042",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Cyclone Boomerang",
+        "passcode": 29612557,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE042",
+        "set_number": "SOI-AE042",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Symbol of Heritage",
+        "passcode": 45305419,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE043",
+        "set_number": "SOI-AE043",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Trial of the Princesses",
+        "passcode": 72709014,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE044",
+        "set_number": "SOI-AE044",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Photon Generator Unit",
+        "passcode": 66607691,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE045",
+        "set_number": "SOI-AE045",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "End of the World",
+        "passcode": 8198712,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE046",
+        "set_number": "SOI-AE046",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ancient Gear Castle",
+        "passcode": 92001300,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE047",
+        "set_number": "SOI-AE047",
+        "rarity": "Super Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ancient Gear Castle",
+        "passcode": 92001300,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE047",
+        "set_number": "SOI-AE047",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Ancient Gear Castle",
+        "passcode": 92001300,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE047",
+        "set_number": "SOI-AE047",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Samsara",
+        "passcode": 44182827,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE048",
+        "set_number": "SOI-AE048",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Super Junior Confrontation",
+        "passcode": 29590905,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE049",
+        "set_number": "SOI-AE049",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Miracle Kids",
+        "passcode": 55985014,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE050",
+        "set_number": "SOI-AE050",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Attack Reflector Unit",
+        "passcode": 91989718,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE051",
+        "set_number": "SOI-AE051",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Damage Condenser",
+        "passcode": 28378427,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE052",
+        "set_number": "SOI-AE052",
+        "rarity": "Super Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Damage Condenser",
+        "passcode": 28378427,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE052",
+        "set_number": "SOI-AE052",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Damage Condenser",
+        "passcode": 28378427,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE052",
+        "set_number": "SOI-AE052",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Karma Cut",
+        "passcode": 71587526,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE053",
+        "set_number": "SOI-AE053",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Karma Cut",
+        "passcode": 71587526,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE053",
+        "set_number": "SOI-AE053",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Karma Cut",
+        "passcode": 71587526,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE053",
+        "set_number": "SOI-AE053",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Next to be Lost",
+        "passcode": 7076131,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE054",
+        "set_number": "SOI-AE054",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Generation Shift",
+        "passcode": 34460239,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE055",
+        "set_number": "SOI-AE055",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Full Salvo",
+        "passcode": 70865988,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE056",
+        "set_number": "SOI-AE056",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Success Probability 0%",
+        "passcode": 6859683,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE057",
+        "set_number": "SOI-AE057",
+        "rarity": "Common",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Option Hunter",
+        "passcode": 33248692,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE058",
+        "set_number": "SOI-AE058",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Option Hunter",
+        "passcode": 33248692,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE058",
+        "set_number": "SOI-AE058",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Option Hunter",
+        "passcode": 33248692,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE058",
+        "set_number": "SOI-AE058",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Goblin Out of the Frying Pan",
+        "passcode": 69632396,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE059",
+        "set_number": "SOI-AE059",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Goblin Out of the Frying Pan",
+        "passcode": 69632396,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE059",
+        "set_number": "SOI-AE059",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Goblin Out of the Frying Pan",
+        "passcode": 69632396,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE059",
+        "set_number": "SOI-AE059",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Malfunction",
+        "passcode": 6137095,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE060",
+        "set_number": "SOI-AE060",
+        "rarity": "Rare",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Malfunction",
+        "passcode": 6137095,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE060",
+        "set_number": "SOI-AE060",
+        "rarity": "",
+        "date_release": "26 October 2006"
+    },
+    {
+        "name": "Malfunction",
+        "passcode": 6137095,
+        "wikilink": "https://yugipedia.com/wiki/SOI-AE060",
+        "set_number": "SOI-AE060",
+        "rarity": "Ultimate Rare",
+        "date_release": "26 October 2006"
+    }
+]
