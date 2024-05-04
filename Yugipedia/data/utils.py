@@ -123,3 +123,7 @@ class Utils(object):
         except Exception as e:
             Utils.log_err("Error", e)
             return None
+    
+    @staticmethod
+    def string_to_datetime(datestr: str) -> datetime:
+        return datetime.strptime(datestr, "%d %B %Y")
