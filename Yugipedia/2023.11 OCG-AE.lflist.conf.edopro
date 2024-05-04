@@ -50,6 +50,103 @@ $whitelist
 77622396 3 # Reverse Trap
 51482758 3 # Remove Trap
 44209392 3 # Castle Walls
+53183600 3 # Blue-Eyes Toon Dragon
+36039163 3 # Penguin Knight
+40619825 3 # Axe of Despair
+65169794 3 # Black Pendant
+38552107 3 # Horn of Light
+99597615 3 # Malevolent Nuzzler
+18807108 3 # Spellbinding Circle
+55998462 3 # Metal Fish
+11324436 3 # Electric Snake
+73081602 3 # Queen Bird
+95174353 3 # Ameba
+20624263 3 # Peacock
+93013676 3 # Maha Vailo
+47879985 3 # Guardian of the Throne Room
+46534755 3 # Fire Kraken
+32539892 3 # Minar
+95744531 3 # Griggle
+56789759 3 # Tyhone 2
+14015067 3 # Ancient One of the Deep Forest
+35565537 3 # Dark Witch
+72053645 3 # Weather Report
+34442949 3 # Mechanical Snail
+96981563 3 # Giant Turtle Who Feeds on Flames
+93108297 3 # Liquid Beast
+81863068 3 # Hiro's Shadow Scout
+54579801 3 # High Tide Gyojin
+3056267 3 # Invader of the Throne
+91996584 3 # Whiptail Crow
+3797883 3 # Slot Machine
+64631466 3 # Relinquished
+65570596 3 # Red Archery Girl
+16762927 3 # Gravekeeper's Servant
+12470447 3 # Curse of Fiend
+70368879 3 # Upstart Goblin
+82003859 3 # Toll
+18591904 3 # Final Destiny
+81380218 3 # Chorus of Sanctuary
+80168720 3 # Darkness Approaches
+17653779 3 # Fairy's Hand Mirror
+43641473 3 # Tailor of the Fickle
+70046172 3 # Rush Recklessly
+16430187 3 # The Reliable Guardian
+79323590 3 # Chain Energy
+5318639 3 # Mystical Space Typhoon
+596051 3 # Snake Fang
+41426869 3 # Black Illusion Ritual
+74637266 3 # Octoberser
+7892180 3 # Psychic Kappa
+64047146 3 # Horn of the Unicorn
+67284908 3 # Labyrinth Wall
+63162310 3 # Wall Shadow
+29692206 3 # Twin Long Rods 2
+15023985 3 # Stone Ogre Grotto
+64389297 3 # Magical Labyrinth
+95051344 3 # Eternal Rest
+22046459 3 # Megamorph
+43417563 3 # Commencement Dance
+80811661 3 # Hamburger Recipe
+15083728 3 # House of Adhesive Tape
+42578427 3 # Eatgaboon
+76806714 3 # Turtle Oath
+4849037 3 # Performance of Sword
+30243636 3 # Hungry Burger
+91782219 3 # Crab Turtle
+2964201 3 # Ryu-Ran
+38369349 3 # Manga Ryu-Ran
+65458948 3 # Toon Mermaid
+91842653 3 # Toon Summoned Skull
+90020065 3 # Jigen Bakudan
+62397231 3 # Hyozanryu
+15259703 3 # Toon World
+61528025 3 # Banisher of the Light
+97017120 3 # Giant Rat
+23401839 3 # Senju of the Thousand Hands
+60806437 3 # UFO Turtle
+96890582 3 # Flash Assailant
+23289281 3 # Karate Man
+59784896 3 # Dark Zebra
+95178994 3 # Giant Germ
+22567609 3 # Nimble Momonga
+58551308 3 # Spear Cretin
+95956346 3 # Shining Angel
+21340051 3 # Boar Soldier
+57839750 3 # Mother Grizzly
+84834865 3 # Flying Kamakiri 1
+20228463 3 # Ceremonial Bell
+57617178 3 # Sonic Bird
+83011277 3 # Mystic Tomato
+19406822 3 # Kotodama
+56594520 3 # Gaia Power
+82999629 3 # Umiiruka
+19384334 3 # Molten Destruction
+45778932 3 # Rising Air Current
+81777047 3 # Luminous Spark
+18161786 3 # Mystic Plasma Zone
+44656491 3 # Messenger of Peace
+66516792 3 # Serpent Night Dragon
 15025844 3 # Mystical Elf
 41392891 3 # Feral Imp
 87796900 3 # Winged Dragon, Guardian of the Fortress 1
@@ -86,6 +183,110 @@ $whitelist
 50045299 3 # Dragon Capture Jar
 59197169 3 # Yami
 54652250 3 # Man-Eater Bug
+69140098 3 # Gemini Elf
+49064413 3 # The Masked Beast
+3573512 3 # Swordsman of Landstar
+46821314 3 # Humanoid Slime
+73216412 3 # Worm Drake
+5600127 3 # Humanoid Worm Drake
+31709826 3 # Revival Jam
+31987274 3 # Flying Fish
+67371383 3 # Amphibian Beast
+87303357 3 # Shining Abyss
+86281779 3 # Gadget Soldier
+13676474 3 # Grand Tiki Elder
+86569121 3 # Melchid the Four-Face Beast
+12953226 3 # Nuvia the Wicked
+21888494 3 # Chosen One
+57882509 3 # Mask of Weakness
+94377247 3 # Curse of the Masked Beast
+20765952 3 # Mask of Dispel
+29549364 3 # Mask of Restrict
+56948373 3 # Mask of the Accursed
+82432018 3 # Mask of Brutality
+19827717 3 # Return of the Doomed
+55226821 3 # Lightning Blade
+18605135 3 # Tornado Wall
+21598948 3 # Fairy Box
+53582587 3 # Torrential Tribute
+21770260 3 # Jam Breeding Machine
+94163677 3 # Infinite Cards
+21558682 3 # Jam Defender
+38480590 3 # Lady Panther
+65475294 3 # The Unfriendly Amazon
+91869203 3 # Amazoness Archer
+28358902 3 # Crimson Sentry
+64752646 3 # Fire Princess
+90147755 3 # Lady Assailant of Flames
+27132350 3 # Fire Sorcerer
+53530069 3 # Spirit of the Breeze
+90925163 3 # Dancing Fairy
+22419772 3 # Fairy Guardian
+58818411 3 # Empress Mantis
+85802526 3 # Cure Mermaid
+21297224 3 # Hysteric Fairy
+58696829 3 # Bio-Mage
+84080938 3 # The Forgiving Maiden
+21175632 3 # St. Joan
+57579381 3 # Marie the Fallen One
+83968380 3 # Jar of Greed
+10352095 3 # Scroll of Bewitchment
+56747793 3 # United We Stand
+83746708 3 # Mage Power
+19230407 3 # Offerings to the Doomed
+32541773 3 # The Portrait's Secret
+68049471 3 # The Gross Ghost of Fled Dreams
+5434080 3 # Headless Knight
+67105242 3 # Earthbound Spirit
+66989694 3 # The Earl of Demise
+98456117 3 # Boneheimer
+12883044 3 # Flame Dancer
+52121290 3 # Spherous Lady
+27671321 3 # Lightning Conger
+41855169 3 # Jowgen the Spiritualist
+88240808 3 # Kycoo the Ghost Destroyer
+14644902 3 # Summoner of Illusions
+40133511 3 # Bazoo the Soul-Eater
+31829185 3 # Dark Necrofear
+77527210 3 # Soul of Purity and Light
+13522325 3 # Spirit of Flames
+40916023 3 # Aqua Spirit
+76305638 3 # The Rock Spirit
+12800777 3 # Garuda the Wind Spirit
+45894482 3 # Gilasaurus
+71283180 3 # Tornado Bird
+8687195 3 # Dreamsprite
+88472456 3 # Zombyra the Dark
+44072894 3 # Supply
+71466592 3 # Maryokutai
+86099788 3 # The Last Warrior from Another Planet
+7565547 3 # Collected Power
+93599951 3 # Dark Spirit of the Silent
+33950246 3 # Royal Command
+70344351 3 # Riryoku Field
+6733059 3 # Skull Lair
+33737664 3 # Graverobber's Retribution
+69122763 3 # Deal of Phantom
+5616412 3 # Destruction Punch
+32015116 3 # Blind Destruction
+68400115 3 # The Emperor's Holiday
+94212438 3 # Destiny Board
+31893528 3 # Spirit Message "I"
+67287533 3 # Spirit Message "N"
+94772232 3 # Spirit Message "A"
+30170981 3 # Spirit Message "L"
+30606547 3 # The Dark Door
+15866454 3 # Spiritualism
+5494820 3 # Cyclon Laser
+7165085 3 # Bait Doll
+95286165 3 # De-Fusion
+33550694 3 # Fusion Gate
+69954399 3 # Ekibyo Drakmord
+6343408 3 # Miracle Dig
+32437102 3 # Dragonic Attack
+69832741 3 # Spirit Elimination
+95220856 3 # Vengeful Bog Spirit
+62279055 3 # Magic Cylinder
 25833572 3 # Gate Guardian
 68846917 3 # Rock Ogre Grotto 1
 15480588 3 # Armored Lizard
@@ -314,3 +515,105 @@ $whitelist
 7902349 3 # Left Arm of the Forbidden One
 33396948 3 # Exodia the Forbidden One
 66889139 3 # Gaia the Dragon Champion
+77585513 3 # Jinzo
+90908427 3 # Steel Ogre Grotto 2
+78423643 3 # Three-Headed Geedo
+27911549 3 # Parasite Paracide
+86198326 3 # 7 Completed
+49587034 3 # Lightforce Sword
+1248895 3 # Chain Destruction
+35316708 3 # Time Seal
+61705417 3 # Graverobber
+98299011 3 # Gift of The Mystical Elf
+34694160 3 # The Eye of Truth
+60082869 3 # Dust Tornado
+97077563 3 # Call of the Haunted
+23471572 3 # Solomon's Lawbook
+60866277 3 # Earthshaker
+96355986 3 # Enchanted Javelin
+22359980 3 # Mirror Wall
+73079365 3 # Gust
+473469 3 # Driving Snow
+36868108 3 # Armored Glass
+12253117 3 # World Suppression
+49251811 3 # Mystic Probe
+75646520 3 # Metal Detector
+2130625 3 # Numinous Healer
+48539234 3 # Appropriate
+74923978 3 # Forced Requisition
+74701381 3 # DNA Surgery
+296499 3 # The Regulation of Tribe
+36280194 3 # Backup Soldier
+9074847 3 # Major Riot
+36468556 3 # Ceasefire
+62867251 3 # Light of Intervention
+8951260 3 # Respect Play
+81210420 3 # Magical Hats
+71044499 3 # Nobleman of Crossout
+17449108 3 # Nobleman of Extermination
+43434803 3 # The Shallow Grave
+16227556 3 # Inspection
+43711255 3 # Prohibition
+79106360 3 # Morphing Jar 2
+42599677 3 # Flame Champion
+78984772 3 # Twin-Headed Fire Dragon
+5388481 3 # Darkfire Soldier 1
+31477025 3 # Mr. Volcano
+78861134 3 # Darkfire Soldier 2
+4266839 3 # Kiseitai
+30655537 3 # Cyber Falcon
+3134241 3 # Flying Kamakiri 2
+30532390 3 # Sky Scout
+78193831 3 # Buster Blader
+37580756 3 # Michizure
+1918087 3 # Minor Goblin Official
+37313786 3 # Gamble
+63689843 3 # Attack and Receive
+35346968 3 # Solemn Wishes
+98139712 3 # Skull Invitation
+6104968 3 # Bubonic Vermin
+67049542 3 # Dark Bat
+66927994 3 # Oni Tank T-34
+2311603 3 # Overdrive
+24294108 3 # Burning Land
+97687912 3 # Fairy Meteor Crush
+23171610 3 # Limiter Removal
+66719324 3 # Rain of Mercy
+93108433 3 # Monster Recovery
+59560625 3 # Shift
+96965364 3 # Insect Imitation
+22959079 3 # Dimensionhole
+90502999 3 # Ground Collapse
+59344077 3 # Magic Drain
+54109233 3 # Infinite Dismissal
+85742772 3 # Gravity Bind
+21237481 3 # Type Zero Magic Crusher
+58621589 3 # Shadow of Eyes
+3643300 3 # The Legendary Fisherman
+51345461 3 # Sword Hunter
+88733579 3 # Drill Bug
+24128274 3 # Deepsea Warrior
+50122883 3 # Bite Shoes
+87511987 3 # Spikebot
+52675689 3 # Invitation to a Dark Sleep
+27125110 3 # Thousand-Eyes Idol
+63519819 3 # Thousand-Eyes Restrict
+84620194 3 # Girochin Kuwagata
+21015833 3 # Hayabusa Knight
+57409948 3 # Bombardment Beetle
+83994646 3 # 4-Starred Ladybug of Doom
+10992251 3 # Gradius
+56387350 3 # Vampire Baby
+79870141 3 # Mad Sword Beast
+5265750 3 # Skull Mariner
+32269855 3 # The All-Seeing White Tiger
+78658564 3 # Goblin Attack Force
+4042268 3 # Island Turtle
+31447217 3 # Wingweaver
+67532912 3 # Science Soldier
+4920010 3 # Souls of the Forgotten
+30325729 3 # Dokuroyaiba
+66362965 3 # The Fiend Megacyber
+423705 3 # Gearfried the Iron Knight
+23615409 3 # Insect Barrier
+11761845 3 # Beast of Talwar
