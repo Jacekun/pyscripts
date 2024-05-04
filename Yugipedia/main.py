@@ -18,7 +18,7 @@ NEWLINE = '\n'
 DELAY_SETLIST = 3
 DELAY_PASSCODE = 1
 BANLIST_FORMAT = "Yu-Gi-Oh! AE"
-BANLIST_TITLE = "2023.11 OCG_AE"
+BANLIST_TITLE = "2023.11 OCG-AE"
 
 # Index
 INDEX_SETCODE = 0
@@ -30,6 +30,7 @@ INDEX_CATEGORY = 4
 INDEX_RARITY_NOJP = 2
 INDEX_CATEGORY_NOJP = 3
 
+# Links and Prefix
 LINK_MAIN = "https://yugipedia.com"
 LINK_WIKI = LINK_MAIN + "/wiki/"
 PREFIX_CARDLIST = "Set_Card_Lists:"
@@ -54,6 +55,7 @@ HEADERS = {
     'Referer': LINK_MAIN,
     "Content-Type": "text/html",
 }
+LINE_BREAK = "==================================================================================================="
 
 # Methods
 def get_setlist_from_wikilink(inputString: str, format: str) -> str:
@@ -111,10 +113,52 @@ def get_card_passcode(wikilink: str) -> int:
 
     return cardPasscode
 
-def process_setlist(inputString: str) -> list[CardData]:
+def load_dict_from_json(filename: str) -> dict[str, int]:
+    # Load contents from file
+    jsobObj = Utils.read_json(filename)
+    dictReturn = { }
+
+    if jsobObj:
+        for item in jsobObj:
+            setCode = str(item["set_number"]).strip().upper()
+            passCode = int(item["passcode"])
+            dictReturn[setCode] = passCode
+
+        return dictReturn
+    
+    return None
+
+def save_cardlist_to_json(outputFileSet: str, outputListCardData: list[CardData]) -> bool:
+    Utils.log(f"Saving Card List to JSON file => {outputFileSet}")
+    dumpListToDict = []
+    for itemListCardData in outputListCardData:
+        newItemDict = itemListCardData.model_dump(mode="dict")# IMPT! Convert data to format that can be serialized.
+        dumpListToDict.append(newItemDict)
+
+    resultSuccess = Utils.write_json(outputFileSet, dumpListToDict)
+    if resultSuccess:
+        Utils.log(f"Successfully created json file.")
+        return True
+    
+    return False
+
+def filter_list_unique_set(cardList: list[CardData]) -> list[CardData]:
+    Utils.log(f"Filtering list..")
+    returnList: list[CardData] = []
+    listAlreadyExist: list[str] = []
+
+    for item in cardList:
+        if item.set_number in listAlreadyExist:
+            pass
+        else:
+            listAlreadyExist.append(item.set_number)
+            returnList.append(item)
+
+    return returnList
+
+def process_setlist(inputString: str, filename: str, listCardItems: list[CardData]) -> bool:
     # Vars
     count = 0
-    listCardItems = []
 
     # Get page
     reqMain = requests.get(url = inputString, headers = HEADERS)
@@ -144,6 +188,7 @@ def process_setlist(inputString: str) -> list[CardData]:
         if not soupListMainElem:
             raise Exception("Set list page => 'tr' element not found.")
 
+        dictAlreadyExist = load_dict_from_json(filename)
         for soupItem in soupListMainElem:
             soupItemListProp = soupItem.find_all("td")
             
@@ -161,7 +206,15 @@ def process_setlist(inputString: str) -> list[CardData]:
                 cardNameJap = ""
                 cardCategory = ""
                 cardRaritiesElem = None
-                cardPasscode = get_card_passcode(cardUrl)
+                cardPasscode = 0
+
+                if dictAlreadyExist:
+                    if cardSetcode in dictAlreadyExist:
+                        cardPasscode = dictAlreadyExist[cardSetcode]
+                        Utils.log(f"Set list page => Use cached passcode from existing json file. Passcode: {cardPasscode}")
+
+                if cardPasscode == 0:
+                    cardPasscode = get_card_passcode(cardUrl)
 
                 if lenSoupListProp >= 5:
                     cardNameJap = soupItemListProp[INDEX_JAP_NAME].text.strip()
@@ -195,7 +248,7 @@ def process_setlist(inputString: str) -> list[CardData]:
                         listCardItems.append(cardItem)
 
                 Utils.log(f"Item => Setcode: {cardSetcode} | URL: {cardUrl} | Name: {cardName}")
-                Utils.log(f"===================================================================================================")
+                Utils.log(LINE_BREAK)
 
                 time.sleep(DELAY_PASSCODE) # Throttle process to prevent overloading website.
         ##
@@ -204,10 +257,10 @@ def process_setlist(inputString: str) -> list[CardData]:
     else:
         raise Exception(f"Cannot download page: {inputString}. Code: {reqMain.status_code}")
     
-    return listCardItems
+    return True
 
 def process_banlist():
-    banlistContents: str = f"#[{BANLIST_FORMAT} {BANLIST_TITLE}]\n!{BANLIST_FORMAT} {BANLIST_TITLE}\n$whitelist\n"
+    banlistContents: str = f"#[{BANLIST_FORMAT} {BANLIST_TITLE}]\n!{BANLIST_TITLE}\n$whitelist\n"
     banlistCardDict = { }
     filesToProcess = Utils.list_files(FOLDER_OUTPUT)
     listLimitBanned = []
@@ -364,30 +417,38 @@ try:
                 LIST_DONESET.remove(setPrefix)
             else:
                 #Utils.log(f"Prefix: {setPrefix} | Set URL: {setLinkWithCardSetList}")
-                listCardData = process_setlist(setLinkWithCardSetList)
-                if listCardData:
-                    outputFileSet = os.path.join(FOLDER_OUTPUT, f"AE_{setPrefix}_.json")
+                outputFileSet = os.path.join(FOLDER_OUTPUT, f"AE_{setPrefix}.json")
+                outputListCardData: list[CardData] = []
+                successCardList = False
+                try:
+                    successCardList = process_setlist(setLinkWithCardSetList, outputFileSet, outputListCardData)
+                except Exception as e:
+                    Utils.log_err("Parse list, main", e)
+                    successCardList = False
+
+                # Save output even if not succes, for cache
+                if outputListCardData:
                     Utils.log(f"Creating output json file for set '{setPrefix}' => {outputFileSet}")
-
-                    dumpListToDict = []
-                    for itemListCardData in listCardData:
-                        newItemDict = itemListCardData.model_dump(mode="dict")# IMPT! Convert data to format that can be serialized.
-                        dumpListToDict.append(newItemDict)
-
-                    resultSuccess = Utils.write_json(outputFileSet, dumpListToDict)
+                    outputListCardDataFiltered = filter_list_unique_set(outputListCardData)
+                    resultSuccess = save_cardlist_to_json(outputFileSet, outputListCardDataFiltered)
                     if resultSuccess:
-                        Utils.log(f"Successfully created json file.")
-                        Utils.append_file(FILE_OUTPUT_DONE_SET, f"{NEWLINE}{setPrefix}")
                         count += 1
-                
+                        # Save prefix only if all cards from setlist is processed.
+                        if successCardList:
+                            Utils.append_file(FILE_OUTPUT_DONE_SET, f"{NEWLINE}{setPrefix}")
+                        else:
+                            raise Exception(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
+                    
+                    outputListCardData.clear()
+
+                Utils.log(LINE_BREAK)
                 time.sleep(DELAY_SETLIST) # Throttle process to prevent overloading website.
         
         if count == MAX_SET_TO_PROCESS:
             break
 
     #Process whitelist for EDOPro when all setlists are done.
-    if count == 0:
-        process_banlist()
+    process_banlist()
 
 except Exception as e:
     Utils.log_err("Error, main", e)
