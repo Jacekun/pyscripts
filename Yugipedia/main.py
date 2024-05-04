@@ -448,8 +448,7 @@ try:
             break
 
     #Process whitelist for EDOPro when all setlists are done.
-    if count == 0:
-        process_banlist()
+    process_banlist()
 
 except Exception as e:
     Utils.log_err("Error, main", e)
