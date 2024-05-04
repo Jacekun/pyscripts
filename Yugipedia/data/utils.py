@@ -104,6 +104,10 @@ class Utils(object):
     def read_file(filename: str) -> str:
         try:
             contents = ""
+            if not os.path.exists:
+                Utils.log(f"File does not exist => {filename}")
+                return ""
+
             with open(filename) as file:
                 contents = file.read()
 
@@ -116,6 +120,10 @@ class Utils(object):
     def read_json(filename: str) -> any:
         try:
             contents = None
+            if not os.path.exists:
+                Utils.log(f"File does not exist => {filename}")
+                return None
+            
             with open(filename) as file:
                 contents = json.loads(file.read())
 
