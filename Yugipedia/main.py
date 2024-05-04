@@ -41,7 +41,7 @@ URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_ca
 # File paths
 FILE_OUTPUT_BODY = "body.html"
 FILE_OUTPUT_DONE_SET = "setlist_done.log"# Already processed setcode prefix
-FILE_OUTPUT_BANLIST = BANLIST_TITLE + ".lflist.conf"
+FILE_OUTPUT_BANLIST = BANLIST_TITLE + ".lflist.conf.edopro"
 FILE_CACHE_BANLIST = BANLIST_TITLE + ".html"
 FOLDER_OUTPUT = "output"#Folder to save all json files per set
 
@@ -174,9 +174,11 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
 
         setReleaseDateEl = soupObj.find("div", { "class": "page-header" } ).find_all("div")
         setReleaseDate: str = ""
+        setReleaseDateEpoch: float = 0
         if setReleaseDateEl is not None:
             if len(setReleaseDateEl) >= 3:
                 setReleaseDate = setReleaseDateEl[2].text.replace("Release date:", "").replace("(", "").replace(")", "").strip()
+                setReleaseDateEpoch = Utils.string_to_datetime(setReleaseDate).timestamp()
 
         Utils.log(f"Set list page => Release date: {setReleaseDate}")
         
@@ -231,7 +233,8 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                         wikilink = cardUrl, 
                         set_number = cardSetcode,
                         rarity =  "Normal", 
-                        date_release = setReleaseDate
+                        date_release = setReleaseDate,
+                        date_release_epoch = setReleaseDateEpoch
                     )
                     listCardItems.append(cardItem)
                 else:
@@ -243,7 +246,8 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                             wikilink = cardUrl, 
                             set_number = cardSetcode,
                             rarity =  cardRarity, 
-                            date_release = setReleaseDate
+                            date_release = setReleaseDate,
+                            date_release_epoch = setReleaseDateEpoch
                         )
                         listCardItems.append(cardItem)
 
@@ -398,25 +402,51 @@ try:
         if setContentList is None:
             raise Exception("Set is not parsable.")
         
+        lenSetContentList = len(setContentList)
+        
+        Utils.log("Parsing Set 'Name' and 'Link'..")
         setNameLink = setContentList[0].find("a")
         
         setNameList = setNameLink.text.split()
         setName = ' '.join(setNameList).strip()
         
-        setLink = setNameLink["href"]
-        setLinkProper = LINK_MAIN + setLink
-        setLinkWithCardSetList = get_setlist_from_wikilink(setLinkProper, "OCG-AE")
+        setLink: str = setNameLink["href"]
+        setLinkProper: str = LINK_MAIN + setLink
+        setLinkWithCardSetList: str = get_setlist_from_wikilink(setLinkProper, "OCG-AE")
+        setPrefix: str = ""
+        setReleaseDate: datetime = None
+        setReleaseDateRaw: str = ""
 
-        setPrefix = setContentList[1].text.strip().upper()
+        if lenSetContentList >= 2:
+            setContentObj = setContentList[1]
+            if setContentObj:
+                setPrefix = setContentObj.text.strip().upper()
         
-        if not setPrefix or setPrefix.isspace():
+        if lenSetContentList >= 3:
+            setContentObj = setContentList[2]
+            if setContentObj:
+                setReleaseDateRaw = setContentObj.text.strip()
+                setReleaseDate = Utils.string_to_datetime(setReleaseDateRaw)
+        
+        if setPrefix.isspace():
             Utils.log(f"Skipped : {setLinkProper}")
         else:
             if setPrefix in LIST_DONESET:
-                Utils.log(f"Prefix: {setPrefix} is skipped. Already processed.")
+                Utils.log(f"Prefix: {setPrefix} is skipped. Already processed.\n{LINE_BREAK}")
                 LIST_DONESET.remove(setPrefix)
             else:
                 #Utils.log(f"Prefix: {setPrefix} | Set URL: {setLinkWithCardSetList}")
+
+                # Skip unreleased setlist
+                if setReleaseDate is None:
+                    Utils.log(f"Skipped : Set '{setPrefix}' has no release date. Raw: {setReleaseDateRaw}")
+                    continue
+                    
+                if setReleaseDate.date() > datetime.now().date():
+                    Utils.log(f"Skipped : Set '{setPrefix}' is still unreleased. Release date: {setReleaseDate.date()}")
+                    continue
+
+                Utils.log(f"Set '{setPrefix}' Release date => Raw: {setReleaseDateRaw} | Converted: {setReleaseDate}")
                 outputFileSet = os.path.join(FOLDER_OUTPUT, f"AE_{setPrefix}.json")
                 outputListCardData: list[CardData] = []
                 successCardList = False
