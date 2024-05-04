@@ -1,3 +1,5 @@
-[2024-05-04 05:11:54] Error => [Errno 2] No such file or directory: 'output/AE_SSD2-AE.json'
-[2024-05-04 05:12:19] Parse list, main => Passcode => 'table' element not found.
-[2024-05-04 05:12:19] Error, main => Failed to parse Set list with prefix 'SSD2-AE'. Check logs.
+[2024-05-04 05:24:14] Parse list, main => Passcode => 'table' element not found.
+[2024-05-04 05:24:18] Error => [Errno 2] No such file or directory: 'output/AE_SDID-AE.json'
+[2024-05-04 05:24:44] Error => [Errno 2] No such file or directory: 'output/AE_SDID-AEP.json'
+[2024-05-04 05:25:10] Error => [Errno 2] No such file or directory: 'output/AE_SDRB-AE.json'
+[2024-05-04 05:25:37] Error, main => get_list_carddata
