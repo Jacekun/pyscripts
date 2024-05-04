@@ -1,1 +1,3 @@
-[2024-05-04 00:51:52] Error, main => Passcode => 'table' element not found.
+[2024-05-04 05:11:54] Error => [Errno 2] No such file or directory: 'output/AE_SSD2-AE.json'
+[2024-05-04 05:12:19] Parse list, main => Passcode => 'table' element not found.
+[2024-05-04 05:12:19] Error, main => Failed to parse Set list with prefix 'SSD2-AE'. Check logs.
