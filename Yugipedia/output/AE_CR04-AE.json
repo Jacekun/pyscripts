@@ -1,0 +1,3490 @@
+[
+    {
+        "name": "Silent Swordsman",
+        "passcode": 15180041,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE001",
+        "set_number": "CR04-AE001",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Swordsman LV7",
+        "passcode": 37267041,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE002",
+        "set_number": "CR04-AE002",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Magician",
+        "passcode": 41175645,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE003",
+        "set_number": "CR04-AE003",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Paladin",
+        "passcode": 19502505,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE004",
+        "set_number": "CR04-AE004",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Magician LV4",
+        "passcode": 73665146,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE005",
+        "set_number": "CR04-AE005",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Magician LV8",
+        "passcode": 72443568,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE006",
+        "set_number": "CR04-AE006",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Sword Slash",
+        "passcode": 18563744,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE007",
+        "set_number": "CR04-AE007",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Sword Slash",
+        "passcode": 18563744,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE007",
+        "set_number": "CR04-AE007",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Sword Slash",
+        "passcode": 18563744,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE007",
+        "set_number": "CR04-AE007",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Burning",
+        "passcode": 44968459,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE008",
+        "set_number": "CR04-AE008",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Burning",
+        "passcode": 44968459,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE008",
+        "set_number": "CR04-AE008",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Silent Burning",
+        "passcode": 44968459,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE008",
+        "set_number": "CR04-AE008",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Knight",
+        "passcode": 39303359,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE009",
+        "set_number": "CR04-AE009",
+        "rarity": "Gemini monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Gadget",
+        "passcode": 18486927,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE010",
+        "set_number": "CR04-AE010",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Box",
+        "passcode": 60953949,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE011",
+        "set_number": "CR04-AE011",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Wyvern",
+        "passcode": 17663375,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE012",
+        "set_number": "CR04-AE012",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Engineer",
+        "passcode": 1953925,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE013",
+        "set_number": "CR04-AE013",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Gadjiltron Chimera",
+        "passcode": 86321248,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE014",
+        "set_number": "CR04-AE014",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Hydra",
+        "passcode": 81269231,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE015",
+        "set_number": "CR04-AE015",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Golem",
+        "passcode": 83104731,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE016",
+        "set_number": "CR04-AE016",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Gadjiltron Dragon",
+        "passcode": 50933533,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE017",
+        "set_number": "CR04-AE017",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Reactor Dragon",
+        "passcode": 44874522,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE018",
+        "set_number": "CR04-AE018",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ultimate Ancient Gear Golem",
+        "passcode": 12652643,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE019",
+        "set_number": "CR04-AE019",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ultimate Ancient Gear Golem",
+        "passcode": 12652643,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE019",
+        "set_number": "CR04-AE019",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ultimate Ancient Gear Golem",
+        "passcode": 12652643,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE019",
+        "set_number": "CR04-AE019",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Tank",
+        "passcode": 37457534,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE020",
+        "set_number": "CR04-AE020",
+        "rarity": "Equip",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Tank",
+        "passcode": 37457534,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE020",
+        "set_number": "CR04-AE020",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Tank",
+        "passcode": 37457534,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE020",
+        "set_number": "CR04-AE020",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Explosive",
+        "passcode": 4446672,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE021",
+        "set_number": "CR04-AE021",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Explosive",
+        "passcode": 4446672,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE021",
+        "set_number": "CR04-AE021",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Explosive",
+        "passcode": 4446672,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE021",
+        "set_number": "CR04-AE021",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Fist",
+        "passcode": 40830387,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE022",
+        "set_number": "CR04-AE022",
+        "rarity": "Equip",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Fist",
+        "passcode": 40830387,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE022",
+        "set_number": "CR04-AE022",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Fist",
+        "passcode": 40830387,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE022",
+        "set_number": "CR04-AE022",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Workshop",
+        "passcode": 59811955,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE023",
+        "set_number": "CR04-AE023",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Workshop",
+        "passcode": 59811955,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE023",
+        "set_number": "CR04-AE023",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Workshop",
+        "passcode": 59811955,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE023",
+        "set_number": "CR04-AE023",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Spell Gear",
+        "passcode": 313513,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE024",
+        "set_number": "CR04-AE024",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Spell Gear",
+        "passcode": 313513,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE024",
+        "set_number": "CR04-AE024",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Spell Gear",
+        "passcode": 313513,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE024",
+        "set_number": "CR04-AE024",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Geartown",
+        "passcode": 37694547,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE025",
+        "set_number": "CR04-AE025",
+        "rarity": "Field",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Geartown",
+        "passcode": 37694547,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE025",
+        "set_number": "CR04-AE025",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Geartown",
+        "passcode": 37694547,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE025",
+        "set_number": "CR04-AE025",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Catapult",
+        "passcode": 44052074,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE026",
+        "set_number": "CR04-AE026",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Catapult",
+        "passcode": 44052074,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE026",
+        "set_number": "CR04-AE026",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Catapult",
+        "passcode": 44052074,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE026",
+        "set_number": "CR04-AE026",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Fortress",
+        "passcode": 70147689,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE027",
+        "set_number": "CR04-AE027",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Fortress",
+        "passcode": 70147689,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE027",
+        "set_number": "CR04-AE027",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ancient Gear Fortress",
+        "passcode": 70147689,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE027",
+        "set_number": "CR04-AE027",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Score the Melodious Diva",
+        "passcode": 41767843,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE028",
+        "set_number": "CR04-AE028",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Sonata the Melodious Diva",
+        "passcode": 76990617,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE029",
+        "set_number": "CR04-AE029",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Aria the Melodious Diva",
+        "passcode": 40502912,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE030",
+        "set_number": "CR04-AE030",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Canon the Melodious Diva",
+        "passcode": 16021142,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE031",
+        "set_number": "CR04-AE031",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Serenade the Melodious Diva",
+        "passcode": 42029847,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE032",
+        "set_number": "CR04-AE032",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Soprano the Melodious Songstress",
+        "passcode": 62895219,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE033",
+        "set_number": "CR04-AE033",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Opera the Melodious Diva",
+        "passcode": 43268675,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE034",
+        "set_number": "CR04-AE034",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Tamtam the Melodious Diva",
+        "passcode": 79757784,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE035",
+        "set_number": "CR04-AE035",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Solo the Melodious Songstress",
+        "passcode": 14763299,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE036",
+        "set_number": "CR04-AE036",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Elegy the Melodious Diva",
+        "passcode": 79514956,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE037",
+        "set_number": "CR04-AE037",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Shopina the Melodious Maestra",
+        "passcode": 5908650,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE038",
+        "set_number": "CR04-AE038",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mozarta the Melodious Maestra",
+        "passcode": 3395226,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE039",
+        "set_number": "CR04-AE039",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Schuberta the Melodious Maestra",
+        "passcode": 57594700,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE040",
+        "set_number": "CR04-AE040",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Schuberta the Melodious Maestra",
+        "passcode": 57594700,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE040",
+        "set_number": "CR04-AE040",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Schuberta the Melodious Maestra",
+        "passcode": 57594700,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE040",
+        "set_number": "CR04-AE040",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Diva the Melodious Choir",
+        "passcode": 84988419,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE041",
+        "set_number": "CR04-AE041",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Diva the Melodious Choir",
+        "passcode": 84988419,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE041",
+        "set_number": "CR04-AE041",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Diva the Melodious Choir",
+        "passcode": 84988419,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE041",
+        "set_number": "CR04-AE041",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Prima the Melodious Choir",
+        "passcode": 24672164,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE042",
+        "set_number": "CR04-AE042",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Prima the Melodious Choir",
+        "passcode": 24672164,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE042",
+        "set_number": "CR04-AE042",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Prima the Melodious Choir",
+        "passcode": 24672164,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE042",
+        "set_number": "CR04-AE042",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Harmonist the Melodious Composer",
+        "passcode": 34974462,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE043",
+        "set_number": "CR04-AE043",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Harmonist the Melodious Composer",
+        "passcode": 34974462,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE043",
+        "set_number": "CR04-AE043",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bloom Harmonist the Melodious Composer",
+        "passcode": 34974462,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE043",
+        "set_number": "CR04-AE043",
+        "rarity": "Link Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "1st Movement Solo",
+        "passcode": 44256816,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE044",
+        "set_number": "CR04-AE044",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "1st Movement Solo",
+        "passcode": 44256816,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE044",
+        "set_number": "CR04-AE044",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "1st Movement Solo",
+        "passcode": 44256816,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE044",
+        "set_number": "CR04-AE044",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fortissimo",
+        "passcode": 11493868,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE045",
+        "set_number": "CR04-AE045",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fortissimo",
+        "passcode": 11493868,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE045",
+        "set_number": "CR04-AE045",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fortissimo",
+        "passcode": 11493868,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE045",
+        "set_number": "CR04-AE045",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ostinato",
+        "passcode": 9113513,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE046",
+        "set_number": "CR04-AE046",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ostinato",
+        "passcode": 9113513,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE046",
+        "set_number": "CR04-AE046",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ostinato",
+        "passcode": 9113513,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE046",
+        "set_number": "CR04-AE046",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Melodious Illusion",
+        "passcode": 63804637,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE047",
+        "set_number": "CR04-AE047",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Melodious Illusion",
+        "passcode": 63804637,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE047",
+        "set_number": "CR04-AE047",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Melodious Illusion",
+        "passcode": 63804637,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE047",
+        "set_number": "CR04-AE047",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Leon",
+        "passcode": 23512906,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE048",
+        "set_number": "CR04-AE048",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Leon",
+        "passcode": 23512906,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE048",
+        "set_number": "CR04-AE048",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Leon",
+        "passcode": 23512906,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE048",
+        "set_number": "CR04-AE048",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Captain Carrie",
+        "passcode": 96305350,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE049",
+        "set_number": "CR04-AE049",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Roller Baller",
+        "passcode": 92003832,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE050",
+        "set_number": "CR04-AE050",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Nytro Head",
+        "passcode": 59900655,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE051",
+        "set_number": "CR04-AE051",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Pin Baller",
+        "passcode": 28497830,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE052",
+        "set_number": "CR04-AE052",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Pin Baller",
+        "passcode": 28497830,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE052",
+        "set_number": "CR04-AE052",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Pin Baller",
+        "passcode": 28497830,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE052",
+        "set_number": "CR04-AE052",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Star Leon",
+        "passcode": 22390469,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE053",
+        "set_number": "CR04-AE053",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Star Leon",
+        "passcode": 22390469,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE053",
+        "set_number": "CR04-AE053",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Star Leon",
+        "passcode": 22390469,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE053",
+        "set_number": "CR04-AE053",
+        "rarity": "Synchro Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Chariot Carrie",
+        "passcode": 65892585,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE054",
+        "set_number": "CR04-AE054",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Chariot Carrie",
+        "passcode": 65892585,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE054",
+        "set_number": "CR04-AE054",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Chariot Carrie",
+        "passcode": 65892585,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE054",
+        "set_number": "CR04-AE054",
+        "rarity": "Xyz Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Nytro Blaster",
+        "passcode": 58884063,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE055",
+        "set_number": "CR04-AE055",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Nytro Blaster",
+        "passcode": 58884063,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE055",
+        "set_number": "CR04-AE055",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Nytro Blaster",
+        "passcode": 58884063,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE055",
+        "set_number": "CR04-AE055",
+        "rarity": "Link Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - The Crowd Goes Wild!",
+        "passcode": 95283172,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE056",
+        "set_number": "CR04-AE056",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - The Crowd Goes Wild!",
+        "passcode": 95283172,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE056",
+        "set_number": "CR04-AE056",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - The Crowd Goes Wild!",
+        "passcode": 95283172,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE056",
+        "set_number": "CR04-AE056",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - That Came Out of Nowhere!",
+        "passcode": 91286284,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE057",
+        "set_number": "CR04-AE057",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - That Came Out of Nowhere!",
+        "passcode": 91286284,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE057",
+        "set_number": "CR04-AE057",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - That Came Out of Nowhere!",
+        "passcode": 91286284,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE057",
+        "set_number": "CR04-AE057",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Pedal to the Metal!",
+        "passcode": 27275398,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE058",
+        "set_number": "CR04-AE058",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Pedal to the Metal!",
+        "passcode": 27275398,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE058",
+        "set_number": "CR04-AE058",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Pedal to the Metal!",
+        "passcode": 27275398,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE058",
+        "set_number": "CR04-AE058",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Better Luck Next Time!",
+        "passcode": 54670997,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE059",
+        "set_number": "CR04-AE059",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Better Luck Next Time!",
+        "passcode": 54670997,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE059",
+        "set_number": "CR04-AE059",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Better Luck Next Time!",
+        "passcode": 54670997,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE059",
+        "set_number": "CR04-AE059",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - It's Neck and Neck!",
+        "passcode": 90164606,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE060",
+        "set_number": "CR04-AE060",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - It's Neck and Neck!",
+        "passcode": 90164606,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE060",
+        "set_number": "CR04-AE060",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - It's Neck and Neck!",
+        "passcode": 90164606,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE060",
+        "set_number": "CR04-AE060",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Start Your Engines!",
+        "passcode": 21677871,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE061",
+        "set_number": "CR04-AE061",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Start Your Engines!",
+        "passcode": 21677871,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE061",
+        "set_number": "CR04-AE061",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gold Pride - Start Your Engines!",
+        "passcode": 21677871,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE061",
+        "set_number": "CR04-AE061",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementoal Tecuhtlica - Combined Creation",
+        "passcode": 23288411,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE062",
+        "set_number": "CR04-AE062",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan-Horned Dragon",
+        "passcode": 55272555,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE063",
+        "set_number": "CR04-AE063",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Tatsunootoshigo",
+        "passcode": 81677154,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE064",
+        "set_number": "CR04-AE064",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Dark Blade",
+        "passcode": 18165869,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE065",
+        "set_number": "CR04-AE065",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Angwitch",
+        "passcode": 54550967,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE066",
+        "set_number": "CR04-AE066",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Mace",
+        "passcode": 81945676,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE067",
+        "set_number": "CR04-AE067",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Goblin",
+        "passcode": 17943271,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE068",
+        "set_number": "CR04-AE068",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementomictlan",
+        "passcode": 43338320,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE069",
+        "set_number": "CR04-AE069",
+        "rarity": "Field",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementomictlan",
+        "passcode": 43338320,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE069",
+        "set_number": "CR04-AE069",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementomictlan",
+        "passcode": 43338320,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE069",
+        "set_number": "CR04-AE069",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Bone Party",
+        "passcode": 80722024,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE070",
+        "set_number": "CR04-AE070",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Bone Party",
+        "passcode": 80722024,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE070",
+        "set_number": "CR04-AE070",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Bone Party",
+        "passcode": 80722024,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE070",
+        "set_number": "CR04-AE070",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Bone Back",
+        "passcode": 16227633,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE071",
+        "set_number": "CR04-AE071",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Bone Back",
+        "passcode": 16227633,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE071",
+        "set_number": "CR04-AE071",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Bone Back",
+        "passcode": 16227633,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE071",
+        "set_number": "CR04-AE071",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Fracture Dance",
+        "passcode": 43215738,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE072",
+        "set_number": "CR04-AE072",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Fracture Dance",
+        "passcode": 43215738,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE072",
+        "set_number": "CR04-AE072",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Fracture Dance",
+        "passcode": 43215738,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE072",
+        "set_number": "CR04-AE072",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Cranium Burst",
+        "passcode": 79600447,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE073",
+        "set_number": "CR04-AE073",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Cranium Burst",
+        "passcode": 79600447,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE073",
+        "set_number": "CR04-AE073",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Mementotlan Cranium Burst",
+        "passcode": 79600447,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE073",
+        "set_number": "CR04-AE073",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Primera",
+        "passcode": 15005145,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE074",
+        "set_number": "CR04-AE074",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Primera",
+        "passcode": 15005145,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE074",
+        "set_number": "CR04-AE074",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Primera",
+        "passcode": 15005145,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE074",
+        "set_number": "CR04-AE074",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Trudea",
+        "passcode": 42493140,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE075",
+        "set_number": "CR04-AE075",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Emeth VI",
+        "passcode": 78888899,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE076",
+        "set_number": "CR04-AE076",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Legatia",
+        "passcode": 15982593,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE077",
+        "set_number": "CR04-AE077",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Legatia",
+        "passcode": 15982593,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE077",
+        "set_number": "CR04-AE077",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Legatia",
+        "passcode": 15982593,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE077",
+        "set_number": "CR04-AE077",
+        "rarity": "Synchro Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Stand Up Centur-Ion!",
+        "passcode": 41371602,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE078",
+        "set_number": "CR04-AE078",
+        "rarity": "Field",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Stand Up Centur-Ion!",
+        "passcode": 41371602,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE078",
+        "set_number": "CR04-AE078",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Stand Up Centur-Ion!",
+        "passcode": 41371602,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE078",
+        "set_number": "CR04-AE078",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Emblema Oath",
+        "passcode": 77765207,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE079",
+        "set_number": "CR04-AE079",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Emblema Oath",
+        "passcode": 77765207,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE079",
+        "set_number": "CR04-AE079",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Emblema Oath",
+        "passcode": 77765207,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE079",
+        "set_number": "CR04-AE079",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Bonds",
+        "passcode": 4160316,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE080",
+        "set_number": "CR04-AE080",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Bonds",
+        "passcode": 4160316,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE080",
+        "set_number": "CR04-AE080",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Bonds",
+        "passcode": 4160316,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE080",
+        "set_number": "CR04-AE080",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Phalanx",
+        "passcode": 40155014,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE081",
+        "set_number": "CR04-AE081",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Phalanx",
+        "passcode": 40155014,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE081",
+        "set_number": "CR04-AE081",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion Phalanx",
+        "passcode": 40155014,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE081",
+        "set_number": "CR04-AE081",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion True Awakening",
+        "passcode": 77543769,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE082",
+        "set_number": "CR04-AE082",
+        "rarity": "Counter",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion True Awakening",
+        "passcode": 77543769,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE082",
+        "set_number": "CR04-AE082",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Centur-Ion True Awakening",
+        "passcode": 77543769,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE082",
+        "set_number": "CR04-AE082",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Angello Vaalmonica",
+        "passcode": 3048768,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE083",
+        "set_number": "CR04-AE083",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Angello Vaalmonica",
+        "passcode": 3048768,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE083",
+        "set_number": "CR04-AE083",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Angello Vaalmonica",
+        "passcode": 3048768,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE083",
+        "set_number": "CR04-AE083",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Dimonno Vaalmonica",
+        "passcode": 30432463,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE084",
+        "set_number": "CR04-AE084",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Dimonno Vaalmonica",
+        "passcode": 30432463,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE084",
+        "set_number": "CR04-AE084",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Dimonno Vaalmonica",
+        "passcode": 30432463,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE084",
+        "set_number": "CR04-AE084",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Duralume, Vaalmonican Heathen Hallow",
+        "passcode": 76821171,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE085",
+        "set_number": "CR04-AE085",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Duralume, Vaalmonican Heathen Hallow",
+        "passcode": 76821171,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE085",
+        "set_number": "CR04-AE085",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Duralume, Vaalmonican Heathen Hallow",
+        "passcode": 76821171,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE085",
+        "set_number": "CR04-AE085",
+        "rarity": "Link Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Zebufera, Vaalmonican Hallow Heathen",
+        "passcode": 2815176,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE086",
+        "set_number": "CR04-AE086",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Zebufera, Vaalmonican Hallow Heathen",
+        "passcode": 2815176,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE086",
+        "set_number": "CR04-AE086",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Zebufera, Vaalmonican Hallow Heathen",
+        "passcode": 2815176,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE086",
+        "set_number": "CR04-AE086",
+        "rarity": "Link Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica, the Agathokakological Voice",
+        "passcode": 39210885,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE087",
+        "set_number": "CR04-AE087",
+        "rarity": "Field",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica, the Agathokakological Voice",
+        "passcode": 39210885,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE087",
+        "set_number": "CR04-AE087",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica, the Agathokakological Voice",
+        "passcode": 39210885,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE087",
+        "set_number": "CR04-AE087",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Scelta",
+        "passcode": 5605529,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE088",
+        "set_number": "CR04-AE088",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Scelta",
+        "passcode": 5605529,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE088",
+        "set_number": "CR04-AE088",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Scelta",
+        "passcode": 5605529,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE088",
+        "set_number": "CR04-AE088",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Versare",
+        "passcode": 42193638,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE089",
+        "set_number": "CR04-AE089",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Versare",
+        "passcode": 42193638,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE089",
+        "set_number": "CR04-AE089",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Versare",
+        "passcode": 42193638,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE089",
+        "set_number": "CR04-AE089",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Intonare",
+        "passcode": 78598237,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE090",
+        "set_number": "CR04-AE090",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Intonare",
+        "passcode": 78598237,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE090",
+        "set_number": "CR04-AE090",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Intonare",
+        "passcode": 78598237,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE090",
+        "set_number": "CR04-AE090",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Followed Rhythm",
+        "passcode": 4582942,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE091",
+        "set_number": "CR04-AE091",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Followed Rhythm",
+        "passcode": 4582942,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE091",
+        "set_number": "CR04-AE091",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Followed Rhythm",
+        "passcode": 4582942,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE091",
+        "set_number": "CR04-AE091",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Chosen Melody",
+        "passcode": 31971040,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE092",
+        "set_number": "CR04-AE092",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Chosen Melody",
+        "passcode": 31971040,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE092",
+        "set_number": "CR04-AE092",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vaalmonica Chosen Melody",
+        "passcode": 31971040,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE092",
+        "set_number": "CR04-AE092",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ryko, Lightsworn Hunter",
+        "passcode": 21502796,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE093",
+        "set_number": "CR04-AE093",
+        "rarity": "Flip monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Rinyan, Lightsworn Rogue",
+        "passcode": 38815069,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE094",
+        "set_number": "CR04-AE094",
+        "rarity": "Flip monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lumina, Lightsworn Summoner",
+        "passcode": 95503687,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE095",
+        "set_number": "CR04-AE095",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Aurkus, Lightsworn Druid",
+        "passcode": 7183277,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE096",
+        "set_number": "CR04-AE096",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Shire, Lightsworn Spirit",
+        "passcode": 2420921,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE097",
+        "set_number": "CR04-AE097",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Minerva, Lightsworn Maiden",
+        "passcode": 40164421,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE098",
+        "set_number": "CR04-AE098",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Minerva, Lightsworn Maiden",
+        "passcode": 40164421,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE098",
+        "set_number": "CR04-AE098",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Minerva, Lightsworn Maiden",
+        "passcode": 40164421,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE098",
+        "set_number": "CR04-AE098",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Jain, Lightsworn Paladin",
+        "passcode": 96235275,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE099",
+        "set_number": "CR04-AE099",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lyla, Lightsworn Sorceress",
+        "passcode": 22624373,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE100",
+        "set_number": "CR04-AE100",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Garoth, Lightsworn Warrior",
+        "passcode": 59019082,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE101",
+        "set_number": "CR04-AE101",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Wulf, Lightsworn Beast",
+        "passcode": 58996430,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE102",
+        "set_number": "CR04-AE102",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Jenis, Lightsworn Mender",
+        "passcode": 83725008,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE103",
+        "set_number": "CR04-AE103",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ehren, Lightsworn Monk",
+        "passcode": 44178886,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE104",
+        "set_number": "CR04-AE104",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Raiden, Hand of the Lightsworn",
+        "passcode": 77558536,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE105",
+        "set_number": "CR04-AE105",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Raiden, Hand of the Lightsworn",
+        "passcode": 77558536,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE105",
+        "set_number": "CR04-AE105",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Raiden, Hand of the Lightsworn",
+        "passcode": 77558536,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE105",
+        "set_number": "CR04-AE105",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+        "passcode": 73176465,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE106",
+        "set_number": "CR04-AE106",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+        "passcode": 73176465,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE106",
+        "set_number": "CR04-AE106",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+        "passcode": 73176465,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE106",
+        "set_number": "CR04-AE106",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Celestia, Lightsworn Angel",
+        "passcode": 94381039,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE107",
+        "set_number": "CR04-AE107",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gragonith, Lightsworn Dragon",
+        "passcode": 21785144,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE108",
+        "set_number": "CR04-AE108",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Judgment Dragon",
+        "passcode": 57774843,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE109",
+        "set_number": "CR04-AE109",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Michael, the Arch-Lightsworn",
+        "passcode": 4779823,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE110",
+        "set_number": "CR04-AE110",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Michael, the Arch-Lightsworn",
+        "passcode": 4779823,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE110",
+        "set_number": "CR04-AE110",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Michael, the Arch-Lightsworn",
+        "passcode": 4779823,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE110",
+        "set_number": "CR04-AE110",
+        "rarity": "Synchro Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Minerva, the Exalted Lightsworn",
+        "passcode": 30100551,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE111",
+        "set_number": "CR04-AE111",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Minerva, the Exalted Lightsworn",
+        "passcode": 30100551,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE111",
+        "set_number": "CR04-AE111",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Minerva, the Exalted Lightsworn",
+        "passcode": 30100551,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE111",
+        "set_number": "CR04-AE111",
+        "rarity": "Xyz Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Curious, the Lightsworn Dominion",
+        "passcode": 98095162,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE112",
+        "set_number": "CR04-AE112",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Curious, the Lightsworn Dominion",
+        "passcode": 98095162,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE112",
+        "set_number": "CR04-AE112",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Curious, the Lightsworn Dominion",
+        "passcode": 98095162,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE112",
+        "set_number": "CR04-AE112",
+        "rarity": "Link Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Solar Recharge",
+        "passcode": 691925,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE113",
+        "set_number": "CR04-AE113",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Solar Recharge",
+        "passcode": 691925,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE113",
+        "set_number": "CR04-AE113",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Solar Recharge",
+        "passcode": 691925,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE113",
+        "set_number": "CR04-AE113",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Realm of Light",
+        "passcode": 36099620,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE114",
+        "set_number": "CR04-AE114",
+        "rarity": "Field",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Realm of Light",
+        "passcode": 36099620,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE114",
+        "set_number": "CR04-AE114",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Realm of Light",
+        "passcode": 36099620,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE114",
+        "set_number": "CR04-AE114",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Sabre",
+        "passcode": 30502181,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE115",
+        "set_number": "CR04-AE115",
+        "rarity": "Equip",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Sabre",
+        "passcode": 30502181,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE115",
+        "set_number": "CR04-AE115",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Sabre",
+        "passcode": 30502181,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE115",
+        "set_number": "CR04-AE115",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Charge of the Light Brigade",
+        "passcode": 94886282,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE116",
+        "set_number": "CR04-AE116",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Charge of the Light Brigade",
+        "passcode": 94886282,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE116",
+        "set_number": "CR04-AE116",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Charge of the Light Brigade",
+        "passcode": 94886282,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE116",
+        "set_number": "CR04-AE116",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Light Spiral",
+        "passcode": 35577420,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE117",
+        "set_number": "CR04-AE117",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Light Spiral",
+        "passcode": 35577420,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE117",
+        "set_number": "CR04-AE117",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Light Spiral",
+        "passcode": 35577420,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE117",
+        "set_number": "CR04-AE117",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Glorious Illusion",
+        "passcode": 61962135,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE118",
+        "set_number": "CR04-AE118",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Glorious Illusion",
+        "passcode": 61962135,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE118",
+        "set_number": "CR04-AE118",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Glorious Illusion",
+        "passcode": 61962135,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE118",
+        "set_number": "CR04-AE118",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Barrier",
+        "passcode": 22201234,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE119",
+        "set_number": "CR04-AE119",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Barrier",
+        "passcode": 22201234,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE119",
+        "set_number": "CR04-AE119",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Barrier",
+        "passcode": 22201234,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE119",
+        "set_number": "CR04-AE119",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vanquishing Light",
+        "passcode": 32233746,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE120",
+        "set_number": "CR04-AE120",
+        "rarity": "Counter",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vanquishing Light",
+        "passcode": 32233746,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE120",
+        "set_number": "CR04-AE120",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Vanquishing Light",
+        "passcode": 32233746,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE120",
+        "set_number": "CR04-AE120",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Judgment",
+        "passcode": 66194206,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE121",
+        "set_number": "CR04-AE121",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Judgment",
+        "passcode": 66194206,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE121",
+        "set_number": "CR04-AE121",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Lightsworn Judgment",
+        "passcode": 66194206,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE121",
+        "set_number": "CR04-AE121",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Skull Servant",
+        "passcode": 32274490,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE122",
+        "set_number": "CR04-AE122",
+        "rarity": "Normal Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "King of the Skull Servants",
+        "passcode": 36021814,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE123",
+        "set_number": "CR04-AE123",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Wightmare",
+        "passcode": 22339232,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE124",
+        "set_number": "CR04-AE124",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Wightprince",
+        "passcode": 57473560,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE125",
+        "set_number": "CR04-AE125",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Wightbaking",
+        "passcode": 6128460,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE126",
+        "set_number": "CR04-AE126",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "The Lady in Wight",
+        "passcode": 40991587,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE127",
+        "set_number": "CR04-AE127",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Wightprincess",
+        "passcode": 90243945,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE128",
+        "set_number": "CR04-AE128",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Sharakusai",
+        "passcode": 13258285,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE129",
+        "set_number": "CR04-AE129",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Sharakusai",
+        "passcode": 13258285,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE129",
+        "set_number": "CR04-AE129",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Sharakusai",
+        "passcode": 13258285,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE129",
+        "set_number": "CR04-AE129",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Wa Gon",
+        "passcode": 50642380,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE130",
+        "set_number": "CR04-AE130",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Wa Gon",
+        "passcode": 50642380,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE130",
+        "set_number": "CR04-AE130",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Wa Gon",
+        "passcode": 50642380,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE130",
+        "set_number": "CR04-AE130",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Madame Spider",
+        "passcode": 82041999,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE131",
+        "set_number": "CR04-AE131",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Madame Spider",
+        "passcode": 82041999,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE131",
+        "set_number": "CR04-AE131",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Madame Spider",
+        "passcode": 82041999,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE131",
+        "set_number": "CR04-AE131",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ze Amin",
+        "passcode": 19535693,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE132",
+        "set_number": "CR04-AE132",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ze Amin",
+        "passcode": 19535693,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE132",
+        "set_number": "CR04-AE132",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ze Amin",
+        "passcode": 19535693,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE132",
+        "set_number": "CR04-AE132",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Deer Note",
+        "passcode": 6609736,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE133",
+        "set_number": "CR04-AE133",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Foxy Tune",
+        "passcode": 55920742,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE134",
+        "set_number": "CR04-AE134",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ogre Dance",
+        "passcode": 81914447,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE135",
+        "set_number": "CR04-AE135",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Rising Carp",
+        "passcode": 18313046,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE136",
+        "set_number": "CR04-AE136",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Rising Carp",
+        "passcode": 18313046,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE136",
+        "set_number": "CR04-AE136",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Rising Carp",
+        "passcode": 18313046,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE136",
+        "set_number": "CR04-AE136",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "P.U.N.K. JAM Dragon Drive",
+        "passcode": 28403802,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE137",
+        "set_number": "CR04-AE137",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "P.U.N.K. JAM Dragon Drive",
+        "passcode": 28403802,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE137",
+        "set_number": "CR04-AE137",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "P.U.N.K. JAM Dragon Drive",
+        "passcode": 28403802,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE137",
+        "set_number": "CR04-AE137",
+        "rarity": "Synchro Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "passcode": 44708154,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE138",
+        "set_number": "CR04-AE138",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "passcode": 44708154,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE138",
+        "set_number": "CR04-AE138",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "passcode": 44708154,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE138",
+        "set_number": "CR04-AE138",
+        "rarity": "Synchro Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Wild Picking",
+        "passcode": 81192859,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE139",
+        "set_number": "CR04-AE139",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Wild Picking",
+        "passcode": 81192859,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE139",
+        "set_number": "CR04-AE139",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Wild Picking",
+        "passcode": 81192859,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE139",
+        "set_number": "CR04-AE139",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Crash Beat",
+        "passcode": 17691568,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE140",
+        "set_number": "CR04-AE140",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Crash Beat",
+        "passcode": 17691568,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE140",
+        "set_number": "CR04-AE140",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Crash Beat",
+        "passcode": 17691568,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE140",
+        "set_number": "CR04-AE140",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "P.U.N.K. JAM Extreme Session",
+        "passcode": 49370016,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE141",
+        "set_number": "CR04-AE141",
+        "rarity": "Field",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "P.U.N.K. JAM Extreme Session",
+        "passcode": 49370016,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE141",
+        "set_number": "CR04-AE141",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "P.U.N.K. JAM Extreme Session",
+        "passcode": 49370016,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE141",
+        "set_number": "CR04-AE141",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Dangerous Gabu",
+        "passcode": 43685562,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE142",
+        "set_number": "CR04-AE142",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Dangerous Gabu",
+        "passcode": 43685562,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE142",
+        "set_number": "CR04-AE142",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Dangerous Gabu",
+        "passcode": 43685562,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE142",
+        "set_number": "CR04-AE142",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Nashiwari Surprise",
+        "passcode": 70070211,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE143",
+        "set_number": "CR04-AE143",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Nashiwari Surprise",
+        "passcode": 70070211,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE143",
+        "set_number": "CR04-AE143",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Nashiwari Surprise",
+        "passcode": 70070211,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE143",
+        "set_number": "CR04-AE143",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Purple Light",
+        "passcode": 94689635,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE144",
+        "set_number": "CR04-AE144",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Green Light",
+        "passcode": 21074344,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE145",
+        "set_number": "CR04-AE145",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Orange Light",
+        "passcode": 17266660,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE146",
+        "set_number": "CR04-AE146",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Orange Light",
+        "passcode": 17266660,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE146",
+        "set_number": "CR04-AE146",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Orange Light",
+        "passcode": 17266660,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE146",
+        "set_number": "CR04-AE146",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Diviner of the Herald",
+        "passcode": 92919429,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE147",
+        "set_number": "CR04-AE147",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Diviner of the Herald",
+        "passcode": 92919429,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE147",
+        "set_number": "CR04-AE147",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Diviner of the Herald",
+        "passcode": 92919429,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE147",
+        "set_number": "CR04-AE147",
+        "rarity": "Tuner monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Perfection",
+        "passcode": 44665365,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE148",
+        "set_number": "CR04-AE148",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Perfection",
+        "passcode": 44665365,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE148",
+        "set_number": "CR04-AE148",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Perfection",
+        "passcode": 44665365,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE148",
+        "set_number": "CR04-AE148",
+        "rarity": "Ritual Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Ultimateness",
+        "passcode": 48546368,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE149",
+        "set_number": "CR04-AE149",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Ultimateness",
+        "passcode": 48546368,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE149",
+        "set_number": "CR04-AE149",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Ultimateness",
+        "passcode": 48546368,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE149",
+        "set_number": "CR04-AE149",
+        "rarity": "Ritual Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Pure Light",
+        "passcode": 1249315,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE150",
+        "set_number": "CR04-AE150",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Pure Light",
+        "passcode": 1249315,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE150",
+        "set_number": "CR04-AE150",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Pure Light",
+        "passcode": 1249315,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE150",
+        "set_number": "CR04-AE150",
+        "rarity": "Xyz Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Mirage Lights",
+        "passcode": 46935289,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE151",
+        "set_number": "CR04-AE151",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Mirage Lights",
+        "passcode": 46935289,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE151",
+        "set_number": "CR04-AE151",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Herald of Mirage Lights",
+        "passcode": 46935289,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE151",
+        "set_number": "CR04-AE151",
+        "rarity": "Link Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Dawn of the Herald",
+        "passcode": 27383110,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE152",
+        "set_number": "CR04-AE152",
+        "rarity": "Ritual",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Dawn of the Herald",
+        "passcode": 27383110,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE152",
+        "set_number": "CR04-AE152",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Dawn of the Herald",
+        "passcode": 27383110,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE152",
+        "set_number": "CR04-AE152",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Oracle of the Herald",
+        "passcode": 79306385,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE153",
+        "set_number": "CR04-AE153",
+        "rarity": "Ritual",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Oracle of the Herald",
+        "passcode": 79306385,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE153",
+        "set_number": "CR04-AE153",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Oracle of the Herald",
+        "passcode": 79306385,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE153",
+        "set_number": "CR04-AE153",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Steelen",
+        "passcode": 60473572,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE154",
+        "set_number": "CR04-AE154",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Steelen",
+        "passcode": 60473572,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE154",
+        "set_number": "CR04-AE154",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Steelen",
+        "passcode": 60473572,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE154",
+        "set_number": "CR04-AE154",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Silverd",
+        "passcode": 7868571,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE155",
+        "set_number": "CR04-AE155",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Silverd",
+        "passcode": 7868571,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE155",
+        "set_number": "CR04-AE155",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Silverd",
+        "passcode": 7868571,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE155",
+        "set_number": "CR04-AE155",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Goldriver",
+        "passcode": 33256280,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE156",
+        "set_number": "CR04-AE156",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Goldriver",
+        "passcode": 33256280,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE156",
+        "set_number": "CR04-AE156",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Goldriver",
+        "passcode": 33256280,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE156",
+        "set_number": "CR04-AE156",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Volflame",
+        "passcode": 69351984,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE157",
+        "set_number": "CR04-AE157",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Volflame",
+        "passcode": 69351984,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE157",
+        "set_number": "CR04-AE157",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Volflame",
+        "passcode": 69351984,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE157",
+        "set_number": "CR04-AE157",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Raremetalfoes Bismugear",
+        "passcode": 18716735,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE158",
+        "set_number": "CR04-AE158",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Raremetalfoes Bismugear",
+        "passcode": 18716735,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE158",
+        "set_number": "CR04-AE158",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Raremetalfoes Bismugear",
+        "passcode": 18716735,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE158",
+        "set_number": "CR04-AE158",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Melcaster",
+        "passcode": 10024317,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE159",
+        "set_number": "CR04-AE159",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Melcaster",
+        "passcode": 10024317,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE159",
+        "set_number": "CR04-AE159",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Melcaster",
+        "passcode": 10024317,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE159",
+        "set_number": "CR04-AE159",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Vanisher",
+        "passcode": 56518311,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE160",
+        "set_number": "CR04-AE160",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Vanisher",
+        "passcode": 56518311,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE160",
+        "set_number": "CR04-AE160",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Vanisher",
+        "passcode": 56518311,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE160",
+        "set_number": "CR04-AE160",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fullmetalfoes Alkahest",
+        "passcode": 77693536,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE161",
+        "set_number": "CR04-AE161",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fullmetalfoes Alkahest",
+        "passcode": 77693536,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE161",
+        "set_number": "CR04-AE161",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fullmetalfoes Alkahest",
+        "passcode": 77693536,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE161",
+        "set_number": "CR04-AE161",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Adamante",
+        "passcode": 81612598,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE162",
+        "set_number": "CR04-AE162",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Mithrilium",
+        "passcode": 4688231,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE163",
+        "set_number": "CR04-AE163",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Mithrilium",
+        "passcode": 4688231,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE163",
+        "set_number": "CR04-AE163",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Mithrilium",
+        "passcode": 4688231,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE163",
+        "set_number": "CR04-AE163",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Azortless",
+        "passcode": 37491810,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE164",
+        "set_number": "CR04-AE164",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Azortless",
+        "passcode": 37491810,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE164",
+        "set_number": "CR04-AE164",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Azortless",
+        "passcode": 37491810,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE164",
+        "set_number": "CR04-AE164",
+        "rarity": "Fusion",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Azortless",
+        "passcode": 37491810,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE164",
+        "set_number": "CR04-AE164",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Azortless",
+        "passcode": 37491810,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE164",
+        "set_number": "CR04-AE164",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Orichalc",
+        "passcode": 28016193,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE165",
+        "set_number": "CR04-AE165",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Orichalc",
+        "passcode": 28016193,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE165",
+        "set_number": "CR04-AE165",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Orichalc",
+        "passcode": 28016193,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE165",
+        "set_number": "CR04-AE165",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Crimsonite",
+        "passcode": 54401832,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE166",
+        "set_number": "CR04-AE166",
+        "rarity": "Fusion Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Heavymetalfoes Electrumite",
+        "passcode": 24094258,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE167",
+        "set_number": "CR04-AE167",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Heavymetalfoes Electrumite",
+        "passcode": 24094258,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE167",
+        "set_number": "CR04-AE167",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Heavymetalfoes Electrumite",
+        "passcode": 24094258,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE167",
+        "set_number": "CR04-AE167",
+        "rarity": "Link Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Heavymetalfoes Amalgam",
+        "passcode": 61728808,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE168",
+        "set_number": "CR04-AE168",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Heavymetalfoes Amalgam",
+        "passcode": 61728808,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE168",
+        "set_number": "CR04-AE168",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Heavymetalfoes Amalgam",
+        "passcode": 61728808,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE168",
+        "set_number": "CR04-AE168",
+        "rarity": "Link Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metamorformation",
+        "passcode": 46500985,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE169",
+        "set_number": "CR04-AE169",
+        "rarity": "Field",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metamorformation",
+        "passcode": 46500985,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE169",
+        "set_number": "CR04-AE169",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metamorformation",
+        "passcode": 46500985,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE169",
+        "set_number": "CR04-AE169",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Fusion",
+        "passcode": 73594093,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE170",
+        "set_number": "CR04-AE170",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Fusion",
+        "passcode": 73594093,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE170",
+        "set_number": "CR04-AE170",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Fusion",
+        "passcode": 73594093,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE170",
+        "set_number": "CR04-AE170",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fullmetalfoes Fusion",
+        "passcode": 39564736,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE171",
+        "set_number": "CR04-AE171",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fullmetalfoes Fusion",
+        "passcode": 39564736,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE171",
+        "set_number": "CR04-AE171",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fullmetalfoes Fusion",
+        "passcode": 39564736,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE171",
+        "set_number": "CR04-AE171",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Fusion",
+        "passcode": 58549532,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE172",
+        "set_number": "CR04-AE172",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Fusion",
+        "passcode": 58549532,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE172",
+        "set_number": "CR04-AE172",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Parametalfoes Fusion",
+        "passcode": 58549532,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE172",
+        "set_number": "CR04-AE172",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Counter",
+        "passcode": 33327029,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE173",
+        "set_number": "CR04-AE173",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Counter",
+        "passcode": 33327029,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE173",
+        "set_number": "CR04-AE173",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Counter",
+        "passcode": 33327029,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE173",
+        "set_number": "CR04-AE173",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Combination",
+        "passcode": 69711728,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE174",
+        "set_number": "CR04-AE174",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Combination",
+        "passcode": 69711728,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE174",
+        "set_number": "CR04-AE174",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Metalfoes Combination",
+        "passcode": 69711728,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE174",
+        "set_number": "CR04-AE174",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Damage Juggler",
+        "passcode": 68819554,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE175",
+        "set_number": "CR04-AE175",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Flame Eater",
+        "passcode": 4807253,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE176",
+        "set_number": "CR04-AE176",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Hat Tricker",
+        "passcode": 31292357,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE177",
+        "set_number": "CR04-AE177",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Trick Clown",
+        "passcode": 67696066,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE178",
+        "set_number": "CR04-AE178",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Mirror Conductor",
+        "passcode": 71578874,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE179",
+        "set_number": "CR04-AE179",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Mirror Conductor",
+        "passcode": 71578874,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE179",
+        "set_number": "CR04-AE179",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Mirror Conductor",
+        "passcode": 71578874,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE179",
+        "set_number": "CR04-AE179",
+        "rarity": "Pendulum Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Stilts Launcher",
+        "passcode": 4081665,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE180",
+        "set_number": "CR04-AE180",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Trapeze Magician",
+        "passcode": 17016362,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE181",
+        "set_number": "CR04-AE181",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Trapeze Magician",
+        "passcode": 17016362,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE181",
+        "set_number": "CR04-AE181",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Performage Trapeze Magician",
+        "passcode": 17016362,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE181",
+        "set_number": "CR04-AE181",
+        "rarity": "Xyz Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bubble Barrier",
+        "passcode": 79777187,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE182",
+        "set_number": "CR04-AE182",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bubble Barrier",
+        "passcode": 79777187,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE182",
+        "set_number": "CR04-AE182",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Bubble Barrier",
+        "passcode": 79777187,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE182",
+        "set_number": "CR04-AE182",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Trick Box",
+        "passcode": 93983867,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE183",
+        "set_number": "CR04-AE183",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Trick Box",
+        "passcode": 93983867,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE183",
+        "set_number": "CR04-AE183",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Trick Box",
+        "passcode": 93983867,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE183",
+        "set_number": "CR04-AE183",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Legendary Fire King Ponix",
+        "passcode": 90681088,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE184",
+        "set_number": "CR04-AE184",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Avatar Kirin",
+        "passcode": 96594609,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE185",
+        "set_number": "CR04-AE185",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Avatar Garunix",
+        "passcode": 54149433,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE186",
+        "set_number": "CR04-AE186",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Avatar Barong",
+        "passcode": 69000994,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE187",
+        "set_number": "CR04-AE187",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Avatar Yaksha",
+        "passcode": 66413481,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE188",
+        "set_number": "CR04-AE188",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Avatar Arvata",
+        "passcode": 18621798,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE189",
+        "set_number": "CR04-AE189",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Avatar Rangbali",
+        "passcode": 38910263,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE190",
+        "set_number": "CR04-AE190",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King High Avatar Garunix",
+        "passcode": 23015896,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE191",
+        "set_number": "CR04-AE191",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Sacred Fire King Garunix",
+        "passcode": 66431519,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE192",
+        "set_number": "CR04-AE192",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King High Avatar Kirin",
+        "passcode": 2526224,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE193",
+        "set_number": "CR04-AE193",
+        "rarity": "Effect Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Garunix Eternity, Hyang of the Fire Kings",
+        "passcode": 64182380,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE194",
+        "set_number": "CR04-AE194",
+        "rarity": "Effect",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Garunix Eternity, Hyang of the Fire Kings",
+        "passcode": 64182380,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE194",
+        "set_number": "CR04-AE194",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Garunix Eternity, Hyang of the Fire Kings",
+        "passcode": 64182380,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE194",
+        "set_number": "CR04-AE194",
+        "rarity": "Xyz Monster",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Onslaught of the Fire Kings",
+        "passcode": 22993208,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE195",
+        "set_number": "CR04-AE195",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Onslaught of the Fire Kings",
+        "passcode": 22993208,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE195",
+        "set_number": "CR04-AE195",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Onslaught of the Fire Kings",
+        "passcode": 22993208,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE195",
+        "set_number": "CR04-AE195",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Circle of the Fire Kings",
+        "passcode": 59388357,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE196",
+        "set_number": "CR04-AE196",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Circle of the Fire Kings",
+        "passcode": 59388357,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE196",
+        "set_number": "CR04-AE196",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Circle of the Fire Kings",
+        "passcode": 59388357,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE196",
+        "set_number": "CR04-AE196",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Island",
+        "passcode": 57554544,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE197",
+        "set_number": "CR04-AE197",
+        "rarity": "Field",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Island",
+        "passcode": 57554544,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE197",
+        "set_number": "CR04-AE197",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Island",
+        "passcode": 57554544,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE197",
+        "set_number": "CR04-AE197",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Sanctuary",
+        "passcode": 65305978,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE198",
+        "set_number": "CR04-AE198",
+        "rarity": "Continuous",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Sanctuary",
+        "passcode": 65305978,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE198",
+        "set_number": "CR04-AE198",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Sanctuary",
+        "passcode": 65305978,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE198",
+        "set_number": "CR04-AE198",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Sky Burn",
+        "passcode": 91703676,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE199",
+        "set_number": "CR04-AE199",
+        "rarity": "Quick-Play",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Sky Burn",
+        "passcode": 91703676,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE199",
+        "set_number": "CR04-AE199",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Fire King Sky Burn",
+        "passcode": 91703676,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE199",
+        "set_number": "CR04-AE199",
+        "rarity": "Spell",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Echelon of the Fire Kings",
+        "passcode": 38798785,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE200",
+        "set_number": "CR04-AE200",
+        "rarity": "Normal",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Echelon of the Fire Kings",
+        "passcode": 38798785,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE200",
+        "set_number": "CR04-AE200",
+        "rarity": "",
+        "date_release": "27 April 2024"
+    },
+    {
+        "name": "Echelon of the Fire Kings",
+        "passcode": 38798785,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE200",
+        "set_number": "CR04-AE200",
+        "rarity": "Trap",
+        "date_release": "27 April 2024"
+    }
+]
