@@ -1,0 +1,354 @@
+[
+    {
+        "name": "Astrograph Sorcerer",
+        "passcode": 76794549,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES01",
+        "set_number": "CR02-AES01",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Chronograph Sorcerer",
+        "passcode": 12289247,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES02",
+        "set_number": "CR02-AES02",
+        "rarity": "Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Supreme King Dragon Darkwurm",
+        "passcode": 69610326,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES03",
+        "set_number": "CR02-AES03",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Wisdom-Eye Magician",
+        "passcode": 72714461,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES04",
+        "set_number": "CR02-AES04",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Wisdom-Eye Magician",
+        "passcode": 72714461,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES04",
+        "set_number": "CR02-AES04",
+        "rarity": "",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Wisdom-Eye Magician",
+        "passcode": 72714461,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES04",
+        "set_number": "CR02-AES04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Double Iris Magician",
+        "passcode": 49684352,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES05",
+        "set_number": "CR02-AES05",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Double Iris Magician",
+        "passcode": 49684352,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES05",
+        "set_number": "CR02-AES05",
+        "rarity": "",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Double Iris Magician",
+        "passcode": 49684352,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES05",
+        "set_number": "CR02-AES05",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Purple Poison Magician",
+        "passcode": 48461764,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES06",
+        "set_number": "CR02-AES06",
+        "rarity": "Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Beyond the Pendulum",
+        "passcode": 22125101,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES07",
+        "set_number": "CR02-AES07",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Beyond the Pendulum",
+        "passcode": 22125101,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES07",
+        "set_number": "CR02-AES07",
+        "rarity": "",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Beyond the Pendulum",
+        "passcode": 22125101,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES07",
+        "set_number": "CR02-AES07",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Odd-Eyes Phantom Dragon",
+        "passcode": 93149655,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES08",
+        "set_number": "CR02-AES08",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Odd-Eyes Revolution Dragon",
+        "passcode": 16306932,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES09",
+        "set_number": "CR02-AES09",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "T.G. Screw Serpent",
+        "passcode": 11234702,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES10",
+        "set_number": "CR02-AES10",
+        "rarity": "Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "T.G. Hyper Librarian",
+        "passcode": 90953320,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES11",
+        "set_number": "CR02-AES11",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "T.G. Hyper Librarian",
+        "passcode": 90953320,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES11",
+        "set_number": "CR02-AES11",
+        "rarity": "",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "T.G. Hyper Librarian",
+        "passcode": 90953320,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES11",
+        "set_number": "CR02-AES11",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Nunu, the Ogdoadic Remnant",
+        "passcode": 36010310,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES12",
+        "set_number": "CR02-AES12",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Nauya, the Ogdoadic Remnant",
+        "passcode": 62405028,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES13",
+        "set_number": "CR02-AES13",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Arianna the Labrynth Servant",
+        "passcode": 1225009,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES14",
+        "set_number": "CR02-AES14",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Arianna the Labrynth Servant",
+        "passcode": 1225009,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES14",
+        "set_number": "CR02-AES14",
+        "rarity": "",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Arianna the Labrynth Servant",
+        "passcode": 1225009,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES14",
+        "set_number": "CR02-AES14",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Lady Labrynth of the Silver Castle",
+        "passcode": 81497285,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES15",
+        "set_number": "CR02-AES15",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Welcome Labrynth",
+        "passcode": 5380979,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES16",
+        "set_number": "CR02-AES16",
+        "rarity": "Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Big Welcome Labrynth",
+        "passcode": 92714517,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES17",
+        "set_number": "CR02-AES17",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Big Welcome Labrynth",
+        "passcode": 92714517,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES17",
+        "set_number": "CR02-AES17",
+        "rarity": "",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Big Welcome Labrynth",
+        "passcode": 92714517,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES17",
+        "set_number": "CR02-AES17",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Vanquish Soul Razen",
+        "passcode": 29302858,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES18",
+        "set_number": "CR02-AES18",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Rock of the Vanquisher",
+        "passcode": 28168628,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES19",
+        "set_number": "CR02-AES19",
+        "rarity": "Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Stake your Soul!",
+        "passcode": 54562327,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES20",
+        "set_number": "CR02-AES20",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Voici la Carte (Today's Menu)",
+        "passcode": 41773061,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES21",
+        "set_number": "CR02-AES21",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Earthbound Prisoner Stone Sweeper",
+        "passcode": 72323266,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES22",
+        "set_number": "CR02-AES22",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Volcanic Shell",
+        "passcode": 33365932,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES23",
+        "set_number": "CR02-AES23",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Volcanic Shell",
+        "passcode": 33365932,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES23",
+        "set_number": "CR02-AES23",
+        "rarity": "",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Volcanic Shell",
+        "passcode": 33365932,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES23",
+        "set_number": "CR02-AES23",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Volcanic Scattershot",
+        "passcode": 69750546,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES24",
+        "set_number": "CR02-AES24",
+        "rarity": "Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Orcust Harp Horror",
+        "passcode": 57835716,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES25",
+        "set_number": "CR02-AES25",
+        "rarity": "Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Girsu, the Orcust Mekk-Knight",
+        "passcode": 69811710,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES26",
+        "set_number": "CR02-AES26",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Galatea, the Orcust Automaton",
+        "passcode": 30741503,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES27",
+        "set_number": "CR02-AES27",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Galatea, the Orcust Automaton",
+        "passcode": 30741503,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES27",
+        "set_number": "CR02-AES27",
+        "rarity": "",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Galatea, the Orcust Automaton",
+        "passcode": 30741503,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES27",
+        "set_number": "CR02-AES27",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "3 February 2024"
+    },
+    {
+        "name": "Cursed Eldland",
+        "passcode": 31434645,
+        "wikilink": "https://yugipedia.com/wiki/CR02-AES28",
+        "set_number": "CR02-AES28",
+        "rarity": "Ultra Rare",
+        "date_release": "3 February 2024"
+    }
+]
