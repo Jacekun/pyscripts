@@ -13,7 +13,7 @@ from data.model_card import CardData
 TIME_START = time.time()
 
 # Global constants
-MAX_SET_TO_PROCESS = 10
+MAX_SET_TO_PROCESS = 5
 NEWLINE = '\n'
 DELAY_SETLIST = 2
 DELAY_PASSCODE = 1
