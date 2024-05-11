@@ -1,9 +1,9 @@
 name: Yu-Gi-Oh! AE sets from Yugipedia
 on:
   # 8 PM UTC = 4 AM PST
-  # Every Saturdays
+  # Every Friday UTC or Saturdays PST
   schedule:
-    - cron: '0 20 * * 6'
+    - cron: '0 20 * * 5'
 
    # Manual triggers
   workflow_dispatch:
