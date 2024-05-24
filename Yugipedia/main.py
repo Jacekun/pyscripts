@@ -35,6 +35,7 @@ INDEX_CATEGORY_NOJP = 3
 LINK_MAIN = "https://yugipedia.com"
 LINK_WIKI = LINK_MAIN + "/wiki/"
 PREFIX_CARDLIST = "Set_Card_Lists:"
+SUFFIX_AE = "(Asian-English)"
 
 INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&limit=500&offset=0&q=%5B%5BMedium%3A%3AOfficial%5D%5D++%3Cq%3E+%3Cq%3E%5B%5BAsian-English+set+prefix%3A%3A%2B%5D%5D%3C%2Fq%3E++OR++%3Cq%3E%5B%5BAsian-English+release+date%3A%3A%2B%5D%5D%3C%2Fq%3E+%3C%2Fq%3E&p=mainlabel%3D-20Set%2Fformat%3Dtable%2Fheaders%3D-20plain%2Fclass%3D-20wikitable-20sortable-20card-2Dlist&po=%3FAsian-English+set+and+region+prefix%3DPrefix%0A%3FAsian-English+release+date%3DRelease+date%0A&sort=+Asian-English+release+date%2C+Asian-English+set+prefix%2C+%23&order=asc%2Casc%2Casc&eq=no#search"
 URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202311&lang=en"
@@ -71,7 +72,10 @@ def get_setlist_from_wikilink(inputString: str, format: str) -> str:
     
     inputParsed = inputString[len(LINK_WIKI):]
     if not inputParsed.startswith(PREFIX_CARDLIST):
-        return f"{LINK_WIKI}{PREFIX_CARDLIST}{inputParsed}_({formatParsed})"
+        if inputParsed.endswith(SUFFIX_AE):
+            return f"{LINK_WIKI}{PREFIX_CARDLIST}{inputParsed.removesuffix(SUFFIX_AE)}({formatParsed})"
+        else:
+            return f"{LINK_WIKI}{PREFIX_CARDLIST}{inputParsed}_({formatParsed})"
 
     return inputString
 
