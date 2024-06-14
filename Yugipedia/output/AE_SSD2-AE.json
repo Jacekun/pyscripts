@@ -158,5 +158,13 @@
         "set_number": "SSD2-AE020",
         "rarity": "Common",
         "date_release": "21 October 2023"
+    },
+    {
+        "name": "Brionac, Dragon of the Ice Barrier",
+        "passcode": 50321796,
+        "wikilink": "https://yugipedia.com/wiki/SSD2-AE021",
+        "set_number": "SSD2-AE021",
+        "rarity": "Common",
+        "date_release": "21 October 2023"
     }
 ]
