@@ -4,7 +4,23 @@
         "passcode": 47222536,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE100",
         "set_number": "24AT-AE100",
-        "rarity": "Secret Rare",
+        "rarity": "Continuous",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Dark Magical Circle",
+        "passcode": 47222536,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE100",
+        "set_number": "24AT-AE100",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Dark Magical Circle",
+        "passcode": 47222536,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE100",
+        "set_number": "24AT-AE100",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -12,7 +28,23 @@
         "passcode": 87188910,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE101",
         "set_number": "24AT-AE101",
-        "rarity": "Ultra Rare",
+        "rarity": "Effect",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Ravenous Crocodragon Archethys",
+        "passcode": 87188910,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE101",
+        "set_number": "24AT-AE101",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Ravenous Crocodragon Archethys",
+        "passcode": 87188910,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE101",
+        "set_number": "24AT-AE101",
+        "rarity": "Synchro Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -20,7 +52,7 @@
         "passcode": 63845230,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE102",
         "set_number": "24AT-AE102",
-        "rarity": "Super Rare",
+        "rarity": "Effect Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -28,7 +60,23 @@
         "passcode": 581014,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE103",
         "set_number": "24AT-AE103",
-        "rarity": "Super Rare",
+        "rarity": "Effect",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Daigusto Emeral",
+        "passcode": 581014,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE103",
+        "set_number": "24AT-AE103",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Daigusto Emeral",
+        "passcode": 581014,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE103",
+        "set_number": "24AT-AE103",
+        "rarity": "Xyz Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -36,7 +84,23 @@
         "passcode": 53129443,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE104",
         "set_number": "24AT-AE104",
-        "rarity": "Super Rare",
+        "rarity": "Normal",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Dark Hole",
+        "passcode": 53129443,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE104",
+        "set_number": "24AT-AE104",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Dark Hole",
+        "passcode": 53129443,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE104",
+        "set_number": "24AT-AE104",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -44,7 +108,7 @@
         "passcode": 46457856,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE105",
         "set_number": "24AT-AE105",
-        "rarity": "Common",
+        "rarity": "Normal Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -52,7 +116,7 @@
         "passcode": 83986578,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE106",
         "set_number": "24AT-AE106",
-        "rarity": "Common",
+        "rarity": "Effect Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -60,7 +124,7 @@
         "passcode": 22996376,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE107",
         "set_number": "24AT-AE107",
-        "rarity": "Common",
+        "rarity": "Effect Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -68,7 +132,7 @@
         "passcode": 92676637,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE108",
         "set_number": "24AT-AE108",
-        "rarity": "Common",
+        "rarity": "Effect Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -76,7 +140,7 @@
         "passcode": 80457744,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE109",
         "set_number": "24AT-AE109",
-        "rarity": "Common",
+        "rarity": "Effect Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -84,7 +148,7 @@
         "passcode": 53539634,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE110",
         "set_number": "24AT-AE110",
-        "rarity": "Common",
+        "rarity": "Fusion Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -92,7 +156,23 @@
         "passcode": 98978921,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE111",
         "set_number": "24AT-AE111",
-        "rarity": "Common",
+        "rarity": "Effect",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Link Spider",
+        "passcode": 98978921,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE111",
+        "set_number": "24AT-AE111",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Link Spider",
+        "passcode": 98978921,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE111",
+        "set_number": "24AT-AE111",
+        "rarity": "Link Monster",
         "date_release": "1 January 2024"
     },
     {
@@ -100,7 +180,23 @@
         "passcode": 84808313,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE112",
         "set_number": "24AT-AE112",
-        "rarity": "Common",
+        "rarity": "Normal",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Big Evolution Pill",
+        "passcode": 84808313,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE112",
+        "set_number": "24AT-AE112",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Big Evolution Pill",
+        "passcode": 84808313,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE112",
+        "set_number": "24AT-AE112",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -108,7 +204,23 @@
         "passcode": 79816536,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE113",
         "set_number": "24AT-AE113",
-        "rarity": "Common",
+        "rarity": "Normal",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Summoner's Art",
+        "passcode": 79816536,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE113",
+        "set_number": "24AT-AE113",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Summoner's Art",
+        "passcode": 79816536,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE113",
+        "set_number": "24AT-AE113",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -116,7 +228,23 @@
         "passcode": 19578592,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE114",
         "set_number": "24AT-AE114",
-        "rarity": "Common",
+        "rarity": "Equip",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Axe of Fools",
+        "passcode": 19578592,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE114",
+        "set_number": "24AT-AE114",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Axe of Fools",
+        "passcode": 19578592,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE114",
+        "set_number": "24AT-AE114",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -124,7 +252,23 @@
         "passcode": 88616795,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE115",
         "set_number": "24AT-AE115",
-        "rarity": "Common",
+        "rarity": "Quick-Play",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Spellbook of Wisdom",
+        "passcode": 88616795,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE115",
+        "set_number": "24AT-AE115",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Spellbook of Wisdom",
+        "passcode": 88616795,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE115",
+        "set_number": "24AT-AE115",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -132,7 +276,23 @@
         "passcode": 51412776,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE116",
         "set_number": "24AT-AE116",
-        "rarity": "Common",
+        "rarity": "Normal",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Heritage of the Chalice",
+        "passcode": 51412776,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE116",
+        "set_number": "24AT-AE116",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Heritage of the Chalice",
+        "passcode": 51412776,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE116",
+        "set_number": "24AT-AE116",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -140,7 +300,23 @@
         "passcode": 19508728,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE117",
         "set_number": "24AT-AE117",
-        "rarity": "Common",
+        "rarity": "Equip",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Moon Mirror Shield",
+        "passcode": 19508728,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE117",
+        "set_number": "24AT-AE117",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Moon Mirror Shield",
+        "passcode": 19508728,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE117",
+        "set_number": "24AT-AE117",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -148,7 +324,23 @@
         "passcode": 23442438,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE118",
         "set_number": "24AT-AE118",
-        "rarity": "Common",
+        "rarity": "Continuous",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Synchro Chase",
+        "passcode": 23442438,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE118",
+        "set_number": "24AT-AE118",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Synchro Chase",
+        "passcode": 23442438,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE118",
+        "set_number": "24AT-AE118",
+        "rarity": "Spell",
         "date_release": "1 January 2024"
     },
     {
@@ -156,7 +348,23 @@
         "passcode": 23869735,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE119",
         "set_number": "24AT-AE119",
-        "rarity": "Common",
+        "rarity": "Continuous",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Fossil Excavation",
+        "passcode": 23869735,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE119",
+        "set_number": "24AT-AE119",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Fossil Excavation",
+        "passcode": 23869735,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE119",
+        "set_number": "24AT-AE119",
+        "rarity": "Trap",
         "date_release": "1 January 2024"
     },
     {
@@ -164,7 +372,23 @@
         "passcode": 30459350,
         "wikilink": "https://yugipedia.com/wiki/24AT-AE120",
         "set_number": "24AT-AE120",
-        "rarity": "Common",
+        "rarity": "Continuous",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Imperial Iron Wall",
+        "passcode": 30459350,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE120",
+        "set_number": "24AT-AE120",
+        "rarity": "",
+        "date_release": "1 January 2024"
+    },
+    {
+        "name": "Imperial Iron Wall",
+        "passcode": 30459350,
+        "wikilink": "https://yugipedia.com/wiki/24AT-AE120",
+        "set_number": "24AT-AE120",
+        "rarity": "Trap",
         "date_release": "1 January 2024"
     }
 ]
