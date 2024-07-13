@@ -223,7 +223,7 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                     if cardPasscode == 0:
                         cardPasscode = get_card_passcode(cardUrl)
 
-                    if lenSoupListProp >= 5:
+                    if lenSoupListProp > 5:
                         cardNameJap = soupItemListProp[INDEX_JAP_NAME].text.strip()
                         cardCategory = soupItemListProp[INDEX_CATEGORY].text.strip()
                         cardRaritiesElem = soupItemListProp[INDEX_RARITY]
