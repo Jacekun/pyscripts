@@ -223,7 +223,7 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                     if cardPasscode == 0:
                         cardPasscode = get_card_passcode(cardUrl)
 
-                    if lenSoupListProp > 5:
+                    if lenSoupListProp >= 5:
                         cardNameJap = soupItemListProp[INDEX_JAP_NAME].text.strip()
                         cardCategory = soupItemListProp[INDEX_CATEGORY].text.strip()
                         cardRaritiesElem = soupItemListProp[INDEX_RARITY]
@@ -431,7 +431,11 @@ try:
             setContentObj = setContentList[2]
             if setContentObj:
                 setReleaseDateRaw = setContentObj.text.strip()
-                setReleaseDate = Utils.string_to_datetime(setReleaseDateRaw)
+                try:
+                    setReleaseDate = Utils.string_to_datetime(setReleaseDateRaw)
+                except Exception as eInner:
+                    setReleaseDate = None
+                    Utils.log_err(f"[Parse Set DateTime] Raw Value: {setReleaseDateRaw}", eInner)
         
         if setPrefix.isspace():
             Utils.log(f"Skipped : {setLinkProper}")
