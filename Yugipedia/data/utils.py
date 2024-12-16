@@ -56,8 +56,8 @@ class Utils(object):
 
     @staticmethod
     def log_err(content: str, err: Exception):
-        to_write: str = f"{content} => {err}"
-        Utils.write_to_log(to_write, "errlog")
+        to_write: str = f"[Error] {content} => {err}"
+        Utils.write_to_log(to_write, "log")
 
     @staticmethod
     def pop_first_line(file: str) -> str:
