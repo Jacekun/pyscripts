@@ -179,10 +179,23 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
         setReleaseDateEl = soupObj.find("div", { "class": "page-header" } ).find_all("div")
         setReleaseDate: str = ""
         setReleaseDateEpoch: float = 0
+        isElementFound: bool = False
         if setReleaseDateEl is not None:
-            if len(setReleaseDateEl) >= 3:
-                setReleaseDate = setReleaseDateEl[2].text.replace("Release date:", "").replace("(", "").replace(")", "").strip()
-                setReleaseDateEpoch = Utils.string_to_datetime(setReleaseDate).timestamp()
+            for setReleaseDateElItem in setReleaseDateEl:
+                if isElementFound:
+                    break
+                if setReleaseDateElItem:
+                    setReleaseDateInnerDiv = setReleaseDateElItem.find_all("div")
+                    if setReleaseDateInnerDiv is not None:
+                        for setReleaseDateInnerDivItem in setReleaseDateInnerDiv:
+                            rawString: str = setReleaseDateInnerDivItem.text.strip().upper()
+                            #Utils.log(f"[Data] Release date => { rawString }")
+                            if "RELEASE DATE:" in rawString:
+                                setReleaseDate = rawString.replace("RELEASE DATE:", "").replace("(", "").replace(")", "").strip()
+                                setReleaseDateEpoch = Utils.string_to_datetime(setReleaseDate).timestamp()
+                                isElementFound = True
+                                break
+                
 
         Utils.log(f"Set list page => Release date: {setReleaseDate}")
         
@@ -199,7 +212,7 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
             for soupItem in soupListMainElem:
                 soupItemListProp = soupItem.find_all("td")
                 
-                if soupItemListProp:    
+                if soupItemListProp:
                     lenSoupListProp: int = len(soupItemListProp)
                     
                     cardUrlElemA = soupItemListProp[INDEX_SETCODE].find("a")
@@ -324,13 +337,14 @@ def process_banlist():
                 cardName: str = card.name
                 cardSetNumber: str = card.set_number
                 if cardPasscode in banlistCardDict:
-                    Utils.log(f"Card already exist => {cardPasscode} | name: {cardName}")
+                    pass #do nothing
+                    #Utils.log(f"Card already exist => {cardPasscode} | name: {cardName}")
                 else:
                     banlistCardDict[cardPasscode] = {
                         "name": cardName,
                         "setcode": cardSetNumber
                     }
-                    Utils.log(f"Card info => {cardPasscode} | name: {cardName}")
+                    #Utils.log(f"Card info => {cardPasscode} | name: {cardName}")
         else:
             Utils.log("JSON file parsing failed!")
 
@@ -350,7 +364,7 @@ def process_banlist():
                 if qty > 0:
                     contentToWrite: str = f"{key} {qty} # {cardName}"
                     banlistContents += contentToWrite + "\n"
-                    Utils.log(f"Card to write => {contentToWrite}")
+                    #Utils.log(f"Card to write => {contentToWrite}")
         # Create output file
         Utils.write_file(FILE_OUTPUT_BANLIST, banlistContents)
 
@@ -382,7 +396,7 @@ try:
     LIST_DONESET_FROMFILE = Utils.read_file(FILE_OUTPUT_DONE_SET).split()
     for doneSetItem in LIST_DONESET_FROMFILE:
         doneSetItemProper = doneSetItem.strip().upper()
-        Utils.log(f"Set '{doneSetItemProper}' is already processed.")
+        #Utils.log(f"Set '{doneSetItemProper}' is already processed.")
         LIST_DONESET.append(doneSetItemProper)
 
     if CONTENTS_HTML != "":
