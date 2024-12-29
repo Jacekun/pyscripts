@@ -233,16 +233,21 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                             cardPasscode = dictAlreadyExist[cardSetcode]
                             Utils.log(f"Set list page => Use cached passcode from existing json file. Passcode: {cardPasscode}")
 
-                    if cardPasscode == 0:
-                        cardPasscode = get_card_passcode(cardUrl)
-
                     if lenSoupListProp > 5:
                         cardNameJap = soupItemListProp[INDEX_JAP_NAME].text.strip()
-                        cardCategory = soupItemListProp[INDEX_CATEGORY].text.strip()
+                        cardCategory = soupItemListProp[INDEX_CATEGORY].text.strip().upper()
                         cardRaritiesElem = soupItemListProp[INDEX_RARITY]
                     else:
-                        cardCategory = soupItemListProp[INDEX_CATEGORY_NOJP].text.strip()
+                        cardCategory = soupItemListProp[INDEX_CATEGORY_NOJP].text.strip().upper()
                         cardRaritiesElem = soupItemListProp[INDEX_RARITY_NOJP]
+
+                    # Skip tokens
+                    if cardCategory == "TOKEN":
+                        continue
+                    
+                    # Fetch passcode using URL
+                    if cardPasscode == 0:
+                        cardPasscode = get_card_passcode(cardUrl)
 
                     if not cardRaritiesElem:
                         cardItem = CardData(
@@ -269,13 +274,13 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                             )
                             listCardItems.append(cardItem)
 
-                    Utils.log(f"Item => Setcode: {cardSetcode} | URL: {cardUrl} | Name: {cardName}")
+                    Utils.log(f"Item => Setcode: {cardSetcode} | URL: {cardUrl} | Name: {cardName} | Category: {cardCategory}")
                     Utils.log(LINE_BREAK)
 
                     time.sleep(DELAY_PASSCODE) # Throttle process to prevent overloading website.
             ##
     elif reqMain.status_code == 404:
-        Utils.log(f"Page not found. Will skip.")
+        Utils.log(f"[Warning] Page not found. Will skip.")
     else:
         raise Exception(f"Cannot download page: {inputString}. Code: {reqMain.status_code}")
     
