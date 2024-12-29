@@ -1,0 +1,670 @@
+[2024-12-29 07:36:46] Done deleting old log files.
+[2024-12-29 07:36:46] File loaded successfully
+[2024-12-29 07:36:46] Parsing soup...
+[2024-12-29 07:36:46] Finding main body from html...
+[2024-12-29 07:36:46] Parsing setlist...
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: LOB is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: SDK is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: SDY is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: MRD is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: MRL is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: GBI is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: PSV is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: LON is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: LOD is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: PGD is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: MFC is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Prefix: DCR is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:46] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:46] Set 'WCS-AE' Release date => Raw: 22 May 2004 | Converted: 2004-05-22 00:00:00
+[2024-12-29 07:36:46] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2024-12-29 07:36:46] [Warning] Page not found. Will skip.
+[2024-12-29 07:36:46] ===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: WCS-AE4 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: IOC-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: AST-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SOD-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: RDS-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: WCS-AE5 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: FET-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: TLM-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: CRV-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: WCPS-AE6 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: EEN-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SOI-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: EOJ-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: WCPS-AE7 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: WCPS-AE8 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: CRMS-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SD16-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: RGBT-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: WCPS-AE9 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: 2010-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: 2011-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: 2012-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: 2013-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: 2014-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: 2015-JPP is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SSD1-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SSD2-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SDID-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SDID-AEP is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SDRB-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: SDRB-AEP is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: CR01-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: CR01-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: DUNE-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Prefix: DUNE-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:36:48] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:36:48] Set '24AT-AE1' Release date => Raw: 1 January 2024 | Converted: 2024-01-01 00:00:00
+[2024-12-29 07:36:49] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Tournament_Pack_2024_Vol.1_(OCG-AE)
+[2024-12-29 07:36:49] Set list page => Release date: 1 JANUARY 2024
+[2024-12-29 07:36:49] Set list page => Use cached passcode from existing json file. Passcode: 47222536
+[2024-12-29 07:36:49] Item => Setcode: 24AT-AE100 | URL: https://yugipedia.com/wiki/24AT-AE100 | Name: Dark Magical Circle | Category: CONTINUOUS SPELL
+[2024-12-29 07:36:49] ===================================================================================================
+[2024-12-29 07:36:50] Set list page => Use cached passcode from existing json file. Passcode: 87188910
+[2024-12-29 07:36:50] Item => Setcode: 24AT-AE101 | URL: https://yugipedia.com/wiki/24AT-AE101 | Name: Ravenous Crocodragon Archethys | Category: EFFECT SYNCHRO MONSTER
+[2024-12-29 07:36:50] ===================================================================================================
+[2024-12-29 07:36:51] Set list page => Use cached passcode from existing json file. Passcode: 63845230
+[2024-12-29 07:36:51] Item => Setcode: 24AT-AE102 | URL: https://yugipedia.com/wiki/24AT-AE102 | Name: Eater of Millions | Category: EFFECT MONSTER
+[2024-12-29 07:36:51] ===================================================================================================
+[2024-12-29 07:36:52] Set list page => Use cached passcode from existing json file. Passcode: 581014
+[2024-12-29 07:36:52] Item => Setcode: 24AT-AE103 | URL: https://yugipedia.com/wiki/24AT-AE103 | Name: Daigusto Emeral | Category: EFFECT XYZ MONSTER
+[2024-12-29 07:36:52] ===================================================================================================
+[2024-12-29 07:36:53] Set list page => Use cached passcode from existing json file. Passcode: 53129443
+[2024-12-29 07:36:53] Item => Setcode: 24AT-AE104 | URL: https://yugipedia.com/wiki/24AT-AE104 | Name: Dark Hole | Category: NORMAL SPELL
+[2024-12-29 07:36:53] ===================================================================================================
+[2024-12-29 07:36:54] Set list page => Use cached passcode from existing json file. Passcode: 46457856
+[2024-12-29 07:36:54] Item => Setcode: 24AT-AE105 | URL: https://yugipedia.com/wiki/24AT-AE105 | Name: Tomozaurus | Category: NORMAL MONSTER
+[2024-12-29 07:36:54] ===================================================================================================
+[2024-12-29 07:36:55] Set list page => Use cached passcode from existing json file. Passcode: 83986578
+[2024-12-29 07:36:55] Item => Setcode: 24AT-AE106 | URL: https://yugipedia.com/wiki/24AT-AE106 | Name: King Tiger Wanghu | Category: EFFECT MONSTER
+[2024-12-29 07:36:55] ===================================================================================================
+[2024-12-29 07:36:56] Set list page => Use cached passcode from existing json file. Passcode: 22996376
+[2024-12-29 07:36:56] Item => Setcode: 24AT-AE107 | URL: https://yugipedia.com/wiki/24AT-AE107 | Name: Behemoth the King of All Animals | Category: EFFECT MONSTER
+[2024-12-29 07:36:56] ===================================================================================================
+[2024-12-29 07:36:57] Set list page => Use cached passcode from existing json file. Passcode: 92676637
+[2024-12-29 07:36:57] Item => Setcode: 24AT-AE108 | URL: https://yugipedia.com/wiki/24AT-AE108 | Name: Tuningware | Category: EFFECT MONSTER
+[2024-12-29 07:36:57] ===================================================================================================
+[2024-12-29 07:36:58] Set list page => Use cached passcode from existing json file. Passcode: 80457744
+[2024-12-29 07:36:58] Item => Setcode: 24AT-AE109 | URL: https://yugipedia.com/wiki/24AT-AE109 | Name: Boost Warrior | Category: EFFECT MONSTER
+[2024-12-29 07:36:58] ===================================================================================================
+[2024-12-29 07:36:59] Set list page => Use cached passcode from existing json file. Passcode: 53539634
+[2024-12-29 07:36:59] Item => Setcode: 24AT-AE110 | URL: https://yugipedia.com/wiki/24AT-AE110 | Name: Sanwitch | Category: FUSION MONSTER
+[2024-12-29 07:36:59] ===================================================================================================
+[2024-12-29 07:37:00] Set list page => Use cached passcode from existing json file. Passcode: 98978921
+[2024-12-29 07:37:00] Item => Setcode: 24AT-AE111 | URL: https://yugipedia.com/wiki/24AT-AE111 | Name: Link Spider | Category: EFFECT LINK MONSTER
+[2024-12-29 07:37:00] ===================================================================================================
+[2024-12-29 07:37:01] Set list page => Use cached passcode from existing json file. Passcode: 84808313
+[2024-12-29 07:37:01] Item => Setcode: 24AT-AE112 | URL: https://yugipedia.com/wiki/24AT-AE112 | Name: Big Evolution Pill | Category: NORMAL SPELL
+[2024-12-29 07:37:01] ===================================================================================================
+[2024-12-29 07:37:02] Set list page => Use cached passcode from existing json file. Passcode: 79816536
+[2024-12-29 07:37:02] Item => Setcode: 24AT-AE113 | URL: https://yugipedia.com/wiki/24AT-AE113 | Name: Summoner's Art | Category: NORMAL SPELL
+[2024-12-29 07:37:02] ===================================================================================================
+[2024-12-29 07:37:03] Set list page => Use cached passcode from existing json file. Passcode: 19578592
+[2024-12-29 07:37:03] Item => Setcode: 24AT-AE114 | URL: https://yugipedia.com/wiki/24AT-AE114 | Name: Axe of Fools | Category: EQUIP SPELL
+[2024-12-29 07:37:03] ===================================================================================================
+[2024-12-29 07:37:04] Set list page => Use cached passcode from existing json file. Passcode: 88616795
+[2024-12-29 07:37:04] Item => Setcode: 24AT-AE115 | URL: https://yugipedia.com/wiki/24AT-AE115 | Name: Spellbook of Wisdom | Category: QUICK-PLAY SPELL
+[2024-12-29 07:37:04] ===================================================================================================
+[2024-12-29 07:37:05] Set list page => Use cached passcode from existing json file. Passcode: 51412776
+[2024-12-29 07:37:05] Item => Setcode: 24AT-AE116 | URL: https://yugipedia.com/wiki/24AT-AE116 | Name: Heritage of the Chalice | Category: NORMAL SPELL
+[2024-12-29 07:37:05] ===================================================================================================
+[2024-12-29 07:37:06] Set list page => Use cached passcode from existing json file. Passcode: 19508728
+[2024-12-29 07:37:06] Item => Setcode: 24AT-AE117 | URL: https://yugipedia.com/wiki/24AT-AE117 | Name: Moon Mirror Shield | Category: EQUIP SPELL
+[2024-12-29 07:37:06] ===================================================================================================
+[2024-12-29 07:37:07] Set list page => Use cached passcode from existing json file. Passcode: 23442438
+[2024-12-29 07:37:07] Item => Setcode: 24AT-AE118 | URL: https://yugipedia.com/wiki/24AT-AE118 | Name: Synchro Chase | Category: CONTINUOUS SPELL
+[2024-12-29 07:37:07] ===================================================================================================
+[2024-12-29 07:37:08] Set list page => Use cached passcode from existing json file. Passcode: 23869735
+[2024-12-29 07:37:08] Item => Setcode: 24AT-AE119 | URL: https://yugipedia.com/wiki/24AT-AE119 | Name: Fossil Excavation | Category: CONTINUOUS TRAP
+[2024-12-29 07:37:08] ===================================================================================================
+[2024-12-29 07:37:09] Set list page => Use cached passcode from existing json file. Passcode: 30459350
+[2024-12-29 07:37:09] Item => Setcode: 24AT-AE120 | URL: https://yugipedia.com/wiki/24AT-AE120 | Name: Imperial Iron Wall | Category: CONTINUOUS TRAP
+[2024-12-29 07:37:09] ===================================================================================================
+[2024-12-29 07:37:10] Creating output json file for set '24AT-AE1' => output/AE_24AT-AE1.json
+[2024-12-29 07:37:10] Saving Card List to JSON file => output/AE_24AT-AE1.json
+[2024-12-29 07:37:10] Successfully created json file.
+[2024-12-29 07:37:10] ===================================================================================================
+[2024-12-29 07:37:12] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:12] Prefix: RC04-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:12] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:12] Prefix: CR02-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:12] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:12] Prefix: CR02-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:12] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:12] Prefix: AGOV-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:12] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:12] Prefix: AGOV-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:12] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:12] Prefix: CR03-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:12] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:12] Prefix: CR03-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:12] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:12] Set '' Release date => Raw: 23 March 2024 | Converted: 2024-03-23 00:00:00
+[2024-12-29 07:37:12] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2024-12-29 07:37:12] [Warning] Page not found. Will skip.
+[2024-12-29 07:37:12] ===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: PHNI-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: PHNI-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: 24AT-AE2 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: 24CC-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: CR04-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: CR04-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: SDSS-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: SDSS-AEP is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: LEDE-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: LEDE-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: 24AT-AE3 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: ES01-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: CR05-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: CR05-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: INFO-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: INFO-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: 24OT-AESG is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: 24AT-AE4 is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: BN01-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: ROTA-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: ROTA-AES is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: DI01-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: DI02-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Prefix: SLF1-AE is skipped. Already processed.
+===================================================================================================
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Skipped : Set 'CR06-AE' is still unreleased. Release date: 2025-01-25
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Skipped : Set 'SUDA-AE' is still unreleased. Release date: 2025-02-15
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Skipped : Set 'DBCB-AE' is still unreleased. Release date: 2025-03-15
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Skipped : Set 'CR07-AE' is still unreleased. Release date: 2025-04-12
+[2024-12-29 07:37:14] Parsing Set 'Name' and 'Link'..
+[2024-12-29 07:37:14] Skipped : Set 'ALIN-AE' is still unreleased. Release date: 2025-05-10
+[2024-12-29 07:37:15] Banlist => Content exist
+[2024-12-29 07:37:15] Banlist => Main element exist
+[2024-12-29 07:37:15] Banlist => Main table exist
+[2024-12-29 07:37:15] Banlist => Main table body exist
+[2024-12-29 07:37:15] Banlist => Element list of Card names found
+[2024-12-29 07:37:15] Card Name => Amazoness Archer (Updated from: Amazon Archer)
+[2024-12-29 07:37:15] Card Name => Cannon Soldier
+[2024-12-29 07:37:15] Card Name => Cannon Soldier
+[2024-12-29 07:37:15] Card Name => Cyber Jar
+[2024-12-29 07:37:15] Card Name => Cyber Jar
+[2024-12-29 07:37:15] Card Name => Fiber Jar
+[2024-12-29 07:37:15] Card Name => Fiber Jar
+[2024-12-29 07:37:15] Card Name => Magical Scientist
+[2024-12-29 07:37:15] Card Name => Magical Scientist
+[2024-12-29 07:37:15] Card Name => Butterfly Dagger - Elma
+[2024-12-29 07:37:15] Card Name => Butterfly Dagger - Elma
+[2024-12-29 07:37:15] Card Name => Card of Safe Return
+[2024-12-29 07:37:15] Card Name => Card of Safe Return
+[2024-12-29 07:37:15] Card Name => Cold Wave
+[2024-12-29 07:37:15] Card Name => Cold Wave
+[2024-12-29 07:37:15] Card Name => Confiscation
+[2024-12-29 07:37:15] Card Name => Confiscation
+[2024-12-29 07:37:15] Card Name => Delinquent Duo
+[2024-12-29 07:37:15] Card Name => Delinquent Duo
+[2024-12-29 07:37:15] Card Name => Dimension Fusion
+[2024-12-29 07:37:15] Card Name => Dimension Fusion
+[2024-12-29 07:37:15] Card Name => Giant Trunade
+[2024-12-29 07:37:15] Card Name => Giant Trunade
+[2024-12-29 07:37:15] Card Name => Heavy Storm
+[2024-12-29 07:37:15] Card Name => Heavy Storm
+[2024-12-29 07:37:15] Card Name => Last Will
+[2024-12-29 07:37:15] Card Name => Last Will
+[2024-12-29 07:37:15] Card Name => Mass Driver
+[2024-12-29 07:37:15] Card Name => Mass Driver
+[2024-12-29 07:37:15] Card Name => Metamorphosis
+[2024-12-29 07:37:15] Card Name => Metamorphosis
+[2024-12-29 07:37:15] Card Name => Mirage of Nightmare
+[2024-12-29 07:37:15] Card Name => Mirage of Nightmare
+[2024-12-29 07:37:15] Card Name => Painful Choice
+[2024-12-29 07:37:15] Card Name => Painful Choice
+[2024-12-29 07:37:15] Card Name => Pot of Greed
+[2024-12-29 07:37:15] Card Name => Pot of Greed
+[2024-12-29 07:37:15] Card Name => Premature Burial
+[2024-12-29 07:37:15] Card Name => Premature Burial
+[2024-12-29 07:37:15] Card Name => Smoke Grenade of the Thief
+[2024-12-29 07:37:15] Card Name => Smoke Grenade of the Thief
+[2024-12-29 07:37:15] Card Name => Snatch Steal
+[2024-12-29 07:37:15] Card Name => Snatch Steal
+[2024-12-29 07:37:15] Card Name => The Forceful Sentry
+[2024-12-29 07:37:15] Card Name => The Forceful Sentry
+[2024-12-29 07:37:15] Card Name => Imperial Order
+[2024-12-29 07:37:15] Card Name => Imperial Order
+[2024-12-29 07:37:15] Card Name => Last Turn
+[2024-12-29 07:37:15] Card Name => Last Turn
+[2024-12-29 07:37:15] Card Name => Life Equalizer
+[2024-12-29 07:37:15] Card Name => Life Equalizer
+[2024-12-29 07:37:15] Card Name => Magical Explosion
+[2024-12-29 07:37:15] Card Name => Magical Explosion
+[2024-12-29 07:37:15] Card Name => Royal Oppression
+[2024-12-29 07:37:15] Card Name => Royal Oppression
+[2024-12-29 07:37:15] Card Name => Trap Dustshoot
+[2024-12-29 07:37:15] Card Name => Trap Dustshoot
+[2024-12-29 07:37:15] Card Name => Ultimate Offering
+[2024-12-29 07:37:15] Card Name => Ultimate Offering
+[2024-12-29 07:37:15] File => output/AE_CR01-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR02-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_LON.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_WCPS-AE8.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_BN01-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SOD-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_24AT-AE2.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_2011-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_INFO-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_WCPS-AE9.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_AGOV-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_LOD.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_FET-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_GBI.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_WCPS-AE6.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_WCPS-AE7.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_2010-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_MFC.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_2013-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SDRB-AEP.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR03-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR05-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_PHNI-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_ROTA-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SSD2-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_24AT-AE1.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR03-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_2014-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SDY.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_WCS-AE5.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_WCS-AE4.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_LOB.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_RDS-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR02-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_LEDE-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_IOC-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SDRB-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_DI01-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_LEDE-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_RC04-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_WCS.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SDSS-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_24AT-AE3.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_EOJ-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SDSS-AEP.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_2015-JPP.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SOI-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_DUNE-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_24OT-AESG.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_PSV.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_PHNI-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_ES01-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SLF1-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SSD1-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR05-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_AST-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_24CC-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SD16-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SDID-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_PGD.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_MRD.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_INFO-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_ROTA-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR04-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_TLM-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_DUNE-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_DI02-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_2012-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_DCR.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SDID-AEP.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_EEN-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_24AT-AE4.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CRV-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_RGBT-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_AGOV-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_SDK.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR04-AES.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_MRL.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CR01-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] File => output/AE_CRMS-AE.json
+[2024-12-29 07:37:15] JSON file parsed.
+[2024-12-29 07:37:15] CardData processed.
+[2024-12-29 07:37:15] Card is banned => Card of Safe Return
+[2024-12-29 07:37:15] Card is banned => Fiber Jar
+[2024-12-29 07:37:15] Card is banned => Smoke Grenade of the Thief
+[2024-12-29 07:37:15] Card is banned => Royal Oppression
+[2024-12-29 07:37:15] Card is banned => Last Turn
+[2024-12-29 07:37:15] Card is banned => Magical Scientist
+[2024-12-29 07:37:15] Card is banned => Mass Driver
+[2024-12-29 07:37:15] Card is banned => Last Will
+[2024-12-29 07:37:15] Card is banned => Ultimate Offering
+[2024-12-29 07:37:15] Card is banned => Pot of Greed
+[2024-12-29 07:37:15] Card is banned => Dimension Fusion
+[2024-12-29 07:37:15] Card is banned => Life Equalizer
+[2024-12-29 07:37:15] Card is banned => Premature Burial
+[2024-12-29 07:37:15] Card is banned => Cold Wave
+[2024-12-29 07:37:15] Card is banned => Imperial Order
+[2024-12-29 07:37:15] Card is banned => Giant Trunade
+[2024-12-29 07:37:15] Card is banned => Mirage of Nightmare
+[2024-12-29 07:37:15] Card is banned => Trap Dustshoot
+[2024-12-29 07:37:15] Card is banned => Metamorphosis
+[2024-12-29 07:37:15] Card is banned => Cannon Soldier
+[2024-12-29 07:37:15] Card is banned => Heavy Storm
+[2024-12-29 07:37:15] Card is banned => Butterfly Dagger - Elma
+[2024-12-29 07:37:15] Card is banned => Magical Explosion
+[2024-12-29 07:37:15] Card is banned => Snatch Steal
+[2024-12-29 07:37:15] Card is banned => Confiscation
+[2024-12-29 07:37:15] Card is banned => Delinquent Duo
+[2024-12-29 07:37:15] Card is banned => The Forceful Sentry
+[2024-12-29 07:37:15] Card is banned => Painful Choice
+[2024-12-29 07:37:15] Card is banned => Cyber Jar
+[2024-12-29 07:37:15] Elapsed seconds: 29.16310453414917
