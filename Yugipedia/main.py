@@ -18,7 +18,7 @@ NEWLINE = '\n'
 DELAY_SETLIST = 2
 DELAY_PASSCODE = 1
 BANLIST_FORMAT = "Yu-Gi-Oh! AE"
-BANLIST_TITLE = "2023.11 OCG-AE"
+BANLIST_TITLE = "2025.01 OCG-AE"
 LINE_BREAK = "==================================================================================================="
 
 # Index
@@ -38,7 +38,7 @@ PREFIX_CARDLIST = "Set_Card_Lists:"
 SUFFIX_AE = "(Asian-English)"
 
 INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&limit=500&offset=0&q=%5B%5BMedium%3A%3AOfficial%5D%5D++%3Cq%3E+%3Cq%3E%5B%5BAsian-English+set+prefix%3A%3A%2B%5D%5D%3C%2Fq%3E++OR++%3Cq%3E%5B%5BAsian-English+release+date%3A%3A%2B%5D%5D%3C%2Fq%3E+%3C%2Fq%3E&p=mainlabel%3D-20Set%2Fformat%3Dtable%2Fheaders%3D-20plain%2Fclass%3D-20wikitable-20sortable-20card-2Dlist&po=%3FAsian-English+set+and+region+prefix%3DPrefix%0A%3FAsian-English+release+date%3DRelease+date%0A&sort=+Asian-English+release+date%2C+Asian-English+set+prefix%2C+%23&order=asc%2Casc%2Casc&eq=no#search"
-URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202311&lang=en"
+URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202501&lang=en"
 
 # File paths
 FILE_OUTPUT_BODY = "body.html"
@@ -290,7 +290,7 @@ def process_banlist():
     banlistContents: str = f"#[{BANLIST_FORMAT} {BANLIST_TITLE}]\n!{BANLIST_TITLE}\n$whitelist\n"
     banlistCardDict = { }
     filesToProcess = Utils.list_files(FOLDER_OUTPUT)
-    listLimitBanned = []
+    listLimitBanned: list[tuple[str, int]] = []
 
     # First, get the banlist and process it
     contentsHtml: str = "<div></div>"#Placeholder that can be parsed by BSoup
@@ -311,23 +311,30 @@ def process_banlist():
 
         if soupObj:
             Utils.log(f"Banlist => Main element exist")
-            soupMain = soupObj.find("table", { "class": "limit_list_style" } )
+            soupMain = soupObj.find_all("table", { "class": "limit_list_style" } )
             if soupMain:
-                Utils.log(f"Banlist => Main table exist")
-                soupMainBody = soupMain.find("tbody")
-                if soupMainBody:
-                    Utils.log(f"Banlist => Main table body exist")
-                    soupMainCardList = soupMainBody.find_all("tr")
-                    if soupMainCardList:
-                        Utils.log(f"Banlist => Element list of Card names found")
-                        for soupItem in soupMainCardList:
-                            if soupItem:
-                                soupCardName = soupItem.find("td")
-                                #Utils.log(f"Banlist => Element 'td' found on item.")
-                                if soupCardName:
-                                    cardName: str = soupCardName.text
-                                    Utils.log(f"Card Name => {cardName}")
-                                    listLimitBanned.append(cardName)
+                banlistLen: int = len(soupMain)
+                limitCount: int = 0 # Starts with Restricted to 0
+                Utils.log(f"Banlist => Main table exist. Table count: {banlistLen}")
+                for soupElemBody in soupMain:
+                    Utils.log(f"Banlist => Generate banlist with restriction of : {limitCount}")
+                    soupMainBody = soupElemBody.find("tbody")
+                    if soupMainBody:
+                        Utils.log(f"Banlist => Main table body exist")
+                        soupMainCardList = soupMainBody.find_all("tr")
+                        if soupMainCardList:
+                            Utils.log(f"Banlist => Element list of Card names found")
+                            for soupItem in soupMainCardList:
+                                if soupItem:
+                                    soupCardName = soupItem.find("td")
+                                    #Utils.log(f"Banlist => Element 'td' found on item.")
+                                    if soupCardName:
+                                        cardName: str = soupCardName.text
+                                        banlistItem: tuple[str, int] = (cardName, limitCount)
+                                        Utils.log(f"Banlist => Item: {banlistItem}")
+                                        listLimitBanned.append(banlistItem)
+                            # Move Restricted count for other items in the banlist.
+                            limitCount = limitCount + 1
     #raise Exception("dummy test")
 
     for x in filesToProcess:
@@ -361,15 +368,21 @@ def process_banlist():
                 qty: int = 3
                 cardName: str = str(item["name"])
 
-                # Check qty
-                if cardName in listLimitBanned:
-                    qty = 0
-                    Utils.log(f"Card is banned => {cardName}")
-
+                # Check qty from list of tuples.
+                banlistItemList = [item for item in listLimitBanned if cardName in item]
+                if banlistItemList:
+                    banlistItemFirst = banlistItemList[0]
+                    qty = banlistItemFirst[1]
+                    listLimitBanned.remove(banlistItemFirst)
+                # Write qty to CONF file.
                 if qty > 0:
                     contentToWrite: str = f"{key} {qty} # {cardName}"
                     banlistContents += contentToWrite + "\n"
+                    if qty < 3:
+                        Utils.log(f"CONF => Card is restricted to {qty} => {cardName}")
                     #Utils.log(f"Card to write => {contentToWrite}")
+                else:
+                    Utils.log(f"CONF => Card is banned => {cardName}")
         # Create output file
         Utils.write_file(FILE_OUTPUT_BANLIST, banlistContents)
 
