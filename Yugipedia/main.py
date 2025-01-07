@@ -362,9 +362,14 @@ def process_banlist():
 
     # Create conf whitelist file
     if banlistCardDict:
+        # First, add manually cards that does not have passcode. Format: passcode qty name
+        banlistContents += f"10000080 3 # The Winged Dragon of Ra - Sphere Mode \n"
+
+        # Iterate over JSON items.
         for key in banlistCardDict:
             if key and key != 0 :
-                item = banlistCardDict[key]
+                cardPasscode: int = key
+                item = banlistCardDict[cardPasscode]
                 qty: int = 3
                 cardName: str = str(item["name"])
 
@@ -376,7 +381,7 @@ def process_banlist():
                     listLimitBanned.remove(banlistItemFirst)
                 # Write qty to CONF file.
                 if qty > 0:
-                    contentToWrite: str = f"{key} {qty} # {cardName}"
+                    contentToWrite: str = f"{cardPasscode} {qty} # {cardName}"
                     banlistContents += contentToWrite + "\n"
                     if qty < 3:
                         Utils.log(f"CONF => Card is restricted to {qty} => {cardName}")
