@@ -41,9 +41,10 @@ INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&limit=500&offset=
 URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202501&lang=en"
 
 # File paths
+EXT_OUTPUT_BANLIST = ".lflist.conf"
 FILE_OUTPUT_BODY = "body.html"
 FILE_OUTPUT_DONE_SET = "setlist_done.log"# Already processed setcode prefix
-FILE_OUTPUT_BANLIST = BANLIST_TITLE + ".lflist.conf"
+FILE_OUTPUT_BANLIST = BANLIST_TITLE + EXT_OUTPUT_BANLIST
 FILE_CACHE_BANLIST = BANLIST_TITLE + ".html"
 FOLDER_OUTPUT = "output"#Folder to save all json files per set
 
@@ -398,6 +399,16 @@ try:
 
     # Clear old log files
     Utils.clear_logs()
+
+    # Clear existing banlist output files
+    dirPath = os.path.dirname(os.path.realpath(__file__))
+    banlistOutputFiles = os.listdir(dirPath)
+    for item in banlistOutputFiles:
+        if item.endswith(EXT_OUTPUT_BANLIST) or item.endswith(".edopro"):
+            outputBanlistFileItem: str = os.path.join(dirPath, item)
+            if os.path.isfile(outputBanlistFileItem):
+                print(f"Output file deleted (BANLIST) => {outputBanlistFileItem}")
+                os.remove(outputBanlistFileItem)
 
     # Check URL
     if INPUT_URL is None or INPUT_URL == "":
