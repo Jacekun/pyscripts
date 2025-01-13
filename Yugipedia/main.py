@@ -407,7 +407,7 @@ try:
         if item.endswith(EXT_OUTPUT_BANLIST) or item.endswith(".edopro"):
             outputBanlistFileItem: str = os.path.join(dirPath, item)
             if os.path.isfile(outputBanlistFileItem):
-                print(f"Output file deleted (BANLIST) => {outputBanlistFileItem}")
+                Utils.log(f"Output file deleted (BANLIST) => {outputBanlistFileItem}")
                 os.remove(outputBanlistFileItem)
 
     # Check URL
