@@ -109,3 +109,10 @@ jobs:
           # "echo" returns true so the build succeeds, even if no changed files
           git commit -m '[skip ci] Updated output folder contents' || echo
           git push origin ${{ env.REPO_BRANCH }}
+      - name: Deploy to GIST
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: 801ce1087418632a250aa832a4f8ec1e
+          file_path: Yugipedia/2025.01 OCG-AE.lflist.conf
+          file_type: text
