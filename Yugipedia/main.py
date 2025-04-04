@@ -18,7 +18,7 @@ NEWLINE = '\n'
 DELAY_SETLIST = 2
 DELAY_PASSCODE = 1
 BANLIST_FORMAT = "Yu-Gi-Oh! AE"
-BANLIST_TITLE = "2025.01 OCG-AE"
+BANLIST_TITLE = "2025.04 OCG-AE"
 LINE_BREAK = "==================================================================================================="
 
 # Index

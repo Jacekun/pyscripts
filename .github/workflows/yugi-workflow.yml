@@ -114,5 +114,5 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           gist_id: 801ce1087418632a250aa832a4f8ec1e
-          file_path: Yugipedia/2025.01 OCG-AE.lflist.conf
+          file_path: Yugipedia/AE_Banlist.lflist.conf
           file_type: text
