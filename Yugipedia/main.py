@@ -1,6 +1,7 @@
 import requests
 import os
 import time
+import json
 from pathlib import Path
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -8,6 +9,7 @@ from bs4 import BeautifulSoup
 # Import local files
 from data.utils import Utils
 from data.model_card import CardData
+from data.model_sets import WikiSet
 
 # Timer for processing
 TIME_START = time.time()
@@ -42,7 +44,7 @@ URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_ca
 
 # File paths
 EXT_OUTPUT_BANLIST = ".lflist.conf"
-FILE_OUTPUT_BODY = "body.html"
+FILE_OUTPUT_BODY = "result.json"
 FILE_OUTPUT_DONE_SET = "setlist_done.log"# Already processed setcode prefix
 FILE_OUTPUT_BANLIST = "AE_Banlist" + EXT_OUTPUT_BANLIST
 FILE_CACHE_BANLIST = BANLIST_TITLE + ".html"
@@ -416,15 +418,19 @@ try:
 
     # Request page and cache it, or load cached data.
     if not os.path.exists(FILE_OUTPUT_BODY):
-        reqMain = requests.get(url = INPUT_URL, headers = HEADERS)
+        Utils.log("Fetching wiki data...")
+        reqMain = requests.get(
+            url = INPUT_URL, 
+            headers = HEADERS
+        )
         if reqMain.ok:
-            CONTENTS_HTML = reqMain.text
-            Utils.write_file(FILE_OUTPUT_BODY, CONTENTS_HTML)
+            Utils.write_file(FILE_OUTPUT_BODY, reqMain.text)
         else:
             raise Exception(f"Page not downloaded, status code: {reqMain.status_code}")
-    else:
-        # Open cached file
-        CONTENTS_HTML = Utils.read_file(FILE_OUTPUT_BODY).strip()
+        
+    CONTENTS_HTML = Utils.read_json(FILE_OUTPUT_BODY)
+    if CONTENTS_HTML is None:
+        raise Exception("No valid data found!")
 
     # Load already done sets
     LIST_DONESET_FROMFILE = Utils.read_file(FILE_OUTPUT_DONE_SET).split()
@@ -433,107 +439,94 @@ try:
         #Utils.log(f"Set '{doneSetItemProper}' is already processed.")
         LIST_DONESET.append(doneSetItemProper)
 
-    if CONTENTS_HTML != "":
-        Utils.log("File loaded successfully")
-
-    Utils.log("Parsing soup...")
-    soupObj = BeautifulSoup(CONTENTS_HTML, "html.parser")
-
-    Utils.log("Finding main body from html...")
-    soupMain = soupObj.find("div", { "id": "result" } )
-    if soupMain is None:
-        raise Exception("Main body not found => id: result")
     
-    Utils.log("Parsing setlist...")
-    soupSetList = soupMain.find_all("tr")
-    if soupSetList is None:
-        raise Exception("Set list not found => tr")
+    Utils.log("Parsing JSON response...")
+    try:
+        parseData = WikiSet.fromJson(CONTENTS_HTML)
+        if parseData is None:
+            raise Exception ("JSON data is invalid!")
+        
+        count = 0
+        for dataKey, dataValue in parseData.results.items():
+            Utils.log(f"Set details => { dataKey } | { dataValue.fullurl }")
+            
+            setLink: str = ""
+            setLinkProper: str = ""
+            setLinkWithCardSetList: str = ""
+            setPrefix: str = ""
+            setReleaseDate: datetime = None
+            setReleaseDateRaw: int = 0
 
-    count = 0
-    for soupSetItem in soupSetList:
-        setContentList = soupSetItem.find_all("td")
-        if setContentList is None:
-            raise Exception("Set is not parsable.")
-        
-        lenSetContentList = len(setContentList)
-        
-        Utils.log("Parsing Set 'Name' and 'Link'..")
-        setNameLink = setContentList[0].find("a")
-        
-        setNameList = setNameLink.text.split()
-        setName = ' '.join(setNameList).strip()
-        
-        setLink: str = setNameLink["href"]
-        setLinkProper: str = LINK_MAIN + setLink
-        setLinkWithCardSetList: str = get_setlist_from_wikilink(setLinkProper, "OCG-AE")
-        setPrefix: str = ""
-        setReleaseDate: datetime = None
-        setReleaseDateRaw: str = ""
+            # Parse release date
+            try:
+                setReleaseDateRaw = dataValue.printouts.release_date[0].timestamp
+                setReleaseDate = datetime.fromtimestamp(setReleaseDateRaw)
+            except Exception as eInner:
+                setReleaseDate = None
+                Utils.log_err(f"[Parse Set DateTime] Raw Value: {setReleaseDateRaw}", eInner)
 
-        if lenSetContentList >= 2:
-            setContentObj = setContentList[1]
-            if setContentObj:
-                setPrefix = setContentObj.text.strip().upper()
-        
-        if lenSetContentList >= 3:
-            setContentObj = setContentList[2]
-            if setContentObj:
-                setReleaseDateRaw = setContentObj.text.strip()
-                try:
-                    setReleaseDate = Utils.string_to_datetime(setReleaseDateRaw)
-                except Exception as eInner:
-                    setReleaseDate = None
-                    Utils.log_err(f"[Parse Set DateTime] Raw Value: {setReleaseDateRaw}", eInner)
-        
-        if setPrefix.isspace():
-            Utils.log(f"Skipped : {setLinkProper}")
-        else:
-            if setPrefix in LIST_DONESET:
-                Utils.log(f"Prefix: {setPrefix} is skipped. Already processed.\n{LINE_BREAK}")
-                LIST_DONESET.remove(setPrefix)
+            # Parse set prefix
+            try:
+                setLink = dataValue.fullurl
+                setLinkProper = setLink
+                setLinkWithCardSetList = get_setlist_from_wikilink(setLinkProper, "OCG-AE")
+                setPrefix = str(dataValue.printouts.prefix[0]).strip()
+            except Exception as eInner:
+                Utils.log_err(f"[Parse Set prefix]", eInner)
+                    
+            # Check if set is already processed or is invalid.
+            if setPrefix.isspace():
+                Utils.log(f"Skipped : {setLinkProper}")
             else:
-                #Utils.log(f"Prefix: {setPrefix} | Set URL: {setLinkWithCardSetList}")
+                if setPrefix in LIST_DONESET:
+                    Utils.log(f"Prefix: {setPrefix} is skipped. Already processed.\n{LINE_BREAK}")
+                    LIST_DONESET.remove(setPrefix)
+                else:
+                    #Utils.log(f"Prefix: {setPrefix} | Set URL: {setLinkWithCardSetList}")
 
-                # Skip unreleased setlist
-                if setReleaseDate is None:
-                    Utils.log(f"Skipped : Set '{setPrefix}' has no release date. Raw: {setReleaseDateRaw}")
-                    continue
-                    
-                if setReleaseDate.date() > datetime.now().date():
-                    Utils.log(f"Skipped : Set '{setPrefix}' is still unreleased. Release date: {setReleaseDate.date()}")
-                    continue
+                    # Skip unreleased setlist
+                    if setReleaseDate is None:
+                        Utils.log(f"Skipped : Set '{setPrefix}' has no release date. Raw: {setReleaseDateRaw}")
+                        continue
+                        
+                    if setReleaseDate.date() > datetime.now().date():
+                        Utils.log(f"Skipped : Set '{setPrefix}' is still unreleased. Release date: {setReleaseDate.date()}")
+                        continue
 
-                Utils.log(f"Set '{setPrefix}' Release date => Raw: {setReleaseDateRaw} | Converted: {setReleaseDate}")
-                outputFileSet = os.path.join(FOLDER_OUTPUT, f"AE_{setPrefix}.json")
-                outputListCardData: list[CardData] = []
-                successCardList = False
-                try:
-                    successCardList = process_setlist(setLinkWithCardSetList, outputFileSet, outputListCardData)
-                except Exception as e:
-                    Utils.log_err("Parse list, main", e)
+                    Utils.log(f"Set '{setPrefix}' Release date => Raw: {setReleaseDateRaw} | Converted: {setReleaseDate}")
+                    outputFileSet = os.path.join(FOLDER_OUTPUT, f"AE_{setPrefix}.json")
+                    outputListCardData: list[CardData] = []
                     successCardList = False
+                    try:
+                        successCardList = process_setlist(setLinkWithCardSetList, outputFileSet, outputListCardData)
+                    except Exception as e:
+                        Utils.log_err("Parse list, main", e)
+                        successCardList = False
 
-                # Save output even if not succes, for cache
-                if outputListCardData:
-                    Utils.log(f"Creating output json file for set '{setPrefix}' => {outputFileSet}")
-                    #outputListCardDataFiltered = filter_list_unique_set(outputListCardData)
-                    resultSuccess = save_cardlist_to_json(outputFileSet, outputListCardData)
-                    if resultSuccess:
-                        count += 1
-                        # Save prefix only if all cards from setlist is processed.
-                        if successCardList:
-                            Utils.append_file(FILE_OUTPUT_DONE_SET, f"{NEWLINE}{setPrefix}")
-                        else:
-                            Utils.log(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
-                            #raise Exception(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
-                    
-                    outputListCardData.clear()
+                    # Save output even if not succes, for cache
+                    if outputListCardData:
+                        Utils.log(f"Creating output json file for set '{setPrefix}' => {outputFileSet}")
+                        #outputListCardDataFiltered = filter_list_unique_set(outputListCardData)
+                        resultSuccess = save_cardlist_to_json(outputFileSet, outputListCardData)
+                        if resultSuccess:
+                            count += 1
+                            # Save prefix only if all cards from setlist is processed.
+                            if successCardList:
+                                Utils.append_file(FILE_OUTPUT_DONE_SET, f"{NEWLINE}{setPrefix}")
+                            else:
+                                Utils.log(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
+                                #raise Exception(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
+                        
+                        outputListCardData.clear()
 
-                Utils.log(LINE_BREAK)
-                time.sleep(DELAY_SETLIST) # Throttle process to prevent overloading website.
-        
-        if count == MAX_SET_TO_PROCESS:
-            break
+                    Utils.log(LINE_BREAK)
+                    time.sleep(DELAY_SETLIST) # Throttle process to prevent overloading website.
+            
+            if count == MAX_SET_TO_PROCESS:
+                break
+    except Exception as innerEx:
+        Utils.log_err("Parse Wiki JSON", innerEx)
+        raise Exception("JSON Data cannot be parsed!")
 
     #Process whitelist for EDOPro when all setlists are done.
     process_banlist()
