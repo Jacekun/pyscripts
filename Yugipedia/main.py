@@ -37,7 +37,7 @@ LINK_WIKI = LINK_MAIN + "/wiki/"
 PREFIX_CARDLIST = "Set_Card_Lists:"
 SUFFIX_AE = "(Asian-English)"
 
-INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&limit=500&offset=0&q=%5B%5BMedium%3A%3AOfficial%5D%5D++%3Cq%3E+%3Cq%3E%5B%5BAsian-English+set+prefix%3A%3A%2B%5D%5D%3C%2Fq%3E++OR++%3Cq%3E%5B%5BAsian-English+release+date%3A%3A%2B%5D%5D%3C%2Fq%3E+%3C%2Fq%3E&p=mainlabel%3D-20Set%2Fformat%3Dtable%2Fheaders%3D-20plain%2Fclass%3D-20wikitable-20sortable-20card-2Dlist&po=%3FAsian-English+set+and+region+prefix%3DPrefix%0A%3FAsian-English+release+date%3DRelease+date%0A&sort=+Asian-English+release+date%2C+Asian-English+set+prefix%2C+%23&order=asc%2Casc%2Casc&eq=no#search"
+INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&x=-5B-5BMedium%3A%3AOfficial-5D-5D-20-20-3Cq-3E-20-3Cq-3E-5B-5BAsian-2DEnglish-20set-20prefix%3A%3A%2B-5D-5D-3C-2Fq-3E-20-20OR-20-20-3Cq-3E-5B-5BAsian-2DEnglish-20release-20date%3A%3A%2B-5D-5D-3C-2Fq-3E-20-3C-2Fq-3E%2F-3FAsian-2DEnglish-20set-20and-20region-20prefix%3DPrefix%2F-3FAsian-2DEnglish-20release-20date%3DRelease-20date&mainlabel=Set&format=json&headers=+plain&class=+wikitable+sortable+card-list&sort=Asian-English+release+date%2CAsian-English+set+prefix%2C%23&order=asc%2Casc%2Casc&offset=0&limit=500&prettyprint=true&unescape=true&searchlabel=JSON"
 URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202501&lang=en"
 
 # File paths
