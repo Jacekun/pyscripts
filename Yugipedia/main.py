@@ -1,10 +1,8 @@
 import requests
 import os
 import time
-import json
 from pathlib import Path
 from datetime import datetime
-from bs4 import BeautifulSoup
 
 # Import local files
 from data.utils import Utils
