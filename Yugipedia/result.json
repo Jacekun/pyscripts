@@ -1,0 +1,1813 @@
+{
+    "printrequests": [
+        {
+            "label": "Set",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Prefix",
+            "key": "Asian-English_set_and_region_prefix",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Release date",
+            "key": "Asian-English_release_date",
+            "redi": "",
+            "typeid": "_dat",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Legend of Blue Eyes White Dragon": {
+            "printouts": {
+                "Prefix": [
+                    "LOB"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1028764800",
+                        "raw": "1/2002/8/8"
+                    }
+                ]
+            },
+            "fulltext": "Legend of Blue Eyes White Dragon",
+            "fullurl": "https://yugipedia.com/wiki/Legend_of_Blue_Eyes_White_Dragon",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Legend of Blue Eyes White Dragon"
+        },
+        "Starter Deck: Kaiba": {
+            "printouts": {
+                "Prefix": [
+                    "SDK"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1028764800",
+                        "raw": "1/2002/8/8"
+                    }
+                ]
+            },
+            "fulltext": "Starter Deck: Kaiba",
+            "fullurl": "https://yugipedia.com/wiki/Starter_Deck:_Kaiba",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Starter Deck: Kaiba"
+        },
+        "Starter Deck: Yugi": {
+            "printouts": {
+                "Prefix": [
+                    "SDY"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1028764800",
+                        "raw": "1/2002/8/8"
+                    }
+                ]
+            },
+            "fulltext": "Starter Deck: Yugi",
+            "fullurl": "https://yugipedia.com/wiki/Starter_Deck:_Yugi",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Starter Deck: Yugi"
+        },
+        "Metal Raiders": {
+            "printouts": {
+                "Prefix": [
+                    "MRD"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1035417600",
+                        "raw": "1/2002/10/24"
+                    }
+                ]
+            },
+            "fulltext": "Metal Raiders",
+            "fullurl": "https://yugipedia.com/wiki/Metal_Raiders",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Metal Raiders"
+        },
+        "Spell Ruler": {
+            "printouts": {
+                "Prefix": [
+                    "MRL"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1035417600",
+                        "raw": "1/2002/10/24"
+                    }
+                ]
+            },
+            "fulltext": "Spell Ruler",
+            "fullurl": "https://yugipedia.com/wiki/Spell_Ruler",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Spell Ruler"
+        },
+        "Yu-Gi-Oh! Duel Monsters International: Worldwide Edition promotional cards": {
+            "printouts": {
+                "Prefix": [
+                    "GBI"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1050537600",
+                        "raw": "1/2003/4/17"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Duel Monsters International: Worldwide Edition promotional cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Duel Monsters International: Worldwide Edition promotional cards"
+        },
+        "Pharaoh's Servant": {
+            "printouts": {
+                "Prefix": [
+                    "PSV"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1051142400",
+                        "raw": "1/2003/4/24"
+                    }
+                ]
+            },
+            "fulltext": "Pharaoh's Servant",
+            "fullurl": "https://yugipedia.com/wiki/Pharaoh%27s_Servant",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Pharaoh's Servant"
+        },
+        "Labyrinth of Nightmare": {
+            "printouts": {
+                "Prefix": [
+                    "LON"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1056585600",
+                        "raw": "1/2003/6/26"
+                    }
+                ]
+            },
+            "fulltext": "Labyrinth of Nightmare",
+            "fullurl": "https://yugipedia.com/wiki/Labyrinth_of_Nightmare",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Labyrinth of Nightmare"
+        },
+        "Yu-Gi-Oh! Japanese World Championship Qualifier 2003 participation card": {
+            "printouts": {
+                "Prefix": [
+                    "WCS"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1058054400",
+                        "raw": "1/2003/7/13"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Japanese World Championship Qualifier 2003 participation card",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2003_participation_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Japanese World Championship Qualifier 2003 participation card"
+        },
+        "Duelist King Tournament: World Ranking Season 3 top 100 prize card": {
+            "printouts": {
+                "Prefix": [
+                    "WCS"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1058313600",
+                        "raw": "1/2003/7/16"
+                    }
+                ]
+            },
+            "fulltext": "Duelist King Tournament: World Ranking Season 3 top 100 prize card",
+            "fullurl": "https://yugipedia.com/wiki/Duelist_King_Tournament:_World_Ranking_Season_3_top_100_prize_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Duelist King Tournament: World Ranking Season 3 top 100 prize card"
+        },
+        "Legacy of Darkness": {
+            "printouts": {
+                "Prefix": [
+                    "LOD"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1063843200",
+                        "raw": "1/2003/9/18"
+                    }
+                ]
+            },
+            "fulltext": "Legacy of Darkness",
+            "fullurl": "https://yugipedia.com/wiki/Legacy_of_Darkness",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Legacy of Darkness"
+        },
+        "Pharaonic Guardian": {
+            "printouts": {
+                "Prefix": [
+                    "PGD"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1066867200",
+                        "raw": "1/2003/10/23"
+                    }
+                ]
+            },
+            "fulltext": "Pharaonic Guardian",
+            "fullurl": "https://yugipedia.com/wiki/Pharaonic_Guardian",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Pharaonic Guardian"
+        },
+        "Magician's Force": {
+            "printouts": {
+                "Prefix": [
+                    "MFC"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1074729600",
+                        "raw": "1/2004/1/22"
+                    }
+                ]
+            },
+            "fulltext": "Magician's Force",
+            "fullurl": "https://yugipedia.com/wiki/Magician%27s_Force",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Magician's Force"
+        },
+        "Dark Crisis": {
+            "printouts": {
+                "Prefix": [
+                    "DCR"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1084406400",
+                        "raw": "1/2004/5/13"
+                    }
+                ]
+            },
+            "fulltext": "Dark Crisis",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Crisis",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Dark Crisis"
+        },
+        "Yu-Gi-Oh! World Championship 2004 tournament promotional cards": {
+            "printouts": {
+                "Prefix": [
+                    "WCS-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1085184000",
+                        "raw": "1/2004/5/22"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2004 tournament promotional cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2004 tournament promotional cards"
+        },
+        "Yu-Gi-Oh! Japanese World Championship Qualifier 2004 participation card": {
+            "printouts": {
+                "Prefix": [
+                    "WCS-AE4"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1088899200",
+                        "raw": "1/2004/7/4"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Japanese World Championship Qualifier 2004 participation card",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2004_participation_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Japanese World Championship Qualifier 2004 participation card"
+        },
+        "Invasion of Chaos": {
+            "printouts": {
+                "Prefix": [
+                    "IOC-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1089849600",
+                        "raw": "1/2004/7/15"
+                    }
+                ]
+            },
+            "fulltext": "Invasion of Chaos",
+            "fullurl": "https://yugipedia.com/wiki/Invasion_of_Chaos",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Invasion of Chaos"
+        },
+        "Ancient Sanctuary": {
+            "printouts": {
+                "Prefix": [
+                    "AST-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1097712000",
+                        "raw": "1/2004/10/14"
+                    }
+                ]
+            },
+            "fulltext": "Ancient Sanctuary",
+            "fullurl": "https://yugipedia.com/wiki/Ancient_Sanctuary",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Ancient Sanctuary"
+        },
+        "Soul of the Duelist": {
+            "printouts": {
+                "Prefix": [
+                    "SOD-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1114041600",
+                        "raw": "1/2005/4/21"
+                    }
+                ]
+            },
+            "fulltext": "Soul of the Duelist",
+            "fullurl": "https://yugipedia.com/wiki/Soul_of_the_Duelist",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Soul of the Duelist"
+        },
+        "Rise of Destiny": {
+            "printouts": {
+                "Prefix": [
+                    "RDS-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1121904000",
+                        "raw": "1/2005/7/21"
+                    }
+                ]
+            },
+            "fulltext": "Rise of Destiny",
+            "fullurl": "https://yugipedia.com/wiki/Rise_of_Destiny",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Rise of Destiny"
+        },
+        "Yu-Gi-Oh! World Championship 2005 prize cards": {
+            "printouts": {
+                "Prefix": [
+                    "WCS-AE5"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1123372800",
+                        "raw": "1/2005/8/7"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2005 prize cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2005_prize_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2005 prize cards"
+        },
+        "Flaming Eternity": {
+            "printouts": {
+                "Prefix": [
+                    "FET-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1129766400",
+                        "raw": "1/2005/10/20"
+                    }
+                ]
+            },
+            "fulltext": "Flaming Eternity",
+            "fullurl": "https://yugipedia.com/wiki/Flaming_Eternity",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Flaming Eternity"
+        },
+        "The Lost Millennium": {
+            "printouts": {
+                "Prefix": [
+                    "TLM-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1137628800",
+                        "raw": "1/2006/1/19"
+                    }
+                ]
+            },
+            "fulltext": "The Lost Millennium",
+            "fullurl": "https://yugipedia.com/wiki/The_Lost_Millennium",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "The Lost Millennium"
+        },
+        "Cybernetic Revolution": {
+            "printouts": {
+                "Prefix": [
+                    "CRV-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1145491200",
+                        "raw": "1/2006/4/20"
+                    }
+                ]
+            },
+            "fulltext": "Cybernetic Revolution",
+            "fullurl": "https://yugipedia.com/wiki/Cybernetic_Revolution",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Cybernetic Revolution"
+        },
+        "Yu-Gi-Oh! World Championship 2006 prize cards": {
+            "printouts": {
+                "Prefix": [
+                    "WCPS-AE6"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1151798400",
+                        "raw": "1/2006/7/2"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2006 prize cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2006_prize_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2006 prize cards"
+        },
+        "Elemental Energy": {
+            "printouts": {
+                "Prefix": [
+                    "EEN-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1153353600",
+                        "raw": "1/2006/7/20"
+                    }
+                ]
+            },
+            "fulltext": "Elemental Energy",
+            "fullurl": "https://yugipedia.com/wiki/Elemental_Energy",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Elemental Energy"
+        },
+        "Shadow of Infinity": {
+            "printouts": {
+                "Prefix": [
+                    "SOI-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1161820800",
+                        "raw": "1/2006/10/26"
+                    }
+                ]
+            },
+            "fulltext": "Shadow of Infinity",
+            "fullurl": "https://yugipedia.com/wiki/Shadow_of_Infinity",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Shadow of Infinity"
+        },
+        "Enemy of Justice": {
+            "printouts": {
+                "Prefix": [
+                    "EOJ-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1169078400",
+                        "raw": "1/2007/1/18"
+                    }
+                ]
+            },
+            "fulltext": "Enemy of Justice",
+            "fullurl": "https://yugipedia.com/wiki/Enemy_of_Justice",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Enemy of Justice"
+        },
+        "Yu-Gi-Oh! World Championship 2007 prize cards": {
+            "printouts": {
+                "Prefix": [
+                    "WCPS-AE7"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1185580800",
+                        "raw": "1/2007/7/28"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2007 prize cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2007_prize_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2007 prize cards"
+        },
+        "Yu-Gi-Oh! World Championship 2008 prize cards": {
+            "printouts": {
+                "Prefix": [
+                    "WCPS-AE8"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1218326400",
+                        "raw": "1/2008/8/10"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2008 prize cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2008_prize_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2008 prize cards"
+        },
+        "Crimson Crisis": {
+            "printouts": {
+                "Prefix": [
+                    "CRMS-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1239840000",
+                        "raw": "1/2009/4/16"
+                    }
+                ]
+            },
+            "fulltext": "Crimson Crisis",
+            "fullurl": "https://yugipedia.com/wiki/Crimson_Crisis",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Crimson Crisis"
+        },
+        "Structure Deck: Lord of Magician": {
+            "printouts": {
+                "Prefix": [
+                    "SD16-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1244678400",
+                        "raw": "1/2009/6/11"
+                    }
+                ]
+            },
+            "fulltext": "Structure Deck: Lord of Magician",
+            "fullurl": "https://yugipedia.com/wiki/Structure_Deck:_Lord_of_Magician",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Structure Deck: Lord of Magician"
+        },
+        "Raging Battle": {
+            "printouts": {
+                "Prefix": [
+                    "RGBT-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1249516800",
+                        "raw": "1/2009/8/6"
+                    }
+                ]
+            },
+            "fulltext": "Raging Battle",
+            "fullurl": "https://yugipedia.com/wiki/Raging_Battle",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Raging Battle"
+        },
+        "Yu-Gi-Oh! World Championship 2009 prize cards": {
+            "printouts": {
+                "Prefix": [
+                    "WCPS-AE9"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1249776000",
+                        "raw": "1/2009/8/9"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2009 prize cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2009_prize_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2009 prize cards"
+        },
+        "Yu-Gi-Oh! World Championship 2010 prize cards": {
+            "printouts": {
+                "Prefix": [
+                    "2010-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1281830400",
+                        "raw": "1/2010/8/15"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2010 prize cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2010_prize_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2010 prize cards"
+        },
+        "Yu-Gi-Oh! World Championship 2011 prize cards": {
+            "printouts": {
+                "Prefix": [
+                    "2011-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1313280000",
+                        "raw": "1/2011/8/14"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2011 prize cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2011_prize_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2011 prize cards"
+        },
+        "Yu-Gi-Oh! Japanese World Championship Qualifier 2012 participation card": {
+            "printouts": {
+                "Prefix": [
+                    "2012-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1341619200",
+                        "raw": "1/2012/7/7"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Japanese World Championship Qualifier 2012 participation card",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2012_participation_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Japanese World Championship Qualifier 2012 participation card"
+        },
+        "Yu-Gi-Oh! Japanese World Championship Qualifier 2013 participation card": {
+            "printouts": {
+                "Prefix": [
+                    "2013-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1372464000",
+                        "raw": "1/2013/6/29"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Japanese World Championship Qualifier 2013 participation card",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2013_participation_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Japanese World Championship Qualifier 2013 participation card"
+        },
+        "Yu-Gi-Oh! Japanese World Championship Qualifier 2014 participation card": {
+            "printouts": {
+                "Prefix": [
+                    "2014-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1403913600",
+                        "raw": "1/2014/6/28"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Japanese World Championship Qualifier 2014 participation card",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2014_participation_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Japanese World Championship Qualifier 2014 participation card"
+        },
+        "Yu-Gi-Oh! World Championship 2015 attendance cards": {
+            "printouts": {
+                "Prefix": [
+                    "2015-JPP"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1439683200",
+                        "raw": "1/2015/8/16"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship 2015 attendance cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2015_attendance_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship 2015 attendance cards"
+        },
+        "Speed Start Deck Link Edition": {
+            "printouts": {
+                "Prefix": [
+                    "SSD1-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1697846400",
+                        "raw": "1/2023/10/21"
+                    }
+                ]
+            },
+            "fulltext": "Speed Start Deck Link Edition",
+            "fullurl": "https://yugipedia.com/wiki/Speed_Start_Deck_Link_Edition",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Speed Start Deck Link Edition"
+        },
+        "Speed Start Deck Synchro Edition": {
+            "printouts": {
+                "Prefix": [
+                    "SSD2-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1697846400",
+                        "raw": "1/2023/10/21"
+                    }
+                ]
+            },
+            "fulltext": "Speed Start Deck Synchro Edition",
+            "fullurl": "https://yugipedia.com/wiki/Speed_Start_Deck_Synchro_Edition",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Speed Start Deck Synchro Edition"
+        },
+        "Structure Deck: Illusion of the Dark Magicians": {
+            "printouts": {
+                "Prefix": [
+                    "SDID-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1699660800",
+                        "raw": "1/2023/11/11"
+                    }
+                ]
+            },
+            "fulltext": "Structure Deck: Illusion of the Dark Magicians",
+            "fullurl": "https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Structure Deck: Illusion of the Dark Magicians"
+        },
+        "Structure Deck: Illusion of the Dark Magicians Power-Up Pack": {
+            "printouts": {
+                "Prefix": [
+                    "SDID-AEP"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1699660800",
+                        "raw": "1/2023/11/11"
+                    }
+                ]
+            },
+            "fulltext": "Structure Deck: Illusion of the Dark Magicians Power-Up Pack",
+            "fullurl": "https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians_Power-Up_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Structure Deck: Illusion of the Dark Magicians Power-Up Pack"
+        },
+        "Structure Deck: Rise of the Blue-Eyes": {
+            "printouts": {
+                "Prefix": [
+                    "SDRB-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1699660800",
+                        "raw": "1/2023/11/11"
+                    }
+                ]
+            },
+            "fulltext": "Structure Deck: Rise of the Blue-Eyes",
+            "fullurl": "https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Structure Deck: Rise of the Blue-Eyes"
+        },
+        "Structure Deck: Rise of the Blue-Eyes Power-Up Pack": {
+            "printouts": {
+                "Prefix": [
+                    "SDRB-AEP"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1699660800",
+                        "raw": "1/2023/11/11"
+                    }
+                ]
+            },
+            "fulltext": "Structure Deck: Rise of the Blue-Eyes Power-Up Pack",
+            "fullurl": "https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes_Power-Up_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Structure Deck: Rise of the Blue-Eyes Power-Up Pack"
+        },
+        "Creation Pack 01": {
+            "printouts": {
+                "Prefix": [
+                    "CR01-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1700870400",
+                        "raw": "1/2023/11/25"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 01",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_01",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 01"
+        },
+        "Creation Pack 01 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR01-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1700870400",
+                        "raw": "1/2023/11/25"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 01 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_01_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 01 +1 Bonus Pack"
+        },
+        "Duelist Nexus": {
+            "printouts": {
+                "Prefix": [
+                    "DUNE-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1702684800",
+                        "raw": "1/2023/12/16"
+                    }
+                ]
+            },
+            "fulltext": "Duelist Nexus",
+            "fullurl": "https://yugipedia.com/wiki/Duelist_Nexus",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Duelist Nexus"
+        },
+        "Duelist Nexus +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "DUNE-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1702684800",
+                        "raw": "1/2023/12/16"
+                    }
+                ]
+            },
+            "fulltext": "Duelist Nexus +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Duelist_Nexus_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Duelist Nexus +1 Bonus Pack"
+        },
+        "Tournament Pack 2024 Vol.1 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "24AT-AE1"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1704067200",
+                        "raw": "1/2024/1/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2024 Vol.1 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.1_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tournament Pack 2024 Vol.1 (Asian-English)"
+        },
+        "Rarity Collection Quarter Century Edition": {
+            "printouts": {
+                "Prefix": [
+                    "RC04-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1705708800",
+                        "raw": "1/2024/1/20"
+                    }
+                ]
+            },
+            "fulltext": "Rarity Collection Quarter Century Edition",
+            "fullurl": "https://yugipedia.com/wiki/Rarity_Collection_Quarter_Century_Edition",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Rarity Collection Quarter Century Edition"
+        },
+        "Creation Pack 02": {
+            "printouts": {
+                "Prefix": [
+                    "CR02-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1706918400",
+                        "raw": "1/2024/2/3"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 02",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_02",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 02"
+        },
+        "Creation Pack 02 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR02-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1706918400",
+                        "raw": "1/2024/2/3"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 02 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_02_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 02 +1 Bonus Pack"
+        },
+        "Age of Overlord": {
+            "printouts": {
+                "Prefix": [
+                    "AGOV-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1708646400",
+                        "raw": "1/2024/2/23"
+                    }
+                ]
+            },
+            "fulltext": "Age of Overlord",
+            "fullurl": "https://yugipedia.com/wiki/Age_of_Overlord",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Age of Overlord"
+        },
+        "Age of Overlord +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "AGOV-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1708646400",
+                        "raw": "1/2024/2/23"
+                    }
+                ]
+            },
+            "fulltext": "Age of Overlord +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Age_of_Overlord_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Age of Overlord +1 Bonus Pack"
+        },
+        "Creation Pack 03": {
+            "printouts": {
+                "Prefix": [
+                    "CR03-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1709942400",
+                        "raw": "1/2024/3/9"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 03",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_03",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 03"
+        },
+        "Creation Pack 03 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR03-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1709942400",
+                        "raw": "1/2024/3/9"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 03 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_03_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 03 +1 Bonus Pack"
+        },
+        "Stainless Steel Egyptian God Cards": {
+            "printouts": {
+                "Prefix": [],
+                "Release date": [
+                    {
+                        "timestamp": "1711152000",
+                        "raw": "1/2024/3/23"
+                    }
+                ]
+            },
+            "fulltext": "Stainless Steel Egyptian God Cards",
+            "fullurl": "https://yugipedia.com/wiki/Stainless_Steel_Egyptian_God_Cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Stainless Steel Egyptian God Cards"
+        },
+        "Phantom Nightmare": {
+            "printouts": {
+                "Prefix": [
+                    "PHNI-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1711756800",
+                        "raw": "1/2024/3/30"
+                    }
+                ]
+            },
+            "fulltext": "Phantom Nightmare",
+            "fullurl": "https://yugipedia.com/wiki/Phantom_Nightmare",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Phantom Nightmare"
+        },
+        "Phantom Nightmare +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "PHNI-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1711756800",
+                        "raw": "1/2024/3/30"
+                    }
+                ]
+            },
+            "fulltext": "Phantom Nightmare +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Phantom_Nightmare_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Phantom Nightmare +1 Bonus Pack"
+        },
+        "Tournament Pack 2024 Vol.2 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "24AT-AE2"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1711929600",
+                        "raw": "1/2024/4/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2024 Vol.2 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.2_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tournament Pack 2024 Vol.2 (Asian-English)"
+        },
+        "Challenger Cup 2024 Qualifiers prize card": {
+            "printouts": {
+                "Prefix": [
+                    "24CC-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1713571200",
+                        "raw": "1/2024/4/20"
+                    }
+                ]
+            },
+            "fulltext": "Challenger Cup 2024 Qualifiers prize card",
+            "fullurl": "https://yugipedia.com/wiki/Challenger_Cup_2024_Qualifiers_prize_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Challenger Cup 2024 Qualifiers prize card"
+        },
+        "Creation Pack 04": {
+            "printouts": {
+                "Prefix": [
+                    "CR04-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1714176000",
+                        "raw": "1/2024/4/27"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 04",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_04",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 04"
+        },
+        "Creation Pack 04 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR04-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1714176000",
+                        "raw": "1/2024/4/27"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 04 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_04_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 04 +1 Bonus Pack"
+        },
+        "Structure Deck: Salamangreat Sanctum": {
+            "printouts": {
+                "Prefix": [
+                    "SDSS-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1715990400",
+                        "raw": "1/2024/5/18"
+                    }
+                ]
+            },
+            "fulltext": "Structure Deck: Salamangreat Sanctum",
+            "fullurl": "https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Structure Deck: Salamangreat Sanctum"
+        },
+        "Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack": {
+            "printouts": {
+                "Prefix": [
+                    "SDSS-AEP"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1715990400",
+                        "raw": "1/2024/5/18"
+                    }
+                ]
+            },
+            "fulltext": "Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack",
+            "fullurl": "https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum_Transcend_Power-Up_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack"
+        },
+        "Legacy of Destruction": {
+            "printouts": {
+                "Prefix": [
+                    "LEDE-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1718409600",
+                        "raw": "1/2024/6/15"
+                    }
+                ]
+            },
+            "fulltext": "Legacy of Destruction",
+            "fullurl": "https://yugipedia.com/wiki/Legacy_of_Destruction",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Legacy of Destruction"
+        },
+        "Legacy of Destruction +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "LEDE-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1718409600",
+                        "raw": "1/2024/6/15"
+                    }
+                ]
+            },
+            "fulltext": "Legacy of Destruction +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Legacy_of_Destruction_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Legacy of Destruction +1 Bonus Pack"
+        },
+        "Tournament Pack 2024 Vol.3 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "24AT-AE3"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1719792000",
+                        "raw": "1/2024/7/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2024 Vol.3 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.3_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tournament Pack 2024 Vol.3 (Asian-English)"
+        },
+        "Essential Selection 01": {
+            "printouts": {
+                "Prefix": [
+                    "ES01-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1720828800",
+                        "raw": "1/2024/7/13"
+                    }
+                ]
+            },
+            "fulltext": "Essential Selection 01",
+            "fullurl": "https://yugipedia.com/wiki/Essential_Selection_01",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Essential Selection 01"
+        },
+        "Creation Pack 05": {
+            "printouts": {
+                "Prefix": [
+                    "CR05-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1723248000",
+                        "raw": "1/2024/8/10"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 05",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_05",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 05"
+        },
+        "Creation Pack 05 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR05-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1723248000",
+                        "raw": "1/2024/8/10"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 05 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_05_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 05 +1 Bonus Pack"
+        },
+        "Infinite Forbidden +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "INFO-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1725667200",
+                        "raw": "1/2024/9/7"
+                    }
+                ]
+            },
+            "fulltext": "Infinite Forbidden +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Infinite_Forbidden_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Infinite Forbidden +1 Bonus Pack"
+        },
+        "The Infinite Forbidden": {
+            "printouts": {
+                "Prefix": [
+                    "INFO-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1725667200",
+                        "raw": "1/2024/9/7"
+                    }
+                ]
+            },
+            "fulltext": "The Infinite Forbidden",
+            "fullurl": "https://yugipedia.com/wiki/The_Infinite_Forbidden",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "The Infinite Forbidden"
+        },
+        "Yu-Gi-Oh! Open Tournament Singapore 2024 prize card": {
+            "printouts": {
+                "Prefix": [
+                    "24OT-AESG"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1726358400",
+                        "raw": "1/2024/9/15"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Open Tournament Singapore 2024 prize card",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Singapore_2024_prize_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Open Tournament Singapore 2024 prize card"
+        },
+        "Tournament Pack 2024 Vol.4 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "24AT-AE4"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1727740800",
+                        "raw": "1/2024/10/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2024 Vol.4 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.4_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tournament Pack 2024 Vol.4 (Asian-English)"
+        },
+        "Bonus Pack: Awakened by the Primites": {
+            "printouts": {
+                "Prefix": [
+                    "BN01-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1729296000",
+                        "raw": "1/2024/10/19"
+                    }
+                ]
+            },
+            "fulltext": "Bonus Pack: Awakened by the Primites",
+            "fullurl": "https://yugipedia.com/wiki/Bonus_Pack:_Awakened_by_the_Primites",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Bonus Pack: Awakened by the Primites"
+        },
+        "Rage of the Abyss": {
+            "printouts": {
+                "Prefix": [
+                    "ROTA-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1729296000",
+                        "raw": "1/2024/10/19"
+                    }
+                ]
+            },
+            "fulltext": "Rage of the Abyss",
+            "fullurl": "https://yugipedia.com/wiki/Rage_of_the_Abyss",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Rage of the Abyss"
+        },
+        "Rage of the Abyss +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "ROTA-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1729296000",
+                        "raw": "1/2024/10/19"
+                    }
+                ]
+            },
+            "fulltext": "Rage of the Abyss +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Rage_of_the_Abyss_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Rage of the Abyss +1 Bonus Pack"
+        },
+        "Duel-Ignition Deck: HERO": {
+            "printouts": {
+                "Prefix": [
+                    "DI01-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1732924800",
+                        "raw": "1/2024/11/30"
+                    }
+                ]
+            },
+            "fulltext": "Duel-Ignition Deck: HERO",
+            "fullurl": "https://yugipedia.com/wiki/Duel-Ignition_Deck:_HERO",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Duel-Ignition Deck: HERO"
+        },
+        "Duel-Ignition Deck: Swordsoul": {
+            "printouts": {
+                "Prefix": [
+                    "DI02-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1732924800",
+                        "raw": "1/2024/11/30"
+                    }
+                ]
+            },
+            "fulltext": "Duel-Ignition Deck: Swordsoul",
+            "fullurl": "https://yugipedia.com/wiki/Duel-Ignition_Deck:_Swordsoul",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Duel-Ignition Deck: Swordsoul"
+        },
+        "Selection 5: Quarter Century Edition": {
+            "printouts": {
+                "Prefix": [
+                    "SLF1-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1734134400",
+                        "raw": "1/2024/12/14"
+                    }
+                ]
+            },
+            "fulltext": "Selection 5: Quarter Century Edition",
+            "fullurl": "https://yugipedia.com/wiki/Selection_5:_Quarter_Century_Edition",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Selection 5: Quarter Century Edition"
+        },
+        "Tournament Pack 2024 Vol.5 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "24AT-AE5"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1735689600",
+                        "raw": "1/2025/1/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2024 Vol.5 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.5_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tournament Pack 2024 Vol.5 (Asian-English)"
+        },
+        "Creation Pack 06": {
+            "printouts": {
+                "Prefix": [
+                    "CR06-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1737763200",
+                        "raw": "1/2025/1/25"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 06",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_06",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 06"
+        },
+        "Creation Pack 06 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR06-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1737763200",
+                        "raw": "1/2025/1/25"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 06 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_06_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 06 +1 Bonus Pack"
+        },
+        "Supreme Darkness": {
+            "printouts": {
+                "Prefix": [
+                    "SUDA-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1739577600",
+                        "raw": "1/2025/2/15"
+                    }
+                ]
+            },
+            "fulltext": "Supreme Darkness",
+            "fullurl": "https://yugipedia.com/wiki/Supreme_Darkness",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Supreme Darkness"
+        },
+        "Supreme Darkness +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "SUDA-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1739577600",
+                        "raw": "1/2025/2/15"
+                    }
+                ]
+            },
+            "fulltext": "Supreme Darkness +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Supreme_Darkness_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Supreme Darkness +1 Bonus Pack"
+        },
+        "Deck-Build Pack: Crossover Breakers": {
+            "printouts": {
+                "Prefix": [
+                    "DBCB-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1741996800",
+                        "raw": "1/2025/3/15"
+                    }
+                ]
+            },
+            "fulltext": "Deck-Build Pack: Crossover Breakers",
+            "fullurl": "https://yugipedia.com/wiki/Deck-Build_Pack:_Crossover_Breakers",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Deck-Build Pack: Crossover Breakers"
+        },
+        "Yu-Gi-Oh! Open Tournament Hong Kong 2025 prize card": {
+            "printouts": {
+                "Prefix": [
+                    "25OT-AEHK"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1742688000",
+                        "raw": "1/2025/3/23"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Open Tournament Hong Kong 2025 prize card",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Open Tournament Hong Kong 2025 prize card"
+        },
+        "Tournament Pack 2025 Vol.1 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "25AT-AE1"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1743465600",
+                        "raw": "1/2025/4/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2025 Vol.1 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.1_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tournament Pack 2025 Vol.1 (Asian-English)"
+        },
+        "Creation Pack 07": {
+            "printouts": {
+                "Prefix": [
+                    "CR07-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1744416000",
+                        "raw": "1/2025/4/12"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 07",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_07",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 07"
+        },
+        "Creation Pack 07 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR07-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1744416000",
+                        "raw": "1/2025/4/12"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 07 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_07_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 07 +1 Bonus Pack"
+        },
+        "Alliance Insight": {
+            "printouts": {
+                "Prefix": [
+                    "ALIN-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1746835200",
+                        "raw": "1/2025/5/10"
+                    }
+                ]
+            },
+            "fulltext": "Alliance Insight",
+            "fullurl": "https://yugipedia.com/wiki/Alliance_Insight",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Alliance Insight"
+        },
+        "Tactical-Try Deck: Exorcist Angels Exosister": {
+            "printouts": {
+                "Prefix": [
+                    "TT02-AEB"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1748044800",
+                        "raw": "1/2025/5/24"
+                    }
+                ]
+            },
+            "fulltext": "Tactical-Try Deck: Exorcist Angels Exosister",
+            "fullurl": "https://yugipedia.com/wiki/Tactical-Try_Deck:_Exorcist_Angels_Exosister",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tactical-Try Deck: Exorcist Angels Exosister"
+        },
+        "Tactical-Try Deck: Super Exo-Armored Force Rescue-ACE": {
+            "printouts": {
+                "Prefix": [
+                    "TT02-AEA"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1748044800",
+                        "raw": "1/2025/5/24"
+                    }
+                ]
+            },
+            "fulltext": "Tactical-Try Deck: Super Exo-Armored Force Rescue-ACE",
+            "fullurl": "https://yugipedia.com/wiki/Tactical-Try_Deck:_Super_Exo-Armored_Force_Rescue-ACE",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tactical-Try Deck: Super Exo-Armored Force Rescue-ACE"
+        },
+        "Creation Pack 08": {
+            "printouts": {
+                "Prefix": [
+                    "CR08-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1749859200",
+                        "raw": "1/2025/6/14"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 08",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_08",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 08"
+        },
+        "Duelist's Advance": {
+            "printouts": {
+                "Prefix": [
+                    "DUAD-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1752883200",
+                        "raw": "1/2025/7/19"
+                    }
+                ]
+            },
+            "fulltext": "Duelist's Advance",
+            "fullurl": "https://yugipedia.com/wiki/Duelist%27s_Advance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Duelist's Advance"
+        },
+        "Deck-Build Pack: Justice Hunters": {
+            "printouts": {
+                "Prefix": [
+                    "DBJH-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1755302400",
+                        "raw": "1/2025/8/16"
+                    }
+                ]
+            },
+            "fulltext": "Deck-Build Pack: Justice Hunters",
+            "fullurl": "https://yugipedia.com/wiki/Deck-Build_Pack:_Justice_Hunters",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Deck-Build Pack: Justice Hunters"
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 99
+}
