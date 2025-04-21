@@ -104,7 +104,7 @@ class Utils(object):
     def read_file(filename: str) -> str:
         try:
             contents = ""
-            if not os.path.exists:
+            if not os.path.exists(filename):
                 Utils.log(f"File does not exist => {filename}")
                 return ""
 
@@ -120,7 +120,7 @@ class Utils(object):
     def read_json(filename: str) -> any:
         try:
             contents = None
-            if not os.path.exists:
+            if not os.path.exists(filename):
                 Utils.log(f"File does not exist => {filename}")
                 return None
             
