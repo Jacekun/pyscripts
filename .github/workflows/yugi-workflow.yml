@@ -92,9 +92,9 @@ jobs:
             ls -R .
             git show-ref
             
-      - name: Install requirements.txt
+      - name: Install reqs.txt
         working-directory: './${{ env.FOLDER }}'
-        run: pip install -r requirements.txt
+        run: pip install -r reqs.txt
         
       - name: Run main python script
         working-directory: './${{ env.FOLDER }}'
