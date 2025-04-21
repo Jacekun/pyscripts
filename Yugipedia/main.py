@@ -1,8 +1,9 @@
-import requests
 import os
 import time
 from pathlib import Path
 from datetime import datetime
+from bs4 import BeautifulSoup
+import curl_cffi
 
 # Import local files
 from data.utils import Utils
@@ -13,7 +14,7 @@ from data.model_sets import WikiSet
 TIME_START = time.time()
 
 # Global constants
-MAX_SET_TO_PROCESS = 5
+MAX_SET_TO_PROCESS = 3
 NEWLINE = '\n'
 DELAY_SETLIST = 2
 DELAY_PASSCODE = 1
@@ -53,13 +54,23 @@ LIST_DONESET = []
 
 # Global variables
 HEADERS = {
+    #'Accept': 'application/json',
+    #'Accept-Encoding':'gzip, deflate, br',
+    #'Accept-Language':'en-US,en;q=0.9',
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
     'Origin': LINK_MAIN,
     'Referer': LINK_MAIN,
-    "Content-Type": "text/html",
+    'Content-Type': 'application/json',
 }
 
 # Methods
+def request_page(page: str, includeHeader: bool) -> any:
+    Utils.log(f"Requesting page => { page }")
+    if includeHeader:
+        return curl_cffi.get(page, impersonate="firefox135")
+    else:
+        return curl_cffi.get(page, impersonate="firefox135")
+
 def get_setlist_from_wikilink(inputString: str, format: str) -> str:
     formatParsed = "OCG-JP"
 
@@ -84,7 +95,7 @@ def get_card_passcode(wikilink: str) -> int:
     cardPasscode: int = 0
     if wikilink:
         Utils.log(f"Searching passcode for {wikilink}")
-        reqMain = requests.get(url = wikilink, headers = HEADERS)
+        reqMain = request_page(wikilink, True)
         if reqMain.ok:
             Utils.log("Passcode => Page downloaded. Parsing content")
             soupObj = BeautifulSoup(reqMain.text, "html.parser")
@@ -166,7 +177,7 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
     count = 0
 
     # Get page
-    reqMain = requests.get(url = inputString, headers = HEADERS)
+    reqMain = request_page(inputString, True)
 
     # Parse response
     Utils.log(f"Processing page => {inputString}")
@@ -296,7 +307,7 @@ def process_banlist():
     # First, get the banlist and process it
     contentsHtml: str = "<div></div>"#Placeholder that can be parsed by BSoup
     if not os.path.exists(FILE_CACHE_BANLIST):
-        reqObj = requests.get(url = URL_BANLIST_AE, headers = HEADERS)
+        reqObj = request_page(URL_BANLIST_AE, True)
         if reqObj.ok:
             contentsHtml = reqObj.text
             Utils.write_file(FILE_CACHE_BANLIST, contentsHtml)
@@ -417,14 +428,19 @@ try:
     # Request page and cache it, or load cached data.
     if not os.path.exists(FILE_OUTPUT_BODY):
         Utils.log("Fetching wiki data...")
-        reqMain = requests.get(
-            url = INPUT_URL, 
-            headers = HEADERS
-        )
+    
+        reqMain = request_page(INPUT_URL, True)
+        #reqSession.close()
         if reqMain.ok:
             Utils.write_file(FILE_OUTPUT_BODY, reqMain.text)
         else:
-            raise Exception(f"Page not downloaded, status code: {reqMain.status_code}")
+            fileErrorText: str = FILE_OUTPUT_BODY + "_error.md"
+            respContent: str = reqMain.content.decode(reqMain.encoding)
+            respBody: str = reqMain.text
+            if os.path.exists(fileErrorText):
+                os.remove(fileErrorText)
+            Utils.write_file(fileErrorText, f"# Date: { datetime.now() }\n\n# Content: \n { respContent } \n\n# Response: \n { respBody }")
+            raise Exception(f"Page not downloaded, status code: {reqMain.status_code} | { reqMain.reason } | Encoding: { reqMain.encoding }")
         
     CONTENTS_HTML = Utils.read_json(FILE_OUTPUT_BODY)
     if CONTENTS_HTML is None:
