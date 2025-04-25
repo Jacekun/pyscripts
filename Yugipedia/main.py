@@ -526,7 +526,7 @@ try:
                             count += 1
                             # Save prefix only if all cards from setlist is processed.
                             if successCardList:
-                                Utils.append_file(FILE_OUTPUT_DONE_SET, f"{NEWLINE}{setPrefix}")
+                                Utils.append_file(FILE_OUTPUT_DONE_SET, f"{setPrefix}{NEWLINE}")
                             else:
                                 Utils.log(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
                                 #raise Exception(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
