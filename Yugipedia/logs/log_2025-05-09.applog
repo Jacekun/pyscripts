@@ -1,0 +1,749 @@
+[2025-05-09 20:14:52] Done deleting old log files.
+[2025-05-09 20:14:52] Output file deleted (BANLIST) => /home/runner/work/pyscripts/pyscripts/Yugipedia/AE_Banlist.lflist.conf
+[2025-05-09 20:14:52] Parsing JSON response...
+[2025-05-09 20:14:52] Set details => Legend of Blue Eyes White Dragon | https://yugipedia.com/wiki/Legend_of_Blue_Eyes_White_Dragon
+[2025-05-09 20:14:52] Prefix: LOB is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Starter Deck: Kaiba | https://yugipedia.com/wiki/Starter_Deck:_Kaiba
+[2025-05-09 20:14:52] Prefix: SDK is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Starter Deck: Yugi | https://yugipedia.com/wiki/Starter_Deck:_Yugi
+[2025-05-09 20:14:52] Prefix: SDY is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Metal Raiders | https://yugipedia.com/wiki/Metal_Raiders
+[2025-05-09 20:14:52] Prefix: MRD is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Spell Ruler | https://yugipedia.com/wiki/Spell_Ruler
+[2025-05-09 20:14:52] Prefix: MRL is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Yu-Gi-Oh! Duel Monsters International: Worldwide Edition promotional cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards
+[2025-05-09 20:14:52] Prefix: GBI is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Pharaoh's Servant | https://yugipedia.com/wiki/Pharaoh%27s_Servant
+[2025-05-09 20:14:52] Prefix: PSV is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Labyrinth of Nightmare | https://yugipedia.com/wiki/Labyrinth_of_Nightmare
+[2025-05-09 20:14:52] Prefix: LON is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2003 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2003_participation_card
+[2025-05-09 20:14:52] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Duelist King Tournament: World Ranking Season 3 top 100 prize card | https://yugipedia.com/wiki/Duelist_King_Tournament:_World_Ranking_Season_3_top_100_prize_card
+[2025-05-09 20:14:52] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Legacy of Darkness | https://yugipedia.com/wiki/Legacy_of_Darkness
+[2025-05-09 20:14:52] Prefix: LOD is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Pharaonic Guardian | https://yugipedia.com/wiki/Pharaonic_Guardian
+[2025-05-09 20:14:52] Prefix: PGD is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Magician's Force | https://yugipedia.com/wiki/Magician%27s_Force
+[2025-05-09 20:14:52] Prefix: MFC is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Dark Crisis | https://yugipedia.com/wiki/Dark_Crisis
+[2025-05-09 20:14:52] Prefix: DCR is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:52] Set details => Yu-Gi-Oh! World Championship 2004 tournament promotional cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards
+[2025-05-09 20:14:52] Set 'WCS-AE' Release date => Raw: 1085184000 | Converted: 2004-05-22 00:00:00
+[2025-05-09 20:14:52] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2025-05-09 20:14:52] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2025-05-09 20:14:52] [Warning] Page not found. Will skip.
+[2025-05-09 20:14:52] ===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2004 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2004_participation_card
+[2025-05-09 20:14:54] Prefix: WCS-AE4 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Invasion of Chaos | https://yugipedia.com/wiki/Invasion_of_Chaos
+[2025-05-09 20:14:54] Prefix: IOC-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Ancient Sanctuary | https://yugipedia.com/wiki/Ancient_Sanctuary
+[2025-05-09 20:14:54] Prefix: AST-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Soul of the Duelist | https://yugipedia.com/wiki/Soul_of_the_Duelist
+[2025-05-09 20:14:54] Prefix: SOD-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Rise of Destiny | https://yugipedia.com/wiki/Rise_of_Destiny
+[2025-05-09 20:14:54] Prefix: RDS-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! World Championship 2005 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2005_prize_cards
+[2025-05-09 20:14:54] Prefix: WCS-AE5 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Flaming Eternity | https://yugipedia.com/wiki/Flaming_Eternity
+[2025-05-09 20:14:54] Prefix: FET-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => The Lost Millennium | https://yugipedia.com/wiki/The_Lost_Millennium
+[2025-05-09 20:14:54] Prefix: TLM-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Cybernetic Revolution | https://yugipedia.com/wiki/Cybernetic_Revolution
+[2025-05-09 20:14:54] Prefix: CRV-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! World Championship 2006 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2006_prize_cards
+[2025-05-09 20:14:54] Prefix: WCPS-AE6 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Elemental Energy | https://yugipedia.com/wiki/Elemental_Energy
+[2025-05-09 20:14:54] Prefix: EEN-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Shadow of Infinity | https://yugipedia.com/wiki/Shadow_of_Infinity
+[2025-05-09 20:14:54] Prefix: SOI-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Enemy of Justice | https://yugipedia.com/wiki/Enemy_of_Justice
+[2025-05-09 20:14:54] Prefix: EOJ-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! World Championship 2007 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2007_prize_cards
+[2025-05-09 20:14:54] Prefix: WCPS-AE7 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! World Championship 2008 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2008_prize_cards
+[2025-05-09 20:14:54] Prefix: WCPS-AE8 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Crimson Crisis | https://yugipedia.com/wiki/Crimson_Crisis
+[2025-05-09 20:14:54] Prefix: CRMS-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Structure Deck: Lord of Magician | https://yugipedia.com/wiki/Structure_Deck:_Lord_of_Magician
+[2025-05-09 20:14:54] Prefix: SD16-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Raging Battle | https://yugipedia.com/wiki/Raging_Battle
+[2025-05-09 20:14:54] Prefix: RGBT-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! World Championship 2009 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2009_prize_cards
+[2025-05-09 20:14:54] Prefix: WCPS-AE9 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! World Championship 2010 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2010_prize_cards
+[2025-05-09 20:14:54] Prefix: 2010-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! World Championship 2011 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2011_prize_cards
+[2025-05-09 20:14:54] Prefix: 2011-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2012 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2012_participation_card
+[2025-05-09 20:14:54] Prefix: 2012-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2013 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2013_participation_card
+[2025-05-09 20:14:54] Prefix: 2013-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2014 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2014_participation_card
+[2025-05-09 20:14:54] Prefix: 2014-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Yu-Gi-Oh! World Championship 2015 attendance cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2015_attendance_cards
+[2025-05-09 20:14:54] Prefix: 2015-JPP is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Speed Start Deck Link Edition | https://yugipedia.com/wiki/Speed_Start_Deck_Link_Edition
+[2025-05-09 20:14:54] Prefix: SSD1-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Speed Start Deck Synchro Edition | https://yugipedia.com/wiki/Speed_Start_Deck_Synchro_Edition
+[2025-05-09 20:14:54] Prefix: SSD2-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Structure Deck: Illusion of the Dark Magicians | https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians
+[2025-05-09 20:14:54] Prefix: SDID-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Structure Deck: Illusion of the Dark Magicians Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians_Power-Up_Pack
+[2025-05-09 20:14:54] Prefix: SDID-AEP is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Structure Deck: Rise of the Blue-Eyes | https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes
+[2025-05-09 20:14:54] Prefix: SDRB-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Structure Deck: Rise of the Blue-Eyes Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes_Power-Up_Pack
+[2025-05-09 20:14:54] Prefix: SDRB-AEP is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Creation Pack 01 | https://yugipedia.com/wiki/Creation_Pack_01
+[2025-05-09 20:14:54] Prefix: CR01-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Creation Pack 01 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_01_%2B1_Bonus_Pack
+[2025-05-09 20:14:54] Prefix: CR01-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Duelist Nexus | https://yugipedia.com/wiki/Duelist_Nexus
+[2025-05-09 20:14:54] Prefix: DUNE-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Duelist Nexus +1 Bonus Pack | https://yugipedia.com/wiki/Duelist_Nexus_%2B1_Bonus_Pack
+[2025-05-09 20:14:54] Prefix: DUNE-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Tournament Pack 2024 Vol.1 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.1_(Asian-English)
+[2025-05-09 20:14:54] Prefix: 24AT-AE1 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Rarity Collection Quarter Century Edition | https://yugipedia.com/wiki/Rarity_Collection_Quarter_Century_Edition
+[2025-05-09 20:14:54] Prefix: RC04-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Creation Pack 02 | https://yugipedia.com/wiki/Creation_Pack_02
+[2025-05-09 20:14:54] Prefix: CR02-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Creation Pack 02 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_02_%2B1_Bonus_Pack
+[2025-05-09 20:14:54] Prefix: CR02-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Age of Overlord | https://yugipedia.com/wiki/Age_of_Overlord
+[2025-05-09 20:14:54] Prefix: AGOV-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Age of Overlord +1 Bonus Pack | https://yugipedia.com/wiki/Age_of_Overlord_%2B1_Bonus_Pack
+[2025-05-09 20:14:54] Prefix: AGOV-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Creation Pack 03 | https://yugipedia.com/wiki/Creation_Pack_03
+[2025-05-09 20:14:54] Prefix: CR03-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Creation Pack 03 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_03_%2B1_Bonus_Pack
+[2025-05-09 20:14:54] Prefix: CR03-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:54] Set details => Stainless Steel Egyptian God Cards | https://yugipedia.com/wiki/Stainless_Steel_Egyptian_God_Cards
+[2025-05-09 20:14:54] [Error] [Parse Set prefix] => list index out of range
+[2025-05-09 20:14:54] Set '' Release date => Raw: 1711152000 | Converted: 2024-03-23 00:00:00
+[2025-05-09 20:14:54] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2025-05-09 20:14:55] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2025-05-09 20:14:55] [Warning] Page not found. Will skip.
+[2025-05-09 20:14:55] ===================================================================================================
+[2025-05-09 20:14:57] Set details => Phantom Nightmare | https://yugipedia.com/wiki/Phantom_Nightmare
+[2025-05-09 20:14:57] Prefix: PHNI-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Phantom Nightmare +1 Bonus Pack | https://yugipedia.com/wiki/Phantom_Nightmare_%2B1_Bonus_Pack
+[2025-05-09 20:14:57] Prefix: PHNI-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Tournament Pack 2024 Vol.2 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.2_(Asian-English)
+[2025-05-09 20:14:57] Prefix: 24AT-AE2 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Challenger Cup 2024 Qualifiers prize card | https://yugipedia.com/wiki/Challenger_Cup_2024_Qualifiers_prize_card
+[2025-05-09 20:14:57] Prefix: 24CC-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Creation Pack 04 | https://yugipedia.com/wiki/Creation_Pack_04
+[2025-05-09 20:14:57] Prefix: CR04-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Creation Pack 04 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_04_%2B1_Bonus_Pack
+[2025-05-09 20:14:57] Prefix: CR04-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Structure Deck: Salamangreat Sanctum | https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum
+[2025-05-09 20:14:57] Prefix: SDSS-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum_Transcend_Power-Up_Pack
+[2025-05-09 20:14:57] Prefix: SDSS-AEP is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Legacy of Destruction | https://yugipedia.com/wiki/Legacy_of_Destruction
+[2025-05-09 20:14:57] Prefix: LEDE-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Legacy of Destruction +1 Bonus Pack | https://yugipedia.com/wiki/Legacy_of_Destruction_%2B1_Bonus_Pack
+[2025-05-09 20:14:57] Prefix: LEDE-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Tournament Pack 2024 Vol.3 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.3_(Asian-English)
+[2025-05-09 20:14:57] Prefix: 24AT-AE3 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Essential Selection 01 | https://yugipedia.com/wiki/Essential_Selection_01
+[2025-05-09 20:14:57] Prefix: ES01-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Creation Pack 05 | https://yugipedia.com/wiki/Creation_Pack_05
+[2025-05-09 20:14:57] Prefix: CR05-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Creation Pack 05 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_05_%2B1_Bonus_Pack
+[2025-05-09 20:14:57] Prefix: CR05-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Infinite Forbidden +1 Bonus Pack | https://yugipedia.com/wiki/Infinite_Forbidden_%2B1_Bonus_Pack
+[2025-05-09 20:14:57] Prefix: INFO-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => The Infinite Forbidden | https://yugipedia.com/wiki/The_Infinite_Forbidden
+[2025-05-09 20:14:57] Prefix: INFO-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Yu-Gi-Oh! Open Tournament Singapore 2024 prize card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Singapore_2024_prize_card
+[2025-05-09 20:14:57] Prefix: 24OT-AESG is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Tournament Pack 2024 Vol.4 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.4_(Asian-English)
+[2025-05-09 20:14:57] Prefix: 24AT-AE4 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Bonus Pack: Awakened by the Primites | https://yugipedia.com/wiki/Bonus_Pack:_Awakened_by_the_Primites
+[2025-05-09 20:14:57] Prefix: BN01-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Rage of the Abyss | https://yugipedia.com/wiki/Rage_of_the_Abyss
+[2025-05-09 20:14:57] Prefix: ROTA-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Rage of the Abyss +1 Bonus Pack | https://yugipedia.com/wiki/Rage_of_the_Abyss_%2B1_Bonus_Pack
+[2025-05-09 20:14:57] Prefix: ROTA-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Duel-Ignition Deck: HERO | https://yugipedia.com/wiki/Duel-Ignition_Deck:_HERO
+[2025-05-09 20:14:57] Prefix: DI01-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Duel-Ignition Deck: Swordsoul | https://yugipedia.com/wiki/Duel-Ignition_Deck:_Swordsoul
+[2025-05-09 20:14:57] Prefix: DI02-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Selection 5: Quarter Century Edition | https://yugipedia.com/wiki/Selection_5:_Quarter_Century_Edition
+[2025-05-09 20:14:57] Prefix: SLF1-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Tournament Pack 2024 Vol.5 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.5_(Asian-English)
+[2025-05-09 20:14:57] Prefix: 24AT-AE5 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Creation Pack 06 | https://yugipedia.com/wiki/Creation_Pack_06
+[2025-05-09 20:14:57] Prefix: CR06-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Creation Pack 06 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_06_%2B1_Bonus_Pack
+[2025-05-09 20:14:57] Prefix: CR06-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Supreme Darkness | https://yugipedia.com/wiki/Supreme_Darkness
+[2025-05-09 20:14:57] Prefix: SUDA-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Supreme Darkness +1 Bonus Pack | https://yugipedia.com/wiki/Supreme_Darkness_%2B1_Bonus_Pack
+[2025-05-09 20:14:57] Prefix: SUDA-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Deck-Build Pack: Crossover Breakers | https://yugipedia.com/wiki/Deck-Build_Pack:_Crossover_Breakers
+[2025-05-09 20:14:57] Prefix: DBCB-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:57] Set details => Yu-Gi-Oh! Open Tournament Hong Kong 2025 prize card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card
+[2025-05-09 20:14:57] Set '25OT-AEHK' Release date => Raw: 1742688000 | Converted: 2025-03-23 00:00:00
+[2025-05-09 20:14:57] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card_(OCG-AE)
+[2025-05-09 20:14:57] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card_(OCG-AE)
+[2025-05-09 20:14:57] Set list page => Release date: 23 MARCH 2025
+[2025-05-09 20:14:57] File does not exist => output/AE_25OT-AEHK.json
+[2025-05-09 20:14:57] Searching passcode for https://yugipedia.com/wiki/25OT-AEHK1?action=edit&redlink=1
+[2025-05-09 20:14:57] Requesting page => https://yugipedia.com/wiki/25OT-AEHK1?action=edit&redlink=1
+[2025-05-09 20:14:57] Passcode => Page downloaded. Parsing content
+[2025-05-09 20:14:57] [Error] Parse list, main => Passcode => 'table' element not found.
+[2025-05-09 20:14:57] ===================================================================================================
+[2025-05-09 20:14:59] Set details => Tournament Pack 2025 Vol.1 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.1_(Asian-English)
+[2025-05-09 20:14:59] Prefix: 25AT-AE1 is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:59] Set details => Creation Pack 07 | https://yugipedia.com/wiki/Creation_Pack_07
+[2025-05-09 20:14:59] Prefix: CR07-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:59] Set details => Creation Pack 07 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_07_%2B1_Bonus_Pack
+[2025-05-09 20:14:59] Prefix: CR07-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-09 20:14:59] Set details => Alliance Insight | https://yugipedia.com/wiki/Alliance_Insight
+[2025-05-09 20:14:59] Skipped : Set 'ALIN-AE' is still unreleased. Release date: 2025-05-10
+[2025-05-09 20:14:59] Set details => Tactical-Try Deck: Exorcist Angels Exosister | https://yugipedia.com/wiki/Tactical-Try_Deck:_Exorcist_Angels_Exosister
+[2025-05-09 20:14:59] Skipped : Set 'TT02-AEB' is still unreleased. Release date: 2025-05-24
+[2025-05-09 20:14:59] Set details => Tactical-Try Deck: Super Exo-Armored Force Rescue-ACE | https://yugipedia.com/wiki/Tactical-Try_Deck:_Super_Exo-Armored_Force_Rescue-ACE
+[2025-05-09 20:14:59] Skipped : Set 'TT02-AEA' is still unreleased. Release date: 2025-05-24
+[2025-05-09 20:14:59] Set details => Creation Pack 08 | https://yugipedia.com/wiki/Creation_Pack_08
+[2025-05-09 20:14:59] Skipped : Set 'CR08-AE' is still unreleased. Release date: 2025-06-14
+[2025-05-09 20:14:59] Set details => Duelist's Advance | https://yugipedia.com/wiki/Duelist%27s_Advance
+[2025-05-09 20:14:59] Skipped : Set 'DUAD-AE' is still unreleased. Release date: 2025-07-19
+[2025-05-09 20:14:59] Set details => Deck-Build Pack: Justice Hunters | https://yugipedia.com/wiki/Deck-Build_Pack:_Justice_Hunters
+[2025-05-09 20:14:59] Skipped : Set 'DBJH-AE' is still unreleased. Release date: 2025-08-16
+[2025-05-09 20:14:59] Requesting page => https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202501&lang=en
+[2025-05-09 20:15:00] Banlist => Content exist
+[2025-05-09 20:15:00] Banlist => Main element exist
+[2025-05-09 20:15:00] Banlist => Main table exist. Table count: 3
+[2025-05-09 20:15:00] Banlist => Generate banlist with restriction of : 0
+[2025-05-09 20:15:00] Banlist => Main table body exist
+[2025-05-09 20:15:00] Banlist => Element list of Card names found
+[2025-05-09 20:15:00] Banlist => Item: ('Amazoness Archer', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Cannon Soldier', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Cannon Soldier', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Cyber Jar', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Cyber Jar', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Fiber Jar', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Fiber Jar', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Magical Scientist', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Magical Scientist', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Butterfly Dagger - Elma', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Butterfly Dagger - Elma', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Card of Safe Return', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Card of Safe Return', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Cold Wave', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Cold Wave', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Confiscation', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Confiscation', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Delinquent Duo', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Delinquent Duo', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Dimension Fusion', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Dimension Fusion', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Giant Trunade', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Giant Trunade', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Heavy Storm', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Heavy Storm', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Last Will', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Last Will', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Mass Driver', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Mass Driver', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Metamorphosis', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Metamorphosis', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Mirage of Nightmare', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Mirage of Nightmare', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Painful Choice', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Painful Choice', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Pot of Greed', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Pot of Greed', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Premature Burial', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Premature Burial', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Smoke Grenade of the Thief', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Smoke Grenade of the Thief', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Snatch Steal', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Snatch Steal', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('The Forceful Sentry', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('The Forceful Sentry', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Imperial Order', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Imperial Order', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Last Turn', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Last Turn', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Life Equalizer', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Life Equalizer', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Magical Explosion', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Magical Explosion', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Royal Oppression', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Royal Oppression', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Trap Dustshoot', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Trap Dustshoot', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Ultimate Offering', 0)
+[2025-05-09 20:15:00] Banlist => Item: ('Ultimate Offering', 0)
+[2025-05-09 20:15:00] Banlist => Generate banlist with restriction of : 1
+[2025-05-09 20:15:00] Banlist => Main table body exist
+[2025-05-09 20:15:00] Banlist => Element list of Card names found
+[2025-05-09 20:15:00] Banlist => Item: ('Diabellstar the Black Witch', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Snake-Eye Ash', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Snake-Eye Ash', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Snake-Eyes Poplar', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Snake-Eyes Poplar', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Tenpai Dragon Chundra', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Tenpai Dragon Chundra', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Crossout Designator', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Crossout Designator', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Foolish Burial', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Foolish Burial', 1)
+[2025-05-09 20:15:00] Banlist => Item: ("Harpie's Feather Duster", 1)
+[2025-05-09 20:15:00] Banlist => Item: ("Harpie's Feather Duster", 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Monster Reborn', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Monster Reborn', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Kaiser Colosseum', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Kaiser Colosseum', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Reinforcement of the Army', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Reinforcement of the Army', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Runick Fountain', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Runick Fountain', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Sangen Summoning', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Sangen Summoning', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Terraforming', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Terraforming', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('WANTED: Seeker of Sinful Spoils', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('WANTED: Seeker of Sinful Spoils', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Skill Drain', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Skill Drain', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Summon Limit', 1)
+[2025-05-09 20:15:00] Banlist => Item: ('Summon Limit', 1)
+[2025-05-09 20:15:00] Banlist => Generate banlist with restriction of : 2
+[2025-05-09 20:15:00] Banlist => Main table body exist
+[2025-05-09 20:15:00] Banlist => Element list of Card names found
+[2025-05-09 20:15:00] Banlist => Item: ('Bonfire', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Called by the Grave', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Called by the Grave', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('One for One', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('One for One', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Pot of Desires', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Pot of Desires', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Pot of Extravagance', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Pot of Extravagance', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Pot of Prosperity', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Pot of Prosperity', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Purrely Sleepy Memory', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Purrely Sleepy Memory', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Red Reboot', 2)
+[2025-05-09 20:15:00] Banlist => Item: ('Red Reboot', 2)
+[2025-05-09 20:15:00] File => output/AE_24CC-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_2012-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_RC04-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_MRD.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_LOD.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_ROTA-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_TLM-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_AST-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_RDS-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR06-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR04-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_AGOV-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_EOJ-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_DUNE-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_PSV.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_WCS-AE5.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_MFC.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_IOC-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_DUNE-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR04-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SOD-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_2011-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SSD2-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_WCPS-AE7.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_24AT-AE5.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_BN01-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_ROTA-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SDID-AEP.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_24OT-AESG.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SDSS-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_2010-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR02-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_DI01-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_GBI.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_DBCB-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_FET-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_LEDE-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_WCS-AE4.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_AGOV-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_24AT-AE3.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_PHNI-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_DI02-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_25AT-AE1.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_LEDE-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_EEN-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SUDA-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR03-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR06-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_2013-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SDSS-AEP.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_DCR.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR07-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR01-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR01-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_WCPS-AE6.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_WCS.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR05-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_2015-JPP.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR02-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SDRB-AEP.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_PGD.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SLF1-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_24AT-AE2.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_WCPS-AE8.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CRMS-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR05-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_INFO-AES.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SDY.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_MRL.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR03-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SUDA-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_24AT-AE1.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SDRB-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SSD1-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SDID-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_PHNI-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_RGBT-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_24AT-AE4.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_2014-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SD16-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_LON.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SOI-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_ES01-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_WCPS-AE9.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CR07-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_LOB.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_INFO-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_SDK.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] File => output/AE_CRV-AE.json
+[2025-05-09 20:15:00] JSON file parsed.
+[2025-05-09 20:15:00] CardData processed.
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Reinforcement of the Army
+[2025-05-09 20:15:00] CONF => Card is restricted to 2 => Pot of Desires
+[2025-05-09 20:15:00] CONF => Card is restricted to 2 => Called by the Grave
+[2025-05-09 20:15:00] CONF => Card is restricted to 2 => Pot of Extravagance
+[2025-05-09 20:15:00] CONF => Card is restricted to 2 => Pot of Prosperity
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Summon Limit
+[2025-05-09 20:15:00] CONF => Card is banned => Cannon Soldier
+[2025-05-09 20:15:00] CONF => Card is banned => Heavy Storm
+[2025-05-09 20:15:00] CONF => Card is banned => Fiber Jar
+[2025-05-09 20:15:00] CONF => Card is banned => Smoke Grenade of the Thief
+[2025-05-09 20:15:00] CONF => Card is banned => Royal Oppression
+[2025-05-09 20:15:00] CONF => Card is banned => Last Turn
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Diabellstar the Black Witch
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Snake-Eye Ash
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => WANTED: Seeker of Sinful Spoils
+[2025-05-09 20:15:00] CONF => Card is banned => Life Equalizer
+[2025-05-09 20:15:00] CONF => Card is banned => Premature Burial
+[2025-05-09 20:15:00] CONF => Card is banned => Cold Wave
+[2025-05-09 20:15:00] CONF => Card is banned => Imperial Order
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Kaiser Colosseum
+[2025-05-09 20:15:00] CONF => Card is banned => Magical Scientist
+[2025-05-09 20:15:00] CONF => Card is banned => Mass Driver
+[2025-05-09 20:15:00] CONF => Card is banned => Dimension Fusion
+[2025-05-09 20:15:00] CONF => Card is restricted to 2 => Purrely Sleepy Memory
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Crossout Designator
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Tenpai Dragon Chundra
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Sangen Summoning
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Snake-Eyes Poplar
+[2025-05-09 20:15:00] CONF => Card is restricted to 2 => Bonfire
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Harpie's Feather Duster
+[2025-05-09 20:15:00] CONF => Card is restricted to 2 => Red Reboot
+[2025-05-09 20:15:00] CONF => Card is banned => Butterfly Dagger - Elma
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Skill Drain
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Runick Fountain
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Foolish Burial
+[2025-05-09 20:15:00] CONF => Card is banned => Mirage of Nightmare
+[2025-05-09 20:15:00] CONF => Card is banned => Trap Dustshoot
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Terraforming
+[2025-05-09 20:15:00] CONF => Card is banned => Metamorphosis
+[2025-05-09 20:15:00] CONF => Card is restricted to 1 => Monster Reborn
+[2025-05-09 20:15:00] CONF => Card is banned => Last Will
+[2025-05-09 20:15:00] CONF => Card is banned => Ultimate Offering
+[2025-05-09 20:15:00] CONF => Card is banned => Snatch Steal
+[2025-05-09 20:15:00] CONF => Card is banned => Confiscation
+[2025-05-09 20:15:00] CONF => Card is banned => Delinquent Duo
+[2025-05-09 20:15:00] CONF => Card is banned => The Forceful Sentry
+[2025-05-09 20:15:00] CONF => Card is banned => Giant Trunade
+[2025-05-09 20:15:00] CONF => Card is banned => Painful Choice
+[2025-05-09 20:15:00] CONF => Card is banned => Cyber Jar
+[2025-05-09 20:15:00] CONF => Card is restricted to 2 => One for One
+[2025-05-09 20:15:00] CONF => Card is banned => Card of Safe Return
+[2025-05-09 20:15:00] CONF => Card is banned => Amazoness Archer
+[2025-05-09 20:15:00] CONF => Card is banned => Pot of Greed
+[2025-05-09 20:15:00] CONF => Card is banned => Magical Explosion
+[2025-05-09 20:15:00] Elapsed seconds: 7.8063483238220215
