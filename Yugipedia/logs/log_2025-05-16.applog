@@ -1,0 +1,1994 @@
+[2025-05-16 20:14:56] Done deleting old log files.
+[2025-05-16 20:14:56] Output file deleted (BANLIST) => /home/runner/work/pyscripts/pyscripts/Yugipedia/AE_Banlist.lflist.conf
+[2025-05-16 20:14:56] Parsing JSON response...
+[2025-05-16 20:14:56] Set details => Legend of Blue Eyes White Dragon | https://yugipedia.com/wiki/Legend_of_Blue_Eyes_White_Dragon
+[2025-05-16 20:14:56] Prefix: LOB is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Starter Deck: Kaiba | https://yugipedia.com/wiki/Starter_Deck:_Kaiba
+[2025-05-16 20:14:56] Prefix: SDK is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Starter Deck: Yugi | https://yugipedia.com/wiki/Starter_Deck:_Yugi
+[2025-05-16 20:14:56] Prefix: SDY is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Metal Raiders | https://yugipedia.com/wiki/Metal_Raiders
+[2025-05-16 20:14:56] Prefix: MRD is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Spell Ruler | https://yugipedia.com/wiki/Spell_Ruler
+[2025-05-16 20:14:56] Prefix: MRL is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Yu-Gi-Oh! Duel Monsters International: Worldwide Edition promotional cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards
+[2025-05-16 20:14:56] Prefix: GBI is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Pharaoh's Servant | https://yugipedia.com/wiki/Pharaoh%27s_Servant
+[2025-05-16 20:14:56] Prefix: PSV is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Labyrinth of Nightmare | https://yugipedia.com/wiki/Labyrinth_of_Nightmare
+[2025-05-16 20:14:56] Prefix: LON is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2003 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2003_participation_card
+[2025-05-16 20:14:56] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Duelist King Tournament: World Ranking Season 3 top 100 prize card | https://yugipedia.com/wiki/Duelist_King_Tournament:_World_Ranking_Season_3_top_100_prize_card
+[2025-05-16 20:14:56] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Legacy of Darkness | https://yugipedia.com/wiki/Legacy_of_Darkness
+[2025-05-16 20:14:56] Prefix: LOD is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Pharaonic Guardian | https://yugipedia.com/wiki/Pharaonic_Guardian
+[2025-05-16 20:14:56] Prefix: PGD is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Magician's Force | https://yugipedia.com/wiki/Magician%27s_Force
+[2025-05-16 20:14:56] Prefix: MFC is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Dark Crisis | https://yugipedia.com/wiki/Dark_Crisis
+[2025-05-16 20:14:56] Prefix: DCR is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:56] Set details => Yu-Gi-Oh! World Championship 2004 tournament promotional cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards
+[2025-05-16 20:14:56] Set 'WCS-AE' Release date => Raw: 1085184000 | Converted: 2004-05-22 00:00:00
+[2025-05-16 20:14:56] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2025-05-16 20:14:56] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2025-05-16 20:14:56] [Warning] Page not found. Will skip.
+[2025-05-16 20:14:56] ===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2004 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2004_participation_card
+[2025-05-16 20:14:58] Prefix: WCS-AE4 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Invasion of Chaos | https://yugipedia.com/wiki/Invasion_of_Chaos
+[2025-05-16 20:14:58] Prefix: IOC-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Ancient Sanctuary | https://yugipedia.com/wiki/Ancient_Sanctuary
+[2025-05-16 20:14:58] Prefix: AST-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Soul of the Duelist | https://yugipedia.com/wiki/Soul_of_the_Duelist
+[2025-05-16 20:14:58] Prefix: SOD-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Rise of Destiny | https://yugipedia.com/wiki/Rise_of_Destiny
+[2025-05-16 20:14:58] Prefix: RDS-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! World Championship 2005 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2005_prize_cards
+[2025-05-16 20:14:58] Prefix: WCS-AE5 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Flaming Eternity | https://yugipedia.com/wiki/Flaming_Eternity
+[2025-05-16 20:14:58] Prefix: FET-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => The Lost Millennium | https://yugipedia.com/wiki/The_Lost_Millennium
+[2025-05-16 20:14:58] Prefix: TLM-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Cybernetic Revolution | https://yugipedia.com/wiki/Cybernetic_Revolution
+[2025-05-16 20:14:58] Prefix: CRV-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! World Championship 2006 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2006_prize_cards
+[2025-05-16 20:14:58] Prefix: WCPS-AE6 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Elemental Energy | https://yugipedia.com/wiki/Elemental_Energy
+[2025-05-16 20:14:58] Prefix: EEN-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Shadow of Infinity | https://yugipedia.com/wiki/Shadow_of_Infinity
+[2025-05-16 20:14:58] Prefix: SOI-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Enemy of Justice | https://yugipedia.com/wiki/Enemy_of_Justice
+[2025-05-16 20:14:58] Prefix: EOJ-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! World Championship 2007 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2007_prize_cards
+[2025-05-16 20:14:58] Prefix: WCPS-AE7 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! World Championship 2008 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2008_prize_cards
+[2025-05-16 20:14:58] Prefix: WCPS-AE8 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Crimson Crisis | https://yugipedia.com/wiki/Crimson_Crisis
+[2025-05-16 20:14:58] Prefix: CRMS-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Structure Deck: Lord of Magician | https://yugipedia.com/wiki/Structure_Deck:_Lord_of_Magician
+[2025-05-16 20:14:58] Prefix: SD16-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Raging Battle | https://yugipedia.com/wiki/Raging_Battle
+[2025-05-16 20:14:58] Prefix: RGBT-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! World Championship 2009 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2009_prize_cards
+[2025-05-16 20:14:58] Prefix: WCPS-AE9 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! World Championship 2010 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2010_prize_cards
+[2025-05-16 20:14:58] Prefix: 2010-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! World Championship 2011 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2011_prize_cards
+[2025-05-16 20:14:58] Prefix: 2011-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2012 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2012_participation_card
+[2025-05-16 20:14:58] Prefix: 2012-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2013 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2013_participation_card
+[2025-05-16 20:14:58] Prefix: 2013-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2014 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2014_participation_card
+[2025-05-16 20:14:58] Prefix: 2014-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Yu-Gi-Oh! World Championship 2015 attendance cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2015_attendance_cards
+[2025-05-16 20:14:58] Prefix: 2015-JPP is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Speed Start Deck Link Edition | https://yugipedia.com/wiki/Speed_Start_Deck_Link_Edition
+[2025-05-16 20:14:58] Prefix: SSD1-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Speed Start Deck Synchro Edition | https://yugipedia.com/wiki/Speed_Start_Deck_Synchro_Edition
+[2025-05-16 20:14:58] Prefix: SSD2-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Structure Deck: Illusion of the Dark Magicians | https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians
+[2025-05-16 20:14:58] Prefix: SDID-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Structure Deck: Illusion of the Dark Magicians Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians_Power-Up_Pack
+[2025-05-16 20:14:58] Prefix: SDID-AEP is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Structure Deck: Rise of the Blue-Eyes | https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes
+[2025-05-16 20:14:58] Prefix: SDRB-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Structure Deck: Rise of the Blue-Eyes Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes_Power-Up_Pack
+[2025-05-16 20:14:58] Prefix: SDRB-AEP is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Creation Pack 01 | https://yugipedia.com/wiki/Creation_Pack_01
+[2025-05-16 20:14:58] Prefix: CR01-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Creation Pack 01 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_01_%2B1_Bonus_Pack
+[2025-05-16 20:14:58] Prefix: CR01-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Duelist Nexus | https://yugipedia.com/wiki/Duelist_Nexus
+[2025-05-16 20:14:58] Prefix: DUNE-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Duelist Nexus +1 Bonus Pack | https://yugipedia.com/wiki/Duelist_Nexus_%2B1_Bonus_Pack
+[2025-05-16 20:14:58] Prefix: DUNE-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Tournament Pack 2024 Vol.1 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.1_(Asian-English)
+[2025-05-16 20:14:58] Prefix: 24AT-AE1 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Rarity Collection Quarter Century Edition | https://yugipedia.com/wiki/Rarity_Collection_Quarter_Century_Edition
+[2025-05-16 20:14:58] Prefix: RC04-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Creation Pack 02 | https://yugipedia.com/wiki/Creation_Pack_02
+[2025-05-16 20:14:58] Prefix: CR02-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Creation Pack 02 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_02_%2B1_Bonus_Pack
+[2025-05-16 20:14:58] Prefix: CR02-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Age of Overlord | https://yugipedia.com/wiki/Age_of_Overlord
+[2025-05-16 20:14:58] Prefix: AGOV-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Age of Overlord +1 Bonus Pack | https://yugipedia.com/wiki/Age_of_Overlord_%2B1_Bonus_Pack
+[2025-05-16 20:14:58] Prefix: AGOV-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Creation Pack 03 | https://yugipedia.com/wiki/Creation_Pack_03
+[2025-05-16 20:14:58] Prefix: CR03-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Creation Pack 03 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_03_%2B1_Bonus_Pack
+[2025-05-16 20:14:58] Prefix: CR03-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:14:58] Set details => Stainless Steel Egyptian God Cards | https://yugipedia.com/wiki/Stainless_Steel_Egyptian_God_Cards
+[2025-05-16 20:14:58] [Error] [Parse Set prefix] => list index out of range
+[2025-05-16 20:14:58] Set '' Release date => Raw: 1711152000 | Converted: 2024-03-23 00:00:00
+[2025-05-16 20:14:58] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2025-05-16 20:14:59] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2025-05-16 20:14:59] [Warning] Page not found. Will skip.
+[2025-05-16 20:14:59] ===================================================================================================
+[2025-05-16 20:15:01] Set details => Phantom Nightmare | https://yugipedia.com/wiki/Phantom_Nightmare
+[2025-05-16 20:15:01] Prefix: PHNI-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Phantom Nightmare +1 Bonus Pack | https://yugipedia.com/wiki/Phantom_Nightmare_%2B1_Bonus_Pack
+[2025-05-16 20:15:01] Prefix: PHNI-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Tournament Pack 2024 Vol.2 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.2_(Asian-English)
+[2025-05-16 20:15:01] Prefix: 24AT-AE2 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Challenger Cup 2024 Qualifiers prize card | https://yugipedia.com/wiki/Challenger_Cup_2024_Qualifiers_prize_card
+[2025-05-16 20:15:01] Prefix: 24CC-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Creation Pack 04 | https://yugipedia.com/wiki/Creation_Pack_04
+[2025-05-16 20:15:01] Prefix: CR04-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Creation Pack 04 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_04_%2B1_Bonus_Pack
+[2025-05-16 20:15:01] Prefix: CR04-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Structure Deck: Salamangreat Sanctum | https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum
+[2025-05-16 20:15:01] Prefix: SDSS-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum_Transcend_Power-Up_Pack
+[2025-05-16 20:15:01] Prefix: SDSS-AEP is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Legacy of Destruction | https://yugipedia.com/wiki/Legacy_of_Destruction
+[2025-05-16 20:15:01] Prefix: LEDE-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Legacy of Destruction +1 Bonus Pack | https://yugipedia.com/wiki/Legacy_of_Destruction_%2B1_Bonus_Pack
+[2025-05-16 20:15:01] Prefix: LEDE-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Tournament Pack 2024 Vol.3 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.3_(Asian-English)
+[2025-05-16 20:15:01] Prefix: 24AT-AE3 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Essential Selection 01 | https://yugipedia.com/wiki/Essential_Selection_01
+[2025-05-16 20:15:01] Prefix: ES01-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Creation Pack 05 | https://yugipedia.com/wiki/Creation_Pack_05
+[2025-05-16 20:15:01] Prefix: CR05-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Creation Pack 05 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_05_%2B1_Bonus_Pack
+[2025-05-16 20:15:01] Prefix: CR05-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Infinite Forbidden +1 Bonus Pack | https://yugipedia.com/wiki/Infinite_Forbidden_%2B1_Bonus_Pack
+[2025-05-16 20:15:01] Prefix: INFO-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => The Infinite Forbidden | https://yugipedia.com/wiki/The_Infinite_Forbidden
+[2025-05-16 20:15:01] Prefix: INFO-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Yu-Gi-Oh! Open Tournament Singapore 2024 prize card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Singapore_2024_prize_card
+[2025-05-16 20:15:01] Prefix: 24OT-AESG is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Tournament Pack 2024 Vol.4 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.4_(Asian-English)
+[2025-05-16 20:15:01] Prefix: 24AT-AE4 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Bonus Pack: Awakened by the Primites | https://yugipedia.com/wiki/Bonus_Pack:_Awakened_by_the_Primites
+[2025-05-16 20:15:01] Prefix: BN01-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Rage of the Abyss | https://yugipedia.com/wiki/Rage_of_the_Abyss
+[2025-05-16 20:15:01] Prefix: ROTA-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Rage of the Abyss +1 Bonus Pack | https://yugipedia.com/wiki/Rage_of_the_Abyss_%2B1_Bonus_Pack
+[2025-05-16 20:15:01] Prefix: ROTA-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Duel-Ignition Deck: HERO | https://yugipedia.com/wiki/Duel-Ignition_Deck:_HERO
+[2025-05-16 20:15:01] Prefix: DI01-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Duel-Ignition Deck: Swordsoul | https://yugipedia.com/wiki/Duel-Ignition_Deck:_Swordsoul
+[2025-05-16 20:15:01] Prefix: DI02-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Selection 5: Quarter Century Edition | https://yugipedia.com/wiki/Selection_5:_Quarter_Century_Edition
+[2025-05-16 20:15:01] Prefix: SLF1-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Tournament Pack 2024 Vol.5 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.5_(Asian-English)
+[2025-05-16 20:15:01] Prefix: 24AT-AE5 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Creation Pack 06 | https://yugipedia.com/wiki/Creation_Pack_06
+[2025-05-16 20:15:01] Prefix: CR06-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Creation Pack 06 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_06_%2B1_Bonus_Pack
+[2025-05-16 20:15:01] Prefix: CR06-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Supreme Darkness | https://yugipedia.com/wiki/Supreme_Darkness
+[2025-05-16 20:15:01] Prefix: SUDA-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Supreme Darkness +1 Bonus Pack | https://yugipedia.com/wiki/Supreme_Darkness_%2B1_Bonus_Pack
+[2025-05-16 20:15:01] Prefix: SUDA-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Deck-Build Pack: Crossover Breakers | https://yugipedia.com/wiki/Deck-Build_Pack:_Crossover_Breakers
+[2025-05-16 20:15:01] Prefix: DBCB-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:01] Set details => Yu-Gi-Oh! Open Tournament Hong Kong 2025 prize card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card
+[2025-05-16 20:15:01] Set '25OT-AEHK' Release date => Raw: 1742688000 | Converted: 2025-03-23 00:00:00
+[2025-05-16 20:15:01] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card_(OCG-AE)
+[2025-05-16 20:15:01] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card_(OCG-AE)
+[2025-05-16 20:15:01] Set list page => Release date: 23 MARCH 2025
+[2025-05-16 20:15:01] File does not exist => output/AE_25OT-AEHK.json
+[2025-05-16 20:15:01] Searching passcode for https://yugipedia.com/wiki/25OT-AEHK1?action=edit&redlink=1
+[2025-05-16 20:15:01] Requesting page => https://yugipedia.com/wiki/25OT-AEHK1?action=edit&redlink=1
+[2025-05-16 20:15:01] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:01] [Error] Parse list, main => Passcode => 'table' element not found.
+[2025-05-16 20:15:01] ===================================================================================================
+[2025-05-16 20:15:03] Set details => Tournament Pack 2025 Vol.1 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.1_(Asian-English)
+[2025-05-16 20:15:03] Prefix: 25AT-AE1 is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:03] Set details => Creation Pack 07 | https://yugipedia.com/wiki/Creation_Pack_07
+[2025-05-16 20:15:03] Prefix: CR07-AE is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:03] Set details => Creation Pack 07 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_07_%2B1_Bonus_Pack
+[2025-05-16 20:15:03] Prefix: CR07-AES is skipped. Already processed.
+===================================================================================================
+[2025-05-16 20:15:03] Set details => Alliance Insight | https://yugipedia.com/wiki/Alliance_Insight
+[2025-05-16 20:15:03] Set 'ALIN-AE' Release date => Raw: 1746835200 | Converted: 2025-05-10 00:00:00
+[2025-05-16 20:15:03] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Alliance_Insight_(OCG-AE)
+[2025-05-16 20:15:04] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Alliance_Insight_(OCG-AE)
+[2025-05-16 20:15:04] Set list page => Release date: 10 MAY 2025
+[2025-05-16 20:15:04] File does not exist => output/AE_ALIN-AE.json
+[2025-05-16 20:15:04] Searching passcode for https://yugipedia.com/wiki/ALIN-AE000
+[2025-05-16 20:15:04] Requesting page => https://yugipedia.com/wiki/ALIN-AE000
+[2025-05-16 20:15:05] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:05] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:05] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:05] Passcode => Item: TYPES | Dragon / Xyz / Effect
+[2025-05-16 20:15:05] Passcode => Item: RANK | 12
+[2025-05-16 20:15:05] Passcode => Item: ATK  DEF | 5000 / 5000
+[2025-05-16 20:15:05] Passcode => Item: PASSWORD | 58931850
+[2025-05-16 20:15:05] Item => Setcode: ALIN-AE000 | URL: https://yugipedia.com/wiki/ALIN-AE000 | Name: Dragon Master Lords | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:15:05] ===================================================================================================
+[2025-05-16 20:15:06] Searching passcode for https://yugipedia.com/wiki/ALIN-AE001
+[2025-05-16 20:15:06] Requesting page => https://yugipedia.com/wiki/ALIN-AE001
+[2025-05-16 20:15:07] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:07] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:07] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:07] Passcode => Item: TYPES | Cyberse / Effect
+[2025-05-16 20:15:07] Passcode => Item: LEVEL | 4
+[2025-05-16 20:15:07] Passcode => Item: ATK  DEF | 1800 / 800
+[2025-05-16 20:15:07] Passcode => Item: PASSWORD | 03723262
+[2025-05-16 20:15:07] Item => Setcode: ALIN-AE001 | URL: https://yugipedia.com/wiki/ALIN-AE001 | Name: Wizard @Ignister | Category: EFFECT MONSTER
+[2025-05-16 20:15:07] ===================================================================================================
+[2025-05-16 20:15:08] Searching passcode for https://yugipedia.com/wiki/ALIN-AE002
+[2025-05-16 20:15:08] Requesting page => https://yugipedia.com/wiki/ALIN-AE002
+[2025-05-16 20:15:08] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:08] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:08] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:08] Passcode => Item: TYPES | Cyberse / Tuner / Effect
+[2025-05-16 20:15:08] Passcode => Item: LEVEL | 3
+[2025-05-16 20:15:08] Passcode => Item: ATK  DEF | 1200 / 800
+[2025-05-16 20:15:08] Passcode => Item: PASSWORD | 30118811
+[2025-05-16 20:15:08] Item => Setcode: ALIN-AE002 | URL: https://yugipedia.com/wiki/ALIN-AE002 | Name: Backup @Ignister | Category: EFFECT TUNER MONSTER
+[2025-05-16 20:15:08] ===================================================================================================
+[2025-05-16 20:15:09] Searching passcode for https://yugipedia.com/wiki/ALIN-AE003
+[2025-05-16 20:15:09] Requesting page => https://yugipedia.com/wiki/ALIN-AE003
+[2025-05-16 20:15:10] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:10] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:10] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:10] Passcode => Item: TYPES | Cyberse / Effect
+[2025-05-16 20:15:10] Passcode => Item: LEVEL | 1
+[2025-05-16 20:15:10] Passcode => Item: ATK  DEF | 300 / 200
+[2025-05-16 20:15:10] Passcode => Item: PASSWORD | 66102515
+[2025-05-16 20:15:10] Item => Setcode: ALIN-AE003 | URL: https://yugipedia.com/wiki/ALIN-AE003 | Name: Kurikurinku @Ignister | Category: EFFECT MONSTER
+[2025-05-16 20:15:10] ===================================================================================================
+[2025-05-16 20:15:11] Searching passcode for https://yugipedia.com/wiki/ALIN-AE004
+[2025-05-16 20:15:11] Requesting page => https://yugipedia.com/wiki/ALIN-AE004
+[2025-05-16 20:15:12] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:12] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:12] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:12] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-05-16 20:15:12] Passcode => Item: LEVEL | 6
+[2025-05-16 20:15:12] Passcode => Item: ATK  DEF | 2000 / 1700
+[2025-05-16 20:15:12] Passcode => Item: PASSWORD | 02501624
+[2025-05-16 20:15:12] Item => Setcode: ALIN-AE004 | URL: https://yugipedia.com/wiki/ALIN-AE004 | Name: Dark Magician Girl the Magician's Apprentice | Category: EFFECT MONSTER
+[2025-05-16 20:15:12] ===================================================================================================
+[2025-05-16 20:15:13] Searching passcode for https://yugipedia.com/wiki/ALIN-AE005
+[2025-05-16 20:15:13] Requesting page => https://yugipedia.com/wiki/ALIN-AE005
+[2025-05-16 20:15:15] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:15] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:15] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:15] Passcode => Item: TYPES | Fiend / Effect
+[2025-05-16 20:15:15] Passcode => Item: LEVEL | 7
+[2025-05-16 20:15:15] Passcode => Item: ATK  DEF | 2500 / 2500
+[2025-05-16 20:15:15] Passcode => Item: PASSWORD | 35095329
+[2025-05-16 20:15:15] Item => Setcode: ALIN-AE005 | URL: https://yugipedia.com/wiki/ALIN-AE005 | Name: Evil HERO Vicious Claws | Category: EFFECT MONSTER
+[2025-05-16 20:15:15] ===================================================================================================
+[2025-05-16 20:15:16] Searching passcode for https://yugipedia.com/wiki/ALIN-AE006
+[2025-05-16 20:15:16] Requesting page => https://yugipedia.com/wiki/ALIN-AE006
+[2025-05-16 20:15:16] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:16] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:16] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:16] Passcode => Item: TYPES | Beast / Effect
+[2025-05-16 20:15:16] Passcode => Item: LEVEL | 4
+[2025-05-16 20:15:16] Passcode => Item: ATK  DEF | 1700 / 1000
+[2025-05-16 20:15:16] Passcode => Item: PASSWORD | 61480937
+[2025-05-16 20:15:16] Item => Setcode: ALIN-AE006 | URL: https://yugipedia.com/wiki/ALIN-AE006 | Name: Regulus the Fairy Beast | Category: EFFECT MONSTER
+[2025-05-16 20:15:16] ===================================================================================================
+[2025-05-16 20:15:17] Searching passcode for https://yugipedia.com/wiki/ALIN-AE007
+[2025-05-16 20:15:17] Requesting page => https://yugipedia.com/wiki/ALIN-AE007
+[2025-05-16 20:15:17] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:17] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:17] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:17] Passcode => Item: TYPES | Plant / Tuner / Effect
+[2025-05-16 20:15:17] Passcode => Item: LEVEL | 1
+[2025-05-16 20:15:17] Passcode => Item: ATK  DEF | 400 / 800
+[2025-05-16 20:15:17] Passcode => Item: PASSWORD | 98888032
+[2025-05-16 20:15:17] Item => Setcode: ALIN-AE007 | URL: https://yugipedia.com/wiki/ALIN-AE007 | Name: Spore the Fairy Seed | Category: EFFECT TUNER MONSTER
+[2025-05-16 20:15:17] ===================================================================================================
+[2025-05-16 20:15:18] Searching passcode for https://yugipedia.com/wiki/ALIN-AE008
+[2025-05-16 20:15:18] Requesting page => https://yugipedia.com/wiki/ALIN-AE008
+[2025-05-16 20:15:19] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:19] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:19] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:19] Passcode => Item: TYPES | Fairy / Effect
+[2025-05-16 20:15:19] Passcode => Item: LEVEL | 1
+[2025-05-16 20:15:19] Passcode => Item: ATK  DEF | 300 / 200
+[2025-05-16 20:15:19] Passcode => Item: PASSWORD | 34873741
+[2025-05-16 20:15:19] Item => Setcode: ALIN-AE008 | URL: https://yugipedia.com/wiki/ALIN-AE008 | Name: Kuribon the Fairy Spirit | Category: EFFECT MONSTER
+[2025-05-16 20:15:19] ===================================================================================================
+[2025-05-16 20:15:20] Searching passcode for https://yugipedia.com/wiki/ALIN-AE009
+[2025-05-16 20:15:20] Requesting page => https://yugipedia.com/wiki/ALIN-AE009
+[2025-05-16 20:15:20] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:20] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:20] Passcode => Item: ATTRIBUTE | WIND
+[2025-05-16 20:15:20] Passcode => Item: TYPES | Winged Beast / Effect
+[2025-05-16 20:15:20] Passcode => Item: LEVEL | 4
+[2025-05-16 20:15:20] Passcode => Item: ATK  DEF | 1600 / 1000
+[2025-05-16 20:15:20] Passcode => Item: PASSWORD | 60268386
+[2025-05-16 20:15:20] Item => Setcode: ALIN-AE009 | URL: https://yugipedia.com/wiki/ALIN-AE009 | Name: Heraldic Beast Gryphon | Category: EFFECT MONSTER
+[2025-05-16 20:15:20] ===================================================================================================
+[2025-05-16 20:15:21] Searching passcode for https://yugipedia.com/wiki/ALIN-AE010
+[2025-05-16 20:15:21] Requesting page => https://yugipedia.com/wiki/ALIN-AE010
+[2025-05-16 20:15:23] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:23] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:23] Passcode => Item: ATTRIBUTE | WATER
+[2025-05-16 20:15:23] Passcode => Item: TYPES | Fish / Effect
+[2025-05-16 20:15:23] Passcode => Item: LEVEL | 4
+[2025-05-16 20:15:23] Passcode => Item: ATK  DEF | 900 / 1900
+[2025-05-16 20:15:23] Passcode => Item: PASSWORD | 97662494
+[2025-05-16 20:15:23] Item => Setcode: ALIN-AE010 | URL: https://yugipedia.com/wiki/ALIN-AE010 | Name: Heraldic Beast Stad Whale | Category: EFFECT MONSTER
+[2025-05-16 20:15:23] ===================================================================================================
+[2025-05-16 20:15:24] Searching passcode for https://yugipedia.com/wiki/ALIN-AE011
+[2025-05-16 20:15:24] Requesting page => https://yugipedia.com/wiki/ALIN-AE011
+[2025-05-16 20:15:24] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:24] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:24] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:24] Passcode => Item: TYPES | Fiend / Effect
+[2025-05-16 20:15:24] Passcode => Item: LEVEL | 8
+[2025-05-16 20:15:24] Passcode => Item: ATK  DEF | 2500 / 2100
+[2025-05-16 20:15:24] Passcode => Item: PASSWORD | 23151193
+[2025-05-16 20:15:24] Item => Setcode: ALIN-AE011 | URL: https://yugipedia.com/wiki/ALIN-AE011 | Name: Diabellstar Vengeance | Category: EFFECT MONSTER
+[2025-05-16 20:15:24] ===================================================================================================
+[2025-05-16 20:15:25] Searching passcode for https://yugipedia.com/wiki/ALIN-AE012
+[2025-05-16 20:15:25] Requesting page => https://yugipedia.com/wiki/ALIN-AE012
+[2025-05-16 20:15:25] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:25] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:25] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:25] Passcode => Item: TYPES | Illusion / Effect
+[2025-05-16 20:15:25] Passcode => Item: LEVEL | 8
+[2025-05-16 20:15:25] Passcode => Item: ATK  DEF | 2500 / 2100
+[2025-05-16 20:15:25] Passcode => Item: PASSWORD | 60145298
+[2025-05-16 20:15:25] Item => Setcode: ALIN-AE012 | URL: https://yugipedia.com/wiki/ALIN-AE012 | Name: Diabellze the White Witch | Category: EFFECT MONSTER
+[2025-05-16 20:15:25] ===================================================================================================
+[2025-05-16 20:15:26] Searching passcode for https://yugipedia.com/wiki/ALIN-AE013
+[2025-05-16 20:15:26] Requesting page => https://yugipedia.com/wiki/ALIN-AE013
+[2025-05-16 20:15:28] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:28] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:28] Passcode => Item: ATTRIBUTE | FIRE
+[2025-05-16 20:15:28] Passcode => Item: TYPES | Warrior / Effect
+[2025-05-16 20:15:28] Passcode => Item: LEVEL | 7
+[2025-05-16 20:15:28] Passcode => Item: ATK  DEF | 2500 / 2500
+[2025-05-16 20:15:28] Passcode => Item: PASSWORD | 96540807
+[2025-05-16 20:15:28] Item => Setcode: ALIN-AE013 | URL: https://yugipedia.com/wiki/ALIN-AE013 | Name: Regenesis Warrior | Category: EFFECT MONSTER
+[2025-05-16 20:15:28] ===================================================================================================
+[2025-05-16 20:15:29] Searching passcode for https://yugipedia.com/wiki/ALIN-AE014
+[2025-05-16 20:15:29] Requesting page => https://yugipedia.com/wiki/ALIN-AE014
+[2025-05-16 20:15:29] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:29] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:29] Passcode => Item: ATTRIBUTE | WATER
+[2025-05-16 20:15:29] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-05-16 20:15:29] Passcode => Item: LEVEL | 7
+[2025-05-16 20:15:29] Passcode => Item: ATK  DEF | 2500 / 2500
+[2025-05-16 20:15:29] Passcode => Item: PASSWORD | 22938501
+[2025-05-16 20:15:29] Item => Setcode: ALIN-AE014 | URL: https://yugipedia.com/wiki/ALIN-AE014 | Name: Regenesis Sage | Category: EFFECT MONSTER
+[2025-05-16 20:15:29] ===================================================================================================
+[2025-05-16 20:15:30] Searching passcode for https://yugipedia.com/wiki/ALIN-AE015
+[2025-05-16 20:15:30] Requesting page => https://yugipedia.com/wiki/ALIN-AE015
+[2025-05-16 20:15:30] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:30] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:30] Passcode => Item: ATTRIBUTE | WIND
+[2025-05-16 20:15:30] Passcode => Item: TYPES | Dragon / Effect
+[2025-05-16 20:15:30] Passcode => Item: LEVEL | 8
+[2025-05-16 20:15:30] Passcode => Item: ATK  DEF | 2500 / 2500
+[2025-05-16 20:15:30] Passcode => Item: PASSWORD | 59323650
+[2025-05-16 20:15:30] Item => Setcode: ALIN-AE015 | URL: https://yugipedia.com/wiki/ALIN-AE015 | Name: Regenesis Dragon | Category: EFFECT MONSTER
+[2025-05-16 20:15:30] ===================================================================================================
+[2025-05-16 20:15:31] Searching passcode for https://yugipedia.com/wiki/ALIN-AE016
+[2025-05-16 20:15:31] Requesting page => https://yugipedia.com/wiki/ALIN-AE016
+[2025-05-16 20:15:31] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:31] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:31] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:15:31] Passcode => Item: TYPES | Fiend / Effect
+[2025-05-16 20:15:31] Passcode => Item: LEVEL | 8
+[2025-05-16 20:15:31] Passcode => Item: ATK  DEF | 2500 / 2500
+[2025-05-16 20:15:31] Passcode => Item: PASSWORD | 95718355
+[2025-05-16 20:15:31] Item => Setcode: ALIN-AE016 | URL: https://yugipedia.com/wiki/ALIN-AE016 | Name: Regenesis Archfiend | Category: EFFECT MONSTER
+[2025-05-16 20:15:31] ===================================================================================================
+[2025-05-16 20:15:32] Searching passcode for https://yugipedia.com/wiki/ALIN-AE017
+[2025-05-16 20:15:32] Requesting page => https://yugipedia.com/wiki/ALIN-AE017
+[2025-05-16 20:15:32] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:32] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:32] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:32] Passcode => Item: TYPES | Illusion / Effect
+[2025-05-16 20:15:32] Passcode => Item: LEVEL | 10
+[2025-05-16 20:15:32] Passcode => Item: ATK  DEF | 2500 / 2500
+[2025-05-16 20:15:32] Passcode => Item: PASSWORD | 22812963
+[2025-05-16 20:15:32] Item => Setcode: ALIN-AE017 | URL: https://yugipedia.com/wiki/ALIN-AE017 | Name: Regenesis Lord | Category: EFFECT MONSTER
+[2025-05-16 20:15:32] ===================================================================================================
+[2025-05-16 20:15:33] Searching passcode for https://yugipedia.com/wiki/ALIN-AE018
+[2025-05-16 20:15:33] Requesting page => https://yugipedia.com/wiki/ALIN-AE018
+[2025-05-16 20:15:33] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:33] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:33] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:33] Passcode => Item: TYPES | Dragon / Effect
+[2025-05-16 20:15:33] Passcode => Item: LEVEL | 2
+[2025-05-16 20:15:33] Passcode => Item: ATK  DEF | 600 / 1000
+[2025-05-16 20:15:33] Passcode => Item: PASSWORD | 58201062
+[2025-05-16 20:15:33] Item => Setcode: ALIN-AE018 | URL: https://yugipedia.com/wiki/ALIN-AE018 | Name: Spectral, Dragon Ruler of Flickers | Category: EFFECT MONSTER
+[2025-05-16 20:15:33] ===================================================================================================
+[2025-05-16 20:15:34] Searching passcode for https://yugipedia.com/wiki/ALIN-AE019
+[2025-05-16 20:15:34] Requesting page => https://yugipedia.com/wiki/ALIN-AE019
+[2025-05-16 20:15:35] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:35] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:35] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:35] Passcode => Item: TYPES | Dragon / Effect
+[2025-05-16 20:15:35] Passcode => Item: LEVEL | 2
+[2025-05-16 20:15:35] Passcode => Item: ATK  DEF | 1000 / 600
+[2025-05-16 20:15:35] Passcode => Item: PASSWORD | 94655777
+[2025-05-16 20:15:35] Item => Setcode: ALIN-AE019 | URL: https://yugipedia.com/wiki/ALIN-AE019 | Name: Nebulus, Dragon Ruler of Mishaps | Category: EFFECT MONSTER
+[2025-05-16 20:15:35] ===================================================================================================
+[2025-05-16 20:15:36] Searching passcode for https://yugipedia.com/wiki/ALIN-AE020
+[2025-05-16 20:15:36] Requesting page => https://yugipedia.com/wiki/ALIN-AE020
+[2025-05-16 20:15:37] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:37] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:37] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:15:37] Passcode => Item: TYPES | Warrior / Effect
+[2025-05-16 20:15:37] Passcode => Item: LEVEL | 4
+[2025-05-16 20:15:37] Passcode => Item: ATK  DEF | 1400 / 1400
+[2025-05-16 20:15:37] Passcode => Item: PASSWORD | 21050476
+[2025-05-16 20:15:37] Item => Setcode: ALIN-AE020 | URL: https://yugipedia.com/wiki/ALIN-AE020 | Name: Argostars - Fierce Parthe | Category: EFFECT MONSTER
+[2025-05-16 20:15:37] ===================================================================================================
+[2025-05-16 20:15:38] Searching passcode for https://yugipedia.com/wiki/ALIN-AE021
+[2025-05-16 20:15:38] Requesting page => https://yugipedia.com/wiki/ALIN-AE021
+[2025-05-16 20:15:38] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:38] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:38] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:38] Passcode => Item: TYPES | Dragon / Pendulum / Normal
+[2025-05-16 20:15:38] Passcode => Item: LEVEL | 3
+[2025-05-16 20:15:38] Passcode => Item: PENDULUM SCALE | 1
+[2025-05-16 20:15:38] Passcode => Item: ATK  DEF | 0 / 0
+[2025-05-16 20:15:38] Passcode => Item: PASSWORD | 57448410
+[2025-05-16 20:15:38] Item => Setcode: ALIN-AE021 | URL: https://yugipedia.com/wiki/ALIN-AE021 | Name: Prima Materiactor | Category: NORMAL PENDULUM MONSTER
+[2025-05-16 20:15:38] ===================================================================================================
+[2025-05-16 20:15:39] Searching passcode for https://yugipedia.com/wiki/ALIN-AE022
+[2025-05-16 20:15:39] Requesting page => https://yugipedia.com/wiki/ALIN-AE022
+[2025-05-16 20:15:39] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:39] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:39] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:39] Passcode => Item: TYPES | Pyro / Effect
+[2025-05-16 20:15:39] Passcode => Item: LEVEL | 4
+[2025-05-16 20:15:39] Passcode => Item: ATK  DEF | 1800 / 0
+[2025-05-16 20:15:39] Passcode => Item: PASSWORD | 84433129
+[2025-05-16 20:15:39] Item => Setcode: ALIN-AE022 | URL: https://yugipedia.com/wiki/ALIN-AE022 | Name: Star Ryzeal | Category: EFFECT MONSTER
+[2025-05-16 20:15:39] ===================================================================================================
+[2025-05-16 20:15:40] Searching passcode for https://yugipedia.com/wiki/ALIN-AE023
+[2025-05-16 20:15:40] Requesting page => https://yugipedia.com/wiki/ALIN-AE023
+[2025-05-16 20:15:41] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:41] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:41] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:41] Passcode => Item: TYPES | Cyberse / Effect
+[2025-05-16 20:15:41] Passcode => Item: LEVEL | 3
+[2025-05-16 20:15:41] Passcode => Item: ATK  DEF | 600 / 300
+[2025-05-16 20:15:41] Passcode => Item: PASSWORD | 20938824
+[2025-05-16 20:15:41] Item => Setcode: ALIN-AE023 | URL: https://yugipedia.com/wiki/ALIN-AE023 | Name: Maliss <P> March Hare | Category: EFFECT MONSTER
+[2025-05-16 20:15:41] ===================================================================================================
+[2025-05-16 20:15:42] Searching passcode for https://yugipedia.com/wiki/ALIN-AE024
+[2025-05-16 20:15:42] Requesting page => https://yugipedia.com/wiki/ALIN-AE024
+[2025-05-16 20:15:42] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:42] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:42] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:42] Passcode => Item: TYPES | Dragon / Pendulum / Effect
+[2025-05-16 20:15:42] Passcode => Item: LEVEL | 10
+[2025-05-16 20:15:42] Passcode => Item: PENDULUM SCALE | 11
+[2025-05-16 20:15:42] Passcode => Item: ATK  DEF | 3000 / 2100
+[2025-05-16 20:15:42] Passcode => Item: PASSWORD | 56322832
+[2025-05-16 20:15:42] Item => Setcode: ALIN-AE024 | URL: https://yugipedia.com/wiki/ALIN-AE024 | Name: Tensei Ryu-Ge Anva | Category: EFFECT PENDULUM MONSTER
+[2025-05-16 20:15:42] ===================================================================================================
+[2025-05-16 20:15:43] Searching passcode for https://yugipedia.com/wiki/ALIN-AE025
+[2025-05-16 20:15:43] Requesting page => https://yugipedia.com/wiki/ALIN-AE025
+[2025-05-16 20:15:44] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:44] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:44] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:44] Passcode => Item: TYPES | Dragon / Effect
+[2025-05-16 20:15:44] Passcode => Item: LEVEL | 7
+[2025-05-16 20:15:44] Passcode => Item: ATK  DEF | 2400 / 2000
+[2025-05-16 20:15:44] Passcode => Item: PASSWORD | 83711531
+[2025-05-16 20:15:44] Item => Setcode: ALIN-AE025 | URL: https://yugipedia.com/wiki/ALIN-AE025 | Name: Red-Eyes Metal Claws Dragon | Category: EFFECT MONSTER
+[2025-05-16 20:15:44] ===================================================================================================
+[2025-05-16 20:15:45] Searching passcode for https://yugipedia.com/wiki/ALIN-AE026
+[2025-05-16 20:15:45] Requesting page => https://yugipedia.com/wiki/ALIN-AE026
+[2025-05-16 20:15:46] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:46] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:46] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:15:46] Passcode => Item: TYPES | Machine / Effect
+[2025-05-16 20:15:46] Passcode => Item: LEVEL | 5
+[2025-05-16 20:15:46] Passcode => Item: ATK  DEF | 1000 / 2100
+[2025-05-16 20:15:46] Passcode => Item: PASSWORD | 19715246
+[2025-05-16 20:15:46] Item => Setcode: ALIN-AE026 | URL: https://yugipedia.com/wiki/ALIN-AE026 | Name: Cyber Jormungardr | Category: EFFECT MONSTER
+[2025-05-16 20:15:46] ===================================================================================================
+[2025-05-16 20:15:47] Searching passcode for https://yugipedia.com/wiki/ALIN-AE027
+[2025-05-16 20:15:47] Requesting page => https://yugipedia.com/wiki/ALIN-AE027
+[2025-05-16 20:15:49] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:49] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:49] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:49] Passcode => Item: TYPES | Machine / Effect
+[2025-05-16 20:15:49] Passcode => Item: LEVEL | 5
+[2025-05-16 20:15:49] Passcode => Item: ATK  DEF | 800 / 2100
+[2025-05-16 20:15:49] Passcode => Item: PASSWORD | 56100345
+[2025-05-16 20:15:49] Item => Setcode: ALIN-AE027 | URL: https://yugipedia.com/wiki/ALIN-AE027 | Name: Cyberdark Wurm | Category: EFFECT MONSTER
+[2025-05-16 20:15:49] ===================================================================================================
+[2025-05-16 20:15:50] Searching passcode for https://yugipedia.com/wiki/ALIN-AE028
+[2025-05-16 20:15:50] Requesting page => https://yugipedia.com/wiki/ALIN-AE028
+[2025-05-16 20:15:50] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:50] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:50] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:50] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-05-16 20:15:50] Passcode => Item: LEVEL | 2
+[2025-05-16 20:15:50] Passcode => Item: ATK  DEF | 500 / 0
+[2025-05-16 20:15:50] Passcode => Item: PASSWORD | 82699999
+[2025-05-16 20:15:50] Item => Setcode: ALIN-AE028 | URL: https://yugipedia.com/wiki/ALIN-AE028 | Name: Live☆Twin Lil-la Sweet | Category: EFFECT MONSTER
+[2025-05-16 20:15:50] ===================================================================================================
+[2025-05-16 20:15:51] Searching passcode for https://yugipedia.com/wiki/ALIN-AE029
+[2025-05-16 20:15:51] Requesting page => https://yugipedia.com/wiki/ALIN-AE029
+[2025-05-16 20:15:52] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:52] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:52] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:52] Passcode => Item: TYPES | Zombie / Effect
+[2025-05-16 20:15:52] Passcode => Item: LEVEL | 1
+[2025-05-16 20:15:52] Passcode => Item: ATK  DEF | 300 / 200
+[2025-05-16 20:15:52] Passcode => Item: PASSWORD | 19093698
+[2025-05-16 20:15:52] Item => Setcode: ALIN-AE029 | URL: https://yugipedia.com/wiki/ALIN-AE029 | Name: Moissa Wight | Category: EFFECT MONSTER
+[2025-05-16 20:15:52] ===================================================================================================
+[2025-05-16 20:15:53] Searching passcode for https://yugipedia.com/wiki/ALIN-AE030
+[2025-05-16 20:15:53] Requesting page => https://yugipedia.com/wiki/ALIN-AE030
+[2025-05-16 20:15:54] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:54] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:54] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:54] Passcode => Item: TYPES | Machine / Effect
+[2025-05-16 20:15:54] Passcode => Item: LEVEL | 8
+[2025-05-16 20:15:54] Passcode => Item: ATK  DEF | 2300 / 2500
+[2025-05-16 20:15:54] Passcode => Item: PASSWORD | 45488703
+[2025-05-16 20:15:54] Item => Setcode: ALIN-AE030 | URL: https://yugipedia.com/wiki/ALIN-AE030 | Name: NT8000 - SIRIUS | Category: EFFECT MONSTER
+[2025-05-16 20:15:54] ===================================================================================================
+[2025-05-16 20:15:55] Searching passcode for https://yugipedia.com/wiki/ALIN-AE031
+[2025-05-16 20:15:55] Requesting page => https://yugipedia.com/wiki/ALIN-AE031
+[2025-05-16 20:15:55] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:55] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:55] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:55] Passcode => Item: TYPES | Dragon / Effect
+[2025-05-16 20:15:55] Passcode => Item: LEVEL | 7
+[2025-05-16 20:15:55] Passcode => Item: ATK  DEF | 2350 / 2400
+[2025-05-16 20:15:55] Passcode => Item: PASSWORD | 81476402
+[2025-05-16 20:15:55] Item => Setcode: ALIN-AE031 | URL: https://yugipedia.com/wiki/ALIN-AE031 | Name: Wicked Serpent Night Dragon | Category: EFFECT MONSTER
+[2025-05-16 20:15:55] ===================================================================================================
+[2025-05-16 20:15:56] Searching passcode for https://yugipedia.com/wiki/ALIN-AE032
+[2025-05-16 20:15:56] Requesting page => https://yugipedia.com/wiki/ALIN-AE032
+[2025-05-16 20:15:56] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:56] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:56] Passcode => Item: ATTRIBUTE | FIRE
+[2025-05-16 20:15:56] Passcode => Item: TYPES | Beast / Effect
+[2025-05-16 20:15:56] Passcode => Item: LEVEL | 6
+[2025-05-16 20:15:56] Passcode => Item: ATK  DEF | 2250 / 1800
+[2025-05-16 20:15:56] Passcode => Item: PASSWORD | 18861006
+[2025-05-16 20:15:56] Item => Setcode: ALIN-AE032 | URL: https://yugipedia.com/wiki/ALIN-AE032 | Name: Crimson Firewing Pegasus | Category: EFFECT MONSTER
+[2025-05-16 20:15:56] ===================================================================================================
+[2025-05-16 20:15:57] Searching passcode for https://yugipedia.com/wiki/ALIN-AE033
+[2025-05-16 20:15:57] Requesting page => https://yugipedia.com/wiki/ALIN-AE033
+[2025-05-16 20:15:58] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:15:58] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:15:58] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:15:58] Passcode => Item: TYPES | Psychic / Tuner / Effect
+[2025-05-16 20:15:58] Passcode => Item: LEVEL | 1
+[2025-05-16 20:15:58] Passcode => Item: ATK  DEF | 100 / 200
+[2025-05-16 20:15:58] Passcode => Item: PASSWORD | 44265115
+[2025-05-16 20:15:58] Item => Setcode: ALIN-AE033 | URL: https://yugipedia.com/wiki/ALIN-AE033 | Name: Brain Controller | Category: EFFECT TUNER MONSTER
+[2025-05-16 20:15:58] ===================================================================================================
+[2025-05-16 20:15:59] Searching passcode for https://yugipedia.com/wiki/ALIN-AE034
+[2025-05-16 20:15:59] Requesting page => https://yugipedia.com/wiki/ALIN-AE034
+[2025-05-16 20:16:00] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:00] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:00] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:16:00] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-05-16 20:16:00] Passcode => Item: LEVEL | 6
+[2025-05-16 20:16:00] Passcode => Item: ATK  DEF | 1350 / 2400
+[2025-05-16 20:16:00] Passcode => Item: PASSWORD | 71750854
+[2025-05-16 20:16:00] Item => Setcode: ALIN-AE034 | URL: https://yugipedia.com/wiki/ALIN-AE034 | Name: Bomber Place | Category: EFFECT MONSTER
+[2025-05-16 20:16:00] ===================================================================================================
+[2025-05-16 20:16:01] Searching passcode for https://yugipedia.com/wiki/ALIN-AE035
+[2025-05-16 20:16:01] Requesting page => https://yugipedia.com/wiki/ALIN-AE035
+[2025-05-16 20:16:01] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:01] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:01] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:16:01] Passcode => Item: TYPES | Illusion / Fusion / Effect
+[2025-05-16 20:16:01] Passcode => Item: LEVEL | 12
+[2025-05-16 20:16:01] Passcode => Item: ATK  DEF | 4000 / 4000
+[2025-05-16 20:16:01] Passcode => Item: PASSWORD | 17749468
+[2025-05-16 20:16:01] Item => Setcode: ALIN-AE035 | URL: https://yugipedia.com/wiki/ALIN-AE035 | Name: Azamina | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:16:01] ===================================================================================================
+[2025-05-16 20:16:02] Searching passcode for https://yugipedia.com/wiki/ALIN-AE036
+[2025-05-16 20:16:02] Requesting page => https://yugipedia.com/wiki/ALIN-AE036
+[2025-05-16 20:16:02] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:02] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:02] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:16:02] Passcode => Item: TYPES | Zombie / Fusion / Effect
+[2025-05-16 20:16:02] Passcode => Item: LEVEL | 10
+[2025-05-16 20:16:02] Passcode => Item: ATK  DEF | 1800 / 2500
+[2025-05-16 20:16:02] Passcode => Item: PASSWORD | 43143567
+[2025-05-16 20:16:02] Item => Setcode: ALIN-AE036 | URL: https://yugipedia.com/wiki/ALIN-AE036 | Name: Fallen Angel of the Golden Land | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:16:02] ===================================================================================================
+[2025-05-16 20:16:03] Searching passcode for https://yugipedia.com/wiki/ALIN-AE037
+[2025-05-16 20:16:03] Requesting page => https://yugipedia.com/wiki/ALIN-AE037
+[2025-05-16 20:16:03] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:03] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:03] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:16:03] Passcode => Item: TYPES | Dragon / Fusion / Effect
+[2025-05-16 20:16:03] Passcode => Item: LEVEL | 8
+[2025-05-16 20:16:03] Passcode => Item: ATK  DEF | 3000 / 2500
+[2025-05-16 20:16:03] Passcode => Item: PASSWORD | 70538272
+[2025-05-16 20:16:03] Item => Setcode: ALIN-AE037 | URL: https://yugipedia.com/wiki/ALIN-AE037 | Name: Filia Regis | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:16:03] ===================================================================================================
+[2025-05-16 20:16:04] Searching passcode for https://yugipedia.com/wiki/ALIN-AE038
+[2025-05-16 20:16:04] Requesting page => https://yugipedia.com/wiki/ALIN-AE038
+[2025-05-16 20:16:05] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:05] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:05] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:16:05] Passcode => Item: TYPES | Cyberse / Synchro / Effect
+[2025-05-16 20:16:05] Passcode => Item: LEVEL | 7
+[2025-05-16 20:16:05] Passcode => Item: ATK  DEF | 2300 / 2000
+[2025-05-16 20:16:05] Passcode => Item: PASSWORD | 16926971
+[2025-05-16 20:16:05] Item => Setcode: ALIN-AE038 | URL: https://yugipedia.com/wiki/ALIN-AE038 | Name: Firewall Saber Dragon | Category: EFFECT SYNCHRO MONSTER
+[2025-05-16 20:16:05] ===================================================================================================
+[2025-05-16 20:16:06] Searching passcode for https://yugipedia.com/wiki/ALIN-AE039
+[2025-05-16 20:16:06] Requesting page => https://yugipedia.com/wiki/ALIN-AE039
+[2025-05-16 20:16:06] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:06] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:06] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:16:06] Passcode => Item: TYPES | Dragon / Synchro / Effect
+[2025-05-16 20:16:06] Passcode => Item: LEVEL | 8
+[2025-05-16 20:16:06] Passcode => Item: ATK  DEF | 2500 / 3300
+[2025-05-16 20:16:06] Passcode => Item: PASSWORD | 43321985
+[2025-05-16 20:16:06] Item => Setcode: ALIN-AE039 | URL: https://yugipedia.com/wiki/ALIN-AE039 | Name: Ancient Fairy Life Dragon | Category: EFFECT SYNCHRO MONSTER
+[2025-05-16 20:16:06] ===================================================================================================
+[2025-05-16 20:16:07] Searching passcode for https://yugipedia.com/wiki/ALIN-AE040
+[2025-05-16 20:16:07] Requesting page => https://yugipedia.com/wiki/ALIN-AE040
+[2025-05-16 20:16:07] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:07] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:07] Passcode => Item: ATTRIBUTE | FIRE
+[2025-05-16 20:16:07] Passcode => Item: TYPES | Dragon / Synchro / Effect
+[2025-05-16 20:16:07] Passcode => Item: LEVEL | 12
+[2025-05-16 20:16:07] Passcode => Item: ATK  DEF | 3000 / 2500
+[2025-05-16 20:16:07] Passcode => Item: PASSWORD | 79415624
+[2025-05-16 20:16:07] Item => Setcode: ALIN-AE040 | URL: https://yugipedia.com/wiki/ALIN-AE040 | Name: Snake-Eyes Vengeance Dragon | Category: EFFECT SYNCHRO MONSTER
+[2025-05-16 20:16:07] ===================================================================================================
+[2025-05-16 20:16:08] Searching passcode for https://yugipedia.com/wiki/ALIN-AE041
+[2025-05-16 20:16:08] Requesting page => https://yugipedia.com/wiki/ALIN-AE041
+[2025-05-16 20:16:08] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:08] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:08] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:16:08] Passcode => Item: TYPES | Illusion / Synchro / Tuner / Effect
+[2025-05-16 20:16:08] Passcode => Item: LEVEL | 4
+[2025-05-16 20:16:08] Passcode => Item: ATK  DEF | 700 / 2000
+[2025-05-16 20:16:08] Passcode => Item: PASSWORD | 05800323
+[2025-05-16 20:16:08] Item => Setcode: ALIN-AE041 | URL: https://yugipedia.com/wiki/ALIN-AE041 | Name: Poplar of the White Forest | Category: EFFECT TUNER SYNCHRO MONSTER
+[2025-05-16 20:16:08] ===================================================================================================
+[2025-05-16 20:16:09] Searching passcode for https://yugipedia.com/wiki/ALIN-AE042
+[2025-05-16 20:16:09] Requesting page => https://yugipedia.com/wiki/ALIN-AE042
+[2025-05-16 20:16:10] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:10] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:10] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:16:10] Passcode => Item: TYPES | Warrior / Synchro / Effect
+[2025-05-16 20:16:10] Passcode => Item: LEVEL | 6
+[2025-05-16 20:16:10] Passcode => Item: ATK  DEF | 1800 / 800
+[2025-05-16 20:16:10] Passcode => Item: PASSWORD | 42209438
+[2025-05-16 20:16:10] Item => Setcode: ALIN-AE042 | URL: https://yugipedia.com/wiki/ALIN-AE042 | Name: Legendary Lord Six Samurai - Kizan | Category: EFFECT SYNCHRO MONSTER
+[2025-05-16 20:16:10] ===================================================================================================
+[2025-05-16 20:16:11] Searching passcode for https://yugipedia.com/wiki/ALIN-AE043
+[2025-05-16 20:16:11] Requesting page => https://yugipedia.com/wiki/ALIN-AE043
+[2025-05-16 20:16:12] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:12] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:12] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:16:12] Passcode => Item: TYPES | Psychic / Synchro / Effect
+[2025-05-16 20:16:12] Passcode => Item: LEVEL | 11
+[2025-05-16 20:16:12] Passcode => Item: ATK  DEF | 3100 / 3100
+[2025-05-16 20:16:12] Passcode => Item: PASSWORD | 78693036
+[2025-05-16 20:16:12] Item => Setcode: ALIN-AE043 | URL: https://yugipedia.com/wiki/ALIN-AE043 | Name: Juraishin, the Cursed Thunder God | Category: EFFECT SYNCHRO MONSTER
+[2025-05-16 20:16:12] ===================================================================================================
+[2025-05-16 20:16:13] Searching passcode for https://yugipedia.com/wiki/ALIN-AE044
+[2025-05-16 20:16:13] Requesting page => https://yugipedia.com/wiki/ALIN-AE044
+[2025-05-16 20:16:14] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:14] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:14] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:16:14] Passcode => Item: TYPES | Cyberse / Xyz / Effect
+[2025-05-16 20:16:14] Passcode => Item: RANK | 4
+[2025-05-16 20:16:14] Passcode => Item: ATK  DEF | 2300 / 2000
+[2025-05-16 20:16:14] Passcode => Item: PASSWORD | 05088741
+[2025-05-16 20:16:14] Item => Setcode: ALIN-AE044 | URL: https://yugipedia.com/wiki/ALIN-AE044 | Name: Code Igniter | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:16:14] ===================================================================================================
+[2025-05-16 20:16:15] Searching passcode for https://yugipedia.com/wiki/ALIN-AE045
+[2025-05-16 20:16:15] Requesting page => https://yugipedia.com/wiki/ALIN-AE045
+[2025-05-16 20:16:17] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:18] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:18] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:16:18] Passcode => Item: TYPES | Psychic / Xyz / Effect
+[2025-05-16 20:16:18] Passcode => Item: RANK | 4
+[2025-05-16 20:16:18] Passcode => Item: ATK  DEF | 2800 / 1600
+[2025-05-16 20:16:18] Passcode => Item: PASSWORD | 31086840
+[2025-05-16 20:16:18] Item => Setcode: ALIN-AE045 | URL: https://yugipedia.com/wiki/ALIN-AE045 | Name: Number 69: Heraldry Crest - Shatter Stream | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:16:18] ===================================================================================================
+[2025-05-16 20:16:19] Searching passcode for https://yugipedia.com/wiki/ALIN-AE046
+[2025-05-16 20:16:19] Requesting page => https://yugipedia.com/wiki/ALIN-AE046
+[2025-05-16 20:16:19] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:19] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:19] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:16:19] Passcode => Item: TYPES | Psychic / Xyz / Effect
+[2025-05-16 20:16:19] Passcode => Item: RANK | 4
+[2025-05-16 20:16:19] Passcode => Item: ATK  DEF | 3100 / 1900
+[2025-05-16 20:16:19] Passcode => Item: PASSWORD | 77571454
+[2025-05-16 20:16:19] Item => Setcode: ALIN-AE046 | URL: https://yugipedia.com/wiki/ALIN-AE046 | Name: Number 69: Heraldry Crest - Dark Matter Demolition | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:16:19] ===================================================================================================
+[2025-05-16 20:16:20] Searching passcode for https://yugipedia.com/wiki/ALIN-AE047
+[2025-05-16 20:16:20] Requesting page => https://yugipedia.com/wiki/ALIN-AE047
+[2025-05-16 20:16:20] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:20] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:20] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:16:20] Passcode => Item: TYPES | Dragon / Xyz / Effect
+[2025-05-16 20:16:20] Passcode => Item: RANK | 7
+[2025-05-16 20:16:20] Passcode => Item: ATK  DEF | 3000 / 1600
+[2025-05-16 20:16:20] Passcode => Item: PASSWORD | 04965193
+[2025-05-16 20:16:20] Item => Setcode: ALIN-AE047 | URL: https://yugipedia.com/wiki/ALIN-AE047 | Name: Chasma, Dragon Ruler of Auroras | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:16:20] ===================================================================================================
+[2025-05-16 20:16:21] Searching passcode for https://yugipedia.com/wiki/ALIN-AE048
+[2025-05-16 20:16:21] Requesting page => https://yugipedia.com/wiki/ALIN-AE048
+[2025-05-16 20:16:21] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:21] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:21] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:16:21] Passcode => Item: TYPES | Dragon / Xyz / Effect
+[2025-05-16 20:16:21] Passcode => Item: RANK | 7
+[2025-05-16 20:16:21] Passcode => Item: ATK  DEF | 2700 / 1900
+[2025-05-16 20:16:21] Passcode => Item: PASSWORD | 30350202
+[2025-05-16 20:16:21] Item => Setcode: ALIN-AE048 | URL: https://yugipedia.com/wiki/ALIN-AE048 | Name: Eclipse, Dragon Ruler of Catastrophes | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:16:21] ===================================================================================================
+[2025-05-16 20:16:22] Searching passcode for https://yugipedia.com/wiki/ALIN-AE049
+[2025-05-16 20:16:22] Requesting page => https://yugipedia.com/wiki/ALIN-AE049
+[2025-05-16 20:16:22] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:22] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:22] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:16:22] Passcode => Item: TYPES | Dragon / Xyz / Effect
+[2025-05-16 20:16:22] Passcode => Item: RANK | 7
+[2025-05-16 20:16:22] Passcode => Item: ATK  DEF | 0 / 0
+[2025-05-16 20:16:22] Passcode => Item: PASSWORD | 67359907
+[2025-05-16 20:16:22] Item => Setcode: ALIN-AE049 | URL: https://yugipedia.com/wiki/ALIN-AE049 | Name: Disaster, Dragon Ruler of All Apocalypses | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:16:22] ===================================================================================================
+[2025-05-16 20:16:23] Searching passcode for https://yugipedia.com/wiki/ALIN-AE050
+[2025-05-16 20:16:23] Requesting page => https://yugipedia.com/wiki/ALIN-AE050
+[2025-05-16 20:16:23] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:23] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:23] Passcode => Item: ATTRIBUTE | FIRE
+[2025-05-16 20:16:23] Passcode => Item: TYPES | Dinosaur / Xyz / Effect
+[2025-05-16 20:16:23] Passcode => Item: RANK | 4
+[2025-05-16 20:16:23] Passcode => Item: ATK  DEF | 2000 / 600
+[2025-05-16 20:16:23] Passcode => Item: PASSWORD | 03743515
+[2025-05-16 20:16:23] Item => Setcode: ALIN-AE050 | URL: https://yugipedia.com/wiki/ALIN-AE050 | Name: Steamed Sabersaurus | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:16:23] ===================================================================================================
+[2025-05-16 20:16:24] Searching passcode for https://yugipedia.com/wiki/ALIN-AE051
+[2025-05-16 20:16:24] Requesting page => https://yugipedia.com/wiki/ALIN-AE051
+[2025-05-16 20:16:26] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:26] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:26] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:16:26] Passcode => Item: TYPES | Cyberse / Link / Effect
+[2025-05-16 20:16:26] Passcode => Item: LINK ARROWS | Middle-Left
+Bottom-Left
+Bottom-Center
+Bottom-Right
+Middle-Right
+[2025-05-16 20:16:26] Passcode => Item: ATK   LINK | 2300  / 5
+[2025-05-16 20:16:26] Passcode => Item: PASSWORD | 39138610
+[2025-05-16 20:16:26] Item => Setcode: ALIN-AE051 | URL: https://yugipedia.com/wiki/ALIN-AE051 | Name: Allied Code Talker @Ignister | Category: EFFECT LINK MONSTER
+[2025-05-16 20:16:26] ===================================================================================================
+[2025-05-16 20:16:27] Searching passcode for https://yugipedia.com/wiki/ALIN-AE052
+[2025-05-16 20:16:27] Requesting page => https://yugipedia.com/wiki/ALIN-AE052
+[2025-05-16 20:16:27] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:27] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:27] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:16:27] Passcode => Item: TYPES | Fiend / Link / Effect
+[2025-05-16 20:16:27] Passcode => Item: LINK ARROWS | Middle-Right
+[2025-05-16 20:16:27] Passcode => Item: ATK   LINK | 100  / 1
+[2025-05-16 20:16:27] Passcode => Item: PASSWORD | 06636319
+[2025-05-16 20:16:27] Item => Setcode: ALIN-AE052 | URL: https://yugipedia.com/wiki/ALIN-AE052 | Name: Evil★Twin Ki-sikil Deal | Category: EFFECT LINK MONSTER
+[2025-05-16 20:16:27] ===================================================================================================
+[2025-05-16 20:16:28] Searching passcode for https://yugipedia.com/wiki/ALIN-AE053
+[2025-05-16 20:16:28] Requesting page => https://yugipedia.com/wiki/ALIN-AE053
+[2025-05-16 20:16:29] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:29] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:16:29] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:16:29] Passcode => Item: TYPES | Rock / Link / Effect
+[2025-05-16 20:16:29] Passcode => Item: LINK ARROWS | Bottom-Left
+Bottom-Right
+Top-Center
+[2025-05-16 20:16:29] Passcode => Item: ATK   LINK | 1000  / 3
+[2025-05-16 20:16:29] Passcode => Item: PASSWORD | 42021064
+[2025-05-16 20:16:29] Item => Setcode: ALIN-AE053 | URL: https://yugipedia.com/wiki/ALIN-AE053 | Name: Dogurad, the Stonetrooper | Category: EFFECT LINK MONSTER
+[2025-05-16 20:16:29] ===================================================================================================
+[2025-05-16 20:16:30] Searching passcode for https://yugipedia.com/wiki/ALIN-AE054
+[2025-05-16 20:16:30] Requesting page => https://yugipedia.com/wiki/ALIN-AE054
+[2025-05-16 20:16:30] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:30] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:30] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:16:30] Passcode => Item: PASSWORD | 79015062
+[2025-05-16 20:16:30] Item => Setcode: ALIN-AE054 | URL: https://yugipedia.com/wiki/ALIN-AE054 | Name: A.I. Connect | Category: NORMAL SPELL
+[2025-05-16 20:16:30] ===================================================================================================
+[2025-05-16 20:16:31] Searching passcode for https://yugipedia.com/wiki/ALIN-AE055
+[2025-05-16 20:16:31] Requesting page => https://yugipedia.com/wiki/ALIN-AE055
+[2025-05-16 20:16:32] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:32] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:32] Passcode => Item: PROPERTY | Field
+[2025-05-16 20:16:32] Passcode => Item: PASSWORD | 05414777
+[2025-05-16 20:16:32] Item => Setcode: ALIN-AE055 | URL: https://yugipedia.com/wiki/ALIN-AE055 | Name: World of Spirits | Category: FIELD SPELL
+[2025-05-16 20:16:32] ===================================================================================================
+[2025-05-16 20:16:33] Searching passcode for https://yugipedia.com/wiki/ALIN-AE056
+[2025-05-16 20:16:33] Requesting page => https://yugipedia.com/wiki/ALIN-AE056
+[2025-05-16 20:16:36] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:36] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:36] Passcode => Item: PROPERTY | Quick-Play
+[2025-05-16 20:16:36] Passcode => Item: PASSWORD | 31809476
+[2025-05-16 20:16:36] Item => Setcode: ALIN-AE056 | URL: https://yugipedia.com/wiki/ALIN-AE056 | Name: Flash of Heraldry | Category: QUICK-PLAY SPELL
+[2025-05-16 20:16:36] ===================================================================================================
+[2025-05-16 20:16:37] Searching passcode for https://yugipedia.com/wiki/ALIN-AE057
+[2025-05-16 20:16:37] Requesting page => https://yugipedia.com/wiki/ALIN-AE057
+[2025-05-16 20:16:38] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:38] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:38] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:16:38] Passcode => Item: PASSWORD | 78293584
+[2025-05-16 20:16:38] Item => Setcode: ALIN-AE057 | URL: https://yugipedia.com/wiki/ALIN-AE057 | Name: Filia Diabell | Category: NORMAL SPELL
+[2025-05-16 20:16:38] ===================================================================================================
+[2025-05-16 20:16:39] Searching passcode for https://yugipedia.com/wiki/ALIN-AE058
+[2025-05-16 20:16:39] Requesting page => https://yugipedia.com/wiki/ALIN-AE058
+[2025-05-16 20:16:39] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:39] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:39] Passcode => Item: PROPERTY | Field
+[2025-05-16 20:16:39] Passcode => Item: PASSWORD | 04398189
+[2025-05-16 20:16:39] Item => Setcode: ALIN-AE058 | URL: https://yugipedia.com/wiki/ALIN-AE058 | Name: Witch of the White Forest | Category: FIELD SPELL
+[2025-05-16 20:16:39] ===================================================================================================
+[2025-05-16 20:16:40] Searching passcode for https://yugipedia.com/wiki/ALIN-AE059
+[2025-05-16 20:16:40] Requesting page => https://yugipedia.com/wiki/ALIN-AE059
+[2025-05-16 20:16:42] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:42] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:42] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:16:42] Passcode => Item: PASSWORD | 31786838
+[2025-05-16 20:16:42] Item => Setcode: ALIN-AE059 | URL: https://yugipedia.com/wiki/ALIN-AE059 | Name: Regenesis | Category: NORMAL SPELL
+[2025-05-16 20:16:42] ===================================================================================================
+[2025-05-16 20:16:43] Searching passcode for https://yugipedia.com/wiki/ALIN-AE060
+[2025-05-16 20:16:43] Requesting page => https://yugipedia.com/wiki/ALIN-AE060
+[2025-05-16 20:16:43] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:43] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:43] Passcode => Item: PROPERTY | Quick-Play
+[2025-05-16 20:16:43] Passcode => Item: PASSWORD | 67171933
+[2025-05-16 20:16:43] Item => Setcode: ALIN-AE060 | URL: https://yugipedia.com/wiki/ALIN-AE060 | Name: Regenesis Code | Category: QUICK-PLAY SPELL
+[2025-05-16 20:16:43] ===================================================================================================
+[2025-05-16 20:16:44] Searching passcode for https://yugipedia.com/wiki/ALIN-AE061
+[2025-05-16 20:16:44] Requesting page => https://yugipedia.com/wiki/ALIN-AE061
+[2025-05-16 20:16:45] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:45] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:45] Passcode => Item: PROPERTY | Quick-Play
+[2025-05-16 20:16:45] Passcode => Item: PASSWORD | 04575541
+[2025-05-16 20:16:45] Item => Setcode: ALIN-AE061 | URL: https://yugipedia.com/wiki/ALIN-AE061 | Name: Here There Be Dragons | Category: QUICK-PLAY SPELL
+[2025-05-16 20:16:45] ===================================================================================================
+[2025-05-16 20:16:46] Searching passcode for https://yugipedia.com/wiki/ALIN-AE062
+[2025-05-16 20:16:46] Requesting page => https://yugipedia.com/wiki/ALIN-AE062
+[2025-05-16 20:16:47] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:47] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:47] Passcode => Item: PROPERTY | Quick-Play
+[2025-05-16 20:16:47] Passcode => Item: PASSWORD | 30964246
+[2025-05-16 20:16:47] Item => Setcode: ALIN-AE062 | URL: https://yugipedia.com/wiki/ALIN-AE062 | Name: Argostars - Giantslaying | Category: QUICK-PLAY SPELL
+[2025-05-16 20:16:47] ===================================================================================================
+[2025-05-16 20:16:48] Searching passcode for https://yugipedia.com/wiki/ALIN-AE063
+[2025-05-16 20:16:48] Requesting page => https://yugipedia.com/wiki/ALIN-AE063
+[2025-05-16 20:16:48] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:48] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:48] Passcode => Item: PROPERTY | Field
+[2025-05-16 20:16:48] Passcode => Item: PASSWORD | 66059345
+[2025-05-16 20:16:48] Item => Setcode: ALIN-AE063 | URL: https://yugipedia.com/wiki/ALIN-AE063 | Name: Materiactor Meltthrough | Category: FIELD SPELL
+[2025-05-16 20:16:48] ===================================================================================================
+[2025-05-16 20:16:49] Searching passcode for https://yugipedia.com/wiki/ALIN-AE064
+[2025-05-16 20:16:49] Requesting page => https://yugipedia.com/wiki/ALIN-AE064
+[2025-05-16 20:16:49] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:49] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:49] Passcode => Item: PROPERTY | Quick-Play
+[2025-05-16 20:16:49] Passcode => Item: PASSWORD | 93453053
+[2025-05-16 20:16:49] Item => Setcode: ALIN-AE064 | URL: https://yugipedia.com/wiki/ALIN-AE064 | Name: Maliss in the Mirror | Category: QUICK-PLAY SPELL
+[2025-05-16 20:16:49] ===================================================================================================
+[2025-05-16 20:16:50] Searching passcode for https://yugipedia.com/wiki/ALIN-AE065
+[2025-05-16 20:16:50] Requesting page => https://yugipedia.com/wiki/ALIN-AE065
+[2025-05-16 20:16:50] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:50] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:50] Passcode => Item: PROPERTY | Continuous
+[2025-05-16 20:16:50] Passcode => Item: PASSWORD | 39848658
+[2025-05-16 20:16:50] Item => Setcode: ALIN-AE065 | URL: https://yugipedia.com/wiki/ALIN-AE065 | Name: Wight Reanimator | Category: CONTINUOUS SPELL
+[2025-05-16 20:16:50] ===================================================================================================
+[2025-05-16 20:16:51] Searching passcode for https://yugipedia.com/wiki/ALIN-AE066
+[2025-05-16 20:16:51] Requesting page => https://yugipedia.com/wiki/ALIN-AE066
+[2025-05-16 20:16:51] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:51] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:51] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:16:51] Passcode => Item: PASSWORD | 66236707
+[2025-05-16 20:16:51] Item => Setcode: ALIN-AE066 | URL: https://yugipedia.com/wiki/ALIN-AE066 | Name: Gordian Slicer | Category: NORMAL SPELL
+[2025-05-16 20:16:51] ===================================================================================================
+[2025-05-16 20:16:52] Searching passcode for https://yugipedia.com/wiki/ALIN-AE067
+[2025-05-16 20:16:52] Requesting page => https://yugipedia.com/wiki/ALIN-AE067
+[2025-05-16 20:16:52] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:53] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:53] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:16:53] Passcode => Item: PASSWORD | 92221402
+[2025-05-16 20:16:53] Item => Setcode: ALIN-AE067 | URL: https://yugipedia.com/wiki/ALIN-AE067 | Name: Chaotic Elements | Category: NORMAL SPELL
+[2025-05-16 20:16:53] ===================================================================================================
+[2025-05-16 20:16:54] Searching passcode for https://yugipedia.com/wiki/ALIN-AE068
+[2025-05-16 20:16:54] Requesting page => https://yugipedia.com/wiki/ALIN-AE068
+[2025-05-16 20:16:54] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:54] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:54] Passcode => Item: PROPERTY | Quick-Play
+[2025-05-16 20:16:54] Passcode => Item: PASSWORD | 38625110
+[2025-05-16 20:16:54] Item => Setcode: ALIN-AE068 | URL: https://yugipedia.com/wiki/ALIN-AE068 | Name: Let's Go Together | Category: QUICK-PLAY SPELL
+[2025-05-16 20:16:54] ===================================================================================================
+[2025-05-16 20:16:55] Searching passcode for https://yugipedia.com/wiki/ALIN-AE069
+[2025-05-16 20:16:55] Requesting page => https://yugipedia.com/wiki/ALIN-AE069
+[2025-05-16 20:16:55] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:55] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:16:55] Passcode => Item: PROPERTY | Quick-Play
+[2025-05-16 20:16:55] Passcode => Item: PASSWORD | 65114115
+[2025-05-16 20:16:55] Item => Setcode: ALIN-AE069 | URL: https://yugipedia.com/wiki/ALIN-AE069 | Name: Seven Stars Slash - Army Annihilator Hagun | Category: QUICK-PLAY SPELL
+[2025-05-16 20:16:55] ===================================================================================================
+[2025-05-16 20:16:56] Searching passcode for https://yugipedia.com/wiki/ALIN-AE070
+[2025-05-16 20:16:56] Requesting page => https://yugipedia.com/wiki/ALIN-AE070
+[2025-05-16 20:16:58] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:16:58] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:16:58] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:16:58] Passcode => Item: PASSWORD | 91509824
+[2025-05-16 20:16:58] Item => Setcode: ALIN-AE070 | URL: https://yugipedia.com/wiki/ALIN-AE070 | Name: SA.I.dekick | Category: NORMAL TRAP
+[2025-05-16 20:16:58] ===================================================================================================
+[2025-05-16 20:16:59] Searching passcode for https://yugipedia.com/wiki/ALIN-AE071
+[2025-05-16 20:16:59] Requesting page => https://yugipedia.com/wiki/ALIN-AE071
+[2025-05-16 20:17:01] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:01] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:01] Passcode => Item: PROPERTY | Continuous
+[2025-05-16 20:17:01] Passcode => Item: PASSWORD | 28903523
+[2025-05-16 20:17:01] Item => Setcode: ALIN-AE071 | URL: https://yugipedia.com/wiki/ALIN-AE071 | Name: Eternal Sunshine | Category: CONTINUOUS TRAP
+[2025-05-16 20:17:01] ===================================================================================================
+[2025-05-16 20:17:02] Searching passcode for https://yugipedia.com/wiki/ALIN-AE072
+[2025-05-16 20:17:02] Requesting page => https://yugipedia.com/wiki/ALIN-AE072
+[2025-05-16 20:17:03] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:03] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:03] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:17:03] Passcode => Item: PASSWORD | 64998567
+[2025-05-16 20:17:03] Item => Setcode: ALIN-AE072 | URL: https://yugipedia.com/wiki/ALIN-AE072 | Name: Curse of Diabell | Category: NORMAL TRAP
+[2025-05-16 20:17:03] ===================================================================================================
+[2025-05-16 20:17:04] Searching passcode for https://yugipedia.com/wiki/ALIN-AE073
+[2025-05-16 20:17:04] Requesting page => https://yugipedia.com/wiki/ALIN-AE073
+[2025-05-16 20:17:04] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:04] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:04] Passcode => Item: PROPERTY | Continuous
+[2025-05-16 20:17:04] Passcode => Item: PASSWORD | 90386276
+[2025-05-16 20:17:04] Item => Setcode: ALIN-AE073 | URL: https://yugipedia.com/wiki/ALIN-AE073 | Name: Sinful Spoils Sanctification | Category: CONTINUOUS TRAP
+[2025-05-16 20:17:04] ===================================================================================================
+[2025-05-16 20:17:05] Searching passcode for https://yugipedia.com/wiki/ALIN-AE074
+[2025-05-16 20:17:05] Requesting page => https://yugipedia.com/wiki/ALIN-AE074
+[2025-05-16 20:17:06] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:06] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:06] Passcode => Item: PROPERTY | Continuous
+[2025-05-16 20:17:06] Passcode => Item: PASSWORD | 27781371
+[2025-05-16 20:17:06] Item => Setcode: ALIN-AE074 | URL: https://yugipedia.com/wiki/ALIN-AE074 | Name: Regenesis Birth | Category: CONTINUOUS TRAP
+[2025-05-16 20:17:06] ===================================================================================================
+[2025-05-16 20:17:07] Searching passcode for https://yugipedia.com/wiki/ALIN-AE075
+[2025-05-16 20:17:07] Requesting page => https://yugipedia.com/wiki/ALIN-AE075
+[2025-05-16 20:17:09] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:09] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:09] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:17:09] Passcode => Item: PASSWORD | 53276089
+[2025-05-16 20:17:09] Item => Setcode: ALIN-AE075 | URL: https://yugipedia.com/wiki/ALIN-AE075 | Name: Ryzeal Mass Driver | Category: NORMAL TRAP
+[2025-05-16 20:17:09] ===================================================================================================
+[2025-05-16 20:17:10] Searching passcode for https://yugipedia.com/wiki/ALIN-AE076
+[2025-05-16 20:17:10] Requesting page => https://yugipedia.com/wiki/ALIN-AE076
+[2025-05-16 20:17:10] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:10] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:10] Passcode => Item: PROPERTY | Continuous
+[2025-05-16 20:17:10] Passcode => Item: PASSWORD | 90664684
+[2025-05-16 20:17:10] Item => Setcode: ALIN-AE076 | URL: https://yugipedia.com/wiki/ALIN-AE076 | Name: Ryu-Ge End | Category: CONTINUOUS TRAP
+[2025-05-16 20:17:10] ===================================================================================================
+[2025-05-16 20:17:11] Searching passcode for https://yugipedia.com/wiki/ALIN-AE077
+[2025-05-16 20:17:11] Requesting page => https://yugipedia.com/wiki/ALIN-AE077
+[2025-05-16 20:17:11] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:11] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:11] Passcode => Item: PROPERTY | Continuous
+[2025-05-16 20:17:11] Passcode => Item: PASSWORD | 22669793
+[2025-05-16 20:17:11] Item => Setcode: ALIN-AE077 | URL: https://yugipedia.com/wiki/ALIN-AE077 | Name: Eldlixir of the Glorious Golden Land | Category: CONTINUOUS TRAP
+[2025-05-16 20:17:11] ===================================================================================================
+[2025-05-16 20:17:12] Searching passcode for https://yugipedia.com/wiki/ALIN-AE078
+[2025-05-16 20:17:12] Requesting page => https://yugipedia.com/wiki/ALIN-AE078
+[2025-05-16 20:17:13] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:13] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:13] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:17:13] Passcode => Item: PASSWORD | 58053438
+[2025-05-16 20:17:13] Item => Setcode: ALIN-AE078 | URL: https://yugipedia.com/wiki/ALIN-AE078 | Name: Songs of the Dominators | Category: NORMAL TRAP
+[2025-05-16 20:17:13] ===================================================================================================
+[2025-05-16 20:17:14] Searching passcode for https://yugipedia.com/wiki/ALIN-AE079
+[2025-05-16 20:17:14] Requesting page => https://yugipedia.com/wiki/ALIN-AE079
+[2025-05-16 20:17:14] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:14] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:14] Passcode => Item: PROPERTY | Counter
+[2025-05-16 20:17:14] Passcode => Item: PASSWORD | 85442146
+[2025-05-16 20:17:14] Item => Setcode: ALIN-AE079 | URL: https://yugipedia.com/wiki/ALIN-AE079 | Name: Dragon's Mind | Category: COUNTER TRAP
+[2025-05-16 20:17:14] ===================================================================================================
+[2025-05-16 20:17:15] Searching passcode for https://yugipedia.com/wiki/ALIN-AE080
+[2025-05-16 20:17:15] Requesting page => https://yugipedia.com/wiki/ALIN-AE080
+[2025-05-16 20:17:16] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:16] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:17:16] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:17:16] Passcode => Item: PASSWORD | 21846145
+[2025-05-16 20:17:16] Item => Setcode: ALIN-AE080 | URL: https://yugipedia.com/wiki/ALIN-AE080 | Name: Abduction | Category: NORMAL TRAP
+[2025-05-16 20:17:16] ===================================================================================================
+[2025-05-16 20:17:17] Searching passcode for https://yugipedia.com/wiki/ALIN-AE081
+[2025-05-16 20:17:17] Requesting page => https://yugipedia.com/wiki/ALIN-AE081
+[2025-05-16 20:17:24] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:24] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:24] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:17:24] Passcode => Item: TYPES | Machine / Effect
+[2025-05-16 20:17:24] Passcode => Item: LEVEL | 5
+[2025-05-16 20:17:24] Passcode => Item: ATK  DEF | 2100 / 1600
+[2025-05-16 20:17:24] Passcode => Item: PASSWORD | 70095154
+[2025-05-16 20:17:24] Item => Setcode: ALIN-AE081 | URL: https://yugipedia.com/wiki/ALIN-AE081 | Name: Cyber Dragon | Category: EFFECT MONSTER
+[2025-05-16 20:17:24] ===================================================================================================
+[2025-05-16 20:17:25] Searching passcode for https://yugipedia.com/wiki/ALIN-AE082
+[2025-05-16 20:17:25] Requesting page => https://yugipedia.com/wiki/ALIN-AE082
+[2025-05-16 20:17:28] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:28] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:28] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:17:28] Passcode => Item: TYPES | Machine / Effect
+[2025-05-16 20:17:28] Passcode => Item: LEVEL | 2
+[2025-05-16 20:17:28] Passcode => Item: ATK  DEF | 400 / 1500
+[2025-05-16 20:17:28] Passcode => Item: PASSWORD | 23893227
+[2025-05-16 20:17:28] Item => Setcode: ALIN-AE082 | URL: https://yugipedia.com/wiki/ALIN-AE082 | Name: Cyber Dragon Core | Category: EFFECT MONSTER
+[2025-05-16 20:17:28] ===================================================================================================
+[2025-05-16 20:17:29] Searching passcode for https://yugipedia.com/wiki/ALIN-AE083
+[2025-05-16 20:17:29] Requesting page => https://yugipedia.com/wiki/ALIN-AE083
+[2025-05-16 20:17:31] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:31] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:31] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:17:31] Passcode => Item: TYPES | Machine / Effect
+[2025-05-16 20:17:31] Passcode => Item: LEVEL | 1
+[2025-05-16 20:17:31] Passcode => Item: ATK  DEF | 100 / 100
+[2025-05-16 20:17:31] Passcode => Item: PASSWORD | 56364287
+[2025-05-16 20:17:31] Item => Setcode: ALIN-AE083 | URL: https://yugipedia.com/wiki/ALIN-AE083 | Name: Cyber Dragon Herz | Category: EFFECT MONSTER
+[2025-05-16 20:17:31] ===================================================================================================
+[2025-05-16 20:17:32] Searching passcode for https://yugipedia.com/wiki/ALIN-AE084
+[2025-05-16 20:17:32] Requesting page => https://yugipedia.com/wiki/ALIN-AE084
+[2025-05-16 20:17:34] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:34] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:34] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:17:34] Passcode => Item: TYPES | Machine / Effect
+[2025-05-16 20:17:34] Passcode => Item: LEVEL | 1
+[2025-05-16 20:17:34] Passcode => Item: ATK  DEF | 200 / 200
+[2025-05-16 20:17:34] Passcode => Item: PASSWORD | 01142880
+[2025-05-16 20:17:34] Item => Setcode: ALIN-AE084 | URL: https://yugipedia.com/wiki/ALIN-AE084 | Name: Cyber Dragon Nachster | Category: EFFECT MONSTER
+[2025-05-16 20:17:34] ===================================================================================================
+[2025-05-16 20:17:35] Searching passcode for https://yugipedia.com/wiki/ALIN-AE085
+[2025-05-16 20:17:35] Requesting page => https://yugipedia.com/wiki/ALIN-AE085
+[2025-05-16 20:17:37] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:37] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:37] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:17:37] Passcode => Item: TYPES | Dragon / Effect
+[2025-05-16 20:17:37] Passcode => Item: LEVEL | 3
+[2025-05-16 20:17:37] Passcode => Item: ATK  DEF | 1600 / 800
+[2025-05-16 20:17:37] Passcode => Item: PASSWORD | 82562802
+[2025-05-16 20:17:37] Item => Setcode: ALIN-AE085 | URL: https://yugipedia.com/wiki/ALIN-AE085 | Name: Cyberdark Claw | Category: EFFECT MONSTER
+[2025-05-16 20:17:37] ===================================================================================================
+[2025-05-16 20:17:38] Searching passcode for https://yugipedia.com/wiki/ALIN-AE086
+[2025-05-16 20:17:38] Requesting page => https://yugipedia.com/wiki/ALIN-AE086
+[2025-05-16 20:17:40] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:40] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:40] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:17:40] Passcode => Item: TYPES | Machine / Effect
+[2025-05-16 20:17:40] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:40] Passcode => Item: ATK  DEF | 800 / 2100
+[2025-05-16 20:17:40] Passcode => Item: PASSWORD | 05370235
+[2025-05-16 20:17:40] Item => Setcode: ALIN-AE086 | URL: https://yugipedia.com/wiki/ALIN-AE086 | Name: Cyberdark Chimera | Category: EFFECT MONSTER
+[2025-05-16 20:17:40] ===================================================================================================
+[2025-05-16 20:17:41] Searching passcode for https://yugipedia.com/wiki/ALIN-AE087
+[2025-05-16 20:17:41] Requesting page => https://yugipedia.com/wiki/ALIN-AE087
+[2025-05-16 20:17:42] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:42] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:42] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:17:42] Passcode => Item: TYPES | Cyberse / Tuner / Effect
+[2025-05-16 20:17:42] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:42] Passcode => Item: ATK  DEF | 1000 / 1500
+[2025-05-16 20:17:42] Passcode => Item: PASSWORD | 27182739
+[2025-05-16 20:17:42] Item => Setcode: ALIN-AE087 | URL: https://yugipedia.com/wiki/ALIN-AE087 | Name: Mathmech Sigma | Category: EFFECT TUNER MONSTER
+[2025-05-16 20:17:42] ===================================================================================================
+[2025-05-16 20:17:43] Searching passcode for https://yugipedia.com/wiki/ALIN-AE088
+[2025-05-16 20:17:43] Requesting page => https://yugipedia.com/wiki/ALIN-AE088
+[2025-05-16 20:17:45] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:45] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:45] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:17:45] Passcode => Item: TYPES | Cyberse / Tuner / Effect
+[2025-05-16 20:17:45] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:45] Passcode => Item: ATK  DEF | 1000 / 1500
+[2025-05-16 20:17:45] Passcode => Item: PASSWORD | 53577438
+[2025-05-16 20:17:45] Item => Setcode: ALIN-AE088 | URL: https://yugipedia.com/wiki/ALIN-AE088 | Name: Mathmech Nabla | Category: EFFECT TUNER MONSTER
+[2025-05-16 20:17:45] ===================================================================================================
+[2025-05-16 20:17:46] Searching passcode for https://yugipedia.com/wiki/ALIN-AE089
+[2025-05-16 20:17:46] Requesting page => https://yugipedia.com/wiki/ALIN-AE089
+[2025-05-16 20:17:48] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:48] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:48] Passcode => Item: ATTRIBUTE | FIRE
+[2025-05-16 20:17:48] Passcode => Item: TYPES | Cyberse / Effect
+[2025-05-16 20:17:48] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:48] Passcode => Item: ATK  DEF | 1000 / 1000
+[2025-05-16 20:17:48] Passcode => Item: PASSWORD | 80965043
+[2025-05-16 20:17:48] Item => Setcode: ALIN-AE089 | URL: https://yugipedia.com/wiki/ALIN-AE089 | Name: Mathmech Addition | Category: EFFECT MONSTER
+[2025-05-16 20:17:48] ===================================================================================================
+[2025-05-16 20:17:49] Searching passcode for https://yugipedia.com/wiki/ALIN-AE090
+[2025-05-16 20:17:49] Requesting page => https://yugipedia.com/wiki/ALIN-AE090
+[2025-05-16 20:17:50] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:50] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:50] Passcode => Item: ATTRIBUTE | FIRE
+[2025-05-16 20:17:50] Passcode => Item: TYPES | Cyberse / Effect
+[2025-05-16 20:17:50] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:50] Passcode => Item: ATK  DEF | 1000 / 1000
+[2025-05-16 20:17:50] Passcode => Item: PASSWORD | 16360142
+[2025-05-16 20:17:50] Item => Setcode: ALIN-AE090 | URL: https://yugipedia.com/wiki/ALIN-AE090 | Name: Mathmech Subtraction | Category: EFFECT MONSTER
+[2025-05-16 20:17:50] ===================================================================================================
+[2025-05-16 20:17:51] Searching passcode for https://yugipedia.com/wiki/ALIN-AE091
+[2025-05-16 20:17:51] Requesting page => https://yugipedia.com/wiki/ALIN-AE091
+[2025-05-16 20:17:52] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:52] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:52] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:17:52] Passcode => Item: TYPES | Cyberse / Effect
+[2025-05-16 20:17:52] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:52] Passcode => Item: ATK  DEF | 500 / 2000
+[2025-05-16 20:17:52] Passcode => Item: PASSWORD | 52354896
+[2025-05-16 20:17:52] Item => Setcode: ALIN-AE091 | URL: https://yugipedia.com/wiki/ALIN-AE091 | Name: Mathmech Multiplication | Category: EFFECT MONSTER
+[2025-05-16 20:17:52] ===================================================================================================
+[2025-05-16 20:17:53] Searching passcode for https://yugipedia.com/wiki/ALIN-AE092
+[2025-05-16 20:17:53] Requesting page => https://yugipedia.com/wiki/ALIN-AE092
+[2025-05-16 20:17:55] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:55] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:55] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:17:55] Passcode => Item: TYPES | Cyberse / Effect
+[2025-05-16 20:17:55] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:55] Passcode => Item: ATK  DEF | 1500 / 1000
+[2025-05-16 20:17:55] Passcode => Item: PASSWORD | 89743495
+[2025-05-16 20:17:55] Item => Setcode: ALIN-AE092 | URL: https://yugipedia.com/wiki/ALIN-AE092 | Name: Mathmech Division | Category: EFFECT MONSTER
+[2025-05-16 20:17:55] ===================================================================================================
+[2025-05-16 20:17:56] Searching passcode for https://yugipedia.com/wiki/ALIN-AE093
+[2025-05-16 20:17:56] Requesting page => https://yugipedia.com/wiki/ALIN-AE093
+[2025-05-16 20:17:56] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:56] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:56] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:17:56] Passcode => Item: TYPES | Cyberse / Tuner / Effect
+[2025-05-16 20:17:56] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:56] Passcode => Item: ATK  DEF | 1000 / 1500
+[2025-05-16 20:17:56] Passcode => Item: PASSWORD | 17946349
+[2025-05-16 20:17:56] Item => Setcode: ALIN-AE093 | URL: https://yugipedia.com/wiki/ALIN-AE093 | Name: Mathmech Diameter | Category: EFFECT TUNER MONSTER
+[2025-05-16 20:17:56] ===================================================================================================
+[2025-05-16 20:17:57] Searching passcode for https://yugipedia.com/wiki/ALIN-AE094
+[2025-05-16 20:17:57] Requesting page => https://yugipedia.com/wiki/ALIN-AE094
+[2025-05-16 20:17:57] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:57] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:57] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:17:57] Passcode => Item: TYPES | Cyberse / Effect
+[2025-05-16 20:17:57] Passcode => Item: LEVEL | 4
+[2025-05-16 20:17:57] Passcode => Item: ATK  DEF | 1500 / 1500
+[2025-05-16 20:17:57] Passcode => Item: PASSWORD | 36521307
+[2025-05-16 20:17:57] Item => Setcode: ALIN-AE094 | URL: https://yugipedia.com/wiki/ALIN-AE094 | Name: Mathmech Circular | Category: EFFECT MONSTER
+[2025-05-16 20:17:57] ===================================================================================================
+[2025-05-16 20:17:58] Searching passcode for https://yugipedia.com/wiki/ALIN-AE095
+[2025-05-16 20:17:58] Requesting page => https://yugipedia.com/wiki/ALIN-AE095
+[2025-05-16 20:17:58] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:58] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:58] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:17:58] Passcode => Item: TYPES | Cyberse / Ritual / Effect
+[2025-05-16 20:17:58] Passcode => Item: LEVEL | 7
+[2025-05-16 20:17:58] Passcode => Item: ATK  DEF | 2500 / 2000
+[2025-05-16 20:17:58] Passcode => Item: PASSWORD | 24731391
+[2025-05-16 20:17:58] Item => Setcode: ALIN-AE095 | URL: https://yugipedia.com/wiki/ALIN-AE095 | Name: Cyberse Magician | Category: EFFECT RITUAL MONSTER
+[2025-05-16 20:17:58] ===================================================================================================
+[2025-05-16 20:17:59] Searching passcode for https://yugipedia.com/wiki/ALIN-AE096
+[2025-05-16 20:17:59] Requesting page => https://yugipedia.com/wiki/ALIN-AE096
+[2025-05-16 20:17:59] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:17:59] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:17:59] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:17:59] Passcode => Item: TYPES | Machine / Fusion / Effect
+[2025-05-16 20:17:59] Passcode => Item: LEVEL | 8
+[2025-05-16 20:17:59] Passcode => Item: ATK  DEF | 2800 / 2100
+[2025-05-16 20:17:59] Passcode => Item: PASSWORD | 74157028
+[2025-05-16 20:17:59] Item => Setcode: ALIN-AE096 | URL: https://yugipedia.com/wiki/ALIN-AE096 | Name: Cyber Twin Dragon | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:17:59] ===================================================================================================
+[2025-05-16 20:18:00] Searching passcode for https://yugipedia.com/wiki/ALIN-AE097
+[2025-05-16 20:18:00] Requesting page => https://yugipedia.com/wiki/ALIN-AE097
+[2025-05-16 20:18:04] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:04] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:04] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:18:04] Passcode => Item: TYPES | Machine / Fusion / Effect
+[2025-05-16 20:18:04] Passcode => Item: LEVEL | 10
+[2025-05-16 20:18:04] Passcode => Item: ATK  DEF | 4000 / 2800
+[2025-05-16 20:18:04] Passcode => Item: PASSWORD | 01546123
+[2025-05-16 20:18:04] Item => Setcode: ALIN-AE097 | URL: https://yugipedia.com/wiki/ALIN-AE097 | Name: Cyber End Dragon | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:18:04] ===================================================================================================
+[2025-05-16 20:18:05] Searching passcode for https://yugipedia.com/wiki/ALIN-AE098
+[2025-05-16 20:18:05] Requesting page => https://yugipedia.com/wiki/ALIN-AE098
+[2025-05-16 20:18:08] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:08] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:08] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:18:08] Passcode => Item: TYPES | Machine / Fusion / Effect
+[2025-05-16 20:18:08] Passcode => Item: LEVEL | 9
+[2025-05-16 20:18:08] Passcode => Item: ATK  DEF | ? / ?
+[2025-05-16 20:18:08] Passcode => Item: PASSWORD | 64599569
+[2025-05-16 20:18:08] Item => Setcode: ALIN-AE098 | URL: https://yugipedia.com/wiki/ALIN-AE098 | Name: Chimeratech Overdragon | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:18:08] ===================================================================================================
+[2025-05-16 20:18:09] Searching passcode for https://yugipedia.com/wiki/ALIN-AE099
+[2025-05-16 20:18:09] Requesting page => https://yugipedia.com/wiki/ALIN-AE099
+[2025-05-16 20:18:11] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:11] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:11] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:18:11] Passcode => Item: TYPES | Machine / Fusion / Effect
+[2025-05-16 20:18:11] Passcode => Item: LEVEL | 8
+[2025-05-16 20:18:11] Passcode => Item: ATK  DEF | 0 / 0
+[2025-05-16 20:18:11] Passcode => Item: PASSWORD | 79229522
+[2025-05-16 20:18:11] Item => Setcode: ALIN-AE099 | URL: https://yugipedia.com/wiki/ALIN-AE099 | Name: Chimeratech Fortress Dragon | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:18:11] ===================================================================================================
+[2025-05-16 20:18:12] Searching passcode for https://yugipedia.com/wiki/ALIN-AE100
+[2025-05-16 20:18:12] Requesting page => https://yugipedia.com/wiki/ALIN-AE100
+[2025-05-16 20:18:13] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:13] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:13] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:18:13] Passcode => Item: TYPES | Machine / Fusion / Effect
+[2025-05-16 20:18:13] Passcode => Item: LEVEL | 5
+[2025-05-16 20:18:13] Passcode => Item: ATK  DEF | 2100 / 1600
+[2025-05-16 20:18:13] Passcode => Item: PASSWORD | 84058253
+[2025-05-16 20:18:13] Item => Setcode: ALIN-AE100 | URL: https://yugipedia.com/wiki/ALIN-AE100 | Name: Chimeratech Rampage Dragon | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:18:13] ===================================================================================================
+[2025-05-16 20:18:14] Searching passcode for https://yugipedia.com/wiki/ALIN-AE101
+[2025-05-16 20:18:14] Requesting page => https://yugipedia.com/wiki/ALIN-AE101
+[2025-05-16 20:18:14] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:14] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:14] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:18:14] Passcode => Item: TYPES | Machine / Fusion / Effect
+[2025-05-16 20:18:14] Passcode => Item: LEVEL | 10
+[2025-05-16 20:18:14] Passcode => Item: ATK  DEF | 0 / 0
+[2025-05-16 20:18:14] Passcode => Item: PASSWORD | 87116928
+[2025-05-16 20:18:14] Item => Setcode: ALIN-AE101 | URL: https://yugipedia.com/wiki/ALIN-AE101 | Name: Chimeratech Megafleet Dragon | Category: EFFECT FUSION MONSTER
+[2025-05-16 20:18:14] ===================================================================================================
+[2025-05-16 20:18:15] Searching passcode for https://yugipedia.com/wiki/ALIN-AE102
+[2025-05-16 20:18:15] Requesting page => https://yugipedia.com/wiki/ALIN-AE102
+[2025-05-16 20:18:17] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:17] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:17] Passcode => Item: ATTRIBUTE | FIRE
+[2025-05-16 20:18:17] Passcode => Item: TYPES | Cyberse / Synchro / Tuner / Effect
+[2025-05-16 20:18:17] Passcode => Item: LEVEL | 8
+[2025-05-16 20:18:17] Passcode => Item: ATK  DEF | 2500 / 0
+[2025-05-16 20:18:17] Passcode => Item: PASSWORD | 15248594
+[2025-05-16 20:18:17] Item => Setcode: ALIN-AE102 | URL: https://yugipedia.com/wiki/ALIN-AE102 | Name: Geomathmech Magma | Category: EFFECT TUNER SYNCHRO MONSTER
+[2025-05-16 20:18:17] ===================================================================================================
+[2025-05-16 20:18:18] Searching passcode for https://yugipedia.com/wiki/ALIN-AE103
+[2025-05-16 20:18:18] Requesting page => https://yugipedia.com/wiki/ALIN-AE103
+[2025-05-16 20:18:18] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:18] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:18] Passcode => Item: ATTRIBUTE | FIRE
+[2025-05-16 20:18:18] Passcode => Item: TYPES | Cyberse / Synchro / Effect
+[2025-05-16 20:18:18] Passcode => Item: LEVEL | 12
+[2025-05-16 20:18:18] Passcode => Item: ATK  DEF | 3000 / 0
+[2025-05-16 20:18:18] Passcode => Item: PASSWORD | 42632209
+[2025-05-16 20:18:18] Item => Setcode: ALIN-AE103 | URL: https://yugipedia.com/wiki/ALIN-AE103 | Name: Geomathmech Final Sigma | Category: EFFECT SYNCHRO MONSTER
+[2025-05-16 20:18:18] ===================================================================================================
+[2025-05-16 20:18:19] Searching passcode for https://yugipedia.com/wiki/ALIN-AE104
+[2025-05-16 20:18:19] Requesting page => https://yugipedia.com/wiki/ALIN-AE104
+[2025-05-16 20:18:21] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:21] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:21] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:18:21] Passcode => Item: TYPES | Machine / Xyz / Effect
+[2025-05-16 20:18:21] Passcode => Item: RANK | 5
+[2025-05-16 20:18:21] Passcode => Item: ATK  DEF | 2100 / 1600
+[2025-05-16 20:18:21] Passcode => Item: PASSWORD | 58069384
+[2025-05-16 20:18:21] Item => Setcode: ALIN-AE104 | URL: https://yugipedia.com/wiki/ALIN-AE104 | Name: Cyber Dragon Nova | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:18:21] ===================================================================================================
+[2025-05-16 20:18:22] Searching passcode for https://yugipedia.com/wiki/ALIN-AE105
+[2025-05-16 20:18:22] Requesting page => https://yugipedia.com/wiki/ALIN-AE105
+[2025-05-16 20:18:22] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:22] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:22] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:18:22] Passcode => Item: TYPES | Machine / Xyz / Effect
+[2025-05-16 20:18:22] Passcode => Item: RANK | 6
+[2025-05-16 20:18:22] Passcode => Item: ATK  DEF | 2100 / 1600
+[2025-05-16 20:18:22] Passcode => Item: PASSWORD | 10443957
+[2025-05-16 20:18:22] Item => Setcode: ALIN-AE105 | URL: https://yugipedia.com/wiki/ALIN-AE105 | Name: Cyber Dragon Infinity | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:18:22] ===================================================================================================
+[2025-05-16 20:18:23] Searching passcode for https://yugipedia.com/wiki/ALIN-AE106
+[2025-05-16 20:18:23] Requesting page => https://yugipedia.com/wiki/ALIN-AE106
+[2025-05-16 20:18:25] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:25] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:25] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:18:25] Passcode => Item: TYPES | Cyberse / Xyz / Effect
+[2025-05-16 20:18:25] Passcode => Item: RANK | 4
+[2025-05-16 20:18:25] Passcode => Item: ATK  DEF | 2000 / 0
+[2025-05-16 20:18:25] Passcode => Item: PASSWORD | 88021907
+[2025-05-16 20:18:25] Item => Setcode: ALIN-AE106 | URL: https://yugipedia.com/wiki/ALIN-AE106 | Name: Primathmech Laplacian | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:18:25] ===================================================================================================
+[2025-05-16 20:18:26] Searching passcode for https://yugipedia.com/wiki/ALIN-AE107
+[2025-05-16 20:18:26] Requesting page => https://yugipedia.com/wiki/ALIN-AE107
+[2025-05-16 20:18:26] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:26] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:26] Passcode => Item: ATTRIBUTE | EARTH
+[2025-05-16 20:18:26] Passcode => Item: TYPES | Cyberse / Xyz / Effect
+[2025-05-16 20:18:26] Passcode => Item: RANK | 4
+[2025-05-16 20:18:26] Passcode => Item: ATK  DEF | 2000 / 0
+[2025-05-16 20:18:26] Passcode => Item: PASSWORD | 85692042
+[2025-05-16 20:18:26] Item => Setcode: ALIN-AE107 | URL: https://yugipedia.com/wiki/ALIN-AE107 | Name: Primathmech Alembertian | Category: EFFECT XYZ MONSTER
+[2025-05-16 20:18:26] ===================================================================================================
+[2025-05-16 20:18:27] Searching passcode for https://yugipedia.com/wiki/ALIN-AE108
+[2025-05-16 20:18:27] Requesting page => https://yugipedia.com/wiki/ALIN-AE108
+[2025-05-16 20:18:27] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:27] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:27] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:18:27] Passcode => Item: TYPES | Cyberse / Link / Effect
+[2025-05-16 20:18:27] Passcode => Item: LINK ARROWS | Bottom-Left
+Bottom-Center
+[2025-05-16 20:18:27] Passcode => Item: ATK   LINK | 800  / 2
+[2025-05-16 20:18:27] Passcode => Item: PASSWORD | 11674673
+[2025-05-16 20:18:27] Item => Setcode: ALIN-AE108 | URL: https://yugipedia.com/wiki/ALIN-AE108 | Name: Cyberse Witch | Category: EFFECT LINK MONSTER
+[2025-05-16 20:18:27] ===================================================================================================
+[2025-05-16 20:18:28] Searching passcode for https://yugipedia.com/wiki/ALIN-AE109
+[2025-05-16 20:18:28] Requesting page => https://yugipedia.com/wiki/ALIN-AE109
+[2025-05-16 20:18:28] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:28] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:28] Passcode => Item: ATTRIBUTE | DARK
+[2025-05-16 20:18:28] Passcode => Item: TYPES | Cyberse / Link / Effect
+[2025-05-16 20:18:28] Passcode => Item: LINK ARROWS | Middle-Left
+[2025-05-16 20:18:28] Passcode => Item: ATK   LINK | 500  / 1
+[2025-05-16 20:18:28] Passcode => Item: PASSWORD | 74567889
+[2025-05-16 20:18:28] Item => Setcode: ALIN-AE109 | URL: https://yugipedia.com/wiki/ALIN-AE109 | Name: Dark Infant @Ignister | Category: EFFECT LINK MONSTER
+[2025-05-16 20:18:28] ===================================================================================================
+[2025-05-16 20:18:29] Searching passcode for https://yugipedia.com/wiki/ALIN-AE110
+[2025-05-16 20:18:29] Requesting page => https://yugipedia.com/wiki/ALIN-AE110
+[2025-05-16 20:18:30] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:30] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:30] Passcode => Item: ATTRIBUTE | WIND
+[2025-05-16 20:18:30] Passcode => Item: TYPES | Cyberse / Link / Effect
+[2025-05-16 20:18:30] Passcode => Item: LINK ARROWS | Middle-Left
+Top-Center
+[2025-05-16 20:18:30] Passcode => Item: ATK   LINK | 2000  / 2
+[2025-05-16 20:18:30] Passcode => Item: PASSWORD | 88093706
+[2025-05-16 20:18:30] Item => Setcode: ALIN-AE110 | URL: https://yugipedia.com/wiki/ALIN-AE110 | Name: Update Jammer | Category: EFFECT LINK MONSTER
+[2025-05-16 20:18:30] ===================================================================================================
+[2025-05-16 20:18:31] Searching passcode for https://yugipedia.com/wiki/ALIN-AE111
+[2025-05-16 20:18:31] Requesting page => https://yugipedia.com/wiki/ALIN-AE111
+[2025-05-16 20:18:34] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:34] Passcode => Item: CARD TYPE | Monster
+[2025-05-16 20:18:34] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-05-16 20:18:34] Passcode => Item: TYPES | Machine / Link / Effect
+[2025-05-16 20:18:34] Passcode => Item: LINK ARROWS | Middle-Left
+Bottom-Center
+[2025-05-16 20:18:34] Passcode => Item: ATK   LINK | 2100  / 2
+[2025-05-16 20:18:34] Passcode => Item: PASSWORD | 46724542
+[2025-05-16 20:18:34] Item => Setcode: ALIN-AE111 | URL: https://yugipedia.com/wiki/ALIN-AE111 | Name: Cyber Dragon Sieger | Category: EFFECT LINK MONSTER
+[2025-05-16 20:18:34] ===================================================================================================
+[2025-05-16 20:18:35] Searching passcode for https://yugipedia.com/wiki/ALIN-AE112
+[2025-05-16 20:18:35] Requesting page => https://yugipedia.com/wiki/ALIN-AE112
+[2025-05-16 20:18:37] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:37] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:18:37] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:18:37] Passcode => Item: PASSWORD | 37630732
+[2025-05-16 20:18:37] Item => Setcode: ALIN-AE112 | URL: https://yugipedia.com/wiki/ALIN-AE112 | Name: Power Bond | Category: NORMAL SPELL
+[2025-05-16 20:18:37] ===================================================================================================
+[2025-05-16 20:18:38] Searching passcode for https://yugipedia.com/wiki/ALIN-AE113
+[2025-05-16 20:18:38] Requesting page => https://yugipedia.com/wiki/ALIN-AE113
+[2025-05-16 20:18:41] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:41] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:18:41] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:18:41] Passcode => Item: PASSWORD | 03659803
+[2025-05-16 20:18:41] Item => Setcode: ALIN-AE113 | URL: https://yugipedia.com/wiki/ALIN-AE113 | Name: Overload Fusion | Category: NORMAL SPELL
+[2025-05-16 20:18:41] ===================================================================================================
+[2025-05-16 20:18:42] Searching passcode for https://yugipedia.com/wiki/ALIN-AE114
+[2025-05-16 20:18:42] Requesting page => https://yugipedia.com/wiki/ALIN-AE114
+[2025-05-16 20:18:44] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:44] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:18:44] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:18:44] Passcode => Item: PASSWORD | 86686671
+[2025-05-16 20:18:44] Item => Setcode: ALIN-AE114 | URL: https://yugipedia.com/wiki/ALIN-AE114 | Name: Cyber Repair Plant | Category: NORMAL SPELL
+[2025-05-16 20:18:44] ===================================================================================================
+[2025-05-16 20:18:45] Searching passcode for https://yugipedia.com/wiki/ALIN-AE115
+[2025-05-16 20:18:45] Requesting page => https://yugipedia.com/wiki/ALIN-AE115
+[2025-05-16 20:18:45] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:45] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:18:45] Passcode => Item: PROPERTY | Continuous
+[2025-05-16 20:18:45] Passcode => Item: PASSWORD | 64753988
+[2025-05-16 20:18:45] Item => Setcode: ALIN-AE115 | URL: https://yugipedia.com/wiki/ALIN-AE115 | Name: Cyberdark Realm | Category: CONTINUOUS SPELL
+[2025-05-16 20:18:45] ===================================================================================================
+[2025-05-16 20:18:46] Searching passcode for https://yugipedia.com/wiki/ALIN-AE116
+[2025-05-16 20:18:46] Requesting page => https://yugipedia.com/wiki/ALIN-AE116
+[2025-05-16 20:18:47] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:47] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:18:47] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:18:47] Passcode => Item: PASSWORD | 78217065
+[2025-05-16 20:18:47] Item => Setcode: ALIN-AE116 | URL: https://yugipedia.com/wiki/ALIN-AE116 | Name: Evolution End Burst | Category: NORMAL SPELL
+[2025-05-16 20:18:47] ===================================================================================================
+[2025-05-16 20:18:48] Searching passcode for https://yugipedia.com/wiki/ALIN-AE117
+[2025-05-16 20:18:48] Requesting page => https://yugipedia.com/wiki/ALIN-AE117
+[2025-05-16 20:18:49] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:49] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:18:49] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:18:49] Passcode => Item: PASSWORD | 14025912
+[2025-05-16 20:18:49] Item => Setcode: ALIN-AE117 | URL: https://yugipedia.com/wiki/ALIN-AE117 | Name: Mathmech Equation | Category: NORMAL SPELL
+[2025-05-16 20:18:49] ===================================================================================================
+[2025-05-16 20:18:50] Searching passcode for https://yugipedia.com/wiki/ALIN-AE118
+[2025-05-16 20:18:50] Requesting page => https://yugipedia.com/wiki/ALIN-AE118
+[2025-05-16 20:18:50] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:50] Passcode => Item: CARD TYPE | Spell
+[2025-05-16 20:18:50] Passcode => Item: PROPERTY | Equip
+[2025-05-16 20:18:50] Passcode => Item: PASSWORD | 41410651
+[2025-05-16 20:18:50] Item => Setcode: ALIN-AE118 | URL: https://yugipedia.com/wiki/ALIN-AE118 | Name: Mathmech Billionblade Nayuta | Category: EQUIP SPELL
+[2025-05-16 20:18:50] ===================================================================================================
+[2025-05-16 20:18:51] Searching passcode for https://yugipedia.com/wiki/ALIN-AE119
+[2025-05-16 20:18:51] Requesting page => https://yugipedia.com/wiki/ALIN-AE119
+[2025-05-16 20:18:53] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:53] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:18:53] Passcode => Item: PROPERTY | Normal
+[2025-05-16 20:18:53] Passcode => Item: PASSWORD | 87804365
+[2025-05-16 20:18:53] Item => Setcode: ALIN-AE119 | URL: https://yugipedia.com/wiki/ALIN-AE119 | Name: Mathmech Superfactorial | Category: NORMAL TRAP
+[2025-05-16 20:18:53] ===================================================================================================
+[2025-05-16 20:18:54] Searching passcode for https://yugipedia.com/wiki/ALIN-AE120
+[2025-05-16 20:18:54] Requesting page => https://yugipedia.com/wiki/ALIN-AE120
+[2025-05-16 20:18:55] Passcode => Page downloaded. Parsing content
+[2025-05-16 20:18:55] Passcode => Item: CARD TYPE | Trap
+[2025-05-16 20:18:55] Passcode => Item: PROPERTY | Continuous
+[2025-05-16 20:18:55] Passcode => Item: PASSWORD | 14393464
+[2025-05-16 20:18:55] Item => Setcode: ALIN-AE120 | URL: https://yugipedia.com/wiki/ALIN-AE120 | Name: Mathmech Induction | Category: CONTINUOUS TRAP
+[2025-05-16 20:18:55] ===================================================================================================
+[2025-05-16 20:18:56] Creating output json file for set 'ALIN-AE' => output/AE_ALIN-AE.json
+[2025-05-16 20:18:56] Saving Card List to JSON file => output/AE_ALIN-AE.json
+[2025-05-16 20:18:56] Successfully created json file.
+[2025-05-16 20:18:56] ===================================================================================================
+[2025-05-16 20:18:58] Set details => Tactical-Try Deck: Exorcist Angels Exosister | https://yugipedia.com/wiki/Tactical-Try_Deck:_Exorcist_Angels_Exosister
+[2025-05-16 20:18:58] Skipped : Set 'TT02-AEB' is still unreleased. Release date: 2025-05-24
+[2025-05-16 20:18:58] Set details => Tactical-Try Deck: Super Exo-Armored Force Rescue-ACE | https://yugipedia.com/wiki/Tactical-Try_Deck:_Super_Exo-Armored_Force_Rescue-ACE
+[2025-05-16 20:18:58] Skipped : Set 'TT02-AEA' is still unreleased. Release date: 2025-05-24
+[2025-05-16 20:18:58] Set details => Creation Pack 08 | https://yugipedia.com/wiki/Creation_Pack_08
+[2025-05-16 20:18:58] Skipped : Set 'CR08-AE' is still unreleased. Release date: 2025-06-14
+[2025-05-16 20:18:58] Set details => Duelist's Advance | https://yugipedia.com/wiki/Duelist%27s_Advance
+[2025-05-16 20:18:58] Skipped : Set 'DUAD-AE' is still unreleased. Release date: 2025-07-19
+[2025-05-16 20:18:58] Set details => Deck-Build Pack: Justice Hunters | https://yugipedia.com/wiki/Deck-Build_Pack:_Justice_Hunters
+[2025-05-16 20:18:58] Skipped : Set 'DBJH-AE' is still unreleased. Release date: 2025-08-16
+[2025-05-16 20:18:58] Requesting page => https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202501&lang=en
+[2025-05-16 20:18:59] Banlist => Content exist
+[2025-05-16 20:18:59] Banlist => Main element exist
+[2025-05-16 20:18:59] Banlist => Main table exist. Table count: 3
+[2025-05-16 20:18:59] Banlist => Generate banlist with restriction of : 0
+[2025-05-16 20:18:59] Banlist => Main table body exist
+[2025-05-16 20:18:59] Banlist => Element list of Card names found
+[2025-05-16 20:18:59] Banlist => Item: ('Amazoness Archer', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Cannon Soldier', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Cannon Soldier', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Cyber Jar', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Cyber Jar', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Fiber Jar', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Fiber Jar', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Magical Scientist', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Magical Scientist', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Butterfly Dagger - Elma', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Butterfly Dagger - Elma', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Card of Safe Return', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Card of Safe Return', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Cold Wave', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Cold Wave', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Confiscation', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Confiscation', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Delinquent Duo', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Delinquent Duo', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Dimension Fusion', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Dimension Fusion', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Giant Trunade', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Giant Trunade', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Heavy Storm', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Heavy Storm', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Last Will', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Last Will', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Mass Driver', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Mass Driver', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Metamorphosis', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Metamorphosis', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Mirage of Nightmare', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Mirage of Nightmare', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Painful Choice', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Painful Choice', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Pot of Greed', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Pot of Greed', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Premature Burial', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Premature Burial', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Smoke Grenade of the Thief', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Smoke Grenade of the Thief', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Snatch Steal', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Snatch Steal', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('The Forceful Sentry', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('The Forceful Sentry', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Imperial Order', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Imperial Order', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Last Turn', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Last Turn', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Life Equalizer', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Life Equalizer', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Magical Explosion', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Magical Explosion', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Royal Oppression', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Royal Oppression', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Trap Dustshoot', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Trap Dustshoot', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Ultimate Offering', 0)
+[2025-05-16 20:18:59] Banlist => Item: ('Ultimate Offering', 0)
+[2025-05-16 20:18:59] Banlist => Generate banlist with restriction of : 1
+[2025-05-16 20:18:59] Banlist => Main table body exist
+[2025-05-16 20:18:59] Banlist => Element list of Card names found
+[2025-05-16 20:18:59] Banlist => Item: ('Diabellstar the Black Witch', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Snake-Eye Ash', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Snake-Eye Ash', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Snake-Eyes Poplar', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Snake-Eyes Poplar', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Tenpai Dragon Chundra', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Tenpai Dragon Chundra', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Crossout Designator', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Crossout Designator', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Foolish Burial', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Foolish Burial', 1)
+[2025-05-16 20:18:59] Banlist => Item: ("Harpie's Feather Duster", 1)
+[2025-05-16 20:18:59] Banlist => Item: ("Harpie's Feather Duster", 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Monster Reborn', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Monster Reborn', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Kaiser Colosseum', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Kaiser Colosseum', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Reinforcement of the Army', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Reinforcement of the Army', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Runick Fountain', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Runick Fountain', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Sangen Summoning', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Sangen Summoning', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Terraforming', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Terraforming', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('WANTED: Seeker of Sinful Spoils', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('WANTED: Seeker of Sinful Spoils', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Skill Drain', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Skill Drain', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Summon Limit', 1)
+[2025-05-16 20:18:59] Banlist => Item: ('Summon Limit', 1)
+[2025-05-16 20:18:59] Banlist => Generate banlist with restriction of : 2
+[2025-05-16 20:18:59] Banlist => Main table body exist
+[2025-05-16 20:18:59] Banlist => Element list of Card names found
+[2025-05-16 20:18:59] Banlist => Item: ('Bonfire', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Called by the Grave', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Called by the Grave', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('One for One', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('One for One', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Pot of Desires', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Pot of Desires', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Pot of Extravagance', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Pot of Extravagance', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Pot of Prosperity', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Pot of Prosperity', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Purrely Sleepy Memory', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Purrely Sleepy Memory', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Red Reboot', 2)
+[2025-05-16 20:18:59] Banlist => Item: ('Red Reboot', 2)
+[2025-05-16 20:18:59] File => output/AE_DI01-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_WCPS-AE6.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR05-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_24AT-AE4.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_BN01-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_MRL.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_LEDE-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR04-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SDID-AEP.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_LOB.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SUDA-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_AGOV-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_RDS-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_ALIN-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_2013-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_MFC.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_DUNE-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR02-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR07-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_EOJ-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_WCPS-AE9.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_INFO-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR06-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR02-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_AST-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_IOC-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_INFO-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SDID-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SOD-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_PHNI-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_DCR.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_FET-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SD16-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_LON.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SSD2-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_2012-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR07-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_LEDE-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_PSV.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_ROTA-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SDY.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SDRB-AEP.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CRV-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_WCS-AE4.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SDRB-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_2014-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SDSS-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR06-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_25AT-AE1.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR05-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SSD1-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_MRD.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR03-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_2015-JPP.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_TLM-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SLF1-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_RC04-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_RGBT-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SUDA-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_WCPS-AE8.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CRMS-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_24OT-AESG.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SDSS-AEP.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_24AT-AE2.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_AGOV-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_EEN-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR03-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_PHNI-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_DBCB-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SDK.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_LOD.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_DUNE-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_2010-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_GBI.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_PGD.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_WCS.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_24CC-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR04-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_WCPS-AE7.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_24AT-AE1.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_ES01-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR01-AES.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_CR01-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_24AT-AE3.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_2011-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_SOI-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_WCS-AE5.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_DI02-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_ROTA-AE.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] File => output/AE_24AT-AE5.json
+[2025-05-16 20:18:59] JSON file parsed.
+[2025-05-16 20:18:59] CardData processed.
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Reinforcement of the Army
+[2025-05-16 20:18:59] CONF => Card is restricted to 2 => Called by the Grave
+[2025-05-16 20:18:59] CONF => Card is banned => Snatch Steal
+[2025-05-16 20:18:59] CONF => Card is banned => Confiscation
+[2025-05-16 20:18:59] CONF => Card is banned => Delinquent Duo
+[2025-05-16 20:18:59] CONF => Card is banned => The Forceful Sentry
+[2025-05-16 20:18:59] CONF => Card is banned => Giant Trunade
+[2025-05-16 20:18:59] CONF => Card is banned => Painful Choice
+[2025-05-16 20:18:59] CONF => Card is banned => Cyber Jar
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Tenpai Dragon Chundra
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Sangen Summoning
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Monster Reborn
+[2025-05-16 20:18:59] CONF => Card is banned => Pot of Greed
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Diabellstar the Black Witch
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Snake-Eye Ash
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => WANTED: Seeker of Sinful Spoils
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Kaiser Colosseum
+[2025-05-16 20:18:59] CONF => Card is banned => Magical Scientist
+[2025-05-16 20:18:59] CONF => Card is banned => Mass Driver
+[2025-05-16 20:18:59] CONF => Card is banned => Life Equalizer
+[2025-05-16 20:18:59] CONF => Card is banned => Dimension Fusion
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Snake-Eyes Poplar
+[2025-05-16 20:18:59] CONF => Card is restricted to 2 => Bonfire
+[2025-05-16 20:18:59] CONF => Card is banned => Butterfly Dagger - Elma
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Skill Drain
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Terraforming
+[2025-05-16 20:18:59] CONF => Card is banned => Card of Safe Return
+[2025-05-16 20:18:59] CONF => Card is banned => Amazoness Archer
+[2025-05-16 20:18:59] CONF => Card is banned => Premature Burial
+[2025-05-16 20:18:59] CONF => Card is banned => Cold Wave
+[2025-05-16 20:18:59] CONF => Card is banned => Imperial Order
+[2025-05-16 20:18:59] CONF => Card is banned => Last Will
+[2025-05-16 20:18:59] CONF => Card is banned => Ultimate Offering
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Harpie's Feather Duster
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Foolish Burial
+[2025-05-16 20:18:59] CONF => Card is banned => Magical Explosion
+[2025-05-16 20:18:59] CONF => Card is restricted to 2 => One for One
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Crossout Designator
+[2025-05-16 20:18:59] CONF => Card is banned => Cannon Soldier
+[2025-05-16 20:18:59] CONF => Card is banned => Heavy Storm
+[2025-05-16 20:18:59] CONF => Card is restricted to 2 => Pot of Desires
+[2025-05-16 20:18:59] CONF => Card is restricted to 2 => Pot of Extravagance
+[2025-05-16 20:18:59] CONF => Card is restricted to 2 => Pot of Prosperity
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Summon Limit
+[2025-05-16 20:18:59] CONF => Card is restricted to 2 => Red Reboot
+[2025-05-16 20:18:59] CONF => Card is banned => Fiber Jar
+[2025-05-16 20:18:59] CONF => Card is banned => Smoke Grenade of the Thief
+[2025-05-16 20:18:59] CONF => Card is banned => Royal Oppression
+[2025-05-16 20:18:59] CONF => Card is banned => Last Turn
+[2025-05-16 20:18:59] CONF => Card is restricted to 2 => Purrely Sleepy Memory
+[2025-05-16 20:18:59] CONF => Card is banned => Mirage of Nightmare
+[2025-05-16 20:18:59] CONF => Card is banned => Trap Dustshoot
+[2025-05-16 20:18:59] CONF => Card is banned => Metamorphosis
+[2025-05-16 20:18:59] CONF => Card is restricted to 1 => Runick Fountain
+[2025-05-16 20:18:59] Elapsed minutes: 4.045221904913585
