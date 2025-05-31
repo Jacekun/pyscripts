@@ -292,9 +292,9 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                     time.sleep(DELAY_PASSCODE) # Throttle process to prevent overloading website.
             ##
     elif reqMain.status_code == 404:
-        Utils.log(f"[Warning] Page not found. Will skip.")
+        Utils.log(f"[Error] Page not found. Will skip.")
     else:
-        raise Exception(f"Cannot download page: {inputString}. Code: {reqMain.status_code}")
+        raise Exception(f"Cannot download page: {inputString} \n Code: {reqMain.status_code}")
     
     return True
 
@@ -465,7 +465,6 @@ try:
             Utils.log(f"Set details => { dataKey } | { dataValue.fullurl }")
             
             setLink: str = ""
-            setLinkProper: str = ""
             setLinkWithCardSetList: str = ""
             setPrefix: str = ""
             setReleaseDate: datetime = None
@@ -481,16 +480,15 @@ try:
 
             # Parse set prefix
             try:
-                setLink = dataValue.fullurl
-                setLinkProper = setLink
-                setLinkWithCardSetList = get_setlist_from_wikilink(setLinkProper, "OCG-AE")
+                setLink = dataValue.fullurl.strip()
+                setLinkWithCardSetList = get_setlist_from_wikilink(setLink, "OCG-AE")
                 setPrefix = str(dataValue.printouts.prefix[0]).strip()
             except Exception as eInner:
                 Utils.log_err(f"[Parse Set prefix]", eInner)
                     
             # Check if set is already processed or is invalid.
             if setPrefix.isspace():
-                Utils.log(f"Skipped : {setLinkProper}")
+                Utils.log(f"Skipped : {setLink}")
             else:
                 if setPrefix in LIST_DONESET:
                     Utils.log(f"Prefix: {setPrefix} is skipped. Already processed.\n{LINE_BREAK}")
