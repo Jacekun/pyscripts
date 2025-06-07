@@ -427,7 +427,7 @@ try:
 
     # Request page and cache it, or load cached data.
     if not os.path.exists(FILE_OUTPUT_BODY):
-        Utils.log("Fetching wiki data...")
+        Utils.log(f"Fetching wiki data...Link => { INPUT_URL }")
     
         reqMain = request_page(INPUT_URL, True)
         #reqSession.close()
