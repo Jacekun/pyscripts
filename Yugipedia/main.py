@@ -14,6 +14,7 @@ from data.model_sets import WikiSet
 TIME_START = time.time()
 
 # Global constants
+DEBUG = False
 MAX_SET_TO_PROCESS = 3
 NEWLINE = '\n'
 DELAY_SETLIST = 2
@@ -426,9 +427,12 @@ try:
         raise Exception("Invalid INPUT_URL : Blank or null.")
 
     # Request page and cache it, or load cached data.
+    if os.path.exists(FILE_OUTPUT_BODY) and not DEBUG:
+        os.remove(FILE_OUTPUT_BODY)
+        Utils.log(f"Delete old file => { FILE_OUTPUT_BODY }")
+    
     if not os.path.exists(FILE_OUTPUT_BODY):
         Utils.log(f"Fetching wiki data...Link => { INPUT_URL }")
-    
         reqMain = request_page(INPUT_URL, False)
         #reqSession.close()
         if reqMain.ok:
