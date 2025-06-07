@@ -95,7 +95,7 @@ def get_card_passcode(wikilink: str) -> int:
     cardPasscode: int = 0
     if wikilink:
         Utils.log(f"Searching passcode for {wikilink}")
-        reqMain = request_page(wikilink, True)
+        reqMain = request_page(wikilink, False)
         if reqMain.ok:
             Utils.log("Passcode => Page downloaded. Parsing content")
             soupObj = BeautifulSoup(reqMain.text, "html.parser")
@@ -177,7 +177,7 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
     count = 0
 
     # Get page
-    reqMain = request_page(inputString, True)
+    reqMain = request_page(inputString, False)
 
     # Parse response
     Utils.log(f"Processing page => {inputString}")
@@ -307,7 +307,7 @@ def process_banlist():
     # First, get the banlist and process it
     contentsHtml: str = "<div></div>"#Placeholder that can be parsed by BSoup
     if not os.path.exists(FILE_CACHE_BANLIST):
-        reqObj = request_page(URL_BANLIST_AE, True)
+        reqObj = request_page(URL_BANLIST_AE, False)
         if reqObj.ok:
             contentsHtml = reqObj.text
             Utils.write_file(FILE_CACHE_BANLIST, contentsHtml)
@@ -429,7 +429,7 @@ try:
     if not os.path.exists(FILE_OUTPUT_BODY):
         Utils.log(f"Fetching wiki data...Link => { INPUT_URL }")
     
-        reqMain = request_page(INPUT_URL, True)
+        reqMain = request_page(INPUT_URL, False)
         #reqSession.close()
         if reqMain.ok:
             Utils.write_file(FILE_OUTPUT_BODY, reqMain.text)
