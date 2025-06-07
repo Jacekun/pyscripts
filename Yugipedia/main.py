@@ -426,21 +426,23 @@ try:
         raise Exception("Invalid INPUT_URL : Blank or null.")
 
     # Request page and cache it, or load cached data.
-    if not os.path.exists(FILE_OUTPUT_BODY):
-        Utils.log(f"Fetching wiki data...Link => { INPUT_URL }")
+    if os.path.exists(FILE_OUTPUT_BODY):
+        os.remove(FILE_OUTPUT_BODY)
+        Utils.log(f"Delete old file => { FILE_OUTPUT_BODY }")
     
-        reqMain = request_page(INPUT_URL, False)
-        #reqSession.close()
-        if reqMain.ok:
-            Utils.write_file(FILE_OUTPUT_BODY, reqMain.text)
-        else:
-            fileErrorText: str = FILE_OUTPUT_BODY + "_error.md"
-            respContent: str = reqMain.content.decode(reqMain.encoding)
-            respBody: str = reqMain.text
-            if os.path.exists(fileErrorText):
-                os.remove(fileErrorText)
-            Utils.write_file(fileErrorText, f"# Date: { datetime.now() }\n\n# Content: \n { respContent } \n\n# Response: \n { respBody }")
-            raise Exception(f"Page not downloaded, status code: {reqMain.status_code} | { reqMain.reason } | Encoding: { reqMain.encoding }")
+    Utils.log(f"Fetching wiki data...Link => { INPUT_URL }")
+    reqMain = request_page(INPUT_URL, False)
+    #reqSession.close()
+    if reqMain.ok:
+        Utils.write_file(FILE_OUTPUT_BODY, reqMain.text)
+    else:
+        fileErrorText: str = FILE_OUTPUT_BODY + "_error.md"
+        respContent: str = reqMain.content.decode(reqMain.encoding)
+        respBody: str = reqMain.text
+        if os.path.exists(fileErrorText):
+            os.remove(fileErrorText)
+        Utils.write_file(fileErrorText, f"# Date: { datetime.now() }\n\n# Content: \n { respContent } \n\n# Response: \n { respBody }")
+        raise Exception(f"Page not downloaded, status code: {reqMain.status_code} | { reqMain.reason } | Encoding: { reqMain.encoding }")
         
     CONTENTS_HTML = Utils.read_json(FILE_OUTPUT_BODY)
     if CONTENTS_HTML is None:
