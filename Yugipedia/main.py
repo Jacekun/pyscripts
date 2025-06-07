@@ -67,9 +67,9 @@ HEADERS = {
 def request_page(page: str, includeHeader: bool) -> any:
     Utils.log(f"Requesting page => { page }")
     if includeHeader:
-        return curl_cffi.get(page, impersonate="firefox135")
+        return curl_cffi.get(page, impersonate="firefox135", headers=HEADERS, timeout=50)
     else:
-        return curl_cffi.get(page, impersonate="firefox135")
+        return curl_cffi.get(page, impersonate="firefox135", timeout=50)
 
 def get_setlist_from_wikilink(inputString: str, format: str) -> str:
     formatParsed = "OCG-JP"
