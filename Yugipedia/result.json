@@ -1806,6 +1806,24 @@
             "exists": "1",
             "displaytitle": "Creation Pack 08"
         },
+        "Creation Pack 08 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR08-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1749859200",
+                        "raw": "1/2025/6/14"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 08 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_08_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
         "Duelist's Advance": {
             "printouts": {
                 "Prefix": [
@@ -1863,5 +1881,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 102
+    "rows": 103
 }
