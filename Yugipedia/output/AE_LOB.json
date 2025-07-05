@@ -2,1009 +2,1261 @@
     {
         "name": "Tri-Horned Dragon",
         "passcode": 39111158,
+        "konami_id": 4711,
         "wikilink": "https://yugipedia.com/wiki/LOB-000",
         "set_number": "LOB-000",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Secret Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Blue-Eyes White Dragon",
         "passcode": 89631139,
+        "konami_id": 4007,
         "wikilink": "https://yugipedia.com/wiki/LOB-001",
         "set_number": "LOB-001",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Hitotsu-Me Giant",
         "passcode": 76184692,
+        "konami_id": 4009,
         "wikilink": "https://yugipedia.com/wiki/LOB-002",
         "set_number": "LOB-002",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Flame Swordsman",
         "passcode": 45231177,
+        "konami_id": 4021,
         "wikilink": "https://yugipedia.com/wiki/LOB-003",
         "set_number": "LOB-003",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Skull Servant",
         "passcode": 32274490,
+        "konami_id": 4030,
         "wikilink": "https://yugipedia.com/wiki/LOB-004",
         "set_number": "LOB-004",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dark Magician",
         "passcode": 46986414,
+        "konami_id": 4041,
         "wikilink": "https://yugipedia.com/wiki/LOB-005",
         "set_number": "LOB-005",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Gaia The Fierce Knight",
         "passcode": 6368038,
+        "konami_id": 4044,
         "wikilink": "https://yugipedia.com/wiki/LOB-006",
         "set_number": "LOB-006",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Celtic Guardian",
         "passcode": 91152256,
+        "konami_id": 4047,
         "wikilink": "https://yugipedia.com/wiki/LOB-007",
         "set_number": "LOB-007",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Basic Insect",
         "passcode": 89091579,
+        "konami_id": 4056,
         "wikilink": "https://yugipedia.com/wiki/LOB-008",
         "set_number": "LOB-008",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Mammoth Graveyard",
         "passcode": 40374923,
+        "konami_id": 4065,
         "wikilink": "https://yugipedia.com/wiki/LOB-009",
         "set_number": "LOB-009",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Silver Fang",
         "passcode": 90357090,
+        "konami_id": 4071,
         "wikilink": "https://yugipedia.com/wiki/LOB-010",
         "set_number": "LOB-010",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dark Gray",
         "passcode": 9159938,
+        "konami_id": 4119,
         "wikilink": "https://yugipedia.com/wiki/LOB-011",
         "set_number": "LOB-011",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Trial of Nightmare",
         "passcode": 77827521,
+        "konami_id": 4125,
         "wikilink": "https://yugipedia.com/wiki/LOB-012",
         "set_number": "LOB-012",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Nemuriko",
         "passcode": 90963488,
+        "konami_id": 4135,
         "wikilink": "https://yugipedia.com/wiki/LOB-013",
         "set_number": "LOB-013",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "The 13th Grave",
         "passcode": 32864,
+        "konami_id": 4138,
         "wikilink": "https://yugipedia.com/wiki/LOB-014",
         "set_number": "LOB-014",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Charubin the Fire Knight",
         "passcode": 37421579,
+        "konami_id": 4139,
         "wikilink": "https://yugipedia.com/wiki/LOB-015",
         "set_number": "LOB-015",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Flame Manipulator",
         "passcode": 34460851,
+        "konami_id": 4148,
         "wikilink": "https://yugipedia.com/wiki/LOB-016",
         "set_number": "LOB-016",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Monster Egg",
         "passcode": 36121917,
+        "konami_id": 4153,
         "wikilink": "https://yugipedia.com/wiki/LOB-017",
         "set_number": "LOB-017",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Firegrass",
         "passcode": 53293545,
+        "konami_id": 4163,
         "wikilink": "https://yugipedia.com/wiki/LOB-018",
         "set_number": "LOB-018",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Darkfire Dragon",
         "passcode": 17881964,
+        "konami_id": 4174,
         "wikilink": "https://yugipedia.com/wiki/LOB-019",
         "set_number": "LOB-019",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dark King of the Abyss",
         "passcode": 53375573,
+        "konami_id": 4175,
         "wikilink": "https://yugipedia.com/wiki/LOB-020",
         "set_number": "LOB-020",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
-        "name": "Fiend Reflection 2",
+        "name": "Fiend Reflection #2",
         "passcode": 2863439,
+        "konami_id": 4192,
         "wikilink": "https://yugipedia.com/wiki/LOB-021",
         "set_number": "LOB-021",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Fusionist",
         "passcode": 1641882,
+        "konami_id": 4195,
         "wikilink": "https://yugipedia.com/wiki/LOB-022",
         "set_number": "LOB-022",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Turtle Tiger",
         "passcode": 37313348,
+        "konami_id": 4199,
         "wikilink": "https://yugipedia.com/wiki/LOB-023",
         "set_number": "LOB-023",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Petit Dragon",
         "passcode": 75356564,
+        "konami_id": 4206,
         "wikilink": "https://yugipedia.com/wiki/LOB-024",
         "set_number": "LOB-024",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Petit Angel",
         "passcode": 38142739,
+        "konami_id": 4214,
         "wikilink": "https://yugipedia.com/wiki/LOB-025",
         "set_number": "LOB-025",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Hinotama Soul",
         "passcode": 96851799,
+        "konami_id": 4216,
         "wikilink": "https://yugipedia.com/wiki/LOB-026",
         "set_number": "LOB-026",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Aqua Madoor",
         "passcode": 85639257,
+        "konami_id": 4219,
         "wikilink": "https://yugipedia.com/wiki/LOB-027",
         "set_number": "LOB-027",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Kagemusha of the Blue Flame",
         "passcode": 15401633,
+        "konami_id": 4220,
         "wikilink": "https://yugipedia.com/wiki/LOB-028",
         "set_number": "LOB-028",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Flame Ghost",
         "passcode": 58528964,
+        "konami_id": 4221,
         "wikilink": "https://yugipedia.com/wiki/LOB-029",
         "set_number": "LOB-029",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Two-Mouth Darkruler",
         "passcode": 57305373,
+        "konami_id": 4224,
         "wikilink": "https://yugipedia.com/wiki/LOB-030",
         "set_number": "LOB-030",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dissolverock",
         "passcode": 40826495,
+        "konami_id": 4250,
         "wikilink": "https://yugipedia.com/wiki/LOB-031",
         "set_number": "LOB-031",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Root Water",
         "passcode": 39004808,
+        "konami_id": 4253,
         "wikilink": "https://yugipedia.com/wiki/LOB-032",
         "set_number": "LOB-032",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "The Furious Sea King",
         "passcode": 18710707,
+        "konami_id": 4271,
         "wikilink": "https://yugipedia.com/wiki/LOB-033",
         "set_number": "LOB-033",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Green Phantom King",
         "passcode": 22910685,
+        "konami_id": 4280,
         "wikilink": "https://yugipedia.com/wiki/LOB-034",
         "set_number": "LOB-034",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Ray & Temperature",
         "passcode": 85309439,
+        "konami_id": 4282,
         "wikilink": "https://yugipedia.com/wiki/LOB-035",
         "set_number": "LOB-035",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "King Fog",
         "passcode": 84686841,
+        "konami_id": 4285,
         "wikilink": "https://yugipedia.com/wiki/LOB-036",
         "set_number": "LOB-036",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
-        "name": "Mystical Sheep 2",
+        "name": "Mystical Sheep #2",
         "passcode": 83464209,
+        "konami_id": 4288,
         "wikilink": "https://yugipedia.com/wiki/LOB-037",
         "set_number": "LOB-037",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Masaki the Legendary Swordsman",
         "passcode": 44287299,
+        "konami_id": 4299,
         "wikilink": "https://yugipedia.com/wiki/LOB-038",
         "set_number": "LOB-038",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Kurama",
         "passcode": 85705804,
+        "konami_id": 4306,
         "wikilink": "https://yugipedia.com/wiki/LOB-039",
         "set_number": "LOB-039",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Legendary Sword",
         "passcode": 61854111,
+        "konami_id": 4307,
         "wikilink": "https://yugipedia.com/wiki/LOB-040",
         "set_number": "LOB-040",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Beast Fangs",
         "passcode": 46009906,
+        "konami_id": 4314,
         "wikilink": "https://yugipedia.com/wiki/LOB-041",
         "set_number": "LOB-041",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Violet Crystal",
         "passcode": 15052462,
+        "konami_id": 4328,
         "wikilink": "https://yugipedia.com/wiki/LOB-042",
         "set_number": "LOB-042",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Book of Secret Arts",
         "passcode": 91595718,
+        "konami_id": 4329,
         "wikilink": "https://yugipedia.com/wiki/LOB-043",
         "set_number": "LOB-043",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Power of Kaishin",
         "passcode": 77027445,
+        "konami_id": 4334,
         "wikilink": "https://yugipedia.com/wiki/LOB-044",
         "set_number": "LOB-044",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dragon Capture Jar",
         "passcode": 50045299,
+        "konami_id": 4335,
         "wikilink": "https://yugipedia.com/wiki/LOB-045",
         "set_number": "LOB-045",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Forest",
         "passcode": 87430998,
+        "konami_id": 4336,
         "wikilink": "https://yugipedia.com/wiki/LOB-046",
         "set_number": "LOB-046",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Wasteland",
         "passcode": 23424603,
+        "konami_id": 4337,
         "wikilink": "https://yugipedia.com/wiki/LOB-047",
         "set_number": "LOB-047",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Mountain",
         "passcode": 50913601,
+        "konami_id": 4338,
         "wikilink": "https://yugipedia.com/wiki/LOB-048",
         "set_number": "LOB-048",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Sogen",
         "passcode": 86318356,
+        "konami_id": 4339,
         "wikilink": "https://yugipedia.com/wiki/LOB-049",
         "set_number": "LOB-049",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Umi",
         "passcode": 22702055,
+        "konami_id": 4340,
         "wikilink": "https://yugipedia.com/wiki/LOB-050",
         "set_number": "LOB-050",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Yami",
         "passcode": 59197169,
+        "konami_id": 4341,
         "wikilink": "https://yugipedia.com/wiki/LOB-051",
         "set_number": "LOB-051",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dark Hole",
         "passcode": 53129443,
+        "konami_id": 4342,
         "wikilink": "https://yugipedia.com/wiki/LOB-052",
         "set_number": "LOB-052",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Raigeki",
         "passcode": 12580477,
+        "konami_id": 4343,
         "wikilink": "https://yugipedia.com/wiki/LOB-053",
         "set_number": "LOB-053",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Red Medicine",
         "passcode": 38199696,
+        "konami_id": 4345,
         "wikilink": "https://yugipedia.com/wiki/LOB-054",
         "set_number": "LOB-054",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Sparks",
         "passcode": 76103675,
+        "konami_id": 4349,
         "wikilink": "https://yugipedia.com/wiki/LOB-055",
         "set_number": "LOB-055",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Hinotama",
         "passcode": 46130346,
+        "konami_id": 4350,
         "wikilink": "https://yugipedia.com/wiki/LOB-056",
         "set_number": "LOB-056",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Fissure",
         "passcode": 66788016,
+        "konami_id": 4835,
         "wikilink": "https://yugipedia.com/wiki/LOB-057",
         "set_number": "LOB-057",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Trap Hole",
         "passcode": 4206964,
+        "konami_id": 4836,
         "wikilink": "https://yugipedia.com/wiki/LOB-058",
         "set_number": "LOB-058",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Polymerization",
         "passcode": 24094653,
+        "konami_id": 4837,
         "wikilink": "https://yugipedia.com/wiki/LOB-059",
         "set_number": "LOB-059",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Remove Trap",
         "passcode": 51482758,
+        "konami_id": 4838,
         "wikilink": "https://yugipedia.com/wiki/LOB-060",
         "set_number": "LOB-060",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Two-Pronged Attack",
         "passcode": 83887306,
+        "konami_id": 4839,
         "wikilink": "https://yugipedia.com/wiki/LOB-061",
         "set_number": "LOB-061",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Mystical Elf",
         "passcode": 15025844,
+        "konami_id": 4008,
         "wikilink": "https://yugipedia.com/wiki/LOB-062",
         "set_number": "LOB-062",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Tyhone",
         "passcode": 72842870,
+        "konami_id": 4019,
         "wikilink": "https://yugipedia.com/wiki/LOB-063",
         "set_number": "LOB-063",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Beaver Warrior",
         "passcode": 32452818,
+        "konami_id": 4033,
         "wikilink": "https://yugipedia.com/wiki/LOB-064",
         "set_number": "LOB-064",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Gravedigger Ghoul",
         "passcode": 82542267,
+        "konami_id": 4845,
         "wikilink": "https://yugipedia.com/wiki/LOB-065",
         "set_number": "LOB-065",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Curse of Dragon",
         "passcode": 28279543,
+        "konami_id": 4045,
         "wikilink": "https://yugipedia.com/wiki/LOB-066",
         "set_number": "LOB-066",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Karbonala Warrior",
         "passcode": 54541900,
+        "konami_id": 4049,
         "wikilink": "https://yugipedia.com/wiki/LOB-067",
         "set_number": "LOB-067",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Giant Soldier of Stone",
         "passcode": 13039848,
+        "konami_id": 4080,
         "wikilink": "https://yugipedia.com/wiki/LOB-068",
         "set_number": "LOB-068",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Uraby",
         "passcode": 1784619,
+        "konami_id": 4086,
         "wikilink": "https://yugipedia.com/wiki/LOB-069",
         "set_number": "LOB-069",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Red-Eyes Black Dragon",
         "passcode": 74677422,
+        "konami_id": 4088,
         "wikilink": "https://yugipedia.com/wiki/LOB-070",
         "set_number": "LOB-070",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Reaper of the Cards",
         "passcode": 33066139,
+        "konami_id": 4090,
         "wikilink": "https://yugipedia.com/wiki/LOB-071",
         "set_number": "LOB-071",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Witty Phantom",
         "passcode": 36304921,
+        "konami_id": 4142,
         "wikilink": "https://yugipedia.com/wiki/LOB-072",
         "set_number": "LOB-072",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Larvas",
         "passcode": 94675535,
+        "konami_id": 4161,
         "wikilink": "https://yugipedia.com/wiki/LOB-073",
         "set_number": "LOB-073",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Hard Armor",
         "passcode": 20060230,
+        "konami_id": 4162,
         "wikilink": "https://yugipedia.com/wiki/LOB-074",
         "set_number": "LOB-074",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Man Eater",
         "passcode": 93553943,
+        "konami_id": 4164,
         "wikilink": "https://yugipedia.com/wiki/LOB-075",
         "set_number": "LOB-075",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
-        "name": "M-Warrior 1",
+        "name": "M-Warrior #1",
         "passcode": 56342351,
+        "konami_id": 4166,
         "wikilink": "https://yugipedia.com/wiki/LOB-076",
         "set_number": "LOB-076",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
-        "name": "M-Warrior 2",
+        "name": "M-Warrior #2",
         "passcode": 92731455,
+        "konami_id": 4167,
         "wikilink": "https://yugipedia.com/wiki/LOB-077",
         "set_number": "LOB-077",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Spirit of the Harp",
         "passcode": 80770678,
+        "konami_id": 4176,
         "wikilink": "https://yugipedia.com/wiki/LOB-078",
         "set_number": "LOB-078",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Armaill",
         "passcode": 53153481,
+        "konami_id": 4178,
         "wikilink": "https://yugipedia.com/wiki/LOB-079",
         "set_number": "LOB-079",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Terra the Terrible",
         "passcode": 63308047,
+        "konami_id": 4200,
         "wikilink": "https://yugipedia.com/wiki/LOB-080",
         "set_number": "LOB-080",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Frenzied Panda",
         "passcode": 98818516,
+        "konami_id": 4207,
         "wikilink": "https://yugipedia.com/wiki/LOB-081",
         "set_number": "LOB-081",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Kumootoko",
         "passcode": 56283725,
+        "konami_id": 4227,
         "wikilink": "https://yugipedia.com/wiki/LOB-082",
         "set_number": "LOB-082",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Meda Bat",
         "passcode": 76211194,
+        "konami_id": 4251,
         "wikilink": "https://yugipedia.com/wiki/LOB-083",
         "set_number": "LOB-083",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Enchanting Mermaid",
         "passcode": 75376965,
+        "konami_id": 4257,
         "wikilink": "https://yugipedia.com/wiki/LOB-084",
         "set_number": "LOB-084",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Fireyarou",
         "passcode": 71407486,
+        "konami_id": 4297,
         "wikilink": "https://yugipedia.com/wiki/LOB-085",
         "set_number": "LOB-085",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dragoness the Wicked Knight",
         "passcode": 70681994,
+        "konami_id": 4300,
         "wikilink": "https://yugipedia.com/wiki/LOB-086",
         "set_number": "LOB-086",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "One-Eyed Shield Dragon",
         "passcode": 33064647,
+        "konami_id": 4302,
         "wikilink": "https://yugipedia.com/wiki/LOB-087",
         "set_number": "LOB-087",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dark Energy",
         "passcode": 4614116,
+        "konami_id": 4309,
         "wikilink": "https://yugipedia.com/wiki/LOB-088",
         "set_number": "LOB-088",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Laser Cannon Armor",
         "passcode": 77007920,
+        "konami_id": 4311,
         "wikilink": "https://yugipedia.com/wiki/LOB-089",
         "set_number": "LOB-089",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Vile Germs",
         "passcode": 39774685,
+        "konami_id": 4316,
         "wikilink": "https://yugipedia.com/wiki/LOB-090",
         "set_number": "LOB-090",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Silver Bow and Arrow",
         "passcode": 1557499,
+        "konami_id": 4318,
         "wikilink": "https://yugipedia.com/wiki/LOB-091",
         "set_number": "LOB-091",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Dragon Treasure",
         "passcode": 1435851,
+        "konami_id": 4321,
         "wikilink": "https://yugipedia.com/wiki/LOB-092",
         "set_number": "LOB-092",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Electro-Whip",
         "passcode": 37820550,
+        "konami_id": 4322,
         "wikilink": "https://yugipedia.com/wiki/LOB-093",
         "set_number": "LOB-093",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Mystical Moon",
         "passcode": 36607978,
+        "konami_id": 4325,
         "wikilink": "https://yugipedia.com/wiki/LOB-094",
         "set_number": "LOB-094",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Stop Defense",
         "passcode": 63102017,
+        "konami_id": 4326,
         "wikilink": "https://yugipedia.com/wiki/LOB-095",
         "set_number": "LOB-095",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Machine Conversion Factory",
         "passcode": 25769732,
+        "konami_id": 4331,
         "wikilink": "https://yugipedia.com/wiki/LOB-096",
         "set_number": "LOB-096",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Raise Body Heat",
         "passcode": 51267887,
+        "konami_id": 4332,
         "wikilink": "https://yugipedia.com/wiki/LOB-097",
         "set_number": "LOB-097",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Follow Wind",
         "passcode": 98252586,
+        "konami_id": 4333,
         "wikilink": "https://yugipedia.com/wiki/LOB-098",
         "set_number": "LOB-098",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Short Print",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Goblin's Secret Remedy",
         "passcode": 11868825,
+        "konami_id": 4346,
         "wikilink": "https://yugipedia.com/wiki/LOB-099",
         "set_number": "LOB-099",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Final Flame",
         "passcode": 73134081,
+        "konami_id": 4351,
         "wikilink": "https://yugipedia.com/wiki/LOB-100",
         "set_number": "LOB-100",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Swords of Revealing Light",
         "passcode": 72302403,
+        "konami_id": 4354,
         "wikilink": "https://yugipedia.com/wiki/LOB-101",
         "set_number": "LOB-101",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Metal Dragon",
         "passcode": 9293977,
+        "konami_id": 4415,
         "wikilink": "https://yugipedia.com/wiki/LOB-102",
         "set_number": "LOB-102",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Spike Seadra",
         "passcode": 85326399,
+        "konami_id": 4454,
         "wikilink": "https://yugipedia.com/wiki/LOB-103",
         "set_number": "LOB-103",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Tripwire Beast",
         "passcode": 45042329,
+        "konami_id": 4465,
         "wikilink": "https://yugipedia.com/wiki/LOB-104",
         "set_number": "LOB-104",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Skull Red Bird",
         "passcode": 10202894,
+        "konami_id": 4472,
         "wikilink": "https://yugipedia.com/wiki/LOB-105",
         "set_number": "LOB-105",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Armed Ninja",
         "passcode": 9076207,
+        "konami_id": 4475,
         "wikilink": "https://yugipedia.com/wiki/LOB-106",
         "set_number": "LOB-106",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Flower Wolf",
         "passcode": 95952802,
+        "konami_id": 4493,
         "wikilink": "https://yugipedia.com/wiki/LOB-107",
         "set_number": "LOB-107",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Man-Eater Bug",
         "passcode": 54652250,
+        "konami_id": 4507,
         "wikilink": "https://yugipedia.com/wiki/LOB-108",
         "set_number": "LOB-108",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Super Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Sand Stone",
         "passcode": 73051941,
+        "konami_id": 4523,
         "wikilink": "https://yugipedia.com/wiki/LOB-109",
         "set_number": "LOB-109",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Hane-Hane",
         "passcode": 7089711,
+        "konami_id": 4547,
         "wikilink": "https://yugipedia.com/wiki/LOB-110",
         "set_number": "LOB-110",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Misairuzame",
         "passcode": 33178416,
+        "konami_id": 4548,
         "wikilink": "https://yugipedia.com/wiki/LOB-111",
         "set_number": "LOB-111",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Steel Ogre Grotto 1",
         "passcode": 29172562,
+        "konami_id": 4563,
         "wikilink": "https://yugipedia.com/wiki/LOB-112",
         "set_number": "LOB-112",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Lesser Dragon",
         "passcode": 55444629,
+        "konami_id": 4567,
         "wikilink": "https://yugipedia.com/wiki/LOB-113",
         "set_number": "LOB-113",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Darkworld Thorns",
         "passcode": 43500484,
+        "konami_id": 4573,
         "wikilink": "https://yugipedia.com/wiki/LOB-114",
         "set_number": "LOB-114",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Drooling Lizard",
         "passcode": 16353197,
+        "konami_id": 4575,
         "wikilink": "https://yugipedia.com/wiki/LOB-115",
         "set_number": "LOB-115",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Armored Starfish",
         "passcode": 17535588,
+        "konami_id": 4621,
         "wikilink": "https://yugipedia.com/wiki/LOB-116",
         "set_number": "LOB-116",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Succubus Knight",
         "passcode": 55291359,
+        "konami_id": 4627,
         "wikilink": "https://yugipedia.com/wiki/LOB-117",
         "set_number": "LOB-117",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Common",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Monster Reborn",
         "passcode": 83764718,
+        "konami_id": 4842,
         "wikilink": "https://yugipedia.com/wiki/LOB-118",
         "set_number": "LOB-118",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Pot of Greed",
         "passcode": 55144522,
+        "konami_id": 4844,
         "wikilink": "https://yugipedia.com/wiki/LOB-119",
         "set_number": "LOB-119",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Right Leg of the Forbidden One",
         "passcode": 8124921,
+        "konami_id": 4023,
         "wikilink": "https://yugipedia.com/wiki/LOB-120",
         "set_number": "LOB-120",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Left Leg of the Forbidden One",
         "passcode": 44519536,
+        "konami_id": 4024,
         "wikilink": "https://yugipedia.com/wiki/LOB-121",
         "set_number": "LOB-121",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Right Arm of the Forbidden One",
         "passcode": 70903634,
+        "konami_id": 4025,
         "wikilink": "https://yugipedia.com/wiki/LOB-122",
         "set_number": "LOB-122",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Left Arm of the Forbidden One",
         "passcode": 7902349,
+        "konami_id": 4026,
         "wikilink": "https://yugipedia.com/wiki/LOB-123",
         "set_number": "LOB-123",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Exodia the Forbidden One",
         "passcode": 33396948,
+        "konami_id": 4027,
         "wikilink": "https://yugipedia.com/wiki/LOB-124",
         "set_number": "LOB-124",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Ultra Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     },
     {
         "name": "Gaia the Dragon Champion",
         "passcode": 66889139,
+        "konami_id": 4043,
         "wikilink": "https://yugipedia.com/wiki/LOB-125",
         "set_number": "LOB-125",
+        "set_name": "Legend of Blue Eyes White Dragon",
         "rarity": "Secret Rare",
-        "date_release": "8 August 2002"
+        "date_release": "8 AUGUST 2002"
     }
 ]

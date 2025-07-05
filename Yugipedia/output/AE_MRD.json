@@ -2,1153 +2,1441 @@
     {
         "name": "Gate Guardian",
         "passcode": 25833572,
+        "konami_id": 4380,
         "wikilink": "https://yugipedia.com/wiki/MRD-000",
         "set_number": "MRD-000",
+        "set_name": "Metal Raiders",
         "rarity": "Secret Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Feral Imp",
         "passcode": 41392891,
+        "konami_id": 4012,
         "wikilink": "https://yugipedia.com/wiki/MRD-001",
         "set_number": "MRD-001",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
-        "name": "Winged Dragon, Guardian of the Fortress 1",
+        "name": "Winged Dragon, Guardian of the Fortress #1",
         "passcode": 87796900,
+        "konami_id": 4013,
         "wikilink": "https://yugipedia.com/wiki/MRD-002",
         "set_number": "MRD-002",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Summoned Skull",
         "passcode": 70781052,
+        "konami_id": 4028,
         "wikilink": "https://yugipedia.com/wiki/MRD-003",
         "set_number": "MRD-003",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
-        "name": "Rock Ogre Grotto 1",
+        "name": "Rock Ogre Grotto #1",
         "passcode": 68846917,
+        "konami_id": 4034,
         "wikilink": "https://yugipedia.com/wiki/MRD-004",
         "set_number": "MRD-004",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Armored Lizard",
         "passcode": 15480588,
+        "konami_id": 4057,
         "wikilink": "https://yugipedia.com/wiki/MRD-005",
         "set_number": "MRD-005",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Killer Needle",
         "passcode": 88979991,
+        "konami_id": 4059,
         "wikilink": "https://yugipedia.com/wiki/MRD-006",
         "set_number": "MRD-006",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Larvae Moth",
         "passcode": 87756343,
+        "konami_id": 4062,
         "wikilink": "https://yugipedia.com/wiki/MRD-007",
         "set_number": "MRD-007",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Harpie Lady",
         "passcode": 76812113,
+        "konami_id": 4068,
         "wikilink": "https://yugipedia.com/wiki/MRD-008",
         "set_number": "MRD-008",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Harpie Lady Sisters",
         "passcode": 12206212,
+        "konami_id": 4069,
         "wikilink": "https://yugipedia.com/wiki/MRD-009",
         "set_number": "MRD-009",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Kojikocy",
         "passcode": 1184620,
+        "konami_id": 4072,
         "wikilink": "https://yugipedia.com/wiki/MRD-010",
         "set_number": "MRD-010",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Cocoon of Evolution",
         "passcode": 40240595,
+        "konami_id": 4078,
         "wikilink": "https://yugipedia.com/wiki/MRD-011",
         "set_number": "MRD-011",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Crawling Dragon",
         "passcode": 67494157,
+        "konami_id": 4100,
         "wikilink": "https://yugipedia.com/wiki/MRD-012",
         "set_number": "MRD-012",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Armored Zombie",
         "passcode": 20277860,
+        "konami_id": 4102,
         "wikilink": "https://yugipedia.com/wiki/MRD-013",
         "set_number": "MRD-013",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Mask of Darkness",
         "passcode": 28933734,
+        "konami_id": 4108,
         "wikilink": "https://yugipedia.com/wiki/MRD-014",
         "set_number": "MRD-014",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Doma The Angel of Silence",
         "passcode": 16972957,
+        "konami_id": 4117,
         "wikilink": "https://yugipedia.com/wiki/MRD-015",
         "set_number": "MRD-015",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "White Magical Hat",
         "passcode": 15150365,
+        "konami_id": 4120,
         "wikilink": "https://yugipedia.com/wiki/MRD-016",
         "set_number": "MRD-016",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Big Eye",
         "passcode": 16768387,
+        "konami_id": 4177,
         "wikilink": "https://yugipedia.com/wiki/MRD-017",
         "set_number": "MRD-017",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
-        "name": "B. Skull Dragon",
+        "name": "Black Skull Dragon",
         "passcode": 11901678,
+        "konami_id": 4223,
         "wikilink": "https://yugipedia.com/wiki/MRD-018",
         "set_number": "MRD-018",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Masked Sorcerer",
         "passcode": 10189126,
+        "konami_id": 4226,
         "wikilink": "https://yugipedia.com/wiki/MRD-019",
         "set_number": "MRD-019",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Roaring Ocean Snake",
         "passcode": 19066538,
+        "konami_id": 4229,
         "wikilink": "https://yugipedia.com/wiki/MRD-020",
         "set_number": "MRD-020",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Water Omotics",
         "passcode": 2483611,
+        "konami_id": 4255,
         "wikilink": "https://yugipedia.com/wiki/MRD-021",
         "set_number": "MRD-021",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Ground Attacker Bugroth",
         "passcode": 58314394,
+        "konami_id": 4281,
         "wikilink": "https://yugipedia.com/wiki/MRD-022",
         "set_number": "MRD-022",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Petit Moth",
         "passcode": 58192742,
+        "konami_id": 4284,
         "wikilink": "https://yugipedia.com/wiki/MRD-023",
         "set_number": "MRD-023",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Elegant Egotist",
         "passcode": 90219263,
+        "konami_id": 4324,
         "wikilink": "https://yugipedia.com/wiki/MRD-024",
         "set_number": "MRD-024",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Sanga of the Thunder",
         "passcode": 25955164,
+        "konami_id": 4377,
         "wikilink": "https://yugipedia.com/wiki/MRD-025",
         "set_number": "MRD-025",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Kazejin",
         "passcode": 62340868,
+        "konami_id": 4378,
         "wikilink": "https://yugipedia.com/wiki/MRD-026",
         "set_number": "MRD-026",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Suijin",
         "passcode": 98434877,
+        "konami_id": 4379,
         "wikilink": "https://yugipedia.com/wiki/MRD-027",
         "set_number": "MRD-027",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Mystic Lamp",
         "passcode": 98049915,
+        "konami_id": 4393,
         "wikilink": "https://yugipedia.com/wiki/MRD-028",
         "set_number": "MRD-028",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Steel Scorpion",
         "passcode": 13599884,
+        "konami_id": 4400,
         "wikilink": "https://yugipedia.com/wiki/MRD-029",
         "set_number": "MRD-029",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Ocubeam",
         "passcode": 86088138,
+        "konami_id": 4402,
         "wikilink": "https://yugipedia.com/wiki/MRD-030",
         "set_number": "MRD-030",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Leghul",
         "passcode": 12472242,
+        "konami_id": 4403,
         "wikilink": "https://yugipedia.com/wiki/MRD-031",
         "set_number": "MRD-031",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Ooguchi",
         "passcode": 58861941,
+        "konami_id": 4404,
         "wikilink": "https://yugipedia.com/wiki/MRD-032",
         "set_number": "MRD-032",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Leogun",
         "passcode": 10538007,
+        "konami_id": 4409,
         "wikilink": "https://yugipedia.com/wiki/MRD-033",
         "set_number": "MRD-033",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Blast Juggler",
         "passcode": 70138455,
+        "konami_id": 4423,
         "wikilink": "https://yugipedia.com/wiki/MRD-034",
         "set_number": "MRD-034",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
-        "name": "Jinzo 7",
+        "name": "Jinzo #7",
         "passcode": 32809211,
+        "konami_id": 4428,
         "wikilink": "https://yugipedia.com/wiki/MRD-035",
         "set_number": "MRD-035",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Magician of Faith",
         "passcode": 31560081,
+        "konami_id": 4434,
         "wikilink": "https://yugipedia.com/wiki/MRD-036",
         "set_number": "MRD-036",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Ancient Elf",
         "passcode": 93221206,
+        "konami_id": 4439,
         "wikilink": "https://yugipedia.com/wiki/MRD-037",
         "set_number": "MRD-037",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Deepsea Shark",
         "passcode": 28593363,
+        "konami_id": 4443,
         "wikilink": "https://yugipedia.com/wiki/MRD-038",
         "set_number": "MRD-038",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Bottom Dweller",
         "passcode": 81386177,
+        "konami_id": 4445,
         "wikilink": "https://yugipedia.com/wiki/MRD-039",
         "set_number": "MRD-039",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Destroyer Golem",
         "passcode": 73481154,
+        "konami_id": 4460,
         "wikilink": "https://yugipedia.com/wiki/MRD-040",
         "set_number": "MRD-040",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Kaminari Attack",
         "passcode": 9653271,
+        "konami_id": 4464,
         "wikilink": "https://yugipedia.com/wiki/MRD-041",
         "set_number": "MRD-041",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Rainbow Flower",
         "passcode": 21347810,
+        "konami_id": 4494,
         "wikilink": "https://yugipedia.com/wiki/MRD-042",
         "set_number": "MRD-042",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Morinphen",
         "passcode": 55784832,
+        "konami_id": 4504,
         "wikilink": "https://yugipedia.com/wiki/MRD-043",
         "set_number": "MRD-043",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Mega Thunderball",
         "passcode": 21817254,
+        "konami_id": 4543,
         "wikilink": "https://yugipedia.com/wiki/MRD-044",
         "set_number": "MRD-044",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Tongyo",
         "passcode": 69572024,
+        "konami_id": 4549,
         "wikilink": "https://yugipedia.com/wiki/MRD-045",
         "set_number": "MRD-045",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Empress Judge",
         "passcode": 15237615,
+        "konami_id": 4578,
         "wikilink": "https://yugipedia.com/wiki/MRD-046",
         "set_number": "MRD-046",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Pale Beast",
         "passcode": 21263083,
+        "konami_id": 4603,
         "wikilink": "https://yugipedia.com/wiki/MRD-047",
         "set_number": "MRD-047",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Electric Lizard",
         "passcode": 55875323,
+        "konami_id": 4616,
         "wikilink": "https://yugipedia.com/wiki/MRD-048",
         "set_number": "MRD-048",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Hunter Spider",
         "passcode": 80141480,
+        "konami_id": 4620,
         "wikilink": "https://yugipedia.com/wiki/MRD-049",
         "set_number": "MRD-049",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Ancient Lizard Warrior",
         "passcode": 43230671,
+        "konami_id": 4636,
         "wikilink": "https://yugipedia.com/wiki/MRD-050",
         "set_number": "MRD-050",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Queen's Double",
         "passcode": 5901497,
+        "konami_id": 4641,
         "wikilink": "https://yugipedia.com/wiki/MRD-051",
         "set_number": "MRD-051",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Trent",
         "passcode": 78780140,
+        "konami_id": 4643,
         "wikilink": "https://yugipedia.com/wiki/MRD-052",
         "set_number": "MRD-052",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Disk Magician",
         "passcode": 76446915,
+        "konami_id": 4649,
         "wikilink": "https://yugipedia.com/wiki/MRD-053",
         "set_number": "MRD-053",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Hyosube",
         "passcode": 2118022,
+        "konami_id": 4653,
         "wikilink": "https://yugipedia.com/wiki/MRD-054",
         "set_number": "MRD-054",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Hibikime",
         "passcode": 64501875,
+        "konami_id": 4655,
         "wikilink": "https://yugipedia.com/wiki/MRD-055",
         "set_number": "MRD-055",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Fake Trap",
         "passcode": 3027001,
+        "konami_id": 4696,
         "wikilink": "https://yugipedia.com/wiki/MRD-056",
         "set_number": "MRD-056",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Tribute to The Doomed",
         "passcode": 79759861,
+        "konami_id": 4856,
         "wikilink": "https://yugipedia.com/wiki/MRD-057",
         "set_number": "MRD-057",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Soul Release",
         "passcode": 5758500,
+        "konami_id": 4857,
         "wikilink": "https://yugipedia.com/wiki/MRD-058",
         "set_number": "MRD-058",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "The Cheerful Coffin",
         "passcode": 41142615,
+        "konami_id": 4858,
         "wikilink": "https://yugipedia.com/wiki/MRD-059",
         "set_number": "MRD-059",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Change of Heart",
         "passcode": 4031928,
+        "konami_id": 4860,
         "wikilink": "https://yugipedia.com/wiki/MRD-060",
         "set_number": "MRD-060",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Baby Dragon",
         "passcode": 88819587,
+        "konami_id": 4010,
         "wikilink": "https://yugipedia.com/wiki/MRD-061",
         "set_number": "MRD-061",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Blackland Fire Dragon",
         "passcode": 87564352,
+        "konami_id": 4016,
         "wikilink": "https://yugipedia.com/wiki/MRD-062",
         "set_number": "MRD-062",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Swamp Battleguard",
         "passcode": 40453765,
+        "konami_id": 4018,
         "wikilink": "https://yugipedia.com/wiki/MRD-063",
         "set_number": "MRD-063",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Battle Steer",
         "passcode": 18246479,
+        "konami_id": 4020,
         "wikilink": "https://yugipedia.com/wiki/MRD-064",
         "set_number": "MRD-064",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Time Wizard",
         "passcode": 71625222,
+        "konami_id": 4022,
         "wikilink": "https://yugipedia.com/wiki/MRD-065",
         "set_number": "MRD-065",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Saggi the Dark Clown",
         "passcode": 66602787,
+        "konami_id": 4040,
         "wikilink": "https://yugipedia.com/wiki/MRD-066",
         "set_number": "MRD-066",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Dragon Piper",
         "passcode": 55763552,
+        "konami_id": 4046,
         "wikilink": "https://yugipedia.com/wiki/MRD-067",
         "set_number": "MRD-067",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Illusionist Faceless Mage",
         "passcode": 28546905,
+        "konami_id": 4048,
         "wikilink": "https://yugipedia.com/wiki/MRD-068",
         "set_number": "MRD-068",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Sangan",
         "passcode": 26202165,
+        "konami_id": 4054,
         "wikilink": "https://yugipedia.com/wiki/MRD-069",
         "set_number": "MRD-069",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Great Moth",
         "passcode": 14141448,
+        "konami_id": 4063,
         "wikilink": "https://yugipedia.com/wiki/MRD-070",
         "set_number": "MRD-070",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Kuriboh",
         "passcode": 40640057,
+        "konami_id": 4064,
         "wikilink": "https://yugipedia.com/wiki/MRD-071",
         "set_number": "MRD-071",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Jellyfish",
         "passcode": 14851496,
+        "konami_id": 4077,
         "wikilink": "https://yugipedia.com/wiki/MRD-072",
         "set_number": "MRD-072",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Castle of Dark Illusions",
         "passcode": 62121,
+        "konami_id": 4089,
         "wikilink": "https://yugipedia.com/wiki/MRD-073",
         "set_number": "MRD-073",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "King of Yamimakai",
         "passcode": 69455834,
+        "konami_id": 4091,
         "wikilink": "https://yugipedia.com/wiki/MRD-074",
         "set_number": "MRD-074",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Catapult Turtle",
         "passcode": 95727991,
+        "konami_id": 4095,
         "wikilink": "https://yugipedia.com/wiki/MRD-075",
         "set_number": "MRD-075",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Mystic Horseman",
         "passcode": 68516705,
+        "konami_id": 4097,
         "wikilink": "https://yugipedia.com/wiki/MRD-076",
         "set_number": "MRD-076",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Rabid Horseman",
         "passcode": 94905343,
+        "konami_id": 4098,
         "wikilink": "https://yugipedia.com/wiki/MRD-077",
         "set_number": "MRD-077",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Crass Clown",
         "passcode": 93889755,
+        "konami_id": 4101,
         "wikilink": "https://yugipedia.com/wiki/MRD-078",
         "set_number": "MRD-078",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Pumpking the King of Ghosts",
         "passcode": 29155212,
+        "konami_id": 4105,
         "wikilink": "https://yugipedia.com/wiki/MRD-079",
         "set_number": "MRD-079",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Dream Clown",
         "passcode": 13215230,
+        "konami_id": 4126,
         "wikilink": "https://yugipedia.com/wiki/MRD-080",
         "set_number": "MRD-080",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Tainted Wisdom",
         "passcode": 28725004,
+        "konami_id": 4168,
         "wikilink": "https://yugipedia.com/wiki/MRD-081",
         "set_number": "MRD-081",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Ancient Brain",
         "passcode": 42431843,
+        "konami_id": 4181,
         "wikilink": "https://yugipedia.com/wiki/MRD-082",
         "set_number": "MRD-082",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Guardian of the Labyrinth",
         "passcode": 89272878,
+        "konami_id": 4242,
         "wikilink": "https://yugipedia.com/wiki/MRD-083",
         "set_number": "MRD-083",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Prevent Rat",
         "passcode": 549481,
+        "konami_id": 4261,
         "wikilink": "https://yugipedia.com/wiki/MRD-084",
         "set_number": "MRD-084",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "The Little Swordsman of Aile",
         "passcode": 25109950,
+        "konami_id": 4268,
         "wikilink": "https://yugipedia.com/wiki/MRD-085",
         "set_number": "MRD-085",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Princess of Tsurugi",
         "passcode": 51371017,
+        "konami_id": 4272,
         "wikilink": "https://yugipedia.com/wiki/MRD-086",
         "set_number": "MRD-086",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Protector of the Throne",
         "passcode": 10071456,
+        "konami_id": 4286,
         "wikilink": "https://yugipedia.com/wiki/MRD-087",
         "set_number": "MRD-087",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Tremendous Fire",
         "passcode": 46918794,
+        "konami_id": 4353,
         "wikilink": "https://yugipedia.com/wiki/MRD-088",
         "set_number": "MRD-088",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Jirai Gumo",
         "passcode": 94773007,
+        "konami_id": 4373,
         "wikilink": "https://yugipedia.com/wiki/MRD-089",
         "set_number": "MRD-089",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Shadow Ghoul",
         "passcode": 30778711,
+        "konami_id": 4374,
         "wikilink": "https://yugipedia.com/wiki/MRD-090",
         "set_number": "MRD-090",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Labyrinth Tank",
         "passcode": 99551425,
+        "konami_id": 4376,
         "wikilink": "https://yugipedia.com/wiki/MRD-091",
         "set_number": "MRD-091",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Ryu-Kishin Powered",
         "passcode": 24611934,
+        "konami_id": 4383,
         "wikilink": "https://yugipedia.com/wiki/MRD-092",
         "set_number": "MRD-092",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Bickuribox",
         "passcode": 25655502,
+        "konami_id": 4391,
         "wikilink": "https://yugipedia.com/wiki/MRD-093",
         "set_number": "MRD-093",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Giltia the D. Knight",
         "passcode": 51828629,
+        "konami_id": 4395,
         "wikilink": "https://yugipedia.com/wiki/MRD-094",
         "set_number": "MRD-094",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Launcher Spider",
         "passcode": 87322377,
+        "konami_id": 4396,
         "wikilink": "https://yugipedia.com/wiki/MRD-095",
         "set_number": "MRD-095",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Giga-Tech Wolf",
         "passcode": 8471389,
+        "konami_id": 4418,
         "wikilink": "https://yugipedia.com/wiki/MRD-096",
         "set_number": "MRD-096",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Thunder Dragon",
         "passcode": 31786629,
+        "konami_id": 4431,
         "wikilink": "https://yugipedia.com/wiki/MRD-097",
         "set_number": "MRD-097",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "7 Colored Fish",
         "passcode": 23771716,
+        "konami_id": 4446,
         "wikilink": "https://yugipedia.com/wiki/MRD-098",
         "set_number": "MRD-098",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "The Immortal of Thunder",
         "passcode": 84926738,
+        "konami_id": 4468,
         "wikilink": "https://yugipedia.com/wiki/MRD-099",
         "set_number": "MRD-099",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Punished Eagle",
         "passcode": 74703140,
+        "konami_id": 4471,
         "wikilink": "https://yugipedia.com/wiki/MRD-100",
         "set_number": "MRD-100",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Insect Soldiers of the Sky",
         "passcode": 7019529,
+        "konami_id": 4484,
         "wikilink": "https://yugipedia.com/wiki/MRD-101",
         "set_number": "MRD-101",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Hoshiningen",
         "passcode": 67629977,
+        "konami_id": 4498,
         "wikilink": "https://yugipedia.com/wiki/MRD-102",
         "set_number": "MRD-102",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Musician King",
         "passcode": 56907389,
+        "konami_id": 4501,
         "wikilink": "https://yugipedia.com/wiki/MRD-103",
         "set_number": "MRD-103",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Yado Karu",
         "passcode": 29380133,
+        "konami_id": 4503,
         "wikilink": "https://yugipedia.com/wiki/MRD-104",
         "set_number": "MRD-104",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Cyber Saurus",
         "passcode": 89112729,
+        "konami_id": 4514,
         "wikilink": "https://yugipedia.com/wiki/MRD-105",
         "set_number": "MRD-105",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Cannon Soldier",
         "passcode": 11384280,
+        "konami_id": 4518,
         "wikilink": "https://yugipedia.com/wiki/MRD-106",
         "set_number": "MRD-106",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Muka Muka",
         "passcode": 46657337,
+        "konami_id": 4522,
         "wikilink": "https://yugipedia.com/wiki/MRD-107",
         "set_number": "MRD-107",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "The Bistro Butcher",
         "passcode": 71107816,
+        "konami_id": 4529,
         "wikilink": "https://yugipedia.com/wiki/MRD-108",
         "set_number": "MRD-108",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Star Boy",
         "passcode": 8201910,
+        "konami_id": 4530,
         "wikilink": "https://yugipedia.com/wiki/MRD-109",
         "set_number": "MRD-109",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Milus Radiant",
         "passcode": 7489323,
+        "konami_id": 4533,
         "wikilink": "https://yugipedia.com/wiki/MRD-110",
         "set_number": "MRD-110",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Flame Cerebrus",
         "passcode": 60862676,
+        "konami_id": 4535,
         "wikilink": "https://yugipedia.com/wiki/MRD-111",
         "set_number": "MRD-111",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Niwatori",
         "passcode": 7805359,
+        "konami_id": 4544,
         "wikilink": "https://yugipedia.com/wiki/MRD-112",
         "set_number": "MRD-112",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Dark Elf",
         "passcode": 21417692,
+        "konami_id": 4557,
         "wikilink": "https://yugipedia.com/wiki/MRD-113",
         "set_number": "MRD-113",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
-        "name": "Mushroom Man 2",
+        "name": "Mushroom Man #2",
         "passcode": 93900406,
+        "konami_id": 4559,
         "wikilink": "https://yugipedia.com/wiki/MRD-114",
         "set_number": "MRD-114",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Lava Battleguard",
         "passcode": 20394040,
+        "konami_id": 4560,
         "wikilink": "https://yugipedia.com/wiki/MRD-115",
         "set_number": "MRD-115",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Witch of the Black Forest",
         "passcode": 78010363,
+        "konami_id": 4580,
         "wikilink": "https://yugipedia.com/wiki/MRD-116",
         "set_number": "MRD-116",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Little Chimera",
         "passcode": 68658728,
+        "konami_id": 4604,
         "wikilink": "https://yugipedia.com/wiki/MRD-117",
         "set_number": "MRD-117",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Bladefly",
         "passcode": 28470714,
+        "konami_id": 4615,
         "wikilink": "https://yugipedia.com/wiki/MRD-118",
         "set_number": "MRD-118",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Lady of Faith",
         "passcode": 17358176,
+        "konami_id": 4618,
         "wikilink": "https://yugipedia.com/wiki/MRD-119",
         "set_number": "MRD-119",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Twin-Headed Thunder Dragon",
         "passcode": 54752875,
+        "konami_id": 4619,
         "wikilink": "https://yugipedia.com/wiki/MRD-120",
         "set_number": "MRD-120",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Witch's Apprentice",
         "passcode": 80741828,
+        "konami_id": 4634,
         "wikilink": "https://yugipedia.com/wiki/MRD-121",
         "set_number": "MRD-121",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Blue-Winged Crown",
         "passcode": 41396436,
+        "konami_id": 4642,
         "wikilink": "https://yugipedia.com/wiki/MRD-122",
         "set_number": "MRD-122",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Skull Knight",
         "passcode": 2504891,
+        "konami_id": 4713,
         "wikilink": "https://yugipedia.com/wiki/MRD-123",
         "set_number": "MRD-123",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Gazelle the King of Mythical Beasts",
         "passcode": 5818798,
+        "konami_id": 4753,
         "wikilink": "https://yugipedia.com/wiki/MRD-124",
         "set_number": "MRD-124",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Garnecia Elefantis",
         "passcode": 49888191,
+        "konami_id": 4787,
         "wikilink": "https://yugipedia.com/wiki/MRD-125",
         "set_number": "MRD-125",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Barrel Dragon",
         "passcode": 81480460,
+        "konami_id": 4749,
         "wikilink": "https://yugipedia.com/wiki/MRD-126",
         "set_number": "MRD-126",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Solemn Judgment",
         "passcode": 41420027,
+        "konami_id": 4861,
         "wikilink": "https://yugipedia.com/wiki/MRD-127",
         "set_number": "MRD-127",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Magic Jammer",
         "passcode": 77414722,
+        "konami_id": 4862,
         "wikilink": "https://yugipedia.com/wiki/MRD-128",
         "set_number": "MRD-128",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Seven Tools of the Bandit",
         "passcode": 3819470,
+        "konami_id": 4863,
         "wikilink": "https://yugipedia.com/wiki/MRD-129",
         "set_number": "MRD-129",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Horn of Heaven",
         "passcode": 98069388,
+        "konami_id": 4864,
         "wikilink": "https://yugipedia.com/wiki/MRD-130",
         "set_number": "MRD-130",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Shield & Sword",
         "passcode": 52097679,
+        "konami_id": 4811,
         "wikilink": "https://yugipedia.com/wiki/MRD-131",
         "set_number": "MRD-131",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Sword of Deep-Seated",
         "passcode": 98495314,
+        "konami_id": 4873,
         "wikilink": "https://yugipedia.com/wiki/MRD-132",
         "set_number": "MRD-132",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Block Attack",
         "passcode": 25880422,
+        "konami_id": 4874,
         "wikilink": "https://yugipedia.com/wiki/MRD-133",
         "set_number": "MRD-133",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "The Unhappy Maiden",
         "passcode": 51275027,
+        "konami_id": 4875,
         "wikilink": "https://yugipedia.com/wiki/MRD-134",
         "set_number": "MRD-134",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Robbin' Goblin",
         "passcode": 88279736,
+        "konami_id": 4876,
         "wikilink": "https://yugipedia.com/wiki/MRD-135",
         "set_number": "MRD-135",
+        "set_name": "Metal Raiders",
         "rarity": "Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Germ Infection",
         "passcode": 24668830,
+        "konami_id": 4877,
         "wikilink": "https://yugipedia.com/wiki/MRD-136",
         "set_number": "MRD-136",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Paralyzing Potion",
         "passcode": 50152549,
+        "konami_id": 4878,
         "wikilink": "https://yugipedia.com/wiki/MRD-137",
         "set_number": "MRD-137",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Mirror Force",
         "passcode": 44095762,
+        "konami_id": 4887,
         "wikilink": "https://yugipedia.com/wiki/MRD-138",
         "set_number": "MRD-138",
+        "set_name": "Metal Raiders",
         "rarity": "Ultra Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Ring of Magnetism",
         "passcode": 20436034,
+        "konami_id": 4888,
         "wikilink": "https://yugipedia.com/wiki/MRD-139",
         "set_number": "MRD-139",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Share the Pain",
         "passcode": 56830749,
+        "konami_id": 4889,
         "wikilink": "https://yugipedia.com/wiki/MRD-140",
         "set_number": "MRD-140",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Stim-Pack",
         "passcode": 83225447,
+        "konami_id": 4890,
         "wikilink": "https://yugipedia.com/wiki/MRD-141",
         "set_number": "MRD-141",
+        "set_name": "Metal Raiders",
         "rarity": "Common",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Heavy Storm",
         "passcode": 19613556,
+        "konami_id": 4891,
         "wikilink": "https://yugipedia.com/wiki/MRD-142",
         "set_number": "MRD-142",
+        "set_name": "Metal Raiders",
         "rarity": "Super Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     },
     {
         "name": "Thousand Dragon",
         "passcode": 41462083,
+        "konami_id": 4075,
         "wikilink": "https://yugipedia.com/wiki/MRD-143",
         "set_number": "MRD-143",
+        "set_name": "Metal Raiders",
         "rarity": "Secret Rare",
-        "date_release": "24 October 2002"
+        "date_release": "24 OCTOBER 2002"
     }
 ]
