@@ -7,7 +7,7 @@ import curl_cffi
 
 # Import local files
 from data.utils import Utils
-from data.model_card import CardData
+from data.model_card import CardData, CardInfo
 from data.model_sets import WikiSet
 
 # Timer for processing
@@ -15,7 +15,7 @@ TIME_START = time.time()
 
 # Global constants
 DEBUG = False
-MAX_SET_TO_PROCESS = 3
+MAX_SET_TO_PROCESS = 5
 NEWLINE = '\n'
 DELAY_SETLIST = 2
 DELAY_PASSCODE = 1
@@ -41,6 +41,7 @@ SUFFIX_AE = "(Asian-English)"
 
 INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&x=-5B-5BMedium%3A%3AOfficial-5D-5D-20-20-3Cq-3E-20-3Cq-3E-5B-5BAsian-2DEnglish-20set-20prefix%3A%3A%2B-5D-5D-3C-2Fq-3E-20-20OR-20-20-3Cq-3E-5B-5BAsian-2DEnglish-20release-20date%3A%3A%2B-5D-5D-3C-2Fq-3E-20-3C-2Fq-3E%2F-3FAsian-2DEnglish-20set-20and-20region-20prefix%3DPrefix%2F-3FAsian-2DEnglish-20release-20date%3DRelease-20date&mainlabel=Set&format=json&headers=+plain&class=+wikitable+sortable+card-list&sort=Asian-English+release+date%2CAsian-English+set+prefix%2C%23&order=asc%2Casc%2Casc&offset=0&limit=500&prettyprint=true&unescape=true"
 URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202501&lang=en"
+URL_BANLIST_AE_2 = "https://dawnbrandbots.github.io/yaml-yugi-limit-regulation/ocg-ae/current.vector.json"
 
 # File paths
 EXT_OUTPUT_BANLIST = ".lflist.conf"
@@ -92,8 +93,9 @@ def get_setlist_from_wikilink(inputString: str, format: str) -> str:
 
     return inputString
 
-def get_card_passcode(wikilink: str) -> int:
+def get_card_passcode(wikilink: str) -> CardInfo:
     cardPasscode: int = 0
+    cardKonamiId: int = 0
     if wikilink:
         Utils.log(f"Searching passcode for {wikilink}")
         reqMain = request_page(wikilink, False)
@@ -102,6 +104,28 @@ def get_card_passcode(wikilink: str) -> int:
             soupObj = BeautifulSoup(reqMain.text, "html.parser")
             if not soupObj:
                 raise Exception("Passcode => Content not found.")
+            
+            soupKonamiIdDiv = soupObj.find("div", { "class": "below hlist plainlinks" })
+            if soupKonamiIdDiv:
+                soupKonamiIdText = soupKonamiIdDiv.find("li")
+                if soupKonamiIdText:
+                    #Utils.log(f"Parse Konami Id, contents => { soupKonamiIdText }")
+                    tempKonamiIdRawList = soupKonamiIdText.get_text().strip().split("#")
+                    if tempKonamiIdRawList:
+                        textKonamiIdIndex: int = 1 if len(tempKonamiIdRawList) > 1 else 0
+                        textKonamiIdRaw: str = tempKonamiIdRawList[textKonamiIdIndex].strip()
+                        textKonamiId: str = textKonamiIdRaw.split(None, 1)[0]
+                        Utils.log(f"Parse Konami Id, contents => Index: { textKonamiIdIndex } | Text: { textKonamiId } | Raw: { textKonamiIdRaw }")
+                        if textKonamiId.isdecimal():
+                            cardKonamiId = int(textKonamiId)
+                        else:
+                            Utils.log(f"Parse Konami Id, contents => Invalid value: { textKonamiId }")
+                    else:
+                        raise Exception(f"Parse Konami Id, contents => No valid text after # in tag text.")
+                else:
+                    raise Exception("Parse Konami Id, contents => Null, not found 'li' tag.")
+            else:
+                raise Exception("Parse Konami Id, contents => Null, not found 'div' class 'below hlist plainlinks'.")
         
             soupOtherInfo = soupObj.find("table", { "class": "innertable" } )
             if not soupOtherInfo:
@@ -125,10 +149,13 @@ def get_card_passcode(wikilink: str) -> int:
                     if otherInfoValue.isdecimal():
                         cardPasscode = int(otherInfoValue)
                     else:
-                        Utils.log(f"Passcode => Invalid value.")
+                        Utils.log(f"Passcode => Invalid value: { otherInfoValue }")
                     break
 
-    return cardPasscode
+    return CardInfo(
+        passcode = cardPasscode,
+        konami_id = cardKonamiId
+    )
 
 def load_dict_from_json(filename: str) -> dict[str, int]:
     # Load contents from file
@@ -173,7 +200,7 @@ def filter_list_unique_set(cardList: list[CardData]) -> list[CardData]:
 
     return returnList
 
-def process_setlist(inputString: str, filename: str, listCardItems: list[CardData]) -> bool:
+def process_setlist(setFullName: str, inputString: str, filename: str, listCardItems: list[CardData]) -> bool:
     # Vars
     count = 0
 
@@ -240,6 +267,7 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                     cardCategory = ""
                     cardRaritiesElem = None
                     cardPasscode = 0
+                    cardKonamiId = 0
 
                     if dictAlreadyExist:
                         if cardSetcode in dictAlreadyExist:
@@ -260,14 +288,19 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                     
                     # Fetch passcode using URL
                     if cardPasscode == 0:
-                        cardPasscode = get_card_passcode(cardUrl)
-
+                        cardInfoObj = get_card_passcode(cardUrl)
+                        cardPasscode = cardInfoObj.passcode
+                        cardKonamiId = cardInfoObj.konami_id
+                    
+                    # Build JSON object item
                     if not cardRaritiesElem:
                         cardItem = CardData(
                             name = cardName, 
                             passcode = cardPasscode,
+                            konami_id = cardKonamiId,
                             wikilink = cardUrl, 
                             set_number = cardSetcode,
+                            set_name = setFullName,
                             rarity =  "", 
                             date_release = setReleaseDate,
                             date_release_epoch = setReleaseDateEpoch
@@ -279,8 +312,10 @@ def process_setlist(inputString: str, filename: str, listCardItems: list[CardDat
                             cardItem = CardData(
                                 name = cardName, 
                                 passcode = cardPasscode,
+                                konami_id = cardKonamiId,
                                 wikilink = cardUrl, 
                                 set_number = cardSetcode,
+                                set_name = setFullName,
                                 rarity =  cardRarity, 
                                 date_release = setReleaseDate,
                                 date_release_epoch = setReleaseDateEpoch
@@ -514,7 +549,7 @@ try:
                     outputListCardData: list[CardData] = []
                     successCardList = False
                     try:
-                        successCardList = process_setlist(setLinkWithCardSetList, outputFileSet, outputListCardData)
+                        successCardList = process_setlist(dataKey, setLinkWithCardSetList, outputFileSet, outputListCardData)
                     except Exception as e:
                         Utils.log_err("Parse list, main", e)
                         successCardList = False
