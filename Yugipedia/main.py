@@ -40,15 +40,15 @@ PREFIX_CARDLIST = "Set_Card_Lists:"
 SUFFIX_AE = "(Asian-English)"
 
 INPUT_URL = "https://yugipedia.com/index.php?title=Special:Ask&x=-5B-5BMedium%3A%3AOfficial-5D-5D-20-20-3Cq-3E-20-3Cq-3E-5B-5BAsian-2DEnglish-20set-20prefix%3A%3A%2B-5D-5D-3C-2Fq-3E-20-20OR-20-20-3Cq-3E-5B-5BAsian-2DEnglish-20release-20date%3A%3A%2B-5D-5D-3C-2Fq-3E-20-3C-2Fq-3E%2F-3FAsian-2DEnglish-20set-20and-20region-20prefix%3DPrefix%2F-3FAsian-2DEnglish-20release-20date%3DRelease-20date&mainlabel=Set&format=json&headers=+plain&class=+wikitable+sortable+card-list&sort=Asian-English+release+date%2CAsian-English+set+prefix%2C%23&order=asc%2Casc%2Casc&offset=0&limit=500&prettyprint=true&unescape=true"
-URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202501&lang=en"
-URL_BANLIST_AE_2 = "https://dawnbrandbots.github.io/yaml-yugi-limit-regulation/ocg-ae/current.vector.json"
+#URL_BANLIST_AE = "https://www.yugioh-card.com/hk/event/rules_guides/forbidden_cardlist_aen.php?list=202501&lang=en"
+URL_BANLIST_AE = "https://dawnbrandbots.github.io/yaml-yugi-limit-regulation/ocg-ae/current.vector.json"
 
 # File paths
 EXT_OUTPUT_BANLIST = ".lflist.conf"
 FILE_OUTPUT_BODY = "result.json"
 FILE_OUTPUT_DONE_SET = "setlist_done.log"# Already processed setcode prefix
 FILE_OUTPUT_BANLIST = "AE_Banlist" + EXT_OUTPUT_BANLIST
-FILE_CACHE_BANLIST = BANLIST_TITLE + ".html"
+FILE_CACHE_BANLIST = BANLIST_TITLE + ".json"
 FOLDER_OUTPUT = "output"#Folder to save all json files per set
 
 # List objects
@@ -334,79 +334,70 @@ def process_setlist(setFullName: str, inputString: str, filename: str, listCardI
     
     return True
 
+# Create banlist file.
 def process_banlist():
     banlistContents: str = f"#[{BANLIST_FORMAT} {BANLIST_TITLE}]\n!{BANLIST_TITLE}\n$whitelist\n"
     banlistCardDict = { }
     filesToProcess = Utils.list_files(FOLDER_OUTPUT)
-    listLimitBanned: list[tuple[str, int]] = []
+    listLimitBanned: list[tuple[int, int]] = []
 
     # First, get the banlist and process it
-    contentsHtml: str = "<div></div>"#Placeholder that can be parsed by BSoup
+    dataBanlistJson: any = None
     if not os.path.exists(FILE_CACHE_BANLIST):
         reqObj = request_page(URL_BANLIST_AE, False)
         if reqObj.ok:
-            contentsHtml = reqObj.text
+            contentsHtml = reqObj.text.strip()
             Utils.write_file(FILE_CACHE_BANLIST, contentsHtml)
-    else:
-        contentsHtml = Utils.read_file(FILE_CACHE_BANLIST)
     
-    if contentsHtml:
-        Utils.log(f"Banlist => Content exist")
-        soupObj: BeautifulSoup = None
-
-        if not contentsHtml.isspace():
-            soupObj = BeautifulSoup(contentsHtml, "html.parser")
-
-        if soupObj:
-            Utils.log(f"Banlist => Main element exist")
-            soupMain = soupObj.find_all("table", { "class": "limit_list_style" } )
-            if soupMain:
-                banlistLen: int = len(soupMain)
-                limitCount: int = 0 # Starts with Restricted to 0
-                Utils.log(f"Banlist => Main table exist. Table count: {banlistLen}")
-                for soupElemBody in soupMain:
-                    Utils.log(f"Banlist => Generate banlist with restriction of : {limitCount}")
-                    soupMainBody = soupElemBody.find("tbody")
-                    if soupMainBody:
-                        Utils.log(f"Banlist => Main table body exist")
-                        soupMainCardList = soupMainBody.find_all("tr")
-                        if soupMainCardList:
-                            Utils.log(f"Banlist => Element list of Card names found")
-                            for soupItem in soupMainCardList:
-                                if soupItem:
-                                    soupCardName = soupItem.find("td")
-                                    #Utils.log(f"Banlist => Element 'td' found on item.")
-                                    if soupCardName:
-                                        cardName: str = soupCardName.text
-                                        banlistItem: tuple[str, int] = (cardName, limitCount)
-                                        Utils.log(f"Banlist => Item: {banlistItem}")
-                                        listLimitBanned.append(banlistItem)
-                            # Move Restricted count for other items in the banlist.
-                            limitCount = limitCount + 1
+    # read from file
+    dataBanlistJson = Utils.read_json(FILE_CACHE_BANLIST)
+    
+    if dataBanlistJson:
+        Utils.log(f"Banlist => Parsed JSON file.")
+        objRegulations = dataBanlistJson["regulation"]
+        if objRegulations:
+            for dataKey, dataValue in objRegulations.items():
+                cardKonamiId = int(dataKey)
+                cardLimit = int(dataValue)
+                banlistItem: tuple[int, int] = (cardKonamiId, cardLimit)
+                listLimitBanned.append(banlistItem)
+                Utils.log(f"Banlist, Limit Count => Konami Id: { cardKonamiId } | Limit: { cardLimit }")
+        
     #raise Exception("dummy test")
 
     for x in filesToProcess:
-        Utils.log(f"File => {x}")
+        Utils.log(f"Banlist, Set File => Filename: { x }")
         jsonObj = Utils.read_json(x)
         if jsonObj:
-            Utils.log(f"JSON file parsed.")
+            Utils.log("Banlist, Set File => JSON file parsed.")
             cardDataList = CardData.get_list_carddata(jsonObj)
-            Utils.log("CardData processed.")
+            Utils.log("Banlist, Set File => CardData processed.")
             for card in cardDataList:
                 cardPasscode: int = card.passcode
+                cardKonamiId: int = card.konami_id
                 cardName: str = card.name
-                cardSetNumber: str = card.set_number
-                if cardPasscode in banlistCardDict:
+                qty: int = 3
+                if cardKonamiId in banlistCardDict:
                     pass #do nothing
                     #Utils.log(f"Card already exist => {cardPasscode} | name: {cardName}")
                 else:
-                    banlistCardDict[cardPasscode] = {
+                    # Parse restriction limit for card.
+                    banlistItemList = [item for item in listLimitBanned if cardKonamiId in item]
+                    if banlistItemList:
+                        banlistItemFirst = banlistItemList[0]
+                        qty = banlistItemFirst[1]
+                        listLimitBanned.remove(banlistItemFirst)
+                    
+                    # Add to dictionary for creating 'conf' file.
+                    banlistCardDict[cardKonamiId] = {
                         "name": cardName,
-                        "setcode": cardSetNumber
+                        "passcode": cardPasscode,
+                        "konami_id": cardKonamiId,
+                        "qty": qty
                     }
                     #Utils.log(f"Card info => {cardPasscode} | name: {cardName}")
         else:
-            Utils.log("JSON file parsing failed!")
+            Utils.log("Banlist, Set File => JSON file parsing failed!")
 
     # Create conf whitelist file
     if banlistCardDict:
@@ -416,26 +407,21 @@ def process_banlist():
         # Iterate over JSON items.
         for key in banlistCardDict:
             if key and key != 0 :
-                cardPasscode: int = key
-                item = banlistCardDict[cardPasscode]
-                qty: int = 3
+                cardKonamiId: int = key
+                item = banlistCardDict[cardKonamiId]
+                cardPasscode: int = int(item["passcode"])
                 cardName: str = str(item["name"])
+                qty: int = int(item["qty"])
 
-                # Check qty from list of tuples.
-                banlistItemList = [item for item in listLimitBanned if cardName in item]
-                if banlistItemList:
-                    banlistItemFirst = banlistItemList[0]
-                    qty = banlistItemFirst[1]
-                    listLimitBanned.remove(banlistItemFirst)
                 # Write qty to CONF file.
                 if qty > 0:
                     contentToWrite: str = f"{cardPasscode} {qty} # {cardName}"
                     banlistContents += contentToWrite + "\n"
                     if qty < 3:
-                        Utils.log(f"CONF => Card is restricted to {qty} => {cardName}")
+                        Utils.log(f"Banlist, CONF => Card is restricted to { qty } | { cardName }")
                     #Utils.log(f"Card to write => {contentToWrite}")
                 else:
-                    Utils.log(f"CONF => Card is banned => {cardName}")
+                    Utils.log(f"Banlist, CONF => Card is banned | { cardName }")
         # Create output file
         Utils.write_file(FILE_OUTPUT_BANLIST, banlistContents)
 
