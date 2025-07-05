@@ -46,7 +46,8 @@ URL_BANLIST_AE = "https://dawnbrandbots.github.io/yaml-yugi-limit-regulation/ocg
 # File paths
 EXT_OUTPUT_BANLIST = ".lflist.conf"
 FILE_OUTPUT_BODY = "result.json"
-FILE_OUTPUT_DONE_SET = "setlist_done.log"# Already processed setcode prefix
+FILE_OUTPUT_DONE_SET = "setlist_done.log" # Already processed setcode prefix
+FILE_OUTPUT_ERROR_SET = "setlist_error.log" # Set with an error
 FILE_OUTPUT_BANLIST = "AE_Banlist" + EXT_OUTPUT_BANLIST
 FILE_CACHE_BANLIST = BANLIST_TITLE + ".json"
 FOLDER_OUTPUT = "output"#Folder to save all json files per set
@@ -442,6 +443,9 @@ try:
             if os.path.isfile(outputBanlistFileItem):
                 Utils.log(f"Output file deleted (BANLIST) => {outputBanlistFileItem}")
                 os.remove(outputBanlistFileItem)
+    
+    # Clear existing setlist with error
+    Utils.write_file(FILE_OUTPUT_ERROR_SET, "")
 
     # Check URL
     if INPUT_URL is None or INPUT_URL == "":
@@ -480,6 +484,7 @@ try:
 
     
     Utils.log("Parsing JSON response...")
+    setPrefix: str = ""
     try:
         parseData = WikiSet.fromJson(CONTENTS_HTML)
         if parseData is None:
@@ -489,9 +494,9 @@ try:
         for dataKey, dataValue in parseData.results.items():
             Utils.log(f"Set details => { dataKey } | { dataValue.fullurl }")
             
+            setPrefix = ""
             setLink: str = ""
             setLinkWithCardSetList: str = ""
-            setPrefix: str = ""
             setReleaseDate: datetime = None
             setReleaseDateRaw: int = 0
 
@@ -563,6 +568,8 @@ try:
                 break
     except Exception as innerEx:
         Utils.log_err("Parse Wiki JSON", innerEx)
+        if setPrefix:
+            Utils.append_file(FILE_OUTPUT_ERROR_SET, f"{setPrefix}{NEWLINE}")
         raise Exception("JSON Data cannot be parsed!")
 
     #Process whitelist for EDOPro when all setlists are done.
