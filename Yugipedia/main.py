@@ -158,7 +158,7 @@ def get_card_passcode(wikilink: str) -> CardInfo:
         konami_id = cardKonamiId
     )
 
-def load_dict_from_json(filename: str) -> dict[str, int]:
+def load_dict_from_json(filename: str) -> dict[str, any]:
     # Load contents from file
     jsobObj = Utils.read_json(filename)
     dictReturn = { }
@@ -166,8 +166,12 @@ def load_dict_from_json(filename: str) -> dict[str, int]:
     if jsobObj:
         for item in jsobObj:
             setCode = str(item["set_number"]).strip().upper()
-            passCode = int(item["passcode"])
-            dictReturn[setCode] = passCode
+            passcode = int(item["passcode"])
+            konami_id = int(item["konami_id"])
+            dictReturn[setCode] = {
+                "passcode": passcode,
+                "konami_id": konami_id,
+            }
 
         return dictReturn
     
@@ -272,8 +276,10 @@ def process_setlist(setFullName: str, inputString: str, filename: str, listCardI
 
                     if dictAlreadyExist:
                         if cardSetcode in dictAlreadyExist:
-                            cardPasscode = dictAlreadyExist[cardSetcode]
-                            Utils.log(f"Set list page => Use cached passcode from existing json file. Passcode: {cardPasscode}")
+                            itemExist = dictAlreadyExist[cardSetcode]
+                            cardPasscode = int(itemExist["passcode"])
+                            cardKonamiId = int(itemExist["konami_id"])
+                            Utils.log(f"Set list page => Use cached passcode from existing json file. Passcode: { cardPasscode } | Konami Id: { cardKonamiId }")
 
                     if lenSoupListProp > 5:
                         cardNameJap = soupItemListProp[INDEX_JAP_NAME].text.strip()
