@@ -15,7 +15,7 @@ TIME_START = time.time()
 
 # Global constants
 DEBUG = False
-MAX_SET_TO_PROCESS = 5
+MAX_SET_TO_PROCESS = 7
 NEWLINE = '\n'
 DELAY_SETLIST = 2
 DELAY_PASSCODE = 1
