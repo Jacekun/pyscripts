@@ -15,7 +15,7 @@ TIME_START = time.time()
 
 # Global constants
 DEBUG = False
-MAX_SET_TO_PROCESS = 7
+MAX_SET_TO_PROCESS = 5
 NEWLINE = '\n'
 DELAY_SETLIST = 2
 DELAY_PASSCODE = 1
@@ -433,7 +433,7 @@ def process_banlist():
                     else:
                         Utils.log(f"Banlist, CONF => Card is banned | { cardName }")
                 else:
-                    Utils.append_file(FILE_CACHE_SKIPPED_CARDS, f"Skipped Konami Id: { cardKonamiId } | Name: { cardName }")
+                    Utils.append_file(FILE_CACHE_SKIPPED_CARDS, f"Skipped Konami Id: { cardKonamiId } | Name: { cardName } \n")
         # Create output file
         Utils.write_file(FILE_OUTPUT_BANLIST, banlistContents)
 
