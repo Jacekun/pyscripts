@@ -1,0 +1,622 @@
+[
+    {
+        "name": "D.D. Crow",
+        "passcode": 24508238,
+        "konami_id": 6980,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP01",
+        "set_number": "SDID-AEP01",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Droll & Lock Bird",
+        "passcode": 94145021,
+        "konami_id": 9279,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP02",
+        "set_number": "SDID-AEP02",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Ghost Ogre & Snow Rabbit",
+        "passcode": 59438930,
+        "konami_id": 11708,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP03",
+        "set_number": "SDID-AEP03",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Illusion of Chaos",
+        "passcode": 12266229,
+        "konami_id": 16839,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP04",
+        "set_number": "SDID-AEP04",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Guardian Chimera",
+        "passcode": 11321089,
+        "konami_id": 16845,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP05",
+        "set_number": "SDID-AEP05",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Timaeus the United Dragon",
+        "passcode": 3078380,
+        "konami_id": 16808,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP06",
+        "set_number": "SDID-AEP06",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "King of the Swamp",
+        "passcode": 79109599,
+        "konami_id": 6044,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP07",
+        "set_number": "SDID-AEP07",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Ebon Illusion Magician",
+        "passcode": 96471335,
+        "konami_id": 11125,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP08",
+        "set_number": "SDID-AEP08",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Ebon High Magician",
+        "passcode": 85551711,
+        "konami_id": 12451,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP09",
+        "set_number": "SDID-AEP09",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Thousand Knives",
+        "passcode": 63391643,
+        "konami_id": 5166,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP10",
+        "set_number": "SDID-AEP10",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Diffusion Wave-Motion",
+        "passcode": 87880531,
+        "konami_id": 5631,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP11",
+        "set_number": "SDID-AEP11",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Magic Attack",
+        "passcode": 2314238,
+        "konami_id": 6057,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP12",
+        "set_number": "SDID-AEP12",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "The Eye of Timaeus",
+        "passcode": 1784686,
+        "konami_id": 10326,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP13",
+        "set_number": "SDID-AEP13",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Chaos Form",
+        "passcode": 21082832,
+        "konami_id": 12491,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP14",
+        "set_number": "SDID-AEP14",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Piercing the Darkness",
+        "passcode": 21862633,
+        "konami_id": 16655,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP15",
+        "set_number": "SDID-AEP15",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Raigeki",
+        "passcode": 12580477,
+        "konami_id": 4343,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP16",
+        "set_number": "SDID-AEP16",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Scapegoat",
+        "passcode": 73915051,
+        "konami_id": 4818,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP17",
+        "set_number": "SDID-AEP17",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Allure of Darkness",
+        "passcode": 1475311,
+        "konami_id": 7570,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP18",
+        "set_number": "SDID-AEP18",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Renewal",
+        "passcode": 9287078,
+        "konami_id": 4822,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP19",
+        "set_number": "SDID-AEP19",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Mirror Force",
+        "passcode": 44095762,
+        "konami_id": 4887,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AEP20",
+        "set_number": "SDID-AEP20",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Magician",
+        "passcode": 46986414,
+        "konami_id": 4041,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE001",
+        "set_number": "SDID-AE001",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Ultra Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Magician Girl",
+        "passcode": 38033121,
+        "konami_id": 4766,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE002",
+        "set_number": "SDID-AE002",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magician of Dark Illusion",
+        "passcode": 35191415,
+        "konami_id": 12416,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE003",
+        "set_number": "SDID-AE003",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magician's Robe",
+        "passcode": 71696014,
+        "konami_id": 12417,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE004",
+        "set_number": "SDID-AE004",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magician's Rod",
+        "passcode": 7084129,
+        "konami_id": 12418,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE005",
+        "set_number": "SDID-AE005",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magicians' Souls",
+        "passcode": 97631303,
+        "konami_id": 14906,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE006",
+        "set_number": "SDID-AE006",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Apprentice Illusion Magician",
+        "passcode": 30603688,
+        "konami_id": 12817,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE007",
+        "set_number": "SDID-AE007",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magikuriboh",
+        "passcode": 31699677,
+        "konami_id": 16806,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE008",
+        "set_number": "SDID-AE008",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dimension Conjurer",
+        "passcode": 77683371,
+        "konami_id": 16807,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE009",
+        "set_number": "SDID-AE009",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Jester Confit",
+        "passcode": 8487449,
+        "konami_id": 8300,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE010",
+        "set_number": "SDID-AE010",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Sangan",
+        "passcode": 26202165,
+        "konami_id": 4054,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE011",
+        "set_number": "SDID-AE011",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Witch of the Black Forest",
+        "passcode": 78010363,
+        "konami_id": 4580,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE012",
+        "set_number": "SDID-AE012",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Legion the Fiend Jester",
+        "passcode": 25280974,
+        "konami_id": 4745,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE013",
+        "set_number": "SDID-AE013",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Kycoo the Ghost Destroyer",
+        "passcode": 88240808,
+        "konami_id": 5248,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE014",
+        "set_number": "SDID-AE014",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Breaker the Magical Warrior",
+        "passcode": 71413901,
+        "konami_id": 5655,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE015",
+        "set_number": "SDID-AE015",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Summoner Monk",
+        "passcode": 423585,
+        "konami_id": 6400,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE016",
+        "set_number": "SDID-AE016",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Spellbook Magician of Prophecy",
+        "passcode": 14824019,
+        "konami_id": 10145,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE017",
+        "set_number": "SDID-AE017",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Armageddon Knight",
+        "passcode": 28985331,
+        "konami_id": 7423,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE018",
+        "set_number": "SDID-AE018",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Keeper of Dragon Magic",
+        "passcode": 48048590,
+        "konami_id": 13689,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE019",
+        "set_number": "SDID-AE019",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Mana Dragon Zirnitron",
+        "passcode": 11074235,
+        "konami_id": 13737,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE020",
+        "set_number": "SDID-AE020",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magical Dimension",
+        "passcode": 28553439,
+        "konami_id": 5752,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE021",
+        "set_number": "SDID-AE021",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Magical Circle",
+        "passcode": 47222536,
+        "konami_id": 12456,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE022",
+        "set_number": "SDID-AE022",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Illusion Magic",
+        "passcode": 73616671,
+        "konami_id": 12457,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE023",
+        "set_number": "SDID-AE023",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Magic Expanded",
+        "passcode": 111280,
+        "konami_id": 12458,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE024",
+        "set_number": "SDID-AE024",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Magic Inheritance",
+        "passcode": 41735184,
+        "konami_id": 12579,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE025",
+        "set_number": "SDID-AE025",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Soul Servant",
+        "passcode": 23020408,
+        "konami_id": 14907,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE026",
+        "set_number": "SDID-AE026",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Secrets of Dark Magic",
+        "passcode": 59514116,
+        "konami_id": 14908,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE027",
+        "set_number": "SDID-AE027",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Monster Reborn",
+        "passcode": 83764718,
+        "konami_id": 4842,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE028",
+        "set_number": "SDID-AE028",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Polymerization",
+        "passcode": 24094653,
+        "konami_id": 4837,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE029",
+        "set_number": "SDID-AE029",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Secret Village of the Spellcasters",
+        "passcode": 68462976,
+        "konami_id": 7916,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE030",
+        "set_number": "SDID-AE030",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Wonder Wand",
+        "passcode": 67775894,
+        "konami_id": 9662,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE031",
+        "set_number": "SDID-AE031",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Fusion Substitute",
+        "passcode": 74335036,
+        "konami_id": 11504,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE032",
+        "set_number": "SDID-AE032",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Spellbook of Secrets",
+        "passcode": 89739383,
+        "konami_id": 10187,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE033",
+        "set_number": "SDID-AE033",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Spellbook of Knowledge",
+        "passcode": 23314220,
+        "konami_id": 13101,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE034",
+        "set_number": "SDID-AE034",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Fusion Deployment",
+        "passcode": 6498706,
+        "konami_id": 15057,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE035",
+        "set_number": "SDID-AE035",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Eternal Soul",
+        "passcode": 48680970,
+        "konami_id": 11672,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE036",
+        "set_number": "SDID-AE036",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magician Navigation",
+        "passcode": 7922915,
+        "konami_id": 12470,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE037",
+        "set_number": "SDID-AE037",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magicians' Combination",
+        "passcode": 86509711,
+        "konami_id": 14909,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE038",
+        "set_number": "SDID-AE038",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Solemn Judgment",
+        "passcode": 41420027,
+        "konami_id": 4861,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE039",
+        "set_number": "SDID-AE039",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Magic Cylinder",
+        "passcode": 62279055,
+        "konami_id": 5124,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE040",
+        "set_number": "SDID-AE040",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Amulet Dragon",
+        "passcode": 75380687,
+        "konami_id": 10325,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE041",
+        "set_number": "SDID-AE041",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Magician the Dragon Knight",
+        "passcode": 41721210,
+        "konami_id": 13357,
+        "wikilink": "https://yugipedia.com/wiki/SDID-AE042",
+        "set_number": "SDID-AE042",
+        "set_name": "Structure Deck: Illusion of the Dark Magicians",
+        "rarity": "Ultra Rare",
+        "date_release": "11 NOVEMBER 2023"
+    }
+]
