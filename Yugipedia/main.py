@@ -49,7 +49,8 @@ FILE_OUTPUT_BODY = "result.json"
 FILE_OUTPUT_DONE_SET = "setlist_done.log" # Already processed setcode prefix
 FILE_OUTPUT_ERROR_SET = "setlist_error.log" # Set with an error
 FILE_OUTPUT_BANLIST = "AE_Banlist" + EXT_OUTPUT_BANLIST
-FILE_CACHE_BANLIST = BANLIST_TITLE + ".json"
+FILE_CACHE_BANLIST = "BanlistBase.json"
+FILE_CACHE_SKIPPED_CARDS = "SkippedCards.log"
 FOLDER_OUTPUT = "output"#Folder to save all json files per set
 
 # List objects
@@ -420,15 +421,19 @@ def process_banlist():
                 cardName: str = str(item["name"])
                 qty: int = int(item["qty"])
 
-                # Write qty to CONF file.
-                if qty > 0:
-                    contentToWrite: str = f"{cardPasscode} {qty} # {cardName}"
-                    banlistContents += contentToWrite + "\n"
-                    if qty < 3:
-                        Utils.log(f"Banlist, CONF => Card is restricted to { qty } | { cardName }")
-                    #Utils.log(f"Card to write => {contentToWrite}")
+                # Skip cards without passcode
+                if cardPasscode > 0:
+                    # Write qty to CONF file.
+                    if qty > 0:
+                        contentToWrite: str = f"{cardPasscode} {qty} # {cardName}"
+                        banlistContents += contentToWrite + "\n"
+                        if qty < 3:
+                            Utils.log(f"Banlist, CONF => Card is restricted to { qty } | { cardName }")
+                        #Utils.log(f"Card to write => {contentToWrite}")
+                    else:
+                        Utils.log(f"Banlist, CONF => Card is banned | { cardName }")
                 else:
-                    Utils.log(f"Banlist, CONF => Card is banned | { cardName }")
+                    Utils.append_file(FILE_CACHE_SKIPPED_CARDS, f"Skipped Konami Id: { cardKonamiId } | Name: { cardName }")
         # Create output file
         Utils.write_file(FILE_OUTPUT_BANLIST, banlistContents)
 
@@ -452,6 +457,7 @@ try:
     
     # Clear existing setlist with error
     Utils.write_file(FILE_OUTPUT_ERROR_SET, "")
+    Utils.write_file(FILE_CACHE_SKIPPED_CARDS, "")
 
     # Check URL
     if INPUT_URL is None or INPUT_URL == "":
