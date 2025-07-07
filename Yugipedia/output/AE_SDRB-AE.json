@@ -1,0 +1,622 @@
+[
+    {
+        "name": "Blue-Eyes Alternative White Dragon",
+        "passcode": 38517737,
+        "konami_id": 12253,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP01",
+        "set_number": "SDRB-AEP01",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dragon Spirit of White",
+        "passcode": 45467446,
+        "konami_id": 12290,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP02",
+        "set_number": "SDRB-AEP02",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Destrudo the Lost Dragon's Frisson",
+        "passcode": 5560911,
+        "konami_id": 13254,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP03",
+        "set_number": "SDRB-AEP03",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Blue-Eyes Jet Dragon",
+        "passcode": 30576089,
+        "konami_id": 16809,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP04",
+        "set_number": "SDRB-AEP04",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "The Ultimate Creature of Destruction",
+        "passcode": 56920308,
+        "konami_id": 13846,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP05",
+        "set_number": "SDRB-AEP05",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Secret Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Priestess with Eyes of Blue",
+        "passcode": 36734924,
+        "konami_id": 12251,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP06",
+        "set_number": "SDRB-AEP06",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Blue-Eyes Solid Dragon",
+        "passcode": 57043986,
+        "konami_id": 13843,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP07",
+        "set_number": "SDRB-AEP07",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Stardust Spark Dragon",
+        "passcode": 83994433,
+        "konami_id": 10479,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP08",
+        "set_number": "SDRB-AEP08",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Black Rose Moonlight Dragon",
+        "passcode": 33698022,
+        "konami_id": 11123,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP09",
+        "set_number": "SDRB-AEP09",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Bingo Machine, Go!!!",
+        "passcode": 93437091,
+        "konami_id": 13844,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP10",
+        "set_number": "SDRB-AEP10",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Return of the Dragon Lords",
+        "passcode": 6853254,
+        "konami_id": 12364,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP11",
+        "set_number": "SDRB-AEP11",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Harpie's Feather Duster",
+        "passcode": 18144506,
+        "konami_id": 4678,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP12",
+        "set_number": "SDRB-AEP12",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Foolish Burial",
+        "passcode": 81439173,
+        "konami_id": 5236,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP13",
+        "set_number": "SDRB-AEP13",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Book of Moon",
+        "passcode": 14087893,
+        "konami_id": 5432,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP14",
+        "set_number": "SDRB-AEP14",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Forbidden Chalice",
+        "passcode": 25789292,
+        "konami_id": 8213,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP15",
+        "set_number": "SDRB-AEP15",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Forbidden Lance",
+        "passcode": 27243130,
+        "konami_id": 9352,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP16",
+        "set_number": "SDRB-AEP16",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Where Arf Thou?",
+        "passcode": 51405049,
+        "konami_id": 10192,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP17",
+        "set_number": "SDRB-AEP17",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Crackdown",
+        "passcode": 36975314,
+        "konami_id": 14328,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP18",
+        "set_number": "SDRB-AEP18",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Bottomless Trap Hole",
+        "passcode": 29401950,
+        "konami_id": 5400,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP19",
+        "set_number": "SDRB-AEP19",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dark Bribe",
+        "passcode": 77538567,
+        "konami_id": 7349,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AEP20",
+        "set_number": "SDRB-AEP20",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Blue-Eyes White Dragon",
+        "passcode": 89631139,
+        "konami_id": 4007,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE001",
+        "set_number": "SDRB-AE001",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Ultra Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Labradorite Dragon",
+        "passcode": 62514770,
+        "konami_id": 10732,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE002",
+        "set_number": "SDRB-AE002",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Alexandrite Dragon",
+        "passcode": 43096270,
+        "konami_id": 9863,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE003",
+        "set_number": "SDRB-AE003",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Flamvell Guard",
+        "passcode": 21615956,
+        "konami_id": 7535,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE004",
+        "set_number": "SDRB-AE004",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Maiden with Eyes of Blue",
+        "passcode": 88241506,
+        "konami_id": 10588,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE005",
+        "set_number": "SDRB-AE005",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Protector with Eyes of Blue",
+        "passcode": 72855441,
+        "konami_id": 12291,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE006",
+        "set_number": "SDRB-AE006",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Sage with Eyes of Blue",
+        "passcode": 8240199,
+        "konami_id": 12292,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE007",
+        "set_number": "SDRB-AE007",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Master with Eyes of Blue",
+        "passcode": 45644898,
+        "konami_id": 12293,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE008",
+        "set_number": "SDRB-AE008",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Rider of the Storm Winds",
+        "passcode": 14235211,
+        "konami_id": 10589,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE009",
+        "set_number": "SDRB-AE009",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Keeper of the Shrine",
+        "passcode": 66752837,
+        "konami_id": 11808,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE010",
+        "set_number": "SDRB-AE010",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "The White Stone of Legend",
+        "passcode": 79814787,
+        "konami_id": 7850,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE011",
+        "set_number": "SDRB-AE011",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "The White Stone of Ancients",
+        "passcode": 71039903,
+        "konami_id": 12294,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE012",
+        "set_number": "SDRB-AE012",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Kaibaman",
+        "passcode": 34627841,
+        "konami_id": 6298,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE013",
+        "set_number": "SDRB-AE013",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dictator of D.",
+        "passcode": 66961194,
+        "konami_id": 16810,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE014",
+        "set_number": "SDRB-AE014",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Hardened Armed Dragon",
+        "passcode": 68473226,
+        "konami_id": 8374,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE015",
+        "set_number": "SDRB-AE015",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Hieratic Dragon of Nuit",
+        "passcode": 41639001,
+        "konami_id": 10041,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE016",
+        "set_number": "SDRB-AE016",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Omni Dragon Brotaur",
+        "passcode": 8972398,
+        "konami_id": 14270,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE017",
+        "set_number": "SDRB-AE017",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Chaos Dragon Levianeer",
+        "passcode": 55878038,
+        "konami_id": 13912,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE018",
+        "set_number": "SDRB-AE018",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Honest",
+        "passcode": 37742478,
+        "konami_id": 7574,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE019",
+        "set_number": "SDRB-AE019",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Carboneddon",
+        "passcode": 15981690,
+        "konami_id": 11167,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE020",
+        "set_number": "SDRB-AE020",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dragon Shrine",
+        "passcode": 41620959,
+        "konami_id": 10590,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE021",
+        "set_number": "SDRB-AE021",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Silver's Cry",
+        "passcode": 87025064,
+        "konami_id": 10591,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE022",
+        "set_number": "SDRB-AE022",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Burst Stream of Destruction",
+        "passcode": 17655904,
+        "konami_id": 5979,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE023",
+        "set_number": "SDRB-AE023",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Majesty with Eyes of Blue",
+        "passcode": 2783661,
+        "konami_id": 12587,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE024",
+        "set_number": "SDRB-AE024",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Vision with Eyes of Blue",
+        "passcode": 35659410,
+        "konami_id": 16855,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE025",
+        "set_number": "SDRB-AE025",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Mausoleum of White",
+        "passcode": 24382602,
+        "konami_id": 12331,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE026",
+        "set_number": "SDRB-AE026",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Beacon of White",
+        "passcode": 50371210,
+        "konami_id": 12332,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE027",
+        "set_number": "SDRB-AE027",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "The Melody of Awakening Dragon",
+        "passcode": 48800175,
+        "konami_id": 7508,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE028",
+        "set_number": "SDRB-AE028",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dragon Revival Rhapsody",
+        "passcode": 71867500,
+        "konami_id": 13642,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE029",
+        "set_number": "SDRB-AE029",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Dragon Ravine",
+        "passcode": 62265044,
+        "konami_id": 9049,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE030",
+        "set_number": "SDRB-AE030",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Terraforming",
+        "passcode": 73628505,
+        "konami_id": 5537,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE031",
+        "set_number": "SDRB-AE031",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Trade-In",
+        "passcode": 38120068,
+        "konami_id": 7248,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE032",
+        "set_number": "SDRB-AE032",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Cards of Consonance",
+        "passcode": 39701395,
+        "konami_id": 8656,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE033",
+        "set_number": "SDRB-AE033",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "One for One",
+        "passcode": 2295440,
+        "konami_id": 8197,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE034",
+        "set_number": "SDRB-AE034",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Enemy Controller",
+        "passcode": 98045062,
+        "konami_id": 5505,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE035",
+        "set_number": "SDRB-AE035",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "True Light",
+        "passcode": 62089826,
+        "konami_id": 16653,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE036",
+        "set_number": "SDRB-AE036",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Castle of Dragon Souls",
+        "passcode": 13513663,
+        "konami_id": 10592,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE037",
+        "set_number": "SDRB-AE037",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Call of the Haunted",
+        "passcode": 97077563,
+        "konami_id": 4989,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE038",
+        "set_number": "SDRB-AE038",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Ring of Destruction",
+        "passcode": 83555666,
+        "konami_id": 5005,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE039",
+        "set_number": "SDRB-AE039",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Champion's Vigilance",
+        "passcode": 82382815,
+        "konami_id": 9792,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE040",
+        "set_number": "SDRB-AE040",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Common",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Azure-Eyes Silver Dragon",
+        "passcode": 40908371,
+        "konami_id": 10593,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE041",
+        "set_number": "SDRB-AE041",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Super Rare",
+        "date_release": "11 NOVEMBER 2023"
+    },
+    {
+        "name": "Blue-Eyes Spirit Dragon",
+        "passcode": 59822133,
+        "konami_id": 12324,
+        "wikilink": "https://yugipedia.com/wiki/SDRB-AE042",
+        "set_number": "SDRB-AE042",
+        "set_name": "Structure Deck: Rise of the Blue-Eyes",
+        "rarity": "Ultra Rare",
+        "date_release": "11 NOVEMBER 2023"
+    }
+]
