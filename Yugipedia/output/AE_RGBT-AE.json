@@ -1,0 +1,922 @@
+[
+    {
+        "name": "Rockstone Warrior",
+        "passcode": 51987571,
+        "konami_id": 8154,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE001",
+        "set_number": "RGBT-AE001",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Level Warrior",
+        "passcode": 97385276,
+        "konami_id": 8155,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE002",
+        "set_number": "RGBT-AE002",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Strong Wind Dragon",
+        "passcode": 23770284,
+        "konami_id": 8156,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE003",
+        "set_number": "RGBT-AE003",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Dark Verger",
+        "passcode": 50164989,
+        "konami_id": 8157,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE004",
+        "set_number": "RGBT-AE004",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Phoenixian Seed",
+        "passcode": 96553688,
+        "konami_id": 8158,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE005",
+        "set_number": "RGBT-AE005",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Phoenixian Cluster Amaryllis",
+        "passcode": 23558733,
+        "konami_id": 8159,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE006",
+        "set_number": "RGBT-AE006",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Rose Tentacles",
+        "passcode": 41160533,
+        "konami_id": 8003,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE007",
+        "set_number": "RGBT-AE007",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Hedge Guard",
+        "passcode": 59042331,
+        "konami_id": 8160,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE008",
+        "set_number": "RGBT-AE008",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Evil Thorn",
+        "passcode": 85431040,
+        "konami_id": 8161,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE009",
+        "set_number": "RGBT-AE009",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Blackwing - Blizzard the Far North",
+        "passcode": 22835145,
+        "konami_id": 8162,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE010",
+        "set_number": "RGBT-AE010",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Blackwing - Shura the Blue Flame",
+        "passcode": 58820853,
+        "konami_id": 8163,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE011",
+        "set_number": "RGBT-AE011",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Blackwing - Kalut the Moon Shadow",
+        "passcode": 85215458,
+        "konami_id": 8164,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE012",
+        "set_number": "RGBT-AE012",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Blackwing - Elphin the Raven",
+        "passcode": 11613567,
+        "konami_id": 8165,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE013",
+        "set_number": "RGBT-AE013",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Morphtronic Remoten",
+        "passcode": 57108202,
+        "konami_id": 8166,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE014",
+        "set_number": "RGBT-AE014",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Morphtronic Videon",
+        "passcode": 84592800,
+        "konami_id": 8167,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE015",
+        "set_number": "RGBT-AE015",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Morphtronic Scopen",
+        "passcode": 10591919,
+        "konami_id": 8168,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE016",
+        "set_number": "RGBT-AE016",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Gadget Arms",
+        "passcode": 47985614,
+        "konami_id": 8169,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE017",
+        "set_number": "RGBT-AE017",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Torapart",
+        "passcode": 83370323,
+        "konami_id": 8170,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE018",
+        "set_number": "RGBT-AE018",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Earthbound Immortal Aslla piscu",
+        "passcode": 10875327,
+        "konami_id": 8171,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE019",
+        "set_number": "RGBT-AE019",
+        "set_name": "Raging Battle",
+        "rarity": "Ultra Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Earthbound Immortal Aslla piscu",
+        "passcode": 10875327,
+        "konami_id": 8171,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE019",
+        "set_number": "RGBT-AE019",
+        "set_name": "Raging Battle",
+        "rarity": "",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Earthbound Immortal Aslla piscu",
+        "passcode": 10875327,
+        "konami_id": 8171,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE019",
+        "set_number": "RGBT-AE019",
+        "set_name": "Raging Battle",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Earthbound Immortal Ccapac Apu",
+        "passcode": 46263076,
+        "konami_id": 8172,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE020",
+        "set_number": "RGBT-AE020",
+        "set_name": "Raging Battle",
+        "rarity": "Ultra Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Earthbound Immortal Ccapac Apu",
+        "passcode": 46263076,
+        "konami_id": 8172,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE020",
+        "set_number": "RGBT-AE020",
+        "set_name": "Raging Battle",
+        "rarity": "",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Earthbound Immortal Ccapac Apu",
+        "passcode": 46263076,
+        "konami_id": 8172,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE020",
+        "set_number": "RGBT-AE020",
+        "set_name": "Raging Battle",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Valafar",
+        "passcode": 72258771,
+        "konami_id": 8173,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE021",
+        "set_number": "RGBT-AE021",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Powerhand",
+        "passcode": 19642889,
+        "konami_id": 8174,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE022",
+        "set_number": "RGBT-AE022",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Guardian",
+        "passcode": 45041488,
+        "konami_id": 8175,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE023",
+        "set_number": "RGBT-AE023",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Drago",
+        "passcode": 12435193,
+        "konami_id": 8176,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE024",
+        "set_number": "RGBT-AE024",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Ice",
+        "passcode": 54520292,
+        "konami_id": 8177,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE025",
+        "set_number": "RGBT-AE025",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Koa'ki Meiru Doom",
+        "passcode": 80925836,
+        "konami_id": 8178,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE026",
+        "set_number": "RGBT-AE026",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Brain Golem",
+        "passcode": 17313545,
+        "konami_id": 8179,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE027",
+        "set_number": "RGBT-AE027",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Minoan Centaur",
+        "passcode": 43708640,
+        "konami_id": 8180,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE028",
+        "set_number": "RGBT-AE028",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Reinforced Human Psychic Borg",
+        "passcode": 80102359,
+        "konami_id": 8181,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE029",
+        "set_number": "RGBT-AE029",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Master Gig",
+        "passcode": 16191953,
+        "konami_id": 8182,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE030",
+        "set_number": "RGBT-AE030",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Emissary from Pandemonium",
+        "passcode": 42685062,
+        "konami_id": 8183,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE031",
+        "set_number": "RGBT-AE031",
+        "set_name": "Raging Battle",
+        "rarity": "Normal Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Gigastone Omega",
+        "passcode": 79080761,
+        "konami_id": 8184,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE032",
+        "set_number": "RGBT-AE032",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Alien Dog",
+        "passcode": 15475415,
+        "konami_id": 8185,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE033",
+        "set_number": "RGBT-AE033",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Spined Gillman",
+        "passcode": 42463414,
+        "konami_id": 8186,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE034",
+        "set_number": "RGBT-AE034",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Deep Sea Diva",
+        "passcode": 78868119,
+        "konami_id": 8187,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE035",
+        "set_number": "RGBT-AE035",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Mermaid Archer",
+        "passcode": 4252828,
+        "konami_id": 8188,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE036",
+        "set_number": "RGBT-AE036",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Lava Dragon",
+        "passcode": 41741922,
+        "konami_id": 8189,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE037",
+        "set_number": "RGBT-AE037",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Vanguard of the Dragon",
+        "passcode": 77135531,
+        "konami_id": 8190,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE038",
+        "set_number": "RGBT-AE038",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "G.B. Hunter",
+        "passcode": 4130270,
+        "konami_id": 8191,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE039",
+        "set_number": "RGBT-AE039",
+        "set_name": "Raging Battle",
+        "rarity": "Normal Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Exploder Dragonwing",
+        "passcode": 40529384,
+        "konami_id": 8192,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE040",
+        "set_number": "RGBT-AE040",
+        "set_name": "Raging Battle",
+        "rarity": "Ultra Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Exploder Dragonwing",
+        "passcode": 40529384,
+        "konami_id": 8192,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE040",
+        "set_number": "RGBT-AE040",
+        "set_name": "Raging Battle",
+        "rarity": "",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Exploder Dragonwing",
+        "passcode": 40529384,
+        "konami_id": 8192,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE040",
+        "set_number": "RGBT-AE040",
+        "set_name": "Raging Battle",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Blackwing Armed Wing",
+        "passcode": 76913983,
+        "konami_id": 8193,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE041",
+        "set_number": "RGBT-AE041",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "konami_id": 8137,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "set_name": "Raging Battle",
+        "rarity": "Ultra Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "konami_id": 8137,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "set_name": "Raging Battle",
+        "rarity": "",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "konami_id": 8137,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "set_name": "Raging Battle",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "konami_id": 8137,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "set_name": "Raging Battle",
+        "rarity": "",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Power Tool Dragon",
+        "passcode": 2403771,
+        "konami_id": 8137,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE042",
+        "set_number": "RGBT-AE042",
+        "set_name": "Raging Battle",
+        "rarity": "Holographic Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Trident Dragion",
+        "passcode": 39402797,
+        "konami_id": 8195,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE043",
+        "set_number": "RGBT-AE043",
+        "set_name": "Raging Battle",
+        "rarity": "Ultra Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Trident Dragion",
+        "passcode": 39402797,
+        "konami_id": 8195,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE043",
+        "set_number": "RGBT-AE043",
+        "set_name": "Raging Battle",
+        "rarity": "",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Trident Dragion",
+        "passcode": 39402797,
+        "konami_id": 8195,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE043",
+        "set_number": "RGBT-AE043",
+        "set_name": "Raging Battle",
+        "rarity": "Ultimate Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Sea Dragon Lord Gishilnodon",
+        "passcode": 76891401,
+        "konami_id": 8196,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE044",
+        "set_number": "RGBT-AE044",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "One for One",
+        "passcode": 2295440,
+        "konami_id": 8197,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE045",
+        "set_number": "RGBT-AE045",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Mind Trust",
+        "passcode": 38680149,
+        "konami_id": 8198,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE046",
+        "set_number": "RGBT-AE046",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Thorn of Malice",
+        "passcode": 65079854,
+        "konami_id": 8199,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE047",
+        "set_number": "RGBT-AE047",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Magic Planter",
+        "passcode": 1073952,
+        "konami_id": 8200,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE048",
+        "set_number": "RGBT-AE048",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Wonder Clover",
+        "passcode": 38568567,
+        "konami_id": 8201,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE049",
+        "set_number": "RGBT-AE049",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Against the Wind",
+        "passcode": 64952266,
+        "konami_id": 8202,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE050",
+        "set_number": "RGBT-AE050",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Black Whirlwind",
+        "passcode": 91351370,
+        "konami_id": 8203,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE051",
+        "set_number": "RGBT-AE051",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Junk Box",
+        "passcode": 37745919,
+        "konami_id": 8204,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE052",
+        "set_number": "RGBT-AE052",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Double Tool C&D",
+        "passcode": 63730624,
+        "konami_id": 8205,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE053",
+        "set_number": "RGBT-AE053",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Morphtronic Repair Unit",
+        "passcode": 90239723,
+        "konami_id": 8206,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE054",
+        "set_number": "RGBT-AE054",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Iron Core of Koa'ki Meiru",
+        "passcode": 36623431,
+        "konami_id": 8207,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE055",
+        "set_number": "RGBT-AE055",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Iron Core Immediate Disposal",
+        "passcode": 63018036,
+        "konami_id": 8208,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE056",
+        "set_number": "RGBT-AE056",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Urgent Synthesis",
+        "passcode": 99002135,
+        "konami_id": 8209,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE057",
+        "set_number": "RGBT-AE057",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Psychic Path",
+        "passcode": 25401880,
+        "konami_id": 8210,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE058",
+        "set_number": "RGBT-AE058",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Natural Tune",
+        "passcode": 62896588,
+        "konami_id": 8211,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE059",
+        "set_number": "RGBT-AE059",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Supremacy Berry",
+        "passcode": 98380593,
+        "konami_id": 8212,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE060",
+        "set_number": "RGBT-AE060",
+        "set_name": "Raging Battle",
+        "rarity": "Normal Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Forbidden Chalice",
+        "passcode": 25789292,
+        "konami_id": 8213,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE061",
+        "set_number": "RGBT-AE061",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Calming Magic",
+        "passcode": 51773900,
+        "konami_id": 8214,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE062",
+        "set_number": "RGBT-AE062",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Miracle Locus",
+        "passcode": 97168905,
+        "konami_id": 8215,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE063",
+        "set_number": "RGBT-AE063",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Crimson Fire",
+        "passcode": 24566654,
+        "konami_id": 8216,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE064",
+        "set_number": "RGBT-AE064",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Tuner Capture",
+        "passcode": 50951359,
+        "konami_id": 8217,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE065",
+        "set_number": "RGBT-AE065",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Overdoom Line",
+        "passcode": 87046457,
+        "konami_id": 8218,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE066",
+        "set_number": "RGBT-AE066",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Wicked Rebirth",
+        "passcode": 23440062,
+        "konami_id": 8219,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE067",
+        "set_number": "RGBT-AE067",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Delta Crow - Anti Reverse",
+        "passcode": 59839761,
+        "konami_id": 8220,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE068",
+        "set_number": "RGBT-AE068",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Level Retuner",
+        "passcode": 86223870,
+        "konami_id": 8221,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE069",
+        "set_number": "RGBT-AE069",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Fake Feather",
+        "passcode": 22628574,
+        "konami_id": 8222,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE070",
+        "set_number": "RGBT-AE070",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Trap Stun",
+        "passcode": 59616123,
+        "konami_id": 8223,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE071",
+        "set_number": "RGBT-AE071",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Morphtronic Bind",
+        "passcode": 85101228,
+        "konami_id": 8224,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE072",
+        "set_number": "RGBT-AE072",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Reckoned Power",
+        "passcode": 11596936,
+        "konami_id": 8225,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE073",
+        "set_number": "RGBT-AE073",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Automatic Laser",
+        "passcode": 58990631,
+        "konami_id": 8226,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE074",
+        "set_number": "RGBT-AE074",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Attack of the Cornered Rat",
+        "passcode": 84389640,
+        "konami_id": 8227,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE075",
+        "set_number": "RGBT-AE075",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Proof of Powerlessness",
+        "passcode": 11373345,
+        "konami_id": 8228,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE076",
+        "set_number": "RGBT-AE076",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Bone Temple Block",
+        "passcode": 47778083,
+        "konami_id": 8229,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE077",
+        "set_number": "RGBT-AE077",
+        "set_name": "Raging Battle",
+        "rarity": "Normal Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Grave of the Super Ancient Organism",
+        "passcode": 83266092,
+        "konami_id": 8230,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE078",
+        "set_number": "RGBT-AE078",
+        "set_name": "Raging Battle",
+        "rarity": "Super Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Swallow Flip",
+        "passcode": 10651797,
+        "konami_id": 8231,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE079",
+        "set_number": "RGBT-AE079",
+        "set_name": "Raging Battle",
+        "rarity": "Rare",
+        "date_release": "6 AUGUST 2009"
+    },
+    {
+        "name": "Mirror of Oaths",
+        "passcode": 46656406,
+        "konami_id": 8232,
+        "wikilink": "https://yugipedia.com/wiki/RGBT-AE080",
+        "set_number": "RGBT-AE080",
+        "set_name": "Raging Battle",
+        "rarity": "Common",
+        "date_release": "6 AUGUST 2009"
+    }
+]
