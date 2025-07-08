@@ -1824,6 +1824,24 @@
             "exists": "1",
             "displaytitle": "Creation Pack 08 +1 Bonus Pack"
         },
+        "Tournament Pack 2025 Vol.2 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "25AT-AE2"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1751328000",
+                        "raw": "1/2025/7/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2025 Vol.2 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.2_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tournament Pack 2025 Vol.2 (Asian-English)"
+        },
         "Duelist's Advance": {
             "printouts": {
                 "Prefix": [
@@ -1881,5 +1899,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 103
+    "rows": 104
 }
