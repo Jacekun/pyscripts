@@ -563,10 +563,10 @@ try:
                         #outputListCardDataFiltered = filter_list_unique_set(outputListCardData)
                         resultSuccess = save_cardlist_to_json(outputFileSet, outputListCardData)
                         if resultSuccess:
-                            count += 1
                             # Save prefix only if all cards from setlist is processed.
                             if successCardList:
                                 Utils.append_file(FILE_OUTPUT_DONE_SET, f"{setPrefix}{NEWLINE}")
+                                count += 1 # Increase count only if success.
                             else:
                                 Utils.log(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
                                 #raise Exception(f"Failed to parse Set list with prefix '{setPrefix}'. Check logs.")
