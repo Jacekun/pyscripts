@@ -1,12 +1,832 @@
 [
     {
         "name": "Supreme King Z-ARC",
-        "passcode": 0,
-        "konami_id": 0,
+        "passcode": 13331639,
+        "konami_id": 12953,
         "wikilink": "https://yugipedia.com/wiki/AGOV-AES01",
         "set_number": "AGOV-AES01",
         "set_name": "Age of Overlord +1 Bonus Pack",
         "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Supreme King Gate Magician",
+        "passcode": 14513273,
+        "konami_id": 19143,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE001",
+        "set_number": "AGOV-AE001",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Supreme King Gate Magician",
+        "passcode": 14513273,
+        "konami_id": 19143,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE001",
+        "set_number": "AGOV-AE001",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Supreme King Gate Magician",
+        "passcode": 14513273,
+        "konami_id": 19143,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE001",
+        "set_number": "AGOV-AE001",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "T.G. Rocket Salamander",
+        "passcode": 77392987,
+        "konami_id": 19145,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE003",
+        "set_number": "AGOV-AE003",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "T.G. Rocket Salamander",
+        "passcode": 77392987,
+        "konami_id": 19145,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE003",
+        "set_number": "AGOV-AE003",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "T.G. Rocket Salamander",
+        "passcode": 77392987,
+        "konami_id": 19145,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE003",
+        "set_number": "AGOV-AE003",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Veda Kalarcanum",
+        "passcode": 40785230,
+        "konami_id": 19147,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE005",
+        "set_number": "AGOV-AE005",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Veda Kalarcanum",
+        "passcode": 40785230,
+        "konami_id": 19147,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE005",
+        "set_number": "AGOV-AE005",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Veda Kalarcanum",
+        "passcode": 40785230,
+        "konami_id": 19147,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE005",
+        "set_number": "AGOV-AE005",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Diabellstar the Black Witch",
+        "passcode": 72270339,
+        "konami_id": 19148,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE006",
+        "set_number": "AGOV-AE006",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Diabellstar the Black Witch",
+        "passcode": 72270339,
+        "konami_id": 19148,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE006",
+        "set_number": "AGOV-AE006",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Diabellstar the Black Witch",
+        "passcode": 72270339,
+        "konami_id": 19148,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE006",
+        "set_number": "AGOV-AE006",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Snake-Eye Ash",
+        "passcode": 9674034,
+        "konami_id": 19149,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE007",
+        "set_number": "AGOV-AE007",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Snake-Eye Ash",
+        "passcode": 9674034,
+        "konami_id": 19149,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE007",
+        "set_number": "AGOV-AE007",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Snake-Eye Ash",
+        "passcode": 9674034,
+        "konami_id": 19149,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE007",
+        "set_number": "AGOV-AE007",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Snake-Eyes Flamberge Dragon",
+        "passcode": 48452496,
+        "konami_id": 19152,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE010",
+        "set_number": "AGOV-AE010",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Snake-Eyes Flamberge Dragon",
+        "passcode": 48452496,
+        "konami_id": 19152,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE010",
+        "set_number": "AGOV-AE010",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Snake-Eyes Flamberge Dragon",
+        "passcode": 48452496,
+        "konami_id": 19152,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE010",
+        "set_number": "AGOV-AE010",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Imsety, Glory of Horus",
+        "passcode": 84941194,
+        "konami_id": 19153,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE011",
+        "set_number": "AGOV-AE011",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Imsety, Glory of Horus",
+        "passcode": 84941194,
+        "konami_id": 19153,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE011",
+        "set_number": "AGOV-AE011",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Imsety, Glory of Horus",
+        "passcode": 84941194,
+        "konami_id": 19153,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE011",
+        "set_number": "AGOV-AE011",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Arias the Labrynth Butler",
+        "passcode": 73602965,
+        "konami_id": 19159,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE017",
+        "set_number": "AGOV-AE017",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Arias the Labrynth Butler",
+        "passcode": 73602965,
+        "konami_id": 19159,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE017",
+        "set_number": "AGOV-AE017",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Arias the Labrynth Butler",
+        "passcode": 73602965,
+        "konami_id": 19159,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE017",
+        "set_number": "AGOV-AE017",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Vanquish Soul Jiaolong",
+        "passcode": 9091064,
+        "konami_id": 19160,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE018",
+        "set_number": "AGOV-AE018",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Vanquish Soul Jiaolong",
+        "passcode": 9091064,
+        "konami_id": 19160,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE018",
+        "set_number": "AGOV-AE018",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Vanquish Soul Jiaolong",
+        "passcode": 9091064,
+        "konami_id": 19160,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE018",
+        "set_number": "AGOV-AE018",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Poissonniere de Nouvelles",
+        "passcode": 46485778,
+        "konami_id": 19161,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE019",
+        "set_number": "AGOV-AE019",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Poissonniere de Nouvelles",
+        "passcode": 46485778,
+        "konami_id": 19161,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE019",
+        "set_number": "AGOV-AE019",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Poissonniere de Nouvelles",
+        "passcode": 46485778,
+        "konami_id": 19161,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE019",
+        "set_number": "AGOV-AE019",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Dark Hole Dragon",
+        "passcode": 72880377,
+        "konami_id": 19162,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE020",
+        "set_number": "AGOV-AE020",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Dark Hole Dragon",
+        "passcode": 72880377,
+        "konami_id": 19162,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE020",
+        "set_number": "AGOV-AE020",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Dark Hole Dragon",
+        "passcode": 72880377,
+        "konami_id": 19162,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE020",
+        "set_number": "AGOV-AE020",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Odd-Eyes Arcray Dragon",
+        "passcode": 6218704,
+        "konami_id": 19172,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE030",
+        "set_number": "AGOV-AE030",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Odd-Eyes Arcray Dragon",
+        "passcode": 6218704,
+        "konami_id": 19172,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE030",
+        "set_number": "AGOV-AE030",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Odd-Eyes Arcray Dragon",
+        "passcode": 6218704,
+        "konami_id": 19172,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE030",
+        "set_number": "AGOV-AE030",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Berfomet the Mythical King of Phantom Beasts",
+        "passcode": 69601012,
+        "konami_id": 19174,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE032",
+        "set_number": "AGOV-AE032",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Berfomet the Mythical King of Phantom Beasts",
+        "passcode": 69601012,
+        "konami_id": 19174,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE032",
+        "set_number": "AGOV-AE032",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Berfomet the Mythical King of Phantom Beasts",
+        "passcode": 69601012,
+        "konami_id": 19174,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE032",
+        "set_number": "AGOV-AE032",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "T.G. Glaive Blaster",
+        "passcode": 95973569,
+        "konami_id": 19178,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE036",
+        "set_number": "AGOV-AE036",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "T.G. Glaive Blaster",
+        "passcode": 95973569,
+        "konami_id": 19178,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE036",
+        "set_number": "AGOV-AE036",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "T.G. Glaive Blaster",
+        "passcode": 95973569,
+        "konami_id": 19178,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE036",
+        "set_number": "AGOV-AE036",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Mannadium Trisukta",
+        "passcode": 21368273,
+        "konami_id": 19179,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE037",
+        "set_number": "AGOV-AE037",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Mannadium Trisukta",
+        "passcode": 21368273,
+        "konami_id": 19179,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE037",
+        "set_number": "AGOV-AE037",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Mannadium Trisukta",
+        "passcode": 21368273,
+        "konami_id": 19179,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE037",
+        "set_number": "AGOV-AE037",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Full Armored Dark Knight Lancer",
+        "passcode": 67630394,
+        "konami_id": 19183,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE041",
+        "set_number": "AGOV-AE041",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Full Armored Dark Knight Lancer",
+        "passcode": 67630394,
+        "konami_id": 19183,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE041",
+        "set_number": "AGOV-AE041",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Full Armored Dark Knight Lancer",
+        "passcode": 67630394,
+        "konami_id": 19183,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE041",
+        "set_number": "AGOV-AE041",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Super Starslayer TY-PHON - Sky Crisis",
+        "passcode": 93039339,
+        "konami_id": 19184,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE042",
+        "set_number": "AGOV-AE042",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Super Starslayer TY-PHON - Sky Crisis",
+        "passcode": 93039339,
+        "konami_id": 19184,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE042",
+        "set_number": "AGOV-AE042",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Super Starslayer TY-PHON - Sky Crisis",
+        "passcode": 93039339,
+        "konami_id": 19184,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE042",
+        "set_number": "AGOV-AE042",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Exceed the Pendulum",
+        "passcode": 92812851,
+        "konami_id": 19187,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE045",
+        "set_number": "AGOV-AE045",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Exceed the Pendulum",
+        "passcode": 92812851,
+        "konami_id": 19187,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE045",
+        "set_number": "AGOV-AE045",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Exceed the Pendulum",
+        "passcode": 92812851,
+        "konami_id": 19187,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE045",
+        "set_number": "AGOV-AE045",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "S:P Little Knight",
+        "passcode": 29301450,
+        "konami_id": 19188,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE046",
+        "set_number": "AGOV-AE046",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "S:P Little Knight",
+        "passcode": 29301450,
+        "konami_id": 19188,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE046",
+        "set_number": "AGOV-AE046",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "S:P Little Knight",
+        "passcode": 29301450,
+        "konami_id": 19188,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE046",
+        "set_number": "AGOV-AE046",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "WANTED: Seeker of Sinful Spoils",
+        "passcode": 80845034,
+        "konami_id": 19196,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE054",
+        "set_number": "AGOV-AE054",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "WANTED: Seeker of Sinful Spoils",
+        "passcode": 80845034,
+        "konami_id": 19196,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE054",
+        "set_number": "AGOV-AE054",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "WANTED: Seeker of Sinful Spoils",
+        "passcode": 80845034,
+        "konami_id": 19196,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE054",
+        "set_number": "AGOV-AE054",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Original Sinful Spoils - Snake-Eye",
+        "passcode": 89023486,
+        "konami_id": 19199,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE057",
+        "set_number": "AGOV-AE057",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Original Sinful Spoils - Snake-Eye",
+        "passcode": 89023486,
+        "konami_id": 19199,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE057",
+        "set_number": "AGOV-AE057",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Original Sinful Spoils - Snake-Eye",
+        "passcode": 89023486,
+        "konami_id": 19199,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE057",
+        "set_number": "AGOV-AE057",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "King's Sarcophagus",
+        "passcode": 16528181,
+        "konami_id": 19200,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE058",
+        "set_number": "AGOV-AE058",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "King's Sarcophagus",
+        "passcode": 16528181,
+        "konami_id": 19200,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE058",
+        "set_number": "AGOV-AE058",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "King's Sarcophagus",
+        "passcode": 16528181,
+        "konami_id": 19200,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE058",
+        "set_number": "AGOV-AE058",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Pendulum Sorcerer",
+        "passcode": 47075569,
+        "konami_id": 11615,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE081",
+        "set_number": "AGOV-AE081",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Pendulum Sorcerer",
+        "passcode": 47075569,
+        "konami_id": 11615,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE081",
+        "set_number": "AGOV-AE081",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Pendulum Sorcerer",
+        "passcode": 47075569,
+        "konami_id": 11615,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE081",
+        "set_number": "AGOV-AE081",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Skullcrobat Joker",
+        "passcode": 40318957,
+        "konami_id": 11938,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE082",
+        "set_number": "AGOV-AE082",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Skullcrobat Joker",
+        "passcode": 40318957,
+        "konami_id": 11938,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE082",
+        "set_number": "AGOV-AE082",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Skullcrobat Joker",
+        "passcode": 40318957,
+        "konami_id": 11938,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE082",
+        "set_number": "AGOV-AE082",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Five-Rainbow Magician",
+        "passcode": 19619755,
+        "konami_id": 13130,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE086",
+        "set_number": "AGOV-AE086",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Celestial Magician",
+        "passcode": 58092907,
+        "konami_id": 14925,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE087",
+        "set_number": "AGOV-AE087",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Performapal Duelist Extraordinaire",
+        "passcode": 92644052,
+        "konami_id": 17258,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE092",
+        "set_number": "AGOV-AE092",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Volcanic Emperor",
+        "passcode": 46412900,
+        "konami_id": 18915,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE099",
+        "set_number": "AGOV-AE099",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Supreme King Z-ARC",
+        "passcode": 13331639,
+        "konami_id": 12953,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE102",
+        "set_number": "AGOV-AE102",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Duelist Alliance",
+        "passcode": 37469904,
+        "konami_id": 12977,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE110",
+        "set_number": "AGOV-AE110",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Duelist Alliance",
+        "passcode": 37469904,
+        "konami_id": 12977,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE110",
+        "set_number": "AGOV-AE110",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Duelist Alliance",
+        "passcode": 37469904,
+        "konami_id": 12977,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE110",
+        "set_number": "AGOV-AE110",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Fire Ejection",
+        "passcode": 11654067,
+        "konami_id": 18919,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE114",
+        "set_number": "AGOV-AE114",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
+        "date_release": "23 FEBRUARY 2024"
+    },
+    {
+        "name": "Eye of Illusion",
+        "passcode": 23446369,
+        "konami_id": 19022,
+        "wikilink": "https://yugipedia.com/wiki/AGOV-AE115",
+        "set_number": "AGOV-AE115",
+        "set_name": "Age of Overlord +1 Bonus Pack",
+        "rarity": "Super Rare",
         "date_release": "23 FEBRUARY 2024"
     }
 ]

@@ -1,0 +1,2362 @@
+[
+    {
+        "name": "Silent Swordsman",
+        "passcode": 15180041,
+        "konami_id": 12564,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE001",
+        "set_number": "CR04-AE001",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Silent Swordsman LV7",
+        "passcode": 37267041,
+        "konami_id": 6166,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE002",
+        "set_number": "CR04-AE002",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Silent Magician",
+        "passcode": 41175645,
+        "konami_id": 12565,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE003",
+        "set_number": "CR04-AE003",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Silent Paladin",
+        "passcode": 19502505,
+        "konami_id": 12672,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE004",
+        "set_number": "CR04-AE004",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Silent Magician LV4",
+        "passcode": 73665146,
+        "konami_id": 6167,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE005",
+        "set_number": "CR04-AE005",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Silent Magician LV8",
+        "passcode": 72443568,
+        "konami_id": 6170,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE006",
+        "set_number": "CR04-AE006",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Silent Sword Slash",
+        "passcode": 18563744,
+        "konami_id": 12566,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE007",
+        "set_number": "CR04-AE007",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Silent Burning",
+        "passcode": 44968459,
+        "konami_id": 12567,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE008",
+        "set_number": "CR04-AE008",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Knight",
+        "passcode": 39303359,
+        "konami_id": 7294,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE009",
+        "set_number": "CR04-AE009",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Gadget",
+        "passcode": 18486927,
+        "konami_id": 12675,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE010",
+        "set_number": "CR04-AE010",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Box",
+        "passcode": 60953949,
+        "konami_id": 11061,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE011",
+        "set_number": "CR04-AE011",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Wyvern",
+        "passcode": 17663375,
+        "konami_id": 12678,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE012",
+        "set_number": "CR04-AE012",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Engineer",
+        "passcode": 1953925,
+        "konami_id": 6841,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE013",
+        "set_number": "CR04-AE013",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Gadjiltron Chimera",
+        "passcode": 86321248,
+        "konami_id": 6933,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE014",
+        "set_number": "CR04-AE014",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Hydra",
+        "passcode": 81269231,
+        "konami_id": 12677,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE015",
+        "set_number": "CR04-AE015",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Golem",
+        "passcode": 83104731,
+        "konami_id": 6315,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE016",
+        "set_number": "CR04-AE016",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Gadjiltron Dragon",
+        "passcode": 50933533,
+        "konami_id": 6932,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE017",
+        "set_number": "CR04-AE017",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Reactor Dragon",
+        "passcode": 44874522,
+        "konami_id": 12676,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE018",
+        "set_number": "CR04-AE018",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ultimate Ancient Gear Golem",
+        "passcode": 12652643,
+        "konami_id": 7616,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE019",
+        "set_number": "CR04-AE019",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Tank",
+        "passcode": 37457534,
+        "konami_id": 6842,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE020",
+        "set_number": "CR04-AE020",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Explosive",
+        "passcode": 4446672,
+        "konami_id": 6843,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE021",
+        "set_number": "CR04-AE021",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Fist",
+        "passcode": 40830387,
+        "konami_id": 6844,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE022",
+        "set_number": "CR04-AE022",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Workshop",
+        "passcode": 59811955,
+        "konami_id": 6935,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE023",
+        "set_number": "CR04-AE023",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Spell Gear",
+        "passcode": 313513,
+        "konami_id": 7622,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE024",
+        "set_number": "CR04-AE024",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Geartown",
+        "passcode": 37694547,
+        "konami_id": 7683,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE025",
+        "set_number": "CR04-AE025",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Catapult",
+        "passcode": 44052074,
+        "konami_id": 12679,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE026",
+        "set_number": "CR04-AE026",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ancient Gear Fortress",
+        "passcode": 70147689,
+        "konami_id": 12680,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE027",
+        "set_number": "CR04-AE027",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Score the Melodious Diva",
+        "passcode": 41767843,
+        "konami_id": 12121,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE028",
+        "set_number": "CR04-AE028",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Sonata the Melodious Diva",
+        "passcode": 76990617,
+        "konami_id": 11224,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE029",
+        "set_number": "CR04-AE029",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Aria the Melodious Diva",
+        "passcode": 40502912,
+        "konami_id": 11223,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE030",
+        "set_number": "CR04-AE030",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Canon the Melodious Diva",
+        "passcode": 16021142,
+        "konami_id": 11336,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE031",
+        "set_number": "CR04-AE031",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Serenade the Melodious Diva",
+        "passcode": 42029847,
+        "konami_id": 11337,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE032",
+        "set_number": "CR04-AE032",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Soprano the Melodious Songstress",
+        "passcode": 62895219,
+        "konami_id": 11685,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE033",
+        "set_number": "CR04-AE033",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Opera the Melodious Diva",
+        "passcode": 43268675,
+        "konami_id": 11792,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE034",
+        "set_number": "CR04-AE034",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Tamtam the Melodious Diva",
+        "passcode": 79757784,
+        "konami_id": 11793,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE035",
+        "set_number": "CR04-AE035",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Solo the Melodious Songstress",
+        "passcode": 14763299,
+        "konami_id": 12120,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE036",
+        "set_number": "CR04-AE036",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Elegy the Melodious Diva",
+        "passcode": 79514956,
+        "konami_id": 11338,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE037",
+        "set_number": "CR04-AE037",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Shopina the Melodious Maestra",
+        "passcode": 5908650,
+        "konami_id": 11339,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE038",
+        "set_number": "CR04-AE038",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mozarta the Melodious Maestra",
+        "passcode": 3395226,
+        "konami_id": 11225,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE039",
+        "set_number": "CR04-AE039",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Schuberta the Melodious Maestra",
+        "passcode": 57594700,
+        "konami_id": 11714,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE040",
+        "set_number": "CR04-AE040",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Bloom Diva the Melodious Choir",
+        "passcode": 84988419,
+        "konami_id": 11715,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE041",
+        "set_number": "CR04-AE041",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Bloom Prima the Melodious Choir",
+        "passcode": 24672164,
+        "konami_id": 12317,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE042",
+        "set_number": "CR04-AE042",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Bloom Harmonist the Melodious Composer",
+        "passcode": 34974462,
+        "konami_id": 14943,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE043",
+        "set_number": "CR04-AE043",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "1st Movement Solo",
+        "passcode": 44256816,
+        "konami_id": 11391,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE044",
+        "set_number": "CR04-AE044",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fortissimo",
+        "passcode": 11493868,
+        "konami_id": 12329,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE045",
+        "set_number": "CR04-AE045",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ostinato",
+        "passcode": 9113513,
+        "konami_id": 12859,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE046",
+        "set_number": "CR04-AE046",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Melodious Illusion",
+        "passcode": 63804637,
+        "konami_id": 11742,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE047",
+        "set_number": "CR04-AE047",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Leon",
+        "passcode": 23512906,
+        "konami_id": 18455,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE048",
+        "set_number": "CR04-AE048",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Leon",
+        "passcode": 23512906,
+        "konami_id": 18455,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE048",
+        "set_number": "CR04-AE048",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Leon",
+        "passcode": 23512906,
+        "konami_id": 18455,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE048",
+        "set_number": "CR04-AE048",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Leon",
+        "passcode": 23512906,
+        "konami_id": 18455,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE048",
+        "set_number": "CR04-AE048",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Leon",
+        "passcode": 23512906,
+        "konami_id": 18455,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE048",
+        "set_number": "CR04-AE048",
+        "set_name": "Creation Pack 04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Captain Carrie",
+        "passcode": 96305350,
+        "konami_id": 18457,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE049",
+        "set_number": "CR04-AE049",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Roller Baller",
+        "passcode": 92003832,
+        "konami_id": 18669,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE050",
+        "set_number": "CR04-AE050",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Nytro Head",
+        "passcode": 59900655,
+        "konami_id": 18456,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE051",
+        "set_number": "CR04-AE051",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Pin Baller",
+        "passcode": 28497830,
+        "konami_id": 18670,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE052",
+        "set_number": "CR04-AE052",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Star Leon",
+        "passcode": 22390469,
+        "konami_id": 18458,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE053",
+        "set_number": "CR04-AE053",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Chariot Carrie",
+        "passcode": 65892585,
+        "konami_id": 18671,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE054",
+        "set_number": "CR04-AE054",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Nytro Blaster",
+        "passcode": 58884063,
+        "konami_id": 18459,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE055",
+        "set_number": "CR04-AE055",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - The Crowd Goes Wild!",
+        "passcode": 95283172,
+        "konami_id": 18460,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE056",
+        "set_number": "CR04-AE056",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - That Came Out of Nowhere!",
+        "passcode": 91286284,
+        "konami_id": 18672,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE057",
+        "set_number": "CR04-AE057",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Pedal to the Metal!",
+        "passcode": 27275398,
+        "konami_id": 18673,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE058",
+        "set_number": "CR04-AE058",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Better Luck Next Time!",
+        "passcode": 54670997,
+        "konami_id": 18674,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE059",
+        "set_number": "CR04-AE059",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - It's Neck and Neck!",
+        "passcode": 90164606,
+        "konami_id": 18675,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE060",
+        "set_number": "CR04-AE060",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gold Pride - Start Your Engines!",
+        "passcode": 21677871,
+        "konami_id": 18461,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE061",
+        "set_number": "CR04-AE061",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementoal Tecuhtlica - Combined Creation",
+        "passcode": 23288411,
+        "konami_id": 19360,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE062",
+        "set_number": "CR04-AE062",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan-Horned Dragon",
+        "passcode": 55272555,
+        "konami_id": 19361,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE063",
+        "set_number": "CR04-AE063",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Tatsunootoshigo",
+        "passcode": 81677154,
+        "konami_id": 19362,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE064",
+        "set_number": "CR04-AE064",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Dark Blade",
+        "passcode": 18165869,
+        "konami_id": 19363,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE065",
+        "set_number": "CR04-AE065",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Angwitch",
+        "passcode": 54550967,
+        "konami_id": 19364,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE066",
+        "set_number": "CR04-AE066",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Mace",
+        "passcode": 81945676,
+        "konami_id": 19365,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE067",
+        "set_number": "CR04-AE067",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Goblin",
+        "passcode": 17943271,
+        "konami_id": 19366,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE068",
+        "set_number": "CR04-AE068",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementomictlan",
+        "passcode": 43338320,
+        "konami_id": 19367,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE069",
+        "set_number": "CR04-AE069",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Bone Party",
+        "passcode": 80722024,
+        "konami_id": 19368,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE070",
+        "set_number": "CR04-AE070",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Bone Back",
+        "passcode": 16227633,
+        "konami_id": 19369,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE071",
+        "set_number": "CR04-AE071",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Fracture Dance",
+        "passcode": 43215738,
+        "konami_id": 19370,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE072",
+        "set_number": "CR04-AE072",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Mementotlan Cranium Burst",
+        "passcode": 79600447,
+        "konami_id": 19371,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE073",
+        "set_number": "CR04-AE073",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Primera",
+        "passcode": 15005145,
+        "konami_id": 19372,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE074",
+        "set_number": "CR04-AE074",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Primera",
+        "passcode": 15005145,
+        "konami_id": 19372,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE074",
+        "set_number": "CR04-AE074",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Primera",
+        "passcode": 15005145,
+        "konami_id": 19372,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE074",
+        "set_number": "CR04-AE074",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Primera",
+        "passcode": 15005145,
+        "konami_id": 19372,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE074",
+        "set_number": "CR04-AE074",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Primera",
+        "passcode": 15005145,
+        "konami_id": 19372,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE074",
+        "set_number": "CR04-AE074",
+        "set_name": "Creation Pack 04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Trudea",
+        "passcode": 42493140,
+        "konami_id": 19373,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE075",
+        "set_number": "CR04-AE075",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Emeth VI",
+        "passcode": 78888899,
+        "konami_id": 19374,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE076",
+        "set_number": "CR04-AE076",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Legatia",
+        "passcode": 15982593,
+        "konami_id": 19375,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE077",
+        "set_number": "CR04-AE077",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Stand Up Centur-Ion!",
+        "passcode": 41371602,
+        "konami_id": 19376,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE078",
+        "set_number": "CR04-AE078",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Emblema Oath",
+        "passcode": 77765207,
+        "konami_id": 19377,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE079",
+        "set_number": "CR04-AE079",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Bonds",
+        "passcode": 4160316,
+        "konami_id": 19378,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE080",
+        "set_number": "CR04-AE080",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion Phalanx",
+        "passcode": 40155014,
+        "konami_id": 19379,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE081",
+        "set_number": "CR04-AE081",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Centur-Ion True Awakening",
+        "passcode": 77543769,
+        "konami_id": 19380,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE082",
+        "set_number": "CR04-AE082",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Angello Vaalmonica",
+        "passcode": 3048768,
+        "konami_id": 19381,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE083",
+        "set_number": "CR04-AE083",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Dimonno Vaalmonica",
+        "passcode": 30432463,
+        "konami_id": 19382,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE084",
+        "set_number": "CR04-AE084",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Duralume, Vaalmonican Heathen Hallow",
+        "passcode": 76821171,
+        "konami_id": 19383,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE085",
+        "set_number": "CR04-AE085",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Zebufera, Vaalmonican Hallow Heathen",
+        "passcode": 2815176,
+        "konami_id": 19384,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE086",
+        "set_number": "CR04-AE086",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica, the Agathokakological Voice",
+        "passcode": 39210885,
+        "konami_id": 19385,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE087",
+        "set_number": "CR04-AE087",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Scelta",
+        "passcode": 5605529,
+        "konami_id": 19386,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE088",
+        "set_number": "CR04-AE088",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Scelta",
+        "passcode": 5605529,
+        "konami_id": 19386,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE088",
+        "set_number": "CR04-AE088",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Scelta",
+        "passcode": 5605529,
+        "konami_id": 19386,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE088",
+        "set_number": "CR04-AE088",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Scelta",
+        "passcode": 5605529,
+        "konami_id": 19386,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE088",
+        "set_number": "CR04-AE088",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Scelta",
+        "passcode": 5605529,
+        "konami_id": 19386,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE088",
+        "set_number": "CR04-AE088",
+        "set_name": "Creation Pack 04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Versare",
+        "passcode": 42193638,
+        "konami_id": 19387,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE089",
+        "set_number": "CR04-AE089",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Intonare",
+        "passcode": 78598237,
+        "konami_id": 19388,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE090",
+        "set_number": "CR04-AE090",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Followed Rhythm",
+        "passcode": 4582942,
+        "konami_id": 19389,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE091",
+        "set_number": "CR04-AE091",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vaalmonica Chosen Melody",
+        "passcode": 31971040,
+        "konami_id": 19390,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE092",
+        "set_number": "CR04-AE092",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ryko, Lightsworn Hunter",
+        "passcode": 21502796,
+        "konami_id": 7595,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE093",
+        "set_number": "CR04-AE093",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Rinyan, Lightsworn Rogue",
+        "passcode": 38815069,
+        "konami_id": 8596,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE094",
+        "set_number": "CR04-AE094",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Lumina, Lightsworn Summoner",
+        "passcode": 95503687,
+        "konami_id": 7594,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE095",
+        "set_number": "CR04-AE095",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Aurkus, Lightsworn Druid",
+        "passcode": 7183277,
+        "konami_id": 7796,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE096",
+        "set_number": "CR04-AE096",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Shire, Lightsworn Spirit",
+        "passcode": 2420921,
+        "konami_id": 8595,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE097",
+        "set_number": "CR04-AE097",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Minerva, Lightsworn Maiden",
+        "passcode": 40164421,
+        "konami_id": 10885,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE098",
+        "set_number": "CR04-AE098",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Jain, Lightsworn Paladin",
+        "passcode": 96235275,
+        "konami_id": 7591,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE099",
+        "set_number": "CR04-AE099",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Lyla, Lightsworn Sorceress",
+        "passcode": 22624373,
+        "konami_id": 7592,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE100",
+        "set_number": "CR04-AE100",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Garoth, Lightsworn Warrior",
+        "passcode": 59019082,
+        "konami_id": 7593,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE101",
+        "set_number": "CR04-AE101",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wulf, Lightsworn Beast",
+        "passcode": 58996430,
+        "konami_id": 7596,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE102",
+        "set_number": "CR04-AE102",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wulf, Lightsworn Beast",
+        "passcode": 58996430,
+        "konami_id": 7596,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE102",
+        "set_number": "CR04-AE102",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wulf, Lightsworn Beast",
+        "passcode": 58996430,
+        "konami_id": 7596,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE102",
+        "set_number": "CR04-AE102",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wulf, Lightsworn Beast",
+        "passcode": 58996430,
+        "konami_id": 7596,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE102",
+        "set_number": "CR04-AE102",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wulf, Lightsworn Beast",
+        "passcode": 58996430,
+        "konami_id": 7596,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE102",
+        "set_number": "CR04-AE102",
+        "set_name": "Creation Pack 04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Jenis, Lightsworn Mender",
+        "passcode": 83725008,
+        "konami_id": 7723,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE103",
+        "set_number": "CR04-AE103",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ehren, Lightsworn Monk",
+        "passcode": 44178886,
+        "konami_id": 7797,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE104",
+        "set_number": "CR04-AE104",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Raiden, Hand of the Lightsworn",
+        "passcode": 77558536,
+        "konami_id": 10886,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE105",
+        "set_number": "CR04-AE105",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+        "passcode": 73176465,
+        "konami_id": 11000,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE106",
+        "set_number": "CR04-AE106",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+        "passcode": 73176465,
+        "konami_id": 11000,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE106",
+        "set_number": "CR04-AE106",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+        "passcode": 73176465,
+        "konami_id": 11000,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE106",
+        "set_number": "CR04-AE106",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+        "passcode": 73176465,
+        "konami_id": 11000,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE106",
+        "set_number": "CR04-AE106",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+        "passcode": 73176465,
+        "konami_id": 11000,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE106",
+        "set_number": "CR04-AE106",
+        "set_name": "Creation Pack 04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Celestia, Lightsworn Angel",
+        "passcode": 94381039,
+        "konami_id": 7597,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE107",
+        "set_number": "CR04-AE107",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gragonith, Lightsworn Dragon",
+        "passcode": 21785144,
+        "konami_id": 7598,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE108",
+        "set_number": "CR04-AE108",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Judgment Dragon",
+        "passcode": 57774843,
+        "konami_id": 7599,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE109",
+        "set_number": "CR04-AE109",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Michael, the Arch-Lightsworn",
+        "passcode": 4779823,
+        "konami_id": 10884,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE110",
+        "set_number": "CR04-AE110",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Minerva, the Exalted Lightsworn",
+        "passcode": 30100551,
+        "konami_id": 11867,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE111",
+        "set_number": "CR04-AE111",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Curious, the Lightsworn Dominion",
+        "passcode": 98095162,
+        "konami_id": 13492,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE112",
+        "set_number": "CR04-AE112",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Solar Recharge",
+        "passcode": 691925,
+        "konami_id": 7625,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE113",
+        "set_number": "CR04-AE113",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Realm of Light",
+        "passcode": 36099620,
+        "konami_id": 7626,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE114",
+        "set_number": "CR04-AE114",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Lightsworn Sabre",
+        "passcode": 30502181,
+        "konami_id": 7749,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE115",
+        "set_number": "CR04-AE115",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Charge of the Light Brigade",
+        "passcode": 94886282,
+        "konami_id": 7868,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE116",
+        "set_number": "CR04-AE116",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Light Spiral",
+        "passcode": 35577420,
+        "konami_id": 7643,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE117",
+        "set_number": "CR04-AE117",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Glorious Illusion",
+        "passcode": 61962135,
+        "konami_id": 7644,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE118",
+        "set_number": "CR04-AE118",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Lightsworn Barrier",
+        "passcode": 22201234,
+        "konami_id": 7764,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE119",
+        "set_number": "CR04-AE119",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Vanquishing Light",
+        "passcode": 32233746,
+        "konami_id": 7803,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE120",
+        "set_number": "CR04-AE120",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Lightsworn Judgment",
+        "passcode": 66194206,
+        "konami_id": 11868,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE121",
+        "set_number": "CR04-AE121",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Skull Servant",
+        "passcode": 32274490,
+        "konami_id": 4030,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE122",
+        "set_number": "CR04-AE122",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "King of the Skull Servants",
+        "passcode": 36021814,
+        "konami_id": 6341,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE123",
+        "set_number": "CR04-AE123",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wightmare",
+        "passcode": 22339232,
+        "konami_id": 9112,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE124",
+        "set_number": "CR04-AE124",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wightprince",
+        "passcode": 57473560,
+        "konami_id": 11256,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE125",
+        "set_number": "CR04-AE125",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wightprince",
+        "passcode": 57473560,
+        "konami_id": 11256,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE125",
+        "set_number": "CR04-AE125",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wightprince",
+        "passcode": 57473560,
+        "konami_id": 11256,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE125",
+        "set_number": "CR04-AE125",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wightbaking",
+        "passcode": 6128460,
+        "konami_id": 15726,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE126",
+        "set_number": "CR04-AE126",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "The Lady in Wight",
+        "passcode": 40991587,
+        "konami_id": 7611,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE127",
+        "set_number": "CR04-AE127",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Wightprincess",
+        "passcode": 90243945,
+        "konami_id": 12768,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE128",
+        "set_number": "CR04-AE128",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Sharakusai",
+        "passcode": 13258285,
+        "konami_id": 16724,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE129",
+        "set_number": "CR04-AE129",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Wa Gon",
+        "passcode": 50642380,
+        "konami_id": 16725,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE130",
+        "set_number": "CR04-AE130",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Madame Spider",
+        "passcode": 82041999,
+        "konami_id": 16726,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE131",
+        "set_number": "CR04-AE131",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ze Amin",
+        "passcode": 19535693,
+        "konami_id": 16727,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE132",
+        "set_number": "CR04-AE132",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ze Amin",
+        "passcode": 19535693,
+        "konami_id": 16727,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE132",
+        "set_number": "CR04-AE132",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ze Amin",
+        "passcode": 19535693,
+        "konami_id": 16727,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE132",
+        "set_number": "CR04-AE132",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ze Amin",
+        "passcode": 19535693,
+        "konami_id": 16727,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE132",
+        "set_number": "CR04-AE132",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ze Amin",
+        "passcode": 19535693,
+        "konami_id": 16727,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE132",
+        "set_number": "CR04-AE132",
+        "set_name": "Creation Pack 04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Deer Note",
+        "passcode": 6609736,
+        "konami_id": 17134,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE133",
+        "set_number": "CR04-AE133",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Foxy Tune",
+        "passcode": 55920742,
+        "konami_id": 16728,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE134",
+        "set_number": "CR04-AE134",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Noh-P.U.N.K. Ogre Dance",
+        "passcode": 81914447,
+        "konami_id": 16729,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE135",
+        "set_number": "CR04-AE135",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Rising Carp",
+        "passcode": 18313046,
+        "konami_id": 16730,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE136",
+        "set_number": "CR04-AE136",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "P.U.N.K. JAM Dragon Drive",
+        "passcode": 28403802,
+        "konami_id": 17448,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE137",
+        "set_number": "CR04-AE137",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "passcode": 44708154,
+        "konami_id": 16731,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE138",
+        "set_number": "CR04-AE138",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Wild Picking",
+        "passcode": 81192859,
+        "konami_id": 16732,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE139",
+        "set_number": "CR04-AE139",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Gagaku-P.U.N.K. Crash Beat",
+        "passcode": 17691568,
+        "konami_id": 16733,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE140",
+        "set_number": "CR04-AE140",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "P.U.N.K. JAM Extreme Session",
+        "passcode": 49370016,
+        "konami_id": 17467,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE141",
+        "set_number": "CR04-AE141",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Dangerous Gabu",
+        "passcode": 43685562,
+        "konami_id": 16734,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE142",
+        "set_number": "CR04-AE142",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Joruri-P.U.N.K. Nashiwari Surprise",
+        "passcode": 70070211,
+        "konami_id": 16735,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE143",
+        "set_number": "CR04-AE143",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Herald of Purple Light",
+        "passcode": 94689635,
+        "konami_id": 6692,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE144",
+        "set_number": "CR04-AE144",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Herald of Green Light",
+        "passcode": 21074344,
+        "konami_id": 6693,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE145",
+        "set_number": "CR04-AE145",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Herald of Orange Light",
+        "passcode": 17266660,
+        "konami_id": 7673,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE146",
+        "set_number": "CR04-AE146",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Diviner of the Herald",
+        "passcode": 92919429,
+        "konami_id": 15083,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE147",
+        "set_number": "CR04-AE147",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Diviner of the Herald",
+        "passcode": 92919429,
+        "konami_id": 15083,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE147",
+        "set_number": "CR04-AE147",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Diviner of the Herald",
+        "passcode": 92919429,
+        "konami_id": 15083,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE147",
+        "set_number": "CR04-AE147",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Diviner of the Herald",
+        "passcode": 92919429,
+        "konami_id": 15083,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE147",
+        "set_number": "CR04-AE147",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Diviner of the Herald",
+        "passcode": 92919429,
+        "konami_id": 15083,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE147",
+        "set_number": "CR04-AE147",
+        "set_name": "Creation Pack 04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Herald of Perfection",
+        "passcode": 44665365,
+        "konami_id": 7674,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE148",
+        "set_number": "CR04-AE148",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Herald of Ultimateness",
+        "passcode": 48546368,
+        "konami_id": 11377,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE149",
+        "set_number": "CR04-AE149",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Herald of Pure Light",
+        "passcode": 1249315,
+        "konami_id": 10661,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE150",
+        "set_number": "CR04-AE150",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Herald of Mirage Lights",
+        "passcode": 46935289,
+        "konami_id": 14934,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE151",
+        "set_number": "CR04-AE151",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Dawn of the Herald",
+        "passcode": 27383110,
+        "konami_id": 8834,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE152",
+        "set_number": "CR04-AE152",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Oracle of the Herald",
+        "passcode": 79306385,
+        "konami_id": 11398,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE153",
+        "set_number": "CR04-AE153",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Steelen",
+        "passcode": 60473572,
+        "konami_id": 12420,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE154",
+        "set_number": "CR04-AE154",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Silverd",
+        "passcode": 7868571,
+        "konami_id": 12421,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE155",
+        "set_number": "CR04-AE155",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Goldriver",
+        "passcode": 33256280,
+        "konami_id": 12422,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE156",
+        "set_number": "CR04-AE156",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Volflame",
+        "passcode": 69351984,
+        "konami_id": 12423,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE157",
+        "set_number": "CR04-AE157",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Raremetalfoes Bismugear",
+        "passcode": 18716735,
+        "konami_id": 12612,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE158",
+        "set_number": "CR04-AE158",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Parametalfoes Melcaster",
+        "passcode": 10024317,
+        "konami_id": 15711,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE159",
+        "set_number": "CR04-AE159",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Vanisher",
+        "passcode": 56518311,
+        "konami_id": 15712,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE160",
+        "set_number": "CR04-AE160",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fullmetalfoes Alkahest",
+        "passcode": 77693536,
+        "konami_id": 12629,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE161",
+        "set_number": "CR04-AE161",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Adamante",
+        "passcode": 81612598,
+        "konami_id": 12442,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE162",
+        "set_number": "CR04-AE162",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Mithrilium",
+        "passcode": 4688231,
+        "konami_id": 12630,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE163",
+        "set_number": "CR04-AE163",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Parametalfoes Azortless",
+        "passcode": 37491810,
+        "konami_id": 15730,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE164",
+        "set_number": "CR04-AE164",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Orichalc",
+        "passcode": 28016193,
+        "konami_id": 12443,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE165",
+        "set_number": "CR04-AE165",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Crimsonite",
+        "passcode": 54401832,
+        "konami_id": 12444,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE166",
+        "set_number": "CR04-AE166",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Heavymetalfoes Electrumite",
+        "passcode": 24094258,
+        "konami_id": 13507,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE167",
+        "set_number": "CR04-AE167",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Heavymetalfoes Amalgam",
+        "passcode": 61728808,
+        "konami_id": 15740,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE168",
+        "set_number": "CR04-AE168",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metamorformation",
+        "passcode": 46500985,
+        "konami_id": 12459,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE169",
+        "set_number": "CR04-AE169",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Fusion",
+        "passcode": 73594093,
+        "konami_id": 12460,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE170",
+        "set_number": "CR04-AE170",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fullmetalfoes Fusion",
+        "passcode": 39564736,
+        "konami_id": 12648,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE171",
+        "set_number": "CR04-AE171",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Parametalfoes Fusion",
+        "passcode": 58549532,
+        "konami_id": 15752,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE172",
+        "set_number": "CR04-AE172",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Counter",
+        "passcode": 33327029,
+        "konami_id": 12471,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE173",
+        "set_number": "CR04-AE173",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Metalfoes Combination",
+        "passcode": 69711728,
+        "konami_id": 12472,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE174",
+        "set_number": "CR04-AE174",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Performage Damage Juggler",
+        "passcode": 68819554,
+        "konami_id": 11799,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE175",
+        "set_number": "CR04-AE175",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Performage Flame Eater",
+        "passcode": 4807253,
+        "konami_id": 11800,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE176",
+        "set_number": "CR04-AE176",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Performage Hat Tricker",
+        "passcode": 31292357,
+        "konami_id": 11801,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE177",
+        "set_number": "CR04-AE177",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Performage Trick Clown",
+        "passcode": 67696066,
+        "konami_id": 11802,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE178",
+        "set_number": "CR04-AE178",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Performage Mirror Conductor",
+        "passcode": 71578874,
+        "konami_id": 11959,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE179",
+        "set_number": "CR04-AE179",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Performage Stilts Launcher",
+        "passcode": 4081665,
+        "konami_id": 11803,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE180",
+        "set_number": "CR04-AE180",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Performage Trapeze Magician",
+        "passcode": 17016362,
+        "konami_id": 11837,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE181",
+        "set_number": "CR04-AE181",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Bubble Barrier",
+        "passcode": 79777187,
+        "konami_id": 11842,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE182",
+        "set_number": "CR04-AE182",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Trick Box",
+        "passcode": 93983867,
+        "konami_id": 11855,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE183",
+        "set_number": "CR04-AE183",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Legendary Fire King Ponix",
+        "passcode": 90681088,
+        "konami_id": 19404,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE184",
+        "set_number": "CR04-AE184",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Legendary Fire King Ponix",
+        "passcode": 90681088,
+        "konami_id": 19404,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE184",
+        "set_number": "CR04-AE184",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Legendary Fire King Ponix",
+        "passcode": 90681088,
+        "konami_id": 19404,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE184",
+        "set_number": "CR04-AE184",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Legendary Fire King Ponix",
+        "passcode": 90681088,
+        "konami_id": 19404,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE184",
+        "set_number": "CR04-AE184",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Legendary Fire King Ponix",
+        "passcode": 90681088,
+        "konami_id": 19404,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE184",
+        "set_number": "CR04-AE184",
+        "set_name": "Creation Pack 04",
+        "rarity": "Quarter Century Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Avatar Kirin",
+        "passcode": 0,
+        "konami_id": 0,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE185",
+        "set_number": "CR04-AE185",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Avatar Garunix",
+        "passcode": 0,
+        "konami_id": 0,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE186",
+        "set_number": "CR04-AE186",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Avatar Barong",
+        "passcode": 69000994,
+        "konami_id": 10346,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE187",
+        "set_number": "CR04-AE187",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Avatar Yaksha",
+        "passcode": 0,
+        "konami_id": 0,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE188",
+        "set_number": "CR04-AE188",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Avatar Arvata",
+        "passcode": 18621798,
+        "konami_id": 13245,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE189",
+        "set_number": "CR04-AE189",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Avatar Rangbali",
+        "passcode": 38910263,
+        "konami_id": 19399,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE190",
+        "set_number": "CR04-AE190",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King High Avatar Garunix",
+        "passcode": 23015896,
+        "konami_id": 10345,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE191",
+        "set_number": "CR04-AE191",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Sacred Fire King Garunix",
+        "passcode": 66431519,
+        "konami_id": 19397,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE192",
+        "set_number": "CR04-AE192",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultra Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Sacred Fire King Garunix",
+        "passcode": 66431519,
+        "konami_id": 19397,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE192",
+        "set_number": "CR04-AE192",
+        "set_name": "Creation Pack 04",
+        "rarity": "",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Sacred Fire King Garunix",
+        "passcode": 66431519,
+        "konami_id": 19397,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE192",
+        "set_number": "CR04-AE192",
+        "set_name": "Creation Pack 04",
+        "rarity": "Secret Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King High Avatar Kirin",
+        "passcode": 2526224,
+        "konami_id": 19398,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE193",
+        "set_number": "CR04-AE193",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Garunix Eternity, Hyang of the Fire Kings",
+        "passcode": 64182380,
+        "konami_id": 19403,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE194",
+        "set_number": "CR04-AE194",
+        "set_name": "Creation Pack 04",
+        "rarity": "Ultimate Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Onslaught of the Fire Kings",
+        "passcode": 22993208,
+        "konami_id": 10348,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE195",
+        "set_number": "CR04-AE195",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Circle of the Fire Kings",
+        "passcode": 59388357,
+        "konami_id": 10349,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE196",
+        "set_number": "CR04-AE196",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Island",
+        "passcode": 57554544,
+        "konami_id": 11763,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE197",
+        "set_number": "CR04-AE197",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Sanctuary",
+        "passcode": 65305978,
+        "konami_id": 19400,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE198",
+        "set_number": "CR04-AE198",
+        "set_name": "Creation Pack 04",
+        "rarity": "Super Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Fire King Sky Burn",
+        "passcode": 91703676,
+        "konami_id": 19401,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE199",
+        "set_number": "CR04-AE199",
+        "set_name": "Creation Pack 04",
+        "rarity": "Rare",
+        "date_release": "27 APRIL 2024"
+    },
+    {
+        "name": "Echelon of the Fire Kings",
+        "passcode": 38798785,
+        "konami_id": 19402,
+        "wikilink": "https://yugipedia.com/wiki/CR04-AE200",
+        "set_number": "CR04-AE200",
+        "set_name": "Creation Pack 04",
+        "rarity": "Common",
+        "date_release": "27 APRIL 2024"
+    }
+]
