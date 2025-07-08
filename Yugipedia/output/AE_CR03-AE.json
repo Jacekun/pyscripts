@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Uria, Lord of Searing Flames",
+        "passcode": 6007213,
+        "konami_id": 6563,
+        "wikilink": "https://yugipedia.com/wiki/CR03-AE001",
+        "set_number": "CR03-AE001",
+        "set_name": "Creation Pack 03",
+        "rarity": "Ultimate Rare",
+        "date_release": "9 MARCH 2024"
+    },
+    {
+        "name": "Hamon, Lord of Striking Thunder",
+        "passcode": 32491822,
+        "konami_id": 6564,
+        "wikilink": "https://yugipedia.com/wiki/CR03-AE002",
+        "set_number": "CR03-AE002",
+        "set_name": "Creation Pack 03",
+        "rarity": "Ultimate Rare",
+        "date_release": "9 MARCH 2024"
+    },
+    {
+        "name": "Raviel, Lord of Phantasms",
+        "passcode": 69890967,
+        "konami_id": 6565,
+        "wikilink": "https://yugipedia.com/wiki/CR03-AE003",
+        "set_number": "CR03-AE003",
+        "set_name": "Creation Pack 03",
+        "rarity": "Ultimate Rare",
+        "date_release": "9 MARCH 2024"
+    },
+    {
+        "name": "Mad Reloader",
+        "passcode": 31034919,
+        "konami_id": 7348,
+        "wikilink": "https://yugipedia.com/wiki/CR03-AE004",
+        "set_number": "CR03-AE004",
+        "set_name": "Creation Pack 03",
+        "rarity": "Common",
+        "date_release": "9 MARCH 2024"
+    },
+    {
+        "name": "Grave Squirmer",
+        "passcode": 48343627,
+        "konami_id": 7385,
+        "wikilink": "https://yugipedia.com/wiki/CR03-AE005",
+        "set_number": "CR03-AE005",
+        "set_name": "Creation Pack 03",
+        "rarity": "Common",
+        "date_release": "9 MARCH 2024"
+    },
+    {
+        "name": "Chaos Summoning Beast",
+        "passcode": 27439792,
+        "konami_id": 15139,
+        "wikilink": "https://yugipedia.com/wiki/CR03-AE006",
+        "set_number": "CR03-AE006",
+        "set_name": "Creation Pack 03",
+        "rarity": "Super Rare",
+        "date_release": "9 MARCH 2024"
+    },
+    {
+        "name": "Dark Beckoning Beast",
+        "passcode": 81034083,
+        "konami_id": 15138,
+        "wikilink": "https://yugipedia.com/wiki/CR03-AE007",
+        "set_number": "CR03-AE007",
+        "set_name": "Creation Pack 03",
+        "rarity": "Ultra Rare",
+        "date_release": "9 MARCH 2024"
+    },
+    {
+        "name": "Chaos Core",
+        "passcode": 54040484,
+        "konami_id": 15137,
+        "wikilink": "https://yugipedia.com/wiki/CR03-AE008",
+        "set_number": "CR03-AE008",
+        "set_name": "Creation Pack 03",
+        "rarity": "Rare",
+        "date_release": "9 MARCH 2024"
+    }
+]
