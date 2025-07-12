@@ -1,0 +1,822 @@
+[
+    {
+        "name": "Elemental HERO Neos",
+        "passcode": 89943723,
+        "konami_id": 6653,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE001",
+        "set_number": "DI01-AE001",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Stratos",
+        "passcode": 40044918,
+        "konami_id": 6784,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE002",
+        "set_number": "DI01-AE002",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Shadow Mist",
+        "passcode": 50720316,
+        "konami_id": 11308,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE003",
+        "set_number": "DI01-AE003",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Honest Neos",
+        "passcode": 14124483,
+        "konami_id": 12901,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE004",
+        "set_number": "DI01-AE004",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Spirit of Neos",
+        "passcode": 13256226,
+        "konami_id": 17403,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE005",
+        "set_number": "DI01-AE005",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Liquid Soldier",
+        "passcode": 59392529,
+        "konami_id": 14911,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE006",
+        "set_number": "DI01-AE006",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Destiny HERO - Malicious",
+        "passcode": 9411399,
+        "konami_id": 6949,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE007",
+        "set_number": "DI01-AE007",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Destiny HERO - Dark Angel",
+        "passcode": 26964762,
+        "konami_id": 12706,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE008",
+        "set_number": "DI01-AE008",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Destiny HERO - Denier",
+        "passcode": 16605586,
+        "konami_id": 16504,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE009",
+        "set_number": "DI01-AE009",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Vision HERO Increase",
+        "passcode": 22865492,
+        "konami_id": 9063,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE010",
+        "set_number": "DI01-AE010",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Vision HERO Faris",
+        "passcode": 18094166,
+        "konami_id": 9190,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE011",
+        "set_number": "DI01-AE011",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Vision HERO Vyon",
+        "passcode": 27780618,
+        "konami_id": 9229,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE012",
+        "set_number": "DI01-AE012",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Maxx \"C\"",
+        "passcode": 23434538,
+        "konami_id": 9455,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE013",
+        "set_number": "DI01-AE013",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Ash Blossom & Joyous Spring",
+        "passcode": 14558127,
+        "konami_id": 12950,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE014",
+        "set_number": "DI01-AE014",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Ash Blossom & Joyous Spring",
+        "passcode": 14558127,
+        "konami_id": 12950,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE014",
+        "set_number": "DI01-AE014",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Ash Blossom & Joyous Spring",
+        "passcode": 14558127,
+        "konami_id": 12950,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE014",
+        "set_number": "DI01-AE014",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Tuner monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Polymerization",
+        "passcode": 24094653,
+        "konami_id": 4837,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE015",
+        "set_number": "DI01-AE015",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Polymerization",
+        "passcode": 24094653,
+        "konami_id": 4837,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE015",
+        "set_number": "DI01-AE015",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Polymerization",
+        "passcode": 24094653,
+        "konami_id": 4837,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE015",
+        "set_number": "DI01-AE015",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "A Hero Lives",
+        "passcode": 8949584,
+        "konami_id": 7187,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE016",
+        "set_number": "DI01-AE016",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "A Hero Lives",
+        "passcode": 8949584,
+        "konami_id": 7187,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE016",
+        "set_number": "DI01-AE016",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "A Hero Lives",
+        "passcode": 8949584,
+        "konami_id": 7187,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE016",
+        "set_number": "DI01-AE016",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Miracle Fusion",
+        "passcode": 45906428,
+        "konami_id": 6432,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE017",
+        "set_number": "DI01-AE017",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Miracle Fusion",
+        "passcode": 45906428,
+        "konami_id": 6432,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE017",
+        "set_number": "DI01-AE017",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Miracle Fusion",
+        "passcode": 45906428,
+        "konami_id": 6432,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE017",
+        "set_number": "DI01-AE017",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "E - Emergency Call",
+        "passcode": 213326,
+        "konami_id": 6672,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE018",
+        "set_number": "DI01-AE018",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "E - Emergency Call",
+        "passcode": 213326,
+        "konami_id": 6672,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE018",
+        "set_number": "DI01-AE018",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "E - Emergency Call",
+        "passcode": 213326,
+        "konami_id": 6672,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE018",
+        "set_number": "DI01-AE018",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Mask Change",
+        "passcode": 21143940,
+        "konami_id": 9066,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE019",
+        "set_number": "DI01-AE019",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Quick-Play",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Mask Change",
+        "passcode": 21143940,
+        "konami_id": 9066,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE019",
+        "set_number": "DI01-AE019",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Mask Change",
+        "passcode": 21143940,
+        "konami_id": 9066,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE019",
+        "set_number": "DI01-AE019",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Fusion Destiny",
+        "passcode": 52947044,
+        "konami_id": 14304,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE020",
+        "set_number": "DI01-AE020",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Fusion Destiny",
+        "passcode": 52947044,
+        "konami_id": 14304,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE020",
+        "set_number": "DI01-AE020",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Fusion Destiny",
+        "passcode": 52947044,
+        "konami_id": 14304,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE020",
+        "set_number": "DI01-AE020",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Favorite Hero",
+        "passcode": 11881272,
+        "konami_id": 14913,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE021",
+        "set_number": "DI01-AE021",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Equip",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Favorite Hero",
+        "passcode": 11881272,
+        "konami_id": 14913,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE021",
+        "set_number": "DI01-AE021",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Favorite Hero",
+        "passcode": 11881272,
+        "konami_id": 14913,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE021",
+        "set_number": "DI01-AE021",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Reinforcement of the Army",
+        "passcode": 32807846,
+        "konami_id": 5328,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE022",
+        "set_number": "DI01-AE022",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Reinforcement of the Army",
+        "passcode": 32807846,
+        "konami_id": 5328,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE022",
+        "set_number": "DI01-AE022",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Reinforcement of the Army",
+        "passcode": 32807846,
+        "konami_id": 5328,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE022",
+        "set_number": "DI01-AE022",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Called by the Grave",
+        "passcode": 24224830,
+        "konami_id": 13619,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE023",
+        "set_number": "DI01-AE023",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Quick-Play",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Called by the Grave",
+        "passcode": 24224830,
+        "konami_id": 13619,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE023",
+        "set_number": "DI01-AE023",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Called by the Grave",
+        "passcode": 24224830,
+        "konami_id": 13619,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE023",
+        "set_number": "DI01-AE023",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Forbidden Droplet",
+        "passcode": 24299458,
+        "konami_id": 15299,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE024",
+        "set_number": "DI01-AE024",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Quick-Play",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Forbidden Droplet",
+        "passcode": 24299458,
+        "konami_id": 15299,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE024",
+        "set_number": "DI01-AE024",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Forbidden Droplet",
+        "passcode": 24299458,
+        "konami_id": 15299,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE024",
+        "set_number": "DI01-AE024",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Spell",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Favorite Contact",
+        "passcode": 75047173,
+        "konami_id": 17471,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE025",
+        "set_number": "DI01-AE025",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Favorite Contact",
+        "passcode": 75047173,
+        "konami_id": 17471,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE025",
+        "set_number": "DI01-AE025",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Favorite Contact",
+        "passcode": 75047173,
+        "konami_id": 17471,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE025",
+        "set_number": "DI01-AE025",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Trap",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Infinite Impermanence",
+        "passcode": 10045474,
+        "konami_id": 13631,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE026",
+        "set_number": "DI01-AE026",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Normal",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Infinite Impermanence",
+        "passcode": 10045474,
+        "konami_id": 13631,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE026",
+        "set_number": "DI01-AE026",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Infinite Impermanence",
+        "passcode": 10045474,
+        "konami_id": 13631,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE026",
+        "set_number": "DI01-AE026",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Trap",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Sunrise",
+        "passcode": 22908820,
+        "konami_id": 14910,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE027",
+        "set_number": "DI01-AE027",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Sunrise",
+        "passcode": 22908820,
+        "konami_id": 14910,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE027",
+        "set_number": "DI01-AE027",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Sunrise",
+        "passcode": 22908820,
+        "konami_id": 14910,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE027",
+        "set_number": "DI01-AE027",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Fusion Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Wake Up Your Elemental HERO",
+        "passcode": 32828466,
+        "konami_id": 17247,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE028",
+        "set_number": "DI01-AE028",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Wake Up Your Elemental HERO",
+        "passcode": 32828466,
+        "konami_id": 17247,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE028",
+        "set_number": "DI01-AE028",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Wake Up Your Elemental HERO",
+        "passcode": 32828466,
+        "konami_id": 17247,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE028",
+        "set_number": "DI01-AE028",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Fusion Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Shining Neos Wingman",
+        "passcode": 56733747,
+        "konami_id": 17443,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE029",
+        "set_number": "DI01-AE029",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Shining Neos Wingman",
+        "passcode": 56733747,
+        "konami_id": 17443,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE029",
+        "set_number": "DI01-AE029",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Shining Neos Wingman",
+        "passcode": 56733747,
+        "konami_id": 17443,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE029",
+        "set_number": "DI01-AE029",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Fusion Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Flame Wingman - Infernal Rage",
+        "passcode": 93347961,
+        "konami_id": 18663,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE030",
+        "set_number": "DI01-AE030",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Flame Wingman - Infernal Rage",
+        "passcode": 93347961,
+        "konami_id": 18663,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE030",
+        "set_number": "DI01-AE030",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Elemental HERO Flame Wingman - Infernal Rage",
+        "passcode": 93347961,
+        "konami_id": 18663,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE030",
+        "set_number": "DI01-AE030",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Fusion Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Destiny HERO - Destroyer Phoenix Enforcer",
+        "passcode": 60461804,
+        "konami_id": 16524,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE031",
+        "set_number": "DI01-AE031",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Destiny HERO - Destroyer Phoenix Enforcer",
+        "passcode": 60461804,
+        "konami_id": 16524,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE031",
+        "set_number": "DI01-AE031",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Destiny HERO - Destroyer Phoenix Enforcer",
+        "passcode": 60461804,
+        "konami_id": 16524,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE031",
+        "set_number": "DI01-AE031",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Fusion Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Masked HERO Acid",
+        "passcode": 29095552,
+        "konami_id": 9272,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE032",
+        "set_number": "DI01-AE032",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Masked HERO Acid",
+        "passcode": 29095552,
+        "konami_id": 9272,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE032",
+        "set_number": "DI01-AE032",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Masked HERO Acid",
+        "passcode": 29095552,
+        "konami_id": 9272,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE032",
+        "set_number": "DI01-AE032",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Fusion Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Masked HERO Blast",
+        "passcode": 89870349,
+        "konami_id": 11930,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE033",
+        "set_number": "DI01-AE033",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Masked HERO Blast",
+        "passcode": 89870349,
+        "konami_id": 11930,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE033",
+        "set_number": "DI01-AE033",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Masked HERO Blast",
+        "passcode": 89870349,
+        "konami_id": 11930,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE033",
+        "set_number": "DI01-AE033",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Fusion Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Wonder Driver",
+        "passcode": 1948619,
+        "konami_id": 13543,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE034",
+        "set_number": "DI01-AE034",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Wonder Driver",
+        "passcode": 1948619,
+        "konami_id": 13543,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE034",
+        "set_number": "DI01-AE034",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Wonder Driver",
+        "passcode": 1948619,
+        "konami_id": 13543,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE034",
+        "set_number": "DI01-AE034",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Link Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Cross Crusader",
+        "passcode": 58004362,
+        "konami_id": 14295,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE035",
+        "set_number": "DI01-AE035",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Cross Crusader",
+        "passcode": 58004362,
+        "konami_id": 14295,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE035",
+        "set_number": "DI01-AE035",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Cross Crusader",
+        "passcode": 58004362,
+        "konami_id": 14295,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE035",
+        "set_number": "DI01-AE035",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Link Monster",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Infernal Devicer",
+        "passcode": 19324993,
+        "konami_id": 14936,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE036",
+        "set_number": "DI01-AE036",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Effect",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Infernal Devicer",
+        "passcode": 19324993,
+        "konami_id": 14936,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE036",
+        "set_number": "DI01-AE036",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "",
+        "date_release": "30 NOVEMBER 2024"
+    },
+    {
+        "name": "Xtra HERO Infernal Devicer",
+        "passcode": 19324993,
+        "konami_id": 14936,
+        "wikilink": "https://yugipedia.com/wiki/DI01-AE036",
+        "set_number": "DI01-AE036",
+        "set_name": "Duel-Ignition Deck: HERO",
+        "rarity": "Link Monster",
+        "date_release": "30 NOVEMBER 2024"
+    }
+]
