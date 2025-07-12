@@ -107,27 +107,32 @@ def get_card_passcode(wikilink: str) -> CardInfo:
             if not soupObj:
                 raise Exception("Passcode => Content not found.")
             
-            soupKonamiIdDiv = soupObj.find("div", { "class": "below hlist plainlinks" })
-            if soupKonamiIdDiv:
+            try:
+                soupKonamiIdDiv = soupObj.find("div", { "class": "below hlist plainlinks" })
+                if not soupKonamiIdDiv:
+                    raise Exception("Null, not found 'div' class 'below hlist plainlinks'.")
+
                 soupKonamiIdText = soupKonamiIdDiv.find("li")
-                if soupKonamiIdText:
-                    #Utils.log(f"Parse Konami Id, contents => { soupKonamiIdText }")
-                    tempKonamiIdRawList = soupKonamiIdText.get_text().strip().split("#")
-                    if tempKonamiIdRawList:
-                        textKonamiIdIndex: int = 1 if len(tempKonamiIdRawList) > 1 else 0
-                        textKonamiIdRaw: str = tempKonamiIdRawList[textKonamiIdIndex].strip()
-                        textKonamiId: str = textKonamiIdRaw.split(None, 1)[0]
-                        Utils.log(f"Parse Konami Id, contents => Index: { textKonamiIdIndex } | Text: { textKonamiId } | Raw: { textKonamiIdRaw }")
-                        if textKonamiId.isdecimal():
-                            cardKonamiId = int(textKonamiId)
-                        else:
-                            Utils.log(f"Parse Konami Id, contents => Invalid value: { textKonamiId }")
-                    else:
-                        raise Exception(f"Parse Konami Id, contents => No valid text after # in tag text.")
+                if not soupKonamiIdText:
+                    raise Exception("Null, not found 'li' tag.")
+                
+                #Utils.log(f"Parse Konami Id, contents => { soupKonamiIdText }")
+                tempKonamiIdRawList = soupKonamiIdText.get_text().strip().split("#")
+                if not tempKonamiIdRawList:
+                    raise Exception(f"No valid text after # in tag text.")
+
+                textKonamiIdIndex: int = 1 if len(tempKonamiIdRawList) > 1 else 0
+                textKonamiIdRaw: str = tempKonamiIdRawList[textKonamiIdIndex].strip()
+                textKonamiId: str = textKonamiIdRaw.split(None, 1)[0]
+                Utils.log(f"Parse Konami Id, contents => Index: { textKonamiIdIndex } | Text: { textKonamiId } | Raw: { textKonamiIdRaw }")
+                if textKonamiId.isdecimal():
+                    cardKonamiId = int(textKonamiId)
                 else:
-                    raise Exception("Parse Konami Id, contents => Null, not found 'li' tag.")
-            else:
-                raise Exception("Parse Konami Id, contents => Null, not found 'div' class 'below hlist plainlinks'.")
+                    raise Exception(f"Invalid value: { textKonamiId }")
+                    
+            except Exception as ex:
+                Utils.log_err("Parse Konami Id, contents", ex)
+                cardKonamiId = 0
         
             soupOtherInfo = soupObj.find("table", { "class": "innertable" } )
             if not soupOtherInfo:
@@ -147,12 +152,17 @@ def get_card_passcode(wikilink: str) -> CardInfo:
                 otherInfoValue: str = otherElTd.text.strip()
                 Utils.log(f"Passcode => Item: {otherInfoName} | {otherInfoValue}")
 
-                if otherInfoName == "PASSWORD":
+                if otherInfoName == "CARD TYPE":
+                    if cardKonamiId <= 0 and otherInfoValue.upper() != "TOKEN":
+                        raise Exception("Invalid Konami Id")
+                elif otherInfoName == "PASSWORD":
                     if otherInfoValue.isdecimal():
                         cardPasscode = int(otherInfoValue)
                     else:
                         Utils.log(f"Passcode => Invalid value: { otherInfoValue }")
-                    break
+                    
+                    if cardKonamiId > 0:
+                        break
 
     return CardInfo(
         passcode = cardPasscode,
