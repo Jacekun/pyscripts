@@ -556,6 +556,8 @@ try:
                     except Exception as e:
                         Utils.log_err("Parse list, main", e)
                         successCardList = False
+                        if setPrefix:
+                            Utils.append_file(FILE_OUTPUT_ERROR_SET, f"Skipped set, parsing error : { setPrefix } { NEWLINE }")
 
                     # Save output even if not succes, for cache
                     if outputListCardData:
@@ -580,8 +582,6 @@ try:
                 break
     except Exception as innerEx:
         Utils.log_err("Parse Wiki JSON", innerEx)
-        if setPrefix:
-            Utils.append_file(FILE_OUTPUT_ERROR_SET, f"{setPrefix}{NEWLINE}")
         raise Exception("JSON Data cannot be parsed!")
 
     #Process whitelist for EDOPro when all setlists are done.
