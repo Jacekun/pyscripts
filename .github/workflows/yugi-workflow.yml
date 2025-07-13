@@ -4,7 +4,7 @@ on:
   # Every Friday UTC or Saturdays PST
   # '0 20 * * 5'
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 20 * * 5'
 
    # Manual triggers
   workflow_dispatch:
