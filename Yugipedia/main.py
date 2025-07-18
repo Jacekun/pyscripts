@@ -459,7 +459,7 @@ try:
     dirPath = os.path.dirname(os.path.realpath(__file__))
     banlistOutputFiles = os.listdir(dirPath)
     for item in banlistOutputFiles:
-        if item.endswith(EXT_OUTPUT_BANLIST) or item.endswith(".edopro"):
+        if item.endswith(EXT_OUTPUT_BANLIST):
             outputBanlistFileItem: str = os.path.join(dirPath, item)
             if os.path.isfile(outputBanlistFileItem):
                 Utils.log(f"Output file deleted (BANLIST) => {outputBanlistFileItem}")
