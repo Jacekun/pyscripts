@@ -1,0 +1,3644 @@
+[2025-07-25 20:21:59] Done deleting old log files.
+[2025-07-25 20:21:59] Output file deleted (BANLIST) => /home/runner/work/pyscripts/pyscripts/Yugipedia/AE_Banlist.lflist.conf
+[2025-07-25 20:21:59] Delete old file => result.json
+[2025-07-25 20:21:59] Fetching wiki data...Link => https://yugipedia.com/index.php?title=Special:Ask&x=-5B-5BMedium%3A%3AOfficial-5D-5D-20-20-3Cq-3E-20-3Cq-3E-5B-5BAsian-2DEnglish-20set-20prefix%3A%3A%2B-5D-5D-3C-2Fq-3E-20-20OR-20-20-3Cq-3E-5B-5BAsian-2DEnglish-20release-20date%3A%3A%2B-5D-5D-3C-2Fq-3E-20-3C-2Fq-3E%2F-3FAsian-2DEnglish-20set-20and-20region-20prefix%3DPrefix%2F-3FAsian-2DEnglish-20release-20date%3DRelease-20date&mainlabel=Set&format=json&headers=+plain&class=+wikitable+sortable+card-list&sort=Asian-English+release+date%2CAsian-English+set+prefix%2C%23&order=asc%2Casc%2Casc&offset=0&limit=500&prettyprint=true&unescape=true
+[2025-07-25 20:21:59] Requesting page => https://yugipedia.com/index.php?title=Special:Ask&x=-5B-5BMedium%3A%3AOfficial-5D-5D-20-20-3Cq-3E-20-3Cq-3E-5B-5BAsian-2DEnglish-20set-20prefix%3A%3A%2B-5D-5D-3C-2Fq-3E-20-20OR-20-20-3Cq-3E-5B-5BAsian-2DEnglish-20release-20date%3A%3A%2B-5D-5D-3C-2Fq-3E-20-3C-2Fq-3E%2F-3FAsian-2DEnglish-20set-20and-20region-20prefix%3DPrefix%2F-3FAsian-2DEnglish-20release-20date%3DRelease-20date&mainlabel=Set&format=json&headers=+plain&class=+wikitable+sortable+card-list&sort=Asian-English+release+date%2CAsian-English+set+prefix%2C%23&order=asc%2Casc%2Casc&offset=0&limit=500&prettyprint=true&unescape=true
+[2025-07-25 20:22:03] Parsing JSON response...
+[2025-07-25 20:22:03] Set details => Legend of Blue Eyes White Dragon | https://yugipedia.com/wiki/Legend_of_Blue_Eyes_White_Dragon
+[2025-07-25 20:22:03] Prefix: LOB is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:03] Set details => Starter Deck: Kaiba | https://yugipedia.com/wiki/Starter_Deck:_Kaiba
+[2025-07-25 20:22:03] Prefix: SDK is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:03] Set details => Starter Deck: Yugi | https://yugipedia.com/wiki/Starter_Deck:_Yugi
+[2025-07-25 20:22:03] Prefix: SDY is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:03] Set details => Metal Raiders | https://yugipedia.com/wiki/Metal_Raiders
+[2025-07-25 20:22:03] Prefix: MRD is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:03] Set details => Spell Ruler | https://yugipedia.com/wiki/Spell_Ruler
+[2025-07-25 20:22:03] Prefix: MRL is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:03] Set details => Yu-Gi-Oh! Duel Monsters International: Worldwide Edition promotional cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards
+[2025-07-25 20:22:03] Set 'GBI' Release date => Raw: 1050537600 | Converted: 2003-04-17 00:00:00
+[2025-07-25 20:22:03] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards_(OCG-AE)
+[2025-07-25 20:22:04] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards_(OCG-AE)
+[2025-07-25 20:22:04] Set list page => Release date: 17 APRIL 2003
+[2025-07-25 20:22:04] File does not exist => output/AE_GBI.json
+[2025-07-25 20:22:04] Searching passcode for https://yugipedia.com/wiki/GBI-001
+[2025-07-25 20:22:04] Requesting page => https://yugipedia.com/wiki/GBI-001
+[2025-07-25 20:22:11] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:11] [Error] Parse Konami Id, contents => Null, not found 'li' tag.
+[2025-07-25 20:22:11] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:11] [Error] Parse list, main => Invalid Konami Id
+[2025-07-25 20:22:11] ===================================================================================================
+[2025-07-25 20:22:13] Set details => Pharaoh's Servant | https://yugipedia.com/wiki/Pharaoh%27s_Servant
+[2025-07-25 20:22:13] Prefix: PSV is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:13] Set details => Labyrinth of Nightmare | https://yugipedia.com/wiki/Labyrinth_of_Nightmare
+[2025-07-25 20:22:13] Prefix: LON is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:13] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2003 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2003_participation_card
+[2025-07-25 20:22:13] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:13] Set details => Duelist King Tournament: World Ranking Season 3 top 100 prize card | https://yugipedia.com/wiki/Duelist_King_Tournament:_World_Ranking_Season_3_top_100_prize_card
+[2025-07-25 20:22:13] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:13] Set details => Legacy of Darkness | https://yugipedia.com/wiki/Legacy_of_Darkness
+[2025-07-25 20:22:13] Prefix: LOD is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:13] Set details => Pharaonic Guardian | https://yugipedia.com/wiki/Pharaonic_Guardian
+[2025-07-25 20:22:13] Prefix: PGD is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:13] Set details => Magician's Force | https://yugipedia.com/wiki/Magician%27s_Force
+[2025-07-25 20:22:13] Prefix: MFC is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:13] Set details => Dark Crisis | https://yugipedia.com/wiki/Dark_Crisis
+[2025-07-25 20:22:13] Prefix: DCR is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:13] Set details => Yu-Gi-Oh! World Championship 2004 tournament promotional cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards
+[2025-07-25 20:22:13] Set 'WCS-AE' Release date => Raw: 1085184000 | Converted: 2004-05-22 00:00:00
+[2025-07-25 20:22:13] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2025-07-25 20:22:13] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2025-07-25 20:22:13] [Error] Page not found. Will skip.
+[2025-07-25 20:22:13] ===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2004 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2004_participation_card
+[2025-07-25 20:22:15] Prefix: WCS-AE4 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Invasion of Chaos | https://yugipedia.com/wiki/Invasion_of_Chaos
+[2025-07-25 20:22:15] Prefix: IOC-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Ancient Sanctuary | https://yugipedia.com/wiki/Ancient_Sanctuary
+[2025-07-25 20:22:15] Prefix: AST-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Soul of the Duelist | https://yugipedia.com/wiki/Soul_of_the_Duelist
+[2025-07-25 20:22:15] Prefix: SOD-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Rise of Destiny | https://yugipedia.com/wiki/Rise_of_Destiny
+[2025-07-25 20:22:15] Prefix: RDS-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! World Championship 2005 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2005_prize_cards
+[2025-07-25 20:22:15] Prefix: WCS-AE5 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Flaming Eternity | https://yugipedia.com/wiki/Flaming_Eternity
+[2025-07-25 20:22:15] Prefix: FET-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => The Lost Millennium | https://yugipedia.com/wiki/The_Lost_Millennium
+[2025-07-25 20:22:15] Prefix: TLM-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Cybernetic Revolution | https://yugipedia.com/wiki/Cybernetic_Revolution
+[2025-07-25 20:22:15] Prefix: CRV-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! World Championship 2006 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2006_prize_cards
+[2025-07-25 20:22:15] Prefix: WCPS-AE6 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Elemental Energy | https://yugipedia.com/wiki/Elemental_Energy
+[2025-07-25 20:22:15] Prefix: EEN-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Shadow of Infinity | https://yugipedia.com/wiki/Shadow_of_Infinity
+[2025-07-25 20:22:15] Prefix: SOI-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Enemy of Justice | https://yugipedia.com/wiki/Enemy_of_Justice
+[2025-07-25 20:22:15] Prefix: EOJ-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! World Championship 2007 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2007_prize_cards
+[2025-07-25 20:22:15] Prefix: WCPS-AE7 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! World Championship 2008 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2008_prize_cards
+[2025-07-25 20:22:15] Prefix: WCPS-AE8 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Crimson Crisis | https://yugipedia.com/wiki/Crimson_Crisis
+[2025-07-25 20:22:15] Prefix: CRMS-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Structure Deck: Lord of Magician | https://yugipedia.com/wiki/Structure_Deck:_Lord_of_Magician
+[2025-07-25 20:22:15] Prefix: SD16-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Raging Battle | https://yugipedia.com/wiki/Raging_Battle
+[2025-07-25 20:22:15] Prefix: RGBT-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! World Championship 2009 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2009_prize_cards
+[2025-07-25 20:22:15] Prefix: WCPS-AE9 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! World Championship 2010 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2010_prize_cards
+[2025-07-25 20:22:15] Prefix: 2010-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! World Championship 2011 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2011_prize_cards
+[2025-07-25 20:22:15] Prefix: 2011-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2012 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2012_participation_card
+[2025-07-25 20:22:15] Prefix: 2012-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2013 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2013_participation_card
+[2025-07-25 20:22:15] Prefix: 2013-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2014 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2014_participation_card
+[2025-07-25 20:22:15] Prefix: 2014-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Yu-Gi-Oh! World Championship 2015 attendance cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2015_attendance_cards
+[2025-07-25 20:22:15] Prefix: 2015-JPP is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Speed Start Deck: Link Edition | https://yugipedia.com/wiki/Speed_Start_Deck:_Link_Edition
+[2025-07-25 20:22:15] Prefix: SSD1-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Speed Start Deck: Synchro Edition | https://yugipedia.com/wiki/Speed_Start_Deck:_Synchro_Edition
+[2025-07-25 20:22:15] Prefix: SSD2-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Structure Deck: Illusion of the Dark Magicians | https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians
+[2025-07-25 20:22:15] Prefix: SDID-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Structure Deck: Illusion of the Dark Magicians Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians_Power-Up_Pack
+[2025-07-25 20:22:15] Prefix: SDID-AEP is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Structure Deck: Rise of the Blue-Eyes | https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes
+[2025-07-25 20:22:15] Prefix: SDRB-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Structure Deck: Rise of the Blue-Eyes Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes_Power-Up_Pack
+[2025-07-25 20:22:15] Prefix: SDRB-AEP is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Creation Pack 01 | https://yugipedia.com/wiki/Creation_Pack_01
+[2025-07-25 20:22:15] Prefix: CR01-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Creation Pack 01 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_01_%2B1_Bonus_Pack
+[2025-07-25 20:22:15] Prefix: CR01-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Duelist Nexus | https://yugipedia.com/wiki/Duelist_Nexus
+[2025-07-25 20:22:15] Prefix: DUNE-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Duelist Nexus +1 Bonus Pack | https://yugipedia.com/wiki/Duelist_Nexus_%2B1_Bonus_Pack
+[2025-07-25 20:22:15] Prefix: DUNE-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Tournament Pack 2024 Vol.1 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.1_(Asian-English)
+[2025-07-25 20:22:15] Prefix: 24AT-AE1 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Rarity Collection Quarter Century Edition | https://yugipedia.com/wiki/Rarity_Collection_Quarter_Century_Edition
+[2025-07-25 20:22:15] Prefix: RC04-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Creation Pack 02 | https://yugipedia.com/wiki/Creation_Pack_02
+[2025-07-25 20:22:15] Prefix: CR02-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Creation Pack 02 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_02_%2B1_Bonus_Pack
+[2025-07-25 20:22:15] Prefix: CR02-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Age of Overlord | https://yugipedia.com/wiki/Age_of_Overlord
+[2025-07-25 20:22:15] Prefix: AGOV-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Age of Overlord +1 Bonus Pack | https://yugipedia.com/wiki/Age_of_Overlord_%2B1_Bonus_Pack
+[2025-07-25 20:22:15] Prefix: AGOV-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Creation Pack 03 | https://yugipedia.com/wiki/Creation_Pack_03
+[2025-07-25 20:22:15] Prefix: CR03-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Creation Pack 03 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_03_%2B1_Bonus_Pack
+[2025-07-25 20:22:15] Prefix: CR03-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:15] Set details => Stainless Steel Egyptian God Cards | https://yugipedia.com/wiki/Stainless_Steel_Egyptian_God_Cards
+[2025-07-25 20:22:15] [Error] [Parse Set prefix] => list index out of range
+[2025-07-25 20:22:15] Set '' Release date => Raw: 1711152000 | Converted: 2024-03-23 00:00:00
+[2025-07-25 20:22:15] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2025-07-25 20:22:16] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2025-07-25 20:22:16] [Error] Page not found. Will skip.
+[2025-07-25 20:22:16] ===================================================================================================
+[2025-07-25 20:22:18] Set details => Phantom Nightmare | https://yugipedia.com/wiki/Phantom_Nightmare
+[2025-07-25 20:22:18] Prefix: PHNI-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Phantom Nightmare +1 Bonus Pack | https://yugipedia.com/wiki/Phantom_Nightmare_%2B1_Bonus_Pack
+[2025-07-25 20:22:18] Prefix: PHNI-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Tournament Pack 2024 Vol.2 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.2_(Asian-English)
+[2025-07-25 20:22:18] Prefix: 24AT-AE2 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Challenger Cup 2024 Qualifiers prize card | https://yugipedia.com/wiki/Challenger_Cup_2024_Qualifiers_prize_card
+[2025-07-25 20:22:18] Prefix: 24CC-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Creation Pack 04 | https://yugipedia.com/wiki/Creation_Pack_04
+[2025-07-25 20:22:18] Prefix: CR04-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Creation Pack 04 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_04_%2B1_Bonus_Pack
+[2025-07-25 20:22:18] Prefix: CR04-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Structure Deck: Salamangreat Sanctum | https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum
+[2025-07-25 20:22:18] Prefix: SDSS-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum_Transcend_Power-Up_Pack
+[2025-07-25 20:22:18] Prefix: SDSS-AEP is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Legacy of Destruction | https://yugipedia.com/wiki/Legacy_of_Destruction
+[2025-07-25 20:22:18] Prefix: LEDE-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Legacy of Destruction +1 Bonus Pack | https://yugipedia.com/wiki/Legacy_of_Destruction_%2B1_Bonus_Pack
+[2025-07-25 20:22:18] Prefix: LEDE-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Tournament Pack 2024 Vol.3 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.3_(Asian-English)
+[2025-07-25 20:22:18] Prefix: 24AT-AE3 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Essential Selection 01 | https://yugipedia.com/wiki/Essential_Selection_01
+[2025-07-25 20:22:18] Prefix: ES01-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Creation Pack 05 | https://yugipedia.com/wiki/Creation_Pack_05
+[2025-07-25 20:22:18] Prefix: CR05-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Creation Pack 05 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_05_%2B1_Bonus_Pack
+[2025-07-25 20:22:18] Prefix: CR05-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Infinite Forbidden +1 Bonus Pack | https://yugipedia.com/wiki/Infinite_Forbidden_%2B1_Bonus_Pack
+[2025-07-25 20:22:18] Prefix: INFO-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => The Infinite Forbidden | https://yugipedia.com/wiki/The_Infinite_Forbidden
+[2025-07-25 20:22:18] Prefix: INFO-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Yu-Gi-Oh! Open Tournament Singapore 2024 prize card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Singapore_2024_prize_card
+[2025-07-25 20:22:18] Prefix: 24OT-AESG is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Tournament Pack 2024 Vol.4 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.4_(Asian-English)
+[2025-07-25 20:22:18] Prefix: 24AT-AE4 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Bonus Pack: Awakened by the Primites | https://yugipedia.com/wiki/Bonus_Pack:_Awakened_by_the_Primites
+[2025-07-25 20:22:18] Prefix: BN01-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Rage of the Abyss | https://yugipedia.com/wiki/Rage_of_the_Abyss
+[2025-07-25 20:22:18] Prefix: ROTA-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Rage of the Abyss +1 Bonus Pack | https://yugipedia.com/wiki/Rage_of_the_Abyss_%2B1_Bonus_Pack
+[2025-07-25 20:22:18] Prefix: ROTA-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Duel-Ignition Deck: HERO | https://yugipedia.com/wiki/Duel-Ignition_Deck:_HERO
+[2025-07-25 20:22:18] Prefix: DI01-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Duel-Ignition Deck: Swordsoul | https://yugipedia.com/wiki/Duel-Ignition_Deck:_Swordsoul
+[2025-07-25 20:22:18] Prefix: DI02-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Selection 5: Quarter Century Edition | https://yugipedia.com/wiki/Selection_5:_Quarter_Century_Edition
+[2025-07-25 20:22:18] Prefix: SLF1-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Tournament Pack 2024 Vol.5 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.5_(Asian-English)
+[2025-07-25 20:22:18] Prefix: 24AT-AE5 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Creation Pack 06 | https://yugipedia.com/wiki/Creation_Pack_06
+[2025-07-25 20:22:18] Prefix: CR06-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Creation Pack 06 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_06_%2B1_Bonus_Pack
+[2025-07-25 20:22:18] Prefix: CR06-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Supreme Darkness | https://yugipedia.com/wiki/Supreme_Darkness
+[2025-07-25 20:22:18] Prefix: SUDA-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Supreme Darkness +1 Bonus Pack | https://yugipedia.com/wiki/Supreme_Darkness_%2B1_Bonus_Pack
+[2025-07-25 20:22:18] Prefix: SUDA-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Deck-Build Pack: Crossover Breakers | https://yugipedia.com/wiki/Deck-Build_Pack:_Crossover_Breakers
+[2025-07-25 20:22:18] Prefix: DBCB-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:18] Set details => Yu-Gi-Oh! Open Tournament Hong Kong 2025 prize card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card
+[2025-07-25 20:22:18] Set '25OT-AEHK' Release date => Raw: 1742688000 | Converted: 2025-03-23 00:00:00
+[2025-07-25 20:22:18] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card_(OCG-AE)
+[2025-07-25 20:22:18] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card_(OCG-AE)
+[2025-07-25 20:22:18] Set list page => Release date: 23 MARCH 2025
+[2025-07-25 20:22:18] File does not exist => output/AE_25OT-AEHK.json
+[2025-07-25 20:22:18] Searching passcode for https://yugipedia.com/wiki/25OT-AEHK1?action=edit&redlink=1
+[2025-07-25 20:22:18] Requesting page => https://yugipedia.com/wiki/25OT-AEHK1?action=edit&redlink=1
+[2025-07-25 20:22:18] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:18] [Error] Parse Konami Id, contents => Null, not found 'div' class 'below hlist plainlinks'.
+[2025-07-25 20:22:18] [Error] Parse list, main => Passcode => 'table' element not found.
+[2025-07-25 20:22:18] ===================================================================================================
+[2025-07-25 20:22:20] Set details => Tournament Pack 2025 Vol.1 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.1_(Asian-English)
+[2025-07-25 20:22:20] Prefix: 25AT-AE1 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Creation Pack 07 | https://yugipedia.com/wiki/Creation_Pack_07
+[2025-07-25 20:22:20] Prefix: CR07-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Creation Pack 07 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_07_%2B1_Bonus_Pack
+[2025-07-25 20:22:20] Prefix: CR07-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Challenger Cup 2025 Finals prize card | https://yugipedia.com/wiki/Challenger_Cup_2025_Finals_prize_card
+[2025-07-25 20:22:20] Prefix: 25YC-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Alliance Insight | https://yugipedia.com/wiki/Alliance_Insight
+[2025-07-25 20:22:20] Prefix: ALIN-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Alliance Insight +1 Bonus Pack | https://yugipedia.com/wiki/Alliance_Insight_%2B1_Bonus_Pack
+[2025-07-25 20:22:20] Prefix: ALIN-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Tactical-Try Deck: Exosister | https://yugipedia.com/wiki/Tactical-Try_Deck:_Exosister
+[2025-07-25 20:22:20] Prefix: TT02-AEB is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Tactical-Try Deck: Rescue-ACE | https://yugipedia.com/wiki/Tactical-Try_Deck:_Rescue-ACE
+[2025-07-25 20:22:20] Prefix: TT02-AEA is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Creation Pack 08 | https://yugipedia.com/wiki/Creation_Pack_08
+[2025-07-25 20:22:20] Prefix: CR08-AE is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Creation Pack 08 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_08_%2B1_Bonus_Pack
+[2025-07-25 20:22:20] Prefix: CR08-AES is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Tournament Pack 2025 Vol.2 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.2_(Asian-English)
+[2025-07-25 20:22:20] Prefix: 25AT-AE2 is skipped. Already processed.
+===================================================================================================
+[2025-07-25 20:22:20] Set details => Duelist Advance +1 Assist Pack | https://yugipedia.com/wiki/Duelist_Advance_%2B1_Assist_Pack
+[2025-07-25 20:22:20] Set 'DUAD-AES' Release date => Raw: 1752883200 | Converted: 2025-07-19 00:00:00
+[2025-07-25 20:22:20] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Duelist_Advance_%2B1_Assist_Pack_(OCG-AE)
+[2025-07-25 20:22:20] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Duelist_Advance_%2B1_Assist_Pack_(OCG-AE)
+[2025-07-25 20:22:20] Set list page => Release date: 19 JULY 2025
+[2025-07-25 20:22:20] File does not exist => output/AE_DUAD-AES.json
+[2025-07-25 20:22:20] Searching passcode for https://yugipedia.com/wiki/DUAD-AES01
+[2025-07-25 20:22:20] Requesting page => https://yugipedia.com/wiki/DUAD-AES01
+[2025-07-25 20:22:28] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:28] Parse Konami Id, contents => Index: 1 | Text: 9877 | Raw: 9877  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:28] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:28] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:22:28] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:22:28] Passcode => Item: LEVEL | 3
+[2025-07-25 20:22:28] Passcode => Item: ATK  DEF | 1000 / 800
+[2025-07-25 20:22:28] Passcode => Item: PASSWORD | 03606728
+[2025-07-25 20:22:28] Item => Setcode: DUAD-AES01 | URL: https://yugipedia.com/wiki/DUAD-AES01 | Name: Gagaga Girl | Category: EFFECT MONSTER
+[2025-07-25 20:22:28] ===================================================================================================
+[2025-07-25 20:22:29] Searching passcode for https://yugipedia.com/wiki/DUAD-AES01
+[2025-07-25 20:22:29] Requesting page => https://yugipedia.com/wiki/DUAD-AES01
+[2025-07-25 20:22:29] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:29] Parse Konami Id, contents => Index: 1 | Text: 9877 | Raw: 9877  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:29] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:29] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:22:29] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:22:29] Passcode => Item: LEVEL | 3
+[2025-07-25 20:22:29] Passcode => Item: ATK  DEF | 1000 / 800
+[2025-07-25 20:22:29] Passcode => Item: PASSWORD | 03606728
+[2025-07-25 20:22:29] Item => Setcode: DUAD-AES01 | URL: https://yugipedia.com/wiki/DUAD-AES01 | Name: Gagaga Girl | Category: EFFECT MONSTER
+[2025-07-25 20:22:29] ===================================================================================================
+[2025-07-25 20:22:30] Searching passcode for https://yugipedia.com/wiki/DUAD-AES02
+[2025-07-25 20:22:30] Requesting page => https://yugipedia.com/wiki/DUAD-AES02
+[2025-07-25 20:22:30] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:30] Parse Konami Id, contents => Index: 1 | Text: 9618 | Raw: 9618  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:30] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:30] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:22:30] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:22:30] Passcode => Item: LEVEL | 4
+[2025-07-25 20:22:30] Passcode => Item: ATK  DEF | 1500 / 1000
+[2025-07-25 20:22:30] Passcode => Item: PASSWORD | 26082117
+[2025-07-25 20:22:30] Item => Setcode: DUAD-AES02 | URL: https://yugipedia.com/wiki/DUAD-AES02 | Name: Gagaga Magician | Category: EFFECT MONSTER
+[2025-07-25 20:22:30] ===================================================================================================
+[2025-07-25 20:22:31] Searching passcode for https://yugipedia.com/wiki/DUAD-AES03
+[2025-07-25 20:22:31] Requesting page => https://yugipedia.com/wiki/DUAD-AES03
+[2025-07-25 20:22:38] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:38] Parse Konami Id, contents => Index: 1 | Text: 9621 | Raw: 9621  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:38] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:38] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:22:38] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:22:38] Passcode => Item: LEVEL | 4
+[2025-07-25 20:22:38] Passcode => Item: ATK  DEF | 1400 / 0
+[2025-07-25 20:22:38] Passcode => Item: PASSWORD | 25259669
+[2025-07-25 20:22:38] Item => Setcode: DUAD-AES03 | URL: https://yugipedia.com/wiki/DUAD-AES03 | Name: Goblindbergh | Category: EFFECT MONSTER
+[2025-07-25 20:22:38] ===================================================================================================
+[2025-07-25 20:22:39] Searching passcode for https://yugipedia.com/wiki/DUAD-AES04
+[2025-07-25 20:22:39] Requesting page => https://yugipedia.com/wiki/DUAD-AES04
+[2025-07-25 20:22:45] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:45] Parse Konami Id, contents => Index: 1 | Text: 9723 | Raw: 9723  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:45] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:45] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:22:45] Passcode => Item: TYPES | Reptile / Effect
+[2025-07-25 20:22:45] Passcode => Item: LEVEL | 4
+[2025-07-25 20:22:45] Passcode => Item: ATK  DEF | 1100 / 1500
+[2025-07-25 20:22:45] Passcode => Item: PASSWORD | 94656263
+[2025-07-25 20:22:45] Item => Setcode: DUAD-AES04 | URL: https://yugipedia.com/wiki/DUAD-AES04 | Name: Kagetokage | Category: EFFECT MONSTER
+[2025-07-25 20:22:45] ===================================================================================================
+[2025-07-25 20:22:46] Searching passcode for https://yugipedia.com/wiki/DUAD-AES05
+[2025-07-25 20:22:46] Requesting page => https://yugipedia.com/wiki/DUAD-AES05
+[2025-07-25 20:22:46] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:46] Parse Konami Id, contents => Index: 1 | Text: 10564 | Raw: 10564  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:46] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:46] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:22:46] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:22:46] Passcode => Item: LEVEL | 2
+[2025-07-25 20:22:46] Passcode => Item: ATK  DEF | 800 / 1200
+[2025-07-25 20:22:46] Passcode => Item: PASSWORD | 94203886
+[2025-07-25 20:22:46] Item => Setcode: DUAD-AES05 | URL: https://yugipedia.com/wiki/DUAD-AES05 | Name: Gagaga Child | Category: EFFECT MONSTER
+[2025-07-25 20:22:46] ===================================================================================================
+[2025-07-25 20:22:47] Searching passcode for https://yugipedia.com/wiki/DUAD-AES06
+[2025-07-25 20:22:47] Requesting page => https://yugipedia.com/wiki/DUAD-AES06
+[2025-07-25 20:22:47] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:48] Parse Konami Id, contents => Index: 1 | Text: 11110 | Raw: 11110  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:48] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:48] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:22:48] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:22:48] Passcode => Item: LEVEL | 2
+[2025-07-25 20:22:48] Passcode => Item: ATK  DEF | 200 / 800
+[2025-07-25 20:22:48] Passcode => Item: PASSWORD | 00387282
+[2025-07-25 20:22:48] Item => Setcode: DUAD-AES06 | URL: https://yugipedia.com/wiki/DUAD-AES06 | Name: Gagaga Sister | Category: EFFECT MONSTER
+[2025-07-25 20:22:48] ===================================================================================================
+[2025-07-25 20:22:49] Searching passcode for https://yugipedia.com/wiki/DUAD-AES07
+[2025-07-25 20:22:49] Requesting page => https://yugipedia.com/wiki/DUAD-AES07
+[2025-07-25 20:22:49] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:49] Parse Konami Id, contents => Index: 1 | Text: 10263 | Raw: 10263  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:49] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:49] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:22:49] Passcode => Item: TYPES | Warrior / Xyz / Effect
+[2025-07-25 20:22:49] Passcode => Item: RANK | 4
+[2025-07-25 20:22:49] Passcode => Item: ATK  DEF | 1500 / 2400
+[2025-07-25 20:22:49] Passcode => Item: PASSWORD | 12014404
+[2025-07-25 20:22:49] Item => Setcode: DUAD-AES07 | URL: https://yugipedia.com/wiki/DUAD-AES07 | Name: Gagaga Cowboy | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:22:49] ===================================================================================================
+[2025-07-25 20:22:50] Searching passcode for https://yugipedia.com/wiki/DUAD-AES08
+[2025-07-25 20:22:50] Requesting page => https://yugipedia.com/wiki/DUAD-AES08
+[2025-07-25 20:22:50] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:50] Parse Konami Id, contents => Index: 1 | Text: 11298 | Raw: 11298  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:50] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:22:50] Passcode => Item: PROPERTY | Field
+[2025-07-25 20:22:50] Passcode => Item: PASSWORD | 26493435
+[2025-07-25 20:22:50] Item => Setcode: DUAD-AES08 | URL: https://yugipedia.com/wiki/DUAD-AES08 | Name: Onomatopia | Category: FIELD SPELL
+[2025-07-25 20:22:50] ===================================================================================================
+[2025-07-25 20:22:51] Searching passcode for https://yugipedia.com/wiki/DUAD-AES09
+[2025-07-25 20:22:51] Requesting page => https://yugipedia.com/wiki/DUAD-AES09
+[2025-07-25 20:22:53] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:53] Parse Konami Id, contents => Index: 1 | Text: 9494 | Raw: 9494  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:22:53] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:53] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:22:53] Passcode => Item: TYPES | Psychic / Tuner / Effect
+[2025-07-25 20:22:53] Passcode => Item: LEVEL | 2
+[2025-07-25 20:22:53] Passcode => Item: ATK  DEF | 500 / 300
+[2025-07-25 20:22:53] Passcode => Item: PASSWORD | 99070951
+[2025-07-25 20:22:53] Item => Setcode: DUAD-AES09 | URL: https://yugipedia.com/wiki/DUAD-AES09 | Name: Esper Girl | Category: EFFECT TUNER MONSTER
+[2025-07-25 20:22:53] ===================================================================================================
+[2025-07-25 20:22:54] Searching passcode for https://yugipedia.com/wiki/DUAD-AES10
+[2025-07-25 20:22:54] Requesting page => https://yugipedia.com/wiki/DUAD-AES10
+[2025-07-25 20:22:55] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:55] Parse Konami Id, contents => Index: 1 | Text: 9495 | Raw: 9495  
+ja - rulings
+en
+fr
+de
+it
+es
+ae
+ko
+cn
+[2025-07-25 20:22:55] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:55] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:22:55] Passcode => Item: TYPES | Psychic / Tuner
+[2025-07-25 20:22:55] Passcode => Item: LEVEL | 3
+[2025-07-25 20:22:55] Passcode => Item: ATK  DEF | 800 / 600
+[2025-07-25 20:22:55] Passcode => Item: PASSWORD | 36565699
+[2025-07-25 20:22:55] Item => Setcode: DUAD-AES10 | URL: https://yugipedia.com/wiki/DUAD-AES10 | Name: Mental Seeker | Category: EFFECT TUNER MONSTER
+[2025-07-25 20:22:55] ===================================================================================================
+[2025-07-25 20:22:56] Searching passcode for https://yugipedia.com/wiki/DUAD-AES11
+[2025-07-25 20:22:56] Requesting page => https://yugipedia.com/wiki/DUAD-AES11
+[2025-07-25 20:22:56] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:22:56] Parse Konami Id, contents => Index: 1 | Text: 9745 | Raw: 9745  
+ja - rulings
+en
+fr
+de
+it
+es
+ae
+ko
+cn
+[2025-07-25 20:22:56] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:22:56] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:22:56] Passcode => Item: TYPES | Psychic / Effect
+[2025-07-25 20:22:56] Passcode => Item: LEVEL | 2
+[2025-07-25 20:22:56] Passcode => Item: ATK  DEF | 500 / 1800
+[2025-07-25 20:22:56] Passcode => Item: PASSWORD | 51701885
+[2025-07-25 20:22:56] Item => Setcode: DUAD-AES11 | URL: https://yugipedia.com/wiki/DUAD-AES11 | Name: D.D. Telepon | Category: EFFECT MONSTER
+[2025-07-25 20:22:56] ===================================================================================================
+[2025-07-25 20:22:57] Searching passcode for https://yugipedia.com/wiki/DUAD-AES12
+[2025-07-25 20:22:57] Requesting page => https://yugipedia.com/wiki/DUAD-AES12
+[2025-07-25 20:23:07] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:07] Parse Konami Id, contents => Index: 1 | Text: 8988 | Raw: 8988  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:23:07] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:23:07] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:23:07] Passcode => Item: PASSWORD | 36484016
+[2025-07-25 20:23:07] Item => Setcode: DUAD-AES12 | URL: https://yugipedia.com/wiki/DUAD-AES12 | Name: Miracle Synchro Fusion | Category: NORMAL SPELL
+[2025-07-25 20:23:07] ===================================================================================================
+[2025-07-25 20:23:08] Searching passcode for https://yugipedia.com/wiki/DUAD-AES13
+[2025-07-25 20:23:08] Requesting page => https://yugipedia.com/wiki/DUAD-AES13
+[2025-07-25 20:23:08] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:08] Parse Konami Id, contents => Index: 1 | Text: 5965 | Raw: 5965  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+[2025-07-25 20:23:08] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:08] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:08] Passcode => Item: TYPES | Thunder / Effect
+[2025-07-25 20:23:08] Passcode => Item: LEVEL | 5
+[2025-07-25 20:23:08] Passcode => Item: ATK  DEF | 2400 / 1000
+[2025-07-25 20:23:08] Passcode => Item: PASSWORD | 51945556
+[2025-07-25 20:23:08] Item => Setcode: DUAD-AES13 | URL: https://yugipedia.com/wiki/DUAD-AES13 | Name: Zaborg the Thunder Monarch | Category: EFFECT MONSTER
+[2025-07-25 20:23:08] ===================================================================================================
+[2025-07-25 20:23:09] Searching passcode for https://yugipedia.com/wiki/DUAD-AES14
+[2025-07-25 20:23:09] Requesting page => https://yugipedia.com/wiki/DUAD-AES14
+[2025-07-25 20:23:09] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:09] Parse Konami Id, contents => Index: 1 | Text: 6239 | Raw: 6239  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:23:09] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:09] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:09] Passcode => Item: TYPES | Rock / Effect
+[2025-07-25 20:23:09] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:09] Passcode => Item: ATK  DEF | 2400 / 1000
+[2025-07-25 20:23:09] Passcode => Item: PASSWORD | 60229110
+[2025-07-25 20:23:09] Item => Setcode: DUAD-AES14 | URL: https://yugipedia.com/wiki/DUAD-AES14 | Name: Granmarg the Rock Monarch | Category: EFFECT MONSTER
+[2025-07-25 20:23:09] ===================================================================================================
+[2025-07-25 20:23:10] Searching passcode for https://yugipedia.com/wiki/DUAD-AES15
+[2025-07-25 20:23:10] Requesting page => https://yugipedia.com/wiki/DUAD-AES15
+[2025-07-25 20:23:10] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:10] Parse Konami Id, contents => Index: 1 | Text: 6114 | Raw: 6114  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+[2025-07-25 20:23:10] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:10] Passcode => Item: ATTRIBUTE | WATER
+[2025-07-25 20:23:10] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:23:10] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:10] Passcode => Item: ATK  DEF | 2400 / 1000
+[2025-07-25 20:23:10] Passcode => Item: PASSWORD | 04929256
+[2025-07-25 20:23:10] Item => Setcode: DUAD-AES15 | URL: https://yugipedia.com/wiki/DUAD-AES15 | Name: Mobius the Frost Monarch | Category: EFFECT MONSTER
+[2025-07-25 20:23:10] ===================================================================================================
+[2025-07-25 20:23:11] Searching passcode for https://yugipedia.com/wiki/DUAD-AES16
+[2025-07-25 20:23:11] Requesting page => https://yugipedia.com/wiki/DUAD-AES16
+[2025-07-25 20:23:16] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:16] Parse Konami Id, contents => Index: 1 | Text: 6190 | Raw: 6190  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+[2025-07-25 20:23:16] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:16] Passcode => Item: ATTRIBUTE | FIRE
+[2025-07-25 20:23:16] Passcode => Item: TYPES | Pyro / Effect
+[2025-07-25 20:23:16] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:16] Passcode => Item: ATK  DEF | 2400 / 1000
+[2025-07-25 20:23:16] Passcode => Item: PASSWORD | 26205777
+[2025-07-25 20:23:16] Item => Setcode: DUAD-AES16 | URL: https://yugipedia.com/wiki/DUAD-AES16 | Name: Thestalos the Firestorm Monarch | Category: EFFECT MONSTER
+[2025-07-25 20:23:16] ===================================================================================================
+[2025-07-25 20:23:17] Searching passcode for https://yugipedia.com/wiki/DUAD-AES17
+[2025-07-25 20:23:17] Requesting page => https://yugipedia.com/wiki/DUAD-AES17
+[2025-07-25 20:23:17] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:17] Parse Konami Id, contents => Index: 1 | Text: 9114 | Raw: 9114  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:23:17] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:17] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:17] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:23:17] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:17] Passcode => Item: ATK  DEF | 2400 / 1000
+[2025-07-25 20:23:17] Passcode => Item: PASSWORD | 85718645
+[2025-07-25 20:23:17] Item => Setcode: DUAD-AES17 | URL: https://yugipedia.com/wiki/DUAD-AES17 | Name: Delg the Dark Monarch | Category: EFFECT MONSTER
+[2025-07-25 20:23:17] ===================================================================================================
+[2025-07-25 20:23:18] Searching passcode for https://yugipedia.com/wiki/DUAD-AES18
+[2025-07-25 20:23:18] Requesting page => https://yugipedia.com/wiki/DUAD-AES18
+[2025-07-25 20:23:18] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:18] Parse Konami Id, contents => Index: 1 | Text: 7659 | Raw: 7659  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:23:18] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:18] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:18] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:23:18] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:18] Passcode => Item: ATK  DEF | 2400 / 1000
+[2025-07-25 20:23:18] Passcode => Item: PASSWORD | 57666212
+[2025-07-25 20:23:18] Item => Setcode: DUAD-AES18 | URL: https://yugipedia.com/wiki/DUAD-AES18 | Name: Kuraz the Light Monarch | Category: EFFECT MONSTER
+[2025-07-25 20:23:18] ===================================================================================================
+[2025-07-25 20:23:19] Searching passcode for https://yugipedia.com/wiki/DUAD-AES19
+[2025-07-25 20:23:19] Requesting page => https://yugipedia.com/wiki/DUAD-AES19
+[2025-07-25 20:23:19] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:19] Parse Konami Id, contents => Index: 1 | Text: 12254 | Raw: 12254  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:23:19] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:19] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:19] Passcode => Item: TYPES | Fiend / Effect
+[2025-07-25 20:23:19] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:19] Passcode => Item: ATK  DEF | 2400 / 1000
+[2025-07-25 20:23:19] Passcode => Item: PASSWORD | 65612386
+[2025-07-25 20:23:19] Item => Setcode: DUAD-AES19 | URL: https://yugipedia.com/wiki/DUAD-AES19 | Name: Angmarl the Fiendish Monarch | Category: EFFECT MONSTER
+[2025-07-25 20:23:19] ===================================================================================================
+[2025-07-25 20:23:20] Searching passcode for https://yugipedia.com/wiki/DUAD-AES20
+[2025-07-25 20:23:20] Requesting page => https://yugipedia.com/wiki/DUAD-AES20
+[2025-07-25 20:23:20] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:20] Parse Konami Id, contents => Index: 1 | Text: 13823 | Raw: 13823  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+[2025-07-25 20:23:20] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:20] Passcode => Item: ATTRIBUTE | WATER
+[2025-07-25 20:23:20] Passcode => Item: TYPES | Machine / Xyz / Effect
+[2025-07-25 20:23:20] Passcode => Item: RANK | 4
+[2025-07-25 20:23:20] Passcode => Item: ATK  DEF | 2200 / 1000
+[2025-07-25 20:23:20] Passcode => Item: PASSWORD | 08387138
+[2025-07-25 20:23:20] Item => Setcode: DUAD-AES20 | URL: https://yugipedia.com/wiki/DUAD-AES20 | Name: Number 27: Dreadnought Dreadnoid | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:23:20] ===================================================================================================
+[2025-07-25 20:23:21] Creating output json file for set 'DUAD-AES' => output/AE_DUAD-AES.json
+[2025-07-25 20:23:21] Saving Card List to JSON file => output/AE_DUAD-AES.json
+[2025-07-25 20:23:21] Successfully created json file.
+[2025-07-25 20:23:21] ===================================================================================================
+[2025-07-25 20:23:23] Set details => Duelist's Advance | https://yugipedia.com/wiki/Duelist%27s_Advance
+[2025-07-25 20:23:23] Set 'DUAD-AE' Release date => Raw: 1752883200 | Converted: 2025-07-19 00:00:00
+[2025-07-25 20:23:23] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Duelist%27s_Advance_(OCG-AE)
+[2025-07-25 20:23:24] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Duelist%27s_Advance_(OCG-AE)
+[2025-07-25 20:23:24] Set list page => Release date: 19 JULY 2025
+[2025-07-25 20:23:24] File does not exist => output/AE_DUAD-AE.json
+[2025-07-25 20:23:24] Searching passcode for https://yugipedia.com/wiki/DUAD-AE001
+[2025-07-25 20:23:24] Requesting page => https://yugipedia.com/wiki/DUAD-AE001
+[2025-07-25 20:23:26] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:26] Parse Konami Id, contents => Index: 1 | Text: 21412 | Raw: 21412  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:26] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:26] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:26] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:23:26] Passcode => Item: LEVEL | 3
+[2025-07-25 20:23:26] Passcode => Item: ATK  DEF | 1600 / 900
+[2025-07-25 20:23:26] Passcode => Item: PASSWORD | 62006866
+[2025-07-25 20:23:26] Item => Setcode: DUAD-AE001 | URL: https://yugipedia.com/wiki/DUAD-AE001 | Name: Zubababa Knight | Category: EFFECT MONSTER
+[2025-07-25 20:23:26] ===================================================================================================
+[2025-07-25 20:23:27] Searching passcode for https://yugipedia.com/wiki/DUAD-AE002
+[2025-07-25 20:23:27] Requesting page => https://yugipedia.com/wiki/DUAD-AE002
+[2025-07-25 20:23:27] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:27] Parse Konami Id, contents => Index: 1 | Text: 21413 | Raw: 21413  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:27] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:27] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:27] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:23:27] Passcode => Item: LEVEL | 4
+[2025-07-25 20:23:27] Passcode => Item: ATK  DEF | 0 / 1800
+[2025-07-25 20:23:27] Passcode => Item: PASSWORD | 09491461
+[2025-07-25 20:23:27] Item => Setcode: DUAD-AE002 | URL: https://yugipedia.com/wiki/DUAD-AE002 | Name: Gagaga Ganbara Knight | Category: EFFECT MONSTER
+[2025-07-25 20:23:27] ===================================================================================================
+[2025-07-25 20:23:28] Searching passcode for https://yugipedia.com/wiki/DUAD-AE003
+[2025-07-25 20:23:28] Requesting page => https://yugipedia.com/wiki/DUAD-AE003
+[2025-07-25 20:23:28] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:28] Parse Konami Id, contents => Index: 1 | Text: 21414 | Raw: 21414  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:28] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:28] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:28] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:23:28] Passcode => Item: LEVEL | 4
+[2025-07-25 20:23:28] Passcode => Item: ATK  DEF | 1400 / 0
+[2025-07-25 20:23:28] Passcode => Item: PASSWORD | 35886170
+[2025-07-25 20:23:28] Item => Setcode: DUAD-AE003 | URL: https://yugipedia.com/wiki/DUAD-AE003 | Name: Gogogo Goblindbergh | Category: EFFECT MONSTER
+[2025-07-25 20:23:28] ===================================================================================================
+[2025-07-25 20:23:29] Searching passcode for https://yugipedia.com/wiki/DUAD-AE004
+[2025-07-25 20:23:29] Requesting page => https://yugipedia.com/wiki/DUAD-AE004
+[2025-07-25 20:23:29] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:29] Parse Konami Id, contents => Index: 1 | Text: 21415 | Raw: 21415  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:29] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:29] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:29] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:23:29] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:29] Passcode => Item: ATK  DEF | 2300 / 900
+[2025-07-25 20:23:29] Passcode => Item: PASSWORD | 62880279
+[2025-07-25 20:23:29] Item => Setcode: DUAD-AE004 | URL: https://yugipedia.com/wiki/DUAD-AE004 | Name: Dodododo Warrior | Category: EFFECT MONSTER
+[2025-07-25 20:23:29] ===================================================================================================
+[2025-07-25 20:23:30] Searching passcode for https://yugipedia.com/wiki/DUAD-AE005
+[2025-07-25 20:23:30] Requesting page => https://yugipedia.com/wiki/DUAD-AE005
+[2025-07-25 20:23:30] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:30] Parse Konami Id, contents => Index: 1 | Text: 21416 | Raw: 21416  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:30] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:30] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:30] Passcode => Item: TYPES | Beast-Warrior / Effect
+[2025-07-25 20:23:30] Passcode => Item: LEVEL | 4
+[2025-07-25 20:23:30] Passcode => Item: ATK  DEF | 600 / 1600
+[2025-07-25 20:23:30] Passcode => Item: PASSWORD | 08379983
+[2025-07-25 20:23:30] Item => Setcode: DUAD-AE005 | URL: https://yugipedia.com/wiki/DUAD-AE005 | Name: Lunalight Gold Leo | Category: EFFECT MONSTER
+[2025-07-25 20:23:30] ===================================================================================================
+[2025-07-25 20:23:31] Searching passcode for https://yugipedia.com/wiki/DUAD-AE006
+[2025-07-25 20:23:31] Requesting page => https://yugipedia.com/wiki/DUAD-AE006
+[2025-07-25 20:23:31] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:31] Parse Konami Id, contents => Index: 1 | Text: 21417 | Raw: 21417  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:31] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:31] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:31] Passcode => Item: TYPES | Beast-Warrior / Effect
+[2025-07-25 20:23:31] Passcode => Item: LEVEL | 3
+[2025-07-25 20:23:31] Passcode => Item: ATK  DEF | 1400 / 400
+[2025-07-25 20:23:31] Passcode => Item: PASSWORD | 35763582
+[2025-07-25 20:23:31] Item => Setcode: DUAD-AE006 | URL: https://yugipedia.com/wiki/DUAD-AE006 | Name: Lunalight Silver Hound | Category: EFFECT MONSTER
+[2025-07-25 20:23:31] ===================================================================================================
+[2025-07-25 20:23:32] Searching passcode for https://yugipedia.com/wiki/DUAD-AE007
+[2025-07-25 20:23:32] Requesting page => https://yugipedia.com/wiki/DUAD-AE007
+[2025-07-25 20:23:32] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:32] Parse Konami Id, contents => Index: 1 | Text: 21418 | Raw: 21418  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:32] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:32] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:32] Passcode => Item: TYPES | Cyberse / Effect
+[2025-07-25 20:23:32] Passcode => Item: LEVEL | 5
+[2025-07-25 20:23:32] Passcode => Item: ATK  DEF | 2000 / 600
+[2025-07-25 20:23:32] Passcode => Item: PASSWORD | 61168637
+[2025-07-25 20:23:32] Item => Setcode: DUAD-AE007 | URL: https://yugipedia.com/wiki/DUAD-AE007 | Name: Linkslayer @Ignister | Category: EFFECT MONSTER
+[2025-07-25 20:23:32] ===================================================================================================
+[2025-07-25 20:23:33] Searching passcode for https://yugipedia.com/wiki/DUAD-AE008
+[2025-07-25 20:23:33] Requesting page => https://yugipedia.com/wiki/DUAD-AE008
+[2025-07-25 20:23:33] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:33] Parse Konami Id, contents => Index: 1 | Text: 21419 | Raw: 21419  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:33] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:33] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:33] Passcode => Item: TYPES | Fairy / Effect
+[2025-07-25 20:23:33] Passcode => Item: LEVEL | 4
+[2025-07-25 20:23:33] Passcode => Item: ATK  DEF | 1800 / 1800
+[2025-07-25 20:23:33] Passcode => Item: PASSWORD | 97556336
+[2025-07-25 20:23:33] Item => Setcode: DUAD-AE008 | URL: https://yugipedia.com/wiki/DUAD-AE008 | Name: Medius the Pure | Category: EFFECT MONSTER
+[2025-07-25 20:23:33] ===================================================================================================
+[2025-07-25 20:23:34] Searching passcode for https://yugipedia.com/wiki/DUAD-AE009
+[2025-07-25 20:23:34] Requesting page => https://yugipedia.com/wiki/DUAD-AE009
+[2025-07-25 20:23:35] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:35] Parse Konami Id, contents => Index: 1 | Text: 21420 | Raw: 21420  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:35] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:35] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:35] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:23:35] Passcode => Item: LEVEL | 7
+[2025-07-25 20:23:35] Passcode => Item: ATK  DEF | 2400 / 1500
+[2025-07-25 20:23:35] Passcode => Item: PASSWORD | 34541940
+[2025-07-25 20:23:35] Item => Setcode: DUAD-AE009 | URL: https://yugipedia.com/wiki/DUAD-AE009 | Name: Artmage Finmel | Category: EFFECT MONSTER
+[2025-07-25 20:23:35] ===================================================================================================
+[2025-07-25 20:23:36] Searching passcode for https://yugipedia.com/wiki/DUAD-AE010
+[2025-07-25 20:23:36] Requesting page => https://yugipedia.com/wiki/DUAD-AE010
+[2025-07-25 20:23:36] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:36] Parse Konami Id, contents => Index: 1 | Text: 21421 | Raw: 21421  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:36] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:36] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:36] Passcode => Item: TYPES | Dragon / Effect
+[2025-07-25 20:23:36] Passcode => Item: LEVEL | 5
+[2025-07-25 20:23:36] Passcode => Item: ATK  DEF | 2100 / 1500
+[2025-07-25 20:23:36] Passcode => Item: PASSWORD | 60946049
+[2025-07-25 20:23:36] Item => Setcode: DUAD-AE010 | URL: https://yugipedia.com/wiki/DUAD-AE010 | Name: Artmage Graflare | Category: EFFECT MONSTER
+[2025-07-25 20:23:36] ===================================================================================================
+[2025-07-25 20:23:37] Searching passcode for https://yugipedia.com/wiki/DUAD-AE011
+[2025-07-25 20:23:37] Requesting page => https://yugipedia.com/wiki/DUAD-AE011
+[2025-07-25 20:23:37] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:37] Parse Konami Id, contents => Index: 1 | Text: 21422 | Raw: 21422  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:37] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:37] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:37] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:23:37] Passcode => Item: LEVEL | 3
+[2025-07-25 20:23:37] Passcode => Item: ATK  DEF | 400 / 1800
+[2025-07-25 20:23:37] Passcode => Item: PASSWORD | 97434754
+[2025-07-25 20:23:37] Item => Setcode: DUAD-AE011 | URL: https://yugipedia.com/wiki/DUAD-AE011 | Name: Artmage Litera | Category: EFFECT MONSTER
+[2025-07-25 20:23:37] ===================================================================================================
+[2025-07-25 20:23:38] Searching passcode for https://yugipedia.com/wiki/DUAD-AE012
+[2025-07-25 20:23:38] Requesting page => https://yugipedia.com/wiki/DUAD-AE012
+[2025-07-25 20:23:38] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:38] Parse Konami Id, contents => Index: 1 | Text: 21423 | Raw: 21423  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:38] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:38] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:38] Passcode => Item: TYPES | Illusion / Effect
+[2025-07-25 20:23:38] Passcode => Item: LEVEL | 1
+[2025-07-25 20:23:38] Passcode => Item: ATK  DEF | 300 / 200
+[2025-07-25 20:23:38] Passcode => Item: PASSWORD | 23829452
+[2025-07-25 20:23:38] Item => Setcode: DUAD-AE012 | URL: https://yugipedia.com/wiki/DUAD-AE012 | Name: Artmage Power Patron | Category: EFFECT MONSTER
+[2025-07-25 20:23:38] ===================================================================================================
+[2025-07-25 20:23:39] Searching passcode for https://yugipedia.com/wiki/DUAD-AE013
+[2025-07-25 20:23:39] Requesting page => https://yugipedia.com/wiki/DUAD-AE013
+[2025-07-25 20:23:39] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:39] Parse Konami Id, contents => Index: 1 | Text: 21424 | Raw: 21424  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:39] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:39] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:39] Passcode => Item: TYPES | Psychic / Tuner / Effect
+[2025-07-25 20:23:39] Passcode => Item: LEVEL | 2
+[2025-07-25 20:23:39] Passcode => Item: ATK  DEF | 500 / 300
+[2025-07-25 20:23:39] Passcode => Item: PASSWORD | 09213491
+[2025-07-25 20:23:39] Item => Setcode: DUAD-AE013 | URL: https://yugipedia.com/wiki/DUAD-AE013 | Name: Serene Psychic Girl | Category: EFFECT TUNER MONSTER
+[2025-07-25 20:23:39] ===================================================================================================
+[2025-07-25 20:23:40] Searching passcode for https://yugipedia.com/wiki/DUAD-AE014
+[2025-07-25 20:23:40] Requesting page => https://yugipedia.com/wiki/DUAD-AE014
+[2025-07-25 20:23:40] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:40] Parse Konami Id, contents => Index: 1 | Text: 21425 | Raw: 21425  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:40] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:40] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:40] Passcode => Item: TYPES | Psychic / Effect
+[2025-07-25 20:23:40] Passcode => Item: LEVEL | 3
+[2025-07-25 20:23:40] Passcode => Item: ATK  DEF | 0 / 2100
+[2025-07-25 20:23:40] Passcode => Item: PASSWORD | 36218106
+[2025-07-25 20:23:40] Item => Setcode: DUAD-AE014 | URL: https://yugipedia.com/wiki/DUAD-AE014 | Name: Hushed Psychic Minister | Category: EFFECT MONSTER
+[2025-07-25 20:23:40] ===================================================================================================
+[2025-07-25 20:23:41] Searching passcode for https://yugipedia.com/wiki/DUAD-AE015
+[2025-07-25 20:23:41] Requesting page => https://yugipedia.com/wiki/DUAD-AE015
+[2025-07-25 20:23:41] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:41] Parse Konami Id, contents => Index: 1 | Text: 21426 | Raw: 21426  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:41] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:41] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:41] Passcode => Item: TYPES | Psychic / Tuner / Effect
+[2025-07-25 20:23:41] Passcode => Item: LEVEL | 3
+[2025-07-25 20:23:41] Passcode => Item: ATK  DEF | 1100 / 1100
+[2025-07-25 20:23:41] Passcode => Item: PASSWORD | 62606805
+[2025-07-25 20:23:41] Item => Setcode: DUAD-AE015 | URL: https://yugipedia.com/wiki/DUAD-AE015 | Name: Mind Procedure | Category: EFFECT TUNER MONSTER
+[2025-07-25 20:23:41] ===================================================================================================
+[2025-07-25 20:23:42] Searching passcode for https://yugipedia.com/wiki/DUAD-AE016
+[2025-07-25 20:23:42] Requesting page => https://yugipedia.com/wiki/DUAD-AE016
+[2025-07-25 20:23:42] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:42] Parse Konami Id, contents => Index: 1 | Text: 21427 | Raw: 21427  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:42] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:42] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:42] Passcode => Item: TYPES | Psychic / Effect
+[2025-07-25 20:23:42] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:42] Passcode => Item: ATK  DEF | 2000 / 1500
+[2025-07-25 20:23:42] Passcode => Item: PASSWORD | 95091919
+[2025-07-25 20:23:42] Item => Setcode: DUAD-AE016 | URL: https://yugipedia.com/wiki/DUAD-AE016 | Name: Prototype Psychic Blaster | Category: EFFECT MONSTER
+[2025-07-25 20:23:42] ===================================================================================================
+[2025-07-25 20:23:43] Searching passcode for https://yugipedia.com/wiki/DUAD-AE017
+[2025-07-25 20:23:43] Requesting page => https://yugipedia.com/wiki/DUAD-AE017
+[2025-07-25 20:23:43] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:43] Parse Konami Id, contents => Index: 1 | Text: 21428 | Raw: 21428  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:43] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:43] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:43] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:23:43] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:43] Passcode => Item: ATK  DEF | 2400 / 1000
+[2025-07-25 20:23:43] Passcode => Item: PASSWORD | 31596518
+[2025-07-25 20:23:43] Item => Setcode: DUAD-AE017 | URL: https://yugipedia.com/wiki/DUAD-AE017 | Name: Eidos the Underworld Monarch | Category: EFFECT MONSTER
+[2025-07-25 20:23:43] ===================================================================================================
+[2025-07-25 20:23:44] Searching passcode for https://yugipedia.com/wiki/DUAD-AE018
+[2025-07-25 20:23:44] Requesting page => https://yugipedia.com/wiki/DUAD-AE018
+[2025-07-25 20:23:44] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:44] Parse Konami Id, contents => Index: 1 | Text: 21429 | Raw: 21429  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:44] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:44] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:44] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:23:44] Passcode => Item: LEVEL | 1
+[2025-07-25 20:23:44] Passcode => Item: ATK  DEF | 800 / 1000
+[2025-07-25 20:23:44] Passcode => Item: PASSWORD | 67584223
+[2025-07-25 20:23:44] Item => Setcode: DUAD-AE018 | URL: https://yugipedia.com/wiki/DUAD-AE018 | Name: Tessera the Primal Squire | Category: EFFECT MONSTER
+[2025-07-25 20:23:44] ===================================================================================================
+[2025-07-25 20:23:45] Searching passcode for https://yugipedia.com/wiki/DUAD-AE019
+[2025-07-25 20:23:45] Requesting page => https://yugipedia.com/wiki/DUAD-AE019
+[2025-07-25 20:23:46] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:46] Parse Konami Id, contents => Index: 1 | Text: 21430 | Raw: 21430  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:46] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:46] Passcode => Item: ATTRIBUTE | FIRE
+[2025-07-25 20:23:46] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:23:46] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:46] Passcode => Item: ATK  DEF | 2200 / 800
+[2025-07-25 20:23:46] Passcode => Item: PASSWORD | 94979322
+[2025-07-25 20:23:46] Item => Setcode: DUAD-AE019 | URL: https://yugipedia.com/wiki/DUAD-AE019 | Name: Dark Flare Swordsman | Category: EFFECT MONSTER
+[2025-07-25 20:23:46] ===================================================================================================
+[2025-07-25 20:23:47] Searching passcode for https://yugipedia.com/wiki/DUAD-AE020
+[2025-07-25 20:23:47] Requesting page => https://yugipedia.com/wiki/DUAD-AE020
+[2025-07-25 20:23:47] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:47] Parse Konami Id, contents => Index: 1 | Text: 21431 | Raw: 21431  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:47] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:47] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:47] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:23:47] Passcode => Item: LEVEL | 10
+[2025-07-25 20:23:47] Passcode => Item: ATK  DEF | 2000 / 0
+[2025-07-25 20:23:47] Passcode => Item: PASSWORD | 30373970
+[2025-07-25 20:23:47] Item => Setcode: DUAD-AE020 | URL: https://yugipedia.com/wiki/DUAD-AE020 | Name: Miasma Dragon Tistina | Category: EFFECT MONSTER
+[2025-07-25 20:23:47] ===================================================================================================
+[2025-07-25 20:23:48] Searching passcode for https://yugipedia.com/wiki/DUAD-AE021
+[2025-07-25 20:23:48] Requesting page => https://yugipedia.com/wiki/DUAD-AE021
+[2025-07-25 20:23:48] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:48] Parse Konami Id, contents => Index: 1 | Text: 21432 | Raw: 21432  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:48] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:48] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:48] Passcode => Item: TYPES | Warrior / Tuner / Effect
+[2025-07-25 20:23:48] Passcode => Item: LEVEL | 1
+[2025-07-25 20:23:48] Passcode => Item: ATK  DEF | 200 / 700
+[2025-07-25 20:23:48] Passcode => Item: PASSWORD | 67768675
+[2025-07-25 20:23:48] Item => Setcode: DUAD-AE021 | URL: https://yugipedia.com/wiki/DUAD-AE021 | Name: Kaibaman the Legend | Category: EFFECT TUNER MONSTER
+[2025-07-25 20:23:48] ===================================================================================================
+[2025-07-25 20:23:49] Searching passcode for https://yugipedia.com/wiki/DUAD-AE022
+[2025-07-25 20:23:49] Requesting page => https://yugipedia.com/wiki/DUAD-AE022
+[2025-07-25 20:23:49] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:49] Parse Konami Id, contents => Index: 1 | Text: 21433 | Raw: 21433  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:49] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:49] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:23:49] Passcode => Item: TYPES | Psychic / Effect
+[2025-07-25 20:23:49] Passcode => Item: LEVEL | 5
+[2025-07-25 20:23:49] Passcode => Item: ATK  DEF | 500 / 2200
+[2025-07-25 20:23:49] Passcode => Item: PASSWORD | 93156774
+[2025-07-25 20:23:49] Item => Setcode: DUAD-AE022 | URL: https://yugipedia.com/wiki/DUAD-AE022 | Name: Vanquish Soul Hollie Sue | Category: EFFECT MONSTER
+[2025-07-25 20:23:49] ===================================================================================================
+[2025-07-25 20:23:50] Searching passcode for https://yugipedia.com/wiki/DUAD-AE023
+[2025-07-25 20:23:50] Requesting page => https://yugipedia.com/wiki/DUAD-AE023
+[2025-07-25 20:23:50] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:50] Parse Konami Id, contents => Index: 1 | Text: 21434 | Raw: 21434  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:50] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:50] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:23:50] Passcode => Item: TYPES | Fiend / Pendulum / Effect
+[2025-07-25 20:23:50] Passcode => Item: LEVEL | 3
+[2025-07-25 20:23:50] Passcode => Item: PENDULUM SCALE | 0
+[2025-07-25 20:23:50] Passcode => Item: ATK  DEF | 1000 / 1850
+[2025-07-25 20:23:50] Passcode => Item: PASSWORD | 29251488
+[2025-07-25 20:23:50] Item => Setcode: DUAD-AE023 | URL: https://yugipedia.com/wiki/DUAD-AE023 | Name: Chef de Nouvelles | Category: EFFECT PENDULUM MONSTER
+[2025-07-25 20:23:50] ===================================================================================================
+[2025-07-25 20:23:51] Searching passcode for https://yugipedia.com/wiki/DUAD-AE024
+[2025-07-25 20:23:51] Requesting page => https://yugipedia.com/wiki/DUAD-AE024
+[2025-07-25 20:23:51] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:51] Parse Konami Id, contents => Index: 1 | Text: 21435 | Raw: 21435  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:51] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:51] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:51] Passcode => Item: TYPES | Zombie / Effect
+[2025-07-25 20:23:51] Passcode => Item: LEVEL | 1
+[2025-07-25 20:23:51] Passcode => Item: ATK  DEF | 0 / 0
+[2025-07-25 20:23:51] Passcode => Item: PASSWORD | 66646087
+[2025-07-25 20:23:51] Item => Setcode: DUAD-AE024 | URL: https://yugipedia.com/wiki/DUAD-AE024 | Name: Super Quantal Fairy Zetan | Category: EFFECT MONSTER
+[2025-07-25 20:23:51] ===================================================================================================
+[2025-07-25 20:23:52] Searching passcode for https://yugipedia.com/wiki/DUAD-AE025
+[2025-07-25 20:23:52] Requesting page => https://yugipedia.com/wiki/DUAD-AE025
+[2025-07-25 20:23:52] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:52] Parse Konami Id, contents => Index: 1 | Text: 21436 | Raw: 21436  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:52] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:52] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:52] Passcode => Item: TYPES | Zombie / Effect
+[2025-07-25 20:23:52] Passcode => Item: LEVEL | 7
+[2025-07-25 20:23:52] Passcode => Item: ATK  DEF | 2400 / 2400
+[2025-07-25 20:23:52] Passcode => Item: PASSWORD | 92034192
+[2025-07-25 20:23:52] Item => Setcode: DUAD-AE025 | URL: https://yugipedia.com/wiki/DUAD-AE025 | Name: Super Quantum Black Layer | Category: EFFECT MONSTER
+[2025-07-25 20:23:52] ===================================================================================================
+[2025-07-25 20:23:53] Searching passcode for https://yugipedia.com/wiki/DUAD-AE026
+[2025-07-25 20:23:53] Requesting page => https://yugipedia.com/wiki/DUAD-AE026
+[2025-07-25 20:23:53] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:53] Parse Konami Id, contents => Index: 1 | Text: 21437 | Raw: 21437  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:53] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:53] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:53] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:23:53] Passcode => Item: LEVEL | 4
+[2025-07-25 20:23:53] Passcode => Item: ATK  DEF | 1500 / 2100
+[2025-07-25 20:23:53] Passcode => Item: PASSWORD | 29439831
+[2025-07-25 20:23:53] Item => Setcode: DUAD-AE026 | URL: https://yugipedia.com/wiki/DUAD-AE026 | Name: Morgana the Witch of Eyes | Category: EFFECT MONSTER
+[2025-07-25 20:23:53] ===================================================================================================
+[2025-07-25 20:23:54] Searching passcode for https://yugipedia.com/wiki/DUAD-AE027
+[2025-07-25 20:23:54] Requesting page => https://yugipedia.com/wiki/DUAD-AE027
+[2025-07-25 20:23:54] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:54] Parse Konami Id, contents => Index: 1 | Text: 21438 | Raw: 21438  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:54] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:54] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:54] Passcode => Item: TYPES | Spellcaster / Effect
+[2025-07-25 20:23:54] Passcode => Item: LEVEL | 4
+[2025-07-25 20:23:54] Passcode => Item: ATK  DEF | 1350 / 1200
+[2025-07-25 20:23:54] Passcode => Item: PASSWORD | 55423549
+[2025-07-25 20:23:54] Item => Setcode: DUAD-AE027 | URL: https://yugipedia.com/wiki/DUAD-AE027 | Name: Leo Wizard the Dark Fiend | Category: EFFECT MONSTER
+[2025-07-25 20:23:54] ===================================================================================================
+[2025-07-25 20:23:55] Searching passcode for https://yugipedia.com/wiki/DUAD-AE028
+[2025-07-25 20:23:55] Requesting page => https://yugipedia.com/wiki/DUAD-AE028
+[2025-07-25 20:23:55] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:55] Parse Konami Id, contents => Index: 1 | Text: 21439 | Raw: 21439  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:55] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:55] Passcode => Item: ATTRIBUTE | WIND
+[2025-07-25 20:23:55] Passcode => Item: TYPES | Aqua / Flip / Effect
+[2025-07-25 20:23:55] Passcode => Item: LEVEL | 3
+[2025-07-25 20:23:55] Passcode => Item: ATK  DEF | 1000 / 100
+[2025-07-25 20:23:55] Passcode => Item: PASSWORD | 91818544
+[2025-07-25 20:23:55] Item => Setcode: DUAD-AE028 | URL: https://yugipedia.com/wiki/DUAD-AE028 | Name: WAKE CUP! Mocha | Category: FLIP MONSTER
+[2025-07-25 20:23:55] ===================================================================================================
+[2025-07-25 20:23:56] Searching passcode for https://yugipedia.com/wiki/DUAD-AE029
+[2025-07-25 20:23:56] Requesting page => https://yugipedia.com/wiki/DUAD-AE029
+[2025-07-25 20:23:57] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:57] Parse Konami Id, contents => Index: 1 | Text: 21440 | Raw: 21440  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:57] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:57] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:57] Passcode => Item: TYPES | Warrior / Ritual / Effect
+[2025-07-25 20:23:57] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:57] Passcode => Item: ATK  DEF | 2800 / 1850
+[2025-07-25 20:23:57] Passcode => Item: PASSWORD | 28306253
+[2025-07-25 20:23:57] Item => Setcode: DUAD-AE029 | URL: https://yugipedia.com/wiki/DUAD-AE029 | Name: Angry Burger | Category: EFFECT RITUAL MONSTER
+[2025-07-25 20:23:57] ===================================================================================================
+[2025-07-25 20:23:58] Searching passcode for https://yugipedia.com/wiki/DUAD-AE030
+[2025-07-25 20:23:58] Requesting page => https://yugipedia.com/wiki/DUAD-AE030
+[2025-07-25 20:23:58] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:58] Parse Konami Id, contents => Index: 1 | Text: 21441 | Raw: 21441  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:58] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:58] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:58] Passcode => Item: TYPES | Beast-Warrior / Fusion / Effect
+[2025-07-25 20:23:58] Passcode => Item: LEVEL | 12
+[2025-07-25 20:23:58] Passcode => Item: ATK  DEF | 3800 / 3500
+[2025-07-25 20:23:58] Passcode => Item: PASSWORD | 54701958
+[2025-07-25 20:23:58] Item => Setcode: DUAD-AE030 | URL: https://yugipedia.com/wiki/DUAD-AE030 | Name: Lunalight Liger Dancer | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:23:58] ===================================================================================================
+[2025-07-25 20:23:59] Searching passcode for https://yugipedia.com/wiki/DUAD-AE031
+[2025-07-25 20:23:59] Requesting page => https://yugipedia.com/wiki/DUAD-AE031
+[2025-07-25 20:23:59] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:23:59] Parse Konami Id, contents => Index: 1 | Text: 21442 | Raw: 21442  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:23:59] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:23:59] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:23:59] Passcode => Item: TYPES | Beast-Warrior / Fusion / Effect
+[2025-07-25 20:23:59] Passcode => Item: LEVEL | 6
+[2025-07-25 20:23:59] Passcode => Item: ATK  DEF | 2000 / 1500
+[2025-07-25 20:23:59] Passcode => Item: PASSWORD | 81196066
+[2025-07-25 20:23:59] Item => Setcode: DUAD-AE031 | URL: https://yugipedia.com/wiki/DUAD-AE031 | Name: Lunalight Perfume Dancer | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:23:59] ===================================================================================================
+[2025-07-25 20:24:00] Searching passcode for https://yugipedia.com/wiki/DUAD-AE032
+[2025-07-25 20:24:00] Requesting page => https://yugipedia.com/wiki/DUAD-AE032
+[2025-07-25 20:24:00] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:00] Parse Konami Id, contents => Index: 1 | Text: 21443 | Raw: 21443  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:00] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:00] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:24:00] Passcode => Item: TYPES | Fairy / Fusion / Effect
+[2025-07-25 20:24:00] Passcode => Item: LEVEL | 8
+[2025-07-25 20:24:00] Passcode => Item: ATK  DEF | 2800 / 2500
+[2025-07-25 20:24:00] Passcode => Item: PASSWORD | 27184601
+[2025-07-25 20:24:00] Item => Setcode: DUAD-AE032 | URL: https://yugipedia.com/wiki/DUAD-AE032 | Name: Artmage Diactorus | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:24:00] ===================================================================================================
+[2025-07-25 20:24:01] Searching passcode for https://yugipedia.com/wiki/DUAD-AE033
+[2025-07-25 20:24:01] Requesting page => https://yugipedia.com/wiki/DUAD-AE033
+[2025-07-25 20:24:01] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:01] Parse Konami Id, contents => Index: 1 | Text: 21444 | Raw: 21444  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:01] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:01] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:24:01] Passcode => Item: TYPES | Illusion / Fusion / Effect
+[2025-07-25 20:24:01] Passcode => Item: LEVEL | 10
+[2025-07-25 20:24:01] Passcode => Item: ATK  DEF | 3300 / 3300
+[2025-07-25 20:24:01] Passcode => Item: PASSWORD | 53589300
+[2025-07-25 20:24:01] Item => Setcode: DUAD-AE033 | URL: https://yugipedia.com/wiki/DUAD-AE033 | Name: Nerva the Power Patron of Creation | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:24:01] ===================================================================================================
+[2025-07-25 20:24:02] Searching passcode for https://yugipedia.com/wiki/DUAD-AE034
+[2025-07-25 20:24:02] Requesting page => https://yugipedia.com/wiki/DUAD-AE034
+[2025-07-25 20:24:04] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:04] Parse Konami Id, contents => Index: 1 | Text: 21445 | Raw: 21445  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:04] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:04] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:24:04] Passcode => Item: TYPES | Psychic / Fusion / Effect
+[2025-07-25 20:24:04] Passcode => Item: LEVEL | 11
+[2025-07-25 20:24:04] Passcode => Item: ATK  DEF | 3400 / 2200
+[2025-07-25 20:24:04] Passcode => Item: PASSWORD | 80073414
+[2025-07-25 20:24:04] Item => Setcode: DUAD-AE034 | URL: https://yugipedia.com/wiki/DUAD-AE034 | Name: Absolute Axon Kicker | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:24:04] ===================================================================================================
+[2025-07-25 20:24:05] Searching passcode for https://yugipedia.com/wiki/DUAD-AE035
+[2025-07-25 20:24:05] Requesting page => https://yugipedia.com/wiki/DUAD-AE035
+[2025-07-25 20:24:05] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:05] Parse Konami Id, contents => Index: 1 | Text: 21446 | Raw: 21446  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:05] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:05] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:24:05] Passcode => Item: TYPES | Dragon / Fusion / Effect
+[2025-07-25 20:24:05] Passcode => Item: LEVEL | 8
+[2025-07-25 20:24:05] Passcode => Item: ATK  DEF | 1600 / 0
+[2025-07-25 20:24:05] Passcode => Item: PASSWORD | 26462013
+[2025-07-25 20:24:05] Item => Setcode: DUAD-AE035 | URL: https://yugipedia.com/wiki/DUAD-AE035 | Name: Primite Dragon Nether Berzelius | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:24:05] ===================================================================================================
+[2025-07-25 20:24:06] Searching passcode for https://yugipedia.com/wiki/DUAD-AE036
+[2025-07-25 20:24:06] Requesting page => https://yugipedia.com/wiki/DUAD-AE036
+[2025-07-25 20:24:06] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:06] Parse Konami Id, contents => Index: 1 | Text: 21447 | Raw: 21447  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:06] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:06] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:24:06] Passcode => Item: TYPES | Dragon / Fusion / Effect
+[2025-07-25 20:24:06] Passcode => Item: LEVEL | 11
+[2025-07-25 20:24:06] Passcode => Item: ATK  DEF | 3700 / 3000
+[2025-07-25 20:24:06] Passcode => Item: PASSWORD | 53466722
+[2025-07-25 20:24:06] Item => Setcode: DUAD-AE036 | URL: https://yugipedia.com/wiki/DUAD-AE036 | Name: First of the Dragonlords | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:24:06] ===================================================================================================
+[2025-07-25 20:24:07] Searching passcode for https://yugipedia.com/wiki/DUAD-AE037
+[2025-07-25 20:24:07] Requesting page => https://yugipedia.com/wiki/DUAD-AE037
+[2025-07-25 20:24:07] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:07] Parse Konami Id, contents => Index: 1 | Text: 21448 | Raw: 21448  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:07] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:07] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:24:07] Passcode => Item: TYPES | Dragon / Fusion / Effect
+[2025-07-25 20:24:07] Passcode => Item: LEVEL | 8
+[2025-07-25 20:24:07] Passcode => Item: ATK  DEF | 3000 / 1500
+[2025-07-25 20:24:07] Passcode => Item: PASSWORD | 89851827
+[2025-07-25 20:24:07] Item => Setcode: DUAD-AE037 | URL: https://yugipedia.com/wiki/DUAD-AE037 | Name: Secreterion Dragon | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:24:07] ===================================================================================================
+[2025-07-25 20:24:08] Searching passcode for https://yugipedia.com/wiki/DUAD-AE038
+[2025-07-25 20:24:08] Requesting page => https://yugipedia.com/wiki/DUAD-AE038
+[2025-07-25 20:24:08] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:08] Parse Konami Id, contents => Index: 1 | Text: 21449 | Raw: 21449  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:08] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:08] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:24:08] Passcode => Item: TYPES | Psychic / Synchro / Tuner / Effect
+[2025-07-25 20:24:08] Passcode => Item: LEVEL | 5
+[2025-07-25 20:24:08] Passcode => Item: ATK  DEF | 2400 / 500
+[2025-07-25 20:24:08] Passcode => Item: PASSWORD | 16246535
+[2025-07-25 20:24:08] Item => Setcode: DUAD-AE038 | URL: https://yugipedia.com/wiki/DUAD-AE038 | Name: Silent Psychic Magician | Category: EFFECT TUNER SYNCHRO MONSTER
+[2025-07-25 20:24:08] ===================================================================================================
+[2025-07-25 20:24:09] Searching passcode for https://yugipedia.com/wiki/DUAD-AE039
+[2025-07-25 20:24:09] Requesting page => https://yugipedia.com/wiki/DUAD-AE039
+[2025-07-25 20:24:09] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:09] Parse Konami Id, contents => Index: 1 | Text: 21450 | Raw: 21450  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:09] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:09] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:24:09] Passcode => Item: TYPES | Psychic / Synchro / Effect
+[2025-07-25 20:24:09] Passcode => Item: LEVEL | 8
+[2025-07-25 20:24:09] Passcode => Item: ATK  DEF | 2500 / 2800
+[2025-07-25 20:24:09] Passcode => Item: PASSWORD | 52644170
+[2025-07-25 20:24:09] Item => Setcode: DUAD-AE039 | URL: https://yugipedia.com/wiki/DUAD-AE039 | Name: Crossmind Archfiend | Category: EFFECT SYNCHRO MONSTER
+[2025-07-25 20:24:09] ===================================================================================================
+[2025-07-25 20:24:10] Searching passcode for https://yugipedia.com/wiki/DUAD-AE040
+[2025-07-25 20:24:10] Requesting page => https://yugipedia.com/wiki/DUAD-AE040
+[2025-07-25 20:24:10] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:10] Parse Konami Id, contents => Index: 1 | Text: 21451 | Raw: 21451  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:10] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:10] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:24:10] Passcode => Item: TYPES | Psychic / Synchro / Effect
+[2025-07-25 20:24:10] Passcode => Item: LEVEL | 9
+[2025-07-25 20:24:10] Passcode => Item: ATK  DEF | 3200 / 2700
+[2025-07-25 20:24:10] Passcode => Item: PASSWORD | 88139289
+[2025-07-25 20:24:10] Item => Setcode: DUAD-AE040 | URL: https://yugipedia.com/wiki/DUAD-AE040 | Name: Psychic Blaster Mk-II | Category: EFFECT SYNCHRO MONSTER
+[2025-07-25 20:24:10] ===================================================================================================
+[2025-07-25 20:24:11] Searching passcode for https://yugipedia.com/wiki/DUAD-AE041
+[2025-07-25 20:24:11] Requesting page => https://yugipedia.com/wiki/DUAD-AE041
+[2025-07-25 20:24:12] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:12] Parse Konami Id, contents => Index: 1 | Text: 21452 | Raw: 21452  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:12] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:12] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:24:12] Passcode => Item: TYPES | Beast / Synchro / Effect
+[2025-07-25 20:24:12] Passcode => Item: LEVEL | 3
+[2025-07-25 20:24:12] Passcode => Item: ATK  DEF | 1000 / 1200
+[2025-07-25 20:24:12] Passcode => Item: PASSWORD | 15123983
+[2025-07-25 20:24:12] Item => Setcode: DUAD-AE041 | URL: https://yugipedia.com/wiki/DUAD-AE041 | Name: THE Star Ham | Category: EFFECT SYNCHRO MONSTER
+[2025-07-25 20:24:12] ===================================================================================================
+[2025-07-25 20:24:13] Searching passcode for https://yugipedia.com/wiki/DUAD-AE042
+[2025-07-25 20:24:13] Requesting page => https://yugipedia.com/wiki/DUAD-AE042
+[2025-07-25 20:24:13] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:13] Parse Konami Id, contents => Index: 1 | Text: 21453 | Raw: 21453  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:13] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:13] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:24:13] Passcode => Item: TYPES | Warrior / Xyz / Effect
+[2025-07-25 20:24:13] Passcode => Item: RANK | 0
+[2025-07-25 20:24:13] Passcode => Item: ATK  DEF | 0 / 0
+[2025-07-25 20:24:13] Passcode => Item: PASSWORD | 41522092
+[2025-07-25 20:24:13] Item => Setcode: DUAD-AE042 | URL: https://yugipedia.com/wiki/DUAD-AE042 | Name: Number F0: Utopic Future Zexal | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:24:13] ===================================================================================================
+[2025-07-25 20:24:14] Searching passcode for https://yugipedia.com/wiki/DUAD-AE043
+[2025-07-25 20:24:14] Requesting page => https://yugipedia.com/wiki/DUAD-AE043
+[2025-07-25 20:24:14] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:14] Parse Konami Id, contents => Index: 1 | Text: 21454 | Raw: 21454  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:14] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:14] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:24:14] Passcode => Item: TYPES | Spellcaster / Xyz / Effect
+[2025-07-25 20:24:14] Passcode => Item: RANK | 4
+[2025-07-25 20:24:14] Passcode => Item: ATK  DEF | 1500 / 1800
+[2025-07-25 20:24:14] Passcode => Item: PASSWORD | 88917691
+[2025-07-25 20:24:14] Item => Setcode: DUAD-AE043 | URL: https://yugipedia.com/wiki/DUAD-AE043 | Name: Gagagaga Girl | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:24:14] ===================================================================================================
+[2025-07-25 20:24:15] Searching passcode for https://yugipedia.com/wiki/DUAD-AE044
+[2025-07-25 20:24:15] Requesting page => https://yugipedia.com/wiki/DUAD-AE044
+[2025-07-25 20:24:18] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:18] Parse Konami Id, contents => Index: 1 | Text: 21455 | Raw: 21455  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:18] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:18] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:24:18] Passcode => Item: TYPES | Warrior / Xyz / Effect
+[2025-07-25 20:24:18] Passcode => Item: RANK | 4
+[2025-07-25 20:24:18] Passcode => Item: ATK  DEF | 2000 / 2000
+[2025-07-25 20:24:18] Passcode => Item: PASSWORD | 14301396
+[2025-07-25 20:24:18] Item => Setcode: DUAD-AE044 | URL: https://yugipedia.com/wiki/DUAD-AE044 | Name: Heroic Champion - Magnum Excalibur | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:24:18] ===================================================================================================
+[2025-07-25 20:24:19] Searching passcode for https://yugipedia.com/wiki/DUAD-AE045
+[2025-07-25 20:24:19] Requesting page => https://yugipedia.com/wiki/DUAD-AE045
+[2025-07-25 20:24:19] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:19] Parse Konami Id, contents => Index: 1 | Text: 21456 | Raw: 21456  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:19] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:19] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:24:19] Passcode => Item: TYPES | Warrior / Xyz / Effect
+[2025-07-25 20:24:19] Passcode => Item: RANK | 4
+[2025-07-25 20:24:19] Passcode => Item: ATK  DEF | 2200 / 2200
+[2025-07-25 20:24:19] Passcode => Item: PASSWORD | 40706444
+[2025-07-25 20:24:19] Item => Setcode: DUAD-AE045 | URL: https://yugipedia.com/wiki/DUAD-AE045 | Name: Argostars - Adventurous Arion | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:24:19] ===================================================================================================
+[2025-07-25 20:24:20] Searching passcode for https://yugipedia.com/wiki/DUAD-AE046
+[2025-07-25 20:24:20] Requesting page => https://yugipedia.com/wiki/DUAD-AE046
+[2025-07-25 20:24:20] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:21] Parse Konami Id, contents => Index: 1 | Text: 21457 | Raw: 21457  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:21] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:21] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:24:21] Passcode => Item: TYPES | Pyro / Xyz / Effect
+[2025-07-25 20:24:21] Passcode => Item: RANK | 4
+[2025-07-25 20:24:21] Passcode => Item: ATK  DEF | 2000 / 2500
+[2025-07-25 20:24:21] Passcode => Item: PASSWORD | 77894049
+[2025-07-25 20:24:21] Item => Setcode: DUAD-AE046 | URL: https://yugipedia.com/wiki/DUAD-AE046 | Name: Vanquish Soul Rocks | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:24:21] ===================================================================================================
+[2025-07-25 20:24:22] Searching passcode for https://yugipedia.com/wiki/DUAD-AE047
+[2025-07-25 20:24:22] Requesting page => https://yugipedia.com/wiki/DUAD-AE047
+[2025-07-25 20:24:24] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:24] Parse Konami Id, contents => Index: 1 | Text: 21458 | Raw: 21458  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:24] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:24] Passcode => Item: ATTRIBUTE | WATER
+[2025-07-25 20:24:24] Passcode => Item: TYPES | Aqua / Xyz / Effect
+[2025-07-25 20:24:24] Passcode => Item: RANK | 6
+[2025-07-25 20:24:24] Passcode => Item: ATK  DEF | 0 / 0
+[2025-07-25 20:24:24] Passcode => Item: PASSWORD | 13289758
+[2025-07-25 20:24:24] Item => Setcode: DUAD-AE047 | URL: https://yugipedia.com/wiki/DUAD-AE047 | Name: Gaia Stream, the Graceful Force | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:24:24] ===================================================================================================
+[2025-07-25 20:24:25] Searching passcode for https://yugipedia.com/wiki/DUAD-AE048
+[2025-07-25 20:24:25] Requesting page => https://yugipedia.com/wiki/DUAD-AE048
+[2025-07-25 20:24:25] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:25] Parse Konami Id, contents => Index: 1 | Text: 21459 | Raw: 21459  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:25] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:25] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:24:25] Passcode => Item: TYPES | Psychic / Xyz / Effect
+[2025-07-25 20:24:25] Passcode => Item: RANK | 5
+[2025-07-25 20:24:25] Passcode => Item: ATK  DEF | 2500 / 2200
+[2025-07-25 20:24:25] Passcode => Item: PASSWORD | 40673853
+[2025-07-25 20:24:25] Item => Setcode: DUAD-AE048 | URL: https://yugipedia.com/wiki/DUAD-AE048 | Name: Vallon, the Super Psy Skyblaster | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:24:25] ===================================================================================================
+[2025-07-25 20:24:26] Searching passcode for https://yugipedia.com/wiki/DUAD-AE049
+[2025-07-25 20:24:26] Requesting page => https://yugipedia.com/wiki/DUAD-AE049
+[2025-07-25 20:24:26] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:26] Parse Konami Id, contents => Index: 1 | Text: 21460 | Raw: 21460  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:26] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:26] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:24:26] Passcode => Item: TYPES | Machine / Link / Effect
+[2025-07-25 20:24:26] Passcode => Item: LINK ARROWS | Bottom-Left
+Bottom-Right
+[2025-07-25 20:24:26] Passcode => Item: ATK   LINK | 2000  / 2
+[2025-07-25 20:24:26] Passcode => Item: PASSWORD | 76072561
+[2025-07-25 20:24:26] Item => Setcode: DUAD-AE049 | URL: https://yugipedia.com/wiki/DUAD-AE049 | Name: Sky Striker Ace = Zero | Category: EFFECT LINK MONSTER
+[2025-07-25 20:24:26] ===================================================================================================
+[2025-07-25 20:24:27] Searching passcode for https://yugipedia.com/wiki/DUAD-AE050
+[2025-07-25 20:24:27] Requesting page => https://yugipedia.com/wiki/DUAD-AE050
+[2025-07-25 20:24:27] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:27] Parse Konami Id, contents => Index: 1 | Text: 21461 | Raw: 21461  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:27] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:27] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:24:27] Passcode => Item: TYPES | Reptile / Link / Effect
+[2025-07-25 20:24:27] Passcode => Item: LINK ARROWS | Top-Left
+Top-Right
+Top-Center
+[2025-07-25 20:24:27] Passcode => Item: ATK   LINK | 100  / 3
+[2025-07-25 20:24:27] Passcode => Item: PASSWORD | 12067160
+[2025-07-25 20:24:27] Item => Setcode: DUAD-AE050 | URL: https://yugipedia.com/wiki/DUAD-AE050 | Name: Gorgon of Zilofthonia | Category: EFFECT LINK MONSTER
+[2025-07-25 20:24:27] ===================================================================================================
+[2025-07-25 20:24:28] Searching passcode for https://yugipedia.com/wiki/DUAD-AE051
+[2025-07-25 20:24:28] Requesting page => https://yugipedia.com/wiki/DUAD-AE051
+[2025-07-25 20:24:28] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:28] Parse Konami Id, contents => Index: 1 | Text: 21462 | Raw: 21462  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:28] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:24:28] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:24:28] Passcode => Item: TYPES | Beast / Link / Effect
+[2025-07-25 20:24:28] Passcode => Item: LINK ARROWS | Bottom-Center
+Middle-Right
+[2025-07-25 20:24:28] Passcode => Item: ATK   LINK | 1500  / 2
+[2025-07-25 20:24:28] Passcode => Item: PASSWORD | 49451215
+[2025-07-25 20:24:28] Item => Setcode: DUAD-AE051 | URL: https://yugipedia.com/wiki/DUAD-AE051 | Name: Ukanomitsune-no-Onari | Category: EFFECT LINK MONSTER
+[2025-07-25 20:24:28] ===================================================================================================
+[2025-07-25 20:24:29] Searching passcode for https://yugipedia.com/wiki/DUAD-AE052
+[2025-07-25 20:24:29] Requesting page => https://yugipedia.com/wiki/DUAD-AE052
+[2025-07-25 20:24:29] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:29] Parse Konami Id, contents => Index: 1 | Text: 21463 | Raw: 21463  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:29] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:29] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:24:29] Passcode => Item: PASSWORD | 75956913
+[2025-07-25 20:24:29] Item => Setcode: DUAD-AE052 | URL: https://yugipedia.com/wiki/DUAD-AE052 | Name: Gagaga Utopic Tactics | Category: CONTINUOUS SPELL
+[2025-07-25 20:24:29] ===================================================================================================
+[2025-07-25 20:24:30] Searching passcode for https://yugipedia.com/wiki/DUAD-AE053
+[2025-07-25 20:24:30] Requesting page => https://yugipedia.com/wiki/DUAD-AE053
+[2025-07-25 20:24:30] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:30] Parse Konami Id, contents => Index: 1 | Text: 21464 | Raw: 21464  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:30] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:30] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:24:30] Passcode => Item: PASSWORD | 02344618
+[2025-07-25 20:24:30] Item => Setcode: DUAD-AE053 | URL: https://yugipedia.com/wiki/DUAD-AE053 | Name: Lunalight Masquerade | Category: CONTINUOUS SPELL
+[2025-07-25 20:24:30] ===================================================================================================
+[2025-07-25 20:24:31] Searching passcode for https://yugipedia.com/wiki/DUAD-AE054
+[2025-07-25 20:24:31] Requesting page => https://yugipedia.com/wiki/DUAD-AE054
+[2025-07-25 20:24:32] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:32] Parse Konami Id, contents => Index: 1 | Text: 21465 | Raw: 21465  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:32] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:32] Passcode => Item: PROPERTY | Field
+[2025-07-25 20:24:32] Passcode => Item: PASSWORD | 74733322
+[2025-07-25 20:24:32] Item => Setcode: DUAD-AE054 | URL: https://yugipedia.com/wiki/DUAD-AE054 | Name: Artmage Academic Arcane Arts Acropolis | Category: FIELD SPELL
+[2025-07-25 20:24:32] ===================================================================================================
+[2025-07-25 20:24:33] Searching passcode for https://yugipedia.com/wiki/DUAD-AE055
+[2025-07-25 20:24:33] Requesting page => https://yugipedia.com/wiki/DUAD-AE055
+[2025-07-25 20:24:33] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:33] Parse Konami Id, contents => Index: 1 | Text: 21466 | Raw: 21466  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:33] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:33] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:33] Passcode => Item: PASSWORD | 48739627
+[2025-07-25 20:24:33] Item => Setcode: DUAD-AE055 | URL: https://yugipedia.com/wiki/DUAD-AE055 | Name: Theorealize | Category: NORMAL SPELL
+[2025-07-25 20:24:33] ===================================================================================================
+[2025-07-25 20:24:34] Searching passcode for https://yugipedia.com/wiki/DUAD-AE056
+[2025-07-25 20:24:34] Requesting page => https://yugipedia.com/wiki/DUAD-AE056
+[2025-07-25 20:24:34] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:34] Parse Konami Id, contents => Index: 1 | Text: 21467 | Raw: 21467  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:34] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:34] Passcode => Item: PROPERTY | Quick-Play
+[2025-07-25 20:24:34] Passcode => Item: PASSWORD | 37517035
+[2025-07-25 20:24:34] Item => Setcode: DUAD-AE056 | URL: https://yugipedia.com/wiki/DUAD-AE056 | Name: Artmage Masterwork -Succession- | Category: QUICK-PLAY SPELL
+[2025-07-25 20:24:34] ===================================================================================================
+[2025-07-25 20:24:35] Searching passcode for https://yugipedia.com/wiki/DUAD-AE057
+[2025-07-25 20:24:35] Requesting page => https://yugipedia.com/wiki/DUAD-AE057
+[2025-07-25 20:24:35] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:35] Parse Konami Id, contents => Index: 1 | Text: 21468 | Raw: 21468  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:35] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:35] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:24:35] Passcode => Item: PASSWORD | 01122030
+[2025-07-25 20:24:35] Item => Setcode: DUAD-AE057 | URL: https://yugipedia.com/wiki/DUAD-AE057 | Name: Artmage Vandalism -Assault- | Category: CONTINUOUS SPELL
+[2025-07-25 20:24:35] ===================================================================================================
+[2025-07-25 20:24:36] Searching passcode for https://yugipedia.com/wiki/DUAD-AE058
+[2025-07-25 20:24:36] Requesting page => https://yugipedia.com/wiki/DUAD-AE058
+[2025-07-25 20:24:36] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:36] Parse Konami Id, contents => Index: 1 | Text: 21469 | Raw: 21469  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:36] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:36] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:36] Passcode => Item: PASSWORD | 74011784
+[2025-07-25 20:24:36] Item => Setcode: DUAD-AE058 | URL: https://yugipedia.com/wiki/DUAD-AE058 | Name: Artmage Varnish -Alteration- | Category: NORMAL SPELL
+[2025-07-25 20:24:36] ===================================================================================================
+[2025-07-25 20:24:37] Searching passcode for https://yugipedia.com/wiki/DUAD-AE059
+[2025-07-25 20:24:37] Requesting page => https://yugipedia.com/wiki/DUAD-AE059
+[2025-07-25 20:24:37] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:37] Parse Konami Id, contents => Index: 1 | Text: 21470 | Raw: 21470  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:37] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:37] Passcode => Item: PROPERTY | Quick-Play
+[2025-07-25 20:24:37] Passcode => Item: PASSWORD | 00000483
+[2025-07-25 20:24:37] Item => Setcode: DUAD-AE059 | URL: https://yugipedia.com/wiki/DUAD-AE059 | Name: Parallel Teleport | Category: QUICK-PLAY SPELL
+[2025-07-25 20:24:37] ===================================================================================================
+[2025-07-25 20:24:38] Searching passcode for https://yugipedia.com/wiki/DUAD-AE060
+[2025-07-25 20:24:38] Requesting page => https://yugipedia.com/wiki/DUAD-AE060
+[2025-07-25 20:24:38] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:38] Parse Konami Id, contents => Index: 1 | Text: 21471 | Raw: 21471  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:38] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:38] Passcode => Item: PROPERTY | Quick-Play
+[2025-07-25 20:24:38] Passcode => Item: PASSWORD | 36494597
+[2025-07-25 20:24:38] Item => Setcode: DUAD-AE060 | URL: https://yugipedia.com/wiki/DUAD-AE060 | Name: Teleport Fusion | Category: QUICK-PLAY SPELL
+[2025-07-25 20:24:38] ===================================================================================================
+[2025-07-25 20:24:39] Searching passcode for https://yugipedia.com/wiki/DUAD-AE061
+[2025-07-25 20:24:39] Requesting page => https://yugipedia.com/wiki/DUAD-AE061
+[2025-07-25 20:24:39] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:39] Parse Konami Id, contents => Index: 1 | Text: 21472 | Raw: 21472  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:39] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:39] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:39] Passcode => Item: PASSWORD | 63899196
+[2025-07-25 20:24:39] Item => Setcode: DUAD-AE061 | URL: https://yugipedia.com/wiki/DUAD-AE061 | Name: The Monarchs Masterplan | Category: NORMAL SPELL
+[2025-07-25 20:24:39] ===================================================================================================
+[2025-07-25 20:24:40] Searching passcode for https://yugipedia.com/wiki/DUAD-AE062
+[2025-07-25 20:24:40] Requesting page => https://yugipedia.com/wiki/DUAD-AE062
+[2025-07-25 20:24:40] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:40] Parse Konami Id, contents => Index: 1 | Text: 21473 | Raw: 21473  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:40] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:40] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:40] Passcode => Item: PASSWORD | 09283801
+[2025-07-25 20:24:40] Item => Setcode: DUAD-AE062 | URL: https://yugipedia.com/wiki/DUAD-AE062 | Name: The Monarchs Revolt | Category: NORMAL SPELL
+[2025-07-25 20:24:40] ===================================================================================================
+[2025-07-25 20:24:41] Searching passcode for https://yugipedia.com/wiki/DUAD-AE063
+[2025-07-25 20:24:41] Requesting page => https://yugipedia.com/wiki/DUAD-AE063
+[2025-07-25 20:24:41] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:41] Parse Konami Id, contents => Index: 1 | Text: 21474 | Raw: 21474  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:41] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:41] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:41] Passcode => Item: PASSWORD | 36672909
+[2025-07-25 20:24:41] Item => Setcode: DUAD-AE063 | URL: https://yugipedia.com/wiki/DUAD-AE063 | Name: Regenesis Cycle | Category: NORMAL SPELL
+[2025-07-25 20:24:41] ===================================================================================================
+[2025-07-25 20:24:42] Searching passcode for https://yugipedia.com/wiki/DUAD-AE064
+[2025-07-25 20:24:42] Requesting page => https://yugipedia.com/wiki/DUAD-AE064
+[2025-07-25 20:24:43] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:43] Parse Konami Id, contents => Index: 1 | Text: 21475 | Raw: 21475  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:43] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:43] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:24:43] Passcode => Item: PASSWORD | 62767644
+[2025-07-25 20:24:43] Item => Setcode: DUAD-AE064 | URL: https://yugipedia.com/wiki/DUAD-AE064 | Name: Inferno of the Ashened | Category: CONTINUOUS SPELL
+[2025-07-25 20:24:43] ===================================================================================================
+[2025-07-25 20:24:44] Searching passcode for https://yugipedia.com/wiki/DUAD-AE065
+[2025-07-25 20:24:44] Requesting page => https://yugipedia.com/wiki/DUAD-AE065
+[2025-07-25 20:24:44] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:44] Parse Konami Id, contents => Index: 1 | Text: 21476 | Raw: 21476  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:44] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:44] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:44] Passcode => Item: PASSWORD | 99161253
+[2025-07-25 20:24:44] Item => Setcode: DUAD-AE065 | URL: https://yugipedia.com/wiki/DUAD-AE065 | Name: Primite Fusion | Category: NORMAL SPELL
+[2025-07-25 20:24:44] ===================================================================================================
+[2025-07-25 20:24:45] Searching passcode for https://yugipedia.com/wiki/DUAD-AE066
+[2025-07-25 20:24:45] Requesting page => https://yugipedia.com/wiki/DUAD-AE066
+[2025-07-25 20:24:45] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:45] Parse Konami Id, contents => Index: 1 | Text: 21477 | Raw: 21477  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:45] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:45] Passcode => Item: PROPERTY | Field
+[2025-07-25 20:24:45] Passcode => Item: PASSWORD | 35550352
+[2025-07-25 20:24:45] Item => Setcode: DUAD-AE066 | URL: https://yugipedia.com/wiki/DUAD-AE066 | Name: Vanquish Soul, Start! | Category: FIELD SPELL
+[2025-07-25 20:24:45] ===================================================================================================
+[2025-07-25 20:24:46] Searching passcode for https://yugipedia.com/wiki/DUAD-AE067
+[2025-07-25 20:24:46] Requesting page => https://yugipedia.com/wiki/DUAD-AE067
+[2025-07-25 20:24:46] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:46] Parse Konami Id, contents => Index: 1 | Text: 21478 | Raw: 21478  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:46] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:46] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:24:46] Passcode => Item: PASSWORD | 61944066
+[2025-07-25 20:24:46] Item => Setcode: DUAD-AE067 | URL: https://yugipedia.com/wiki/DUAD-AE067 | Name: Nouvelles Recipe Book "Recettes de Nouvellez" | Category: CONTINUOUS SPELL
+[2025-07-25 20:24:46] ===================================================================================================
+[2025-07-25 20:24:47] Searching passcode for https://yugipedia.com/wiki/DUAD-AE068
+[2025-07-25 20:24:47] Requesting page => https://yugipedia.com/wiki/DUAD-AE068
+[2025-07-25 20:24:47] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:47] Parse Konami Id, contents => Index: 1 | Text: 21479 | Raw: 21479  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:47] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:47] Passcode => Item: PROPERTY | Quick-Play
+[2025-07-25 20:24:47] Passcode => Item: PASSWORD | 98349765
+[2025-07-25 20:24:47] Item => Setcode: DUAD-AE068 | URL: https://yugipedia.com/wiki/DUAD-AE068 | Name: Layer 19 "Sudden Incursion! Super Quantum Black!!" | Category: QUICK-PLAY SPELL
+[2025-07-25 20:24:47] ===================================================================================================
+[2025-07-25 20:24:48] Searching passcode for https://yugipedia.com/wiki/DUAD-AE069
+[2025-07-25 20:24:48] Requesting page => https://yugipedia.com/wiki/DUAD-AE069
+[2025-07-25 20:24:48] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:48] Parse Konami Id, contents => Index: 1 | Text: 21480 | Raw: 21480  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:48] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:48] Passcode => Item: PROPERTY | Quick-Play
+[2025-07-25 20:24:48] Passcode => Item: PASSWORD | 34433770
+[2025-07-25 20:24:48] Item => Setcode: DUAD-AE069 | URL: https://yugipedia.com/wiki/DUAD-AE069 | Name: Sky Striker Special Maneuver - Lemnisgate! | Category: QUICK-PLAY SPELL
+[2025-07-25 20:24:48] ===================================================================================================
+[2025-07-25 20:24:49] Searching passcode for https://yugipedia.com/wiki/DUAD-AE070
+[2025-07-25 20:24:49] Requesting page => https://yugipedia.com/wiki/DUAD-AE070
+[2025-07-25 20:24:49] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:49] Parse Konami Id, contents => Index: 1 | Text: 21481 | Raw: 21481  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:49] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:49] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:49] Passcode => Item: PASSWORD | 61822419
+[2025-07-25 20:24:49] Item => Setcode: DUAD-AE070 | URL: https://yugipedia.com/wiki/DUAD-AE070 | Name: Guilt-Gripping Morganite | Category: NORMAL SPELL
+[2025-07-25 20:24:49] ===================================================================================================
+[2025-07-25 20:24:50] Searching passcode for https://yugipedia.com/wiki/DUAD-AE071
+[2025-07-25 20:24:50] Requesting page => https://yugipedia.com/wiki/DUAD-AE071
+[2025-07-25 20:24:50] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:50] Parse Konami Id, contents => Index: 1 | Text: 21482 | Raw: 21482  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:50] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:50] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:50] Passcode => Item: PASSWORD | 97227123
+[2025-07-25 20:24:50] Item => Setcode: DUAD-AE071 | URL: https://yugipedia.com/wiki/DUAD-AE071 | Name: Return of the Duelist | Category: NORMAL SPELL
+[2025-07-25 20:24:50] ===================================================================================================
+[2025-07-25 20:24:51] Searching passcode for https://yugipedia.com/wiki/DUAD-AE072
+[2025-07-25 20:24:51] Requesting page => https://yugipedia.com/wiki/DUAD-AE072
+[2025-07-25 20:24:51] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:51] Parse Konami Id, contents => Index: 1 | Text: 21483 | Raw: 21483  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:51] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:51] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:24:51] Passcode => Item: PASSWORD | 23611122
+[2025-07-25 20:24:51] Item => Setcode: DUAD-AE072 | URL: https://yugipedia.com/wiki/DUAD-AE072 | Name: Sudden Thunder Swamp | Category: CONTINUOUS SPELL
+[2025-07-25 20:24:51] ===================================================================================================
+[2025-07-25 20:24:52] Searching passcode for https://yugipedia.com/wiki/DUAD-AE073
+[2025-07-25 20:24:52] Requesting page => https://yugipedia.com/wiki/DUAD-AE073
+[2025-07-25 20:24:53] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:53] Parse Konami Id, contents => Index: 1 | Text: 21484 | Raw: 21484  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:53] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:24:53] Passcode => Item: PROPERTY | Field
+[2025-07-25 20:24:53] Passcode => Item: PASSWORD | 60600821
+[2025-07-25 20:24:53] Item => Setcode: DUAD-AE073 | URL: https://yugipedia.com/wiki/DUAD-AE073 | Name: Spring | Category: FIELD SPELL
+[2025-07-25 20:24:53] ===================================================================================================
+[2025-07-25 20:24:54] Searching passcode for https://yugipedia.com/wiki/DUAD-AE074
+[2025-07-25 20:24:54] Requesting page => https://yugipedia.com/wiki/DUAD-AE074
+[2025-07-25 20:24:54] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:54] Parse Konami Id, contents => Index: 1 | Text: 21485 | Raw: 21485  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:54] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:24:54] Passcode => Item: PROPERTY | Counter
+[2025-07-25 20:24:54] Passcode => Item: PASSWORD | 96004535
+[2025-07-25 20:24:54] Item => Setcode: DUAD-AE074 | URL: https://yugipedia.com/wiki/DUAD-AE074 | Name: Unbreakable Xyz Barrier | Category: COUNTER TRAP
+[2025-07-25 20:24:54] ===================================================================================================
+[2025-07-25 20:24:55] Searching passcode for https://yugipedia.com/wiki/DUAD-AE075
+[2025-07-25 20:24:55] Requesting page => https://yugipedia.com/wiki/DUAD-AE075
+[2025-07-25 20:24:55] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:55] Parse Konami Id, contents => Index: 1 | Text: 21486 | Raw: 21486  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:55] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:24:55] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:55] Passcode => Item: PASSWORD | 23599634
+[2025-07-25 20:24:55] Item => Setcode: DUAD-AE075 | URL: https://yugipedia.com/wiki/DUAD-AE075 | Name: Artmage Pact -Awakening- | Category: NORMAL TRAP
+[2025-07-25 20:24:55] ===================================================================================================
+[2025-07-25 20:24:56] Searching passcode for https://yugipedia.com/wiki/DUAD-AE076
+[2025-07-25 20:24:56] Requesting page => https://yugipedia.com/wiki/DUAD-AE076
+[2025-07-25 20:24:56] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:56] Parse Konami Id, contents => Index: 1 | Text: 21487 | Raw: 21487  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:56] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:24:56] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:24:56] Passcode => Item: PASSWORD | 59983249
+[2025-07-25 20:24:56] Item => Setcode: DUAD-AE076 | URL: https://yugipedia.com/wiki/DUAD-AE076 | Name: Monarchic Perfection | Category: CONTINUOUS TRAP
+[2025-07-25 20:24:56] ===================================================================================================
+[2025-07-25 20:24:57] Searching passcode for https://yugipedia.com/wiki/DUAD-AE077
+[2025-07-25 20:24:57] Requesting page => https://yugipedia.com/wiki/DUAD-AE077
+[2025-07-25 20:24:57] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:57] Parse Konami Id, contents => Index: 1 | Text: 21488 | Raw: 21488  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:57] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:24:57] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:57] Passcode => Item: PASSWORD | 95382988
+[2025-07-25 20:24:57] Item => Setcode: DUAD-AE077 | URL: https://yugipedia.com/wiki/DUAD-AE077 | Name: Regenesis Commands | Category: NORMAL TRAP
+[2025-07-25 20:24:57] ===================================================================================================
+[2025-07-25 20:24:58] Searching passcode for https://yugipedia.com/wiki/DUAD-AE078
+[2025-07-25 20:24:58] Requesting page => https://yugipedia.com/wiki/DUAD-AE078
+[2025-07-25 20:24:58] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:58] Parse Konami Id, contents => Index: 1 | Text: 21489 | Raw: 21489  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:58] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:24:58] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:58] Passcode => Item: PASSWORD | 22377092
+[2025-07-25 20:24:58] Item => Setcode: DUAD-AE078 | URL: https://yugipedia.com/wiki/DUAD-AE078 | Name: Trap Holic | Category: NORMAL TRAP
+[2025-07-25 20:24:58] ===================================================================================================
+[2025-07-25 20:24:59] Searching passcode for https://yugipedia.com/wiki/DUAD-AE079
+[2025-07-25 20:24:59] Requesting page => https://yugipedia.com/wiki/DUAD-AE079
+[2025-07-25 20:24:59] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:24:59] Parse Konami Id, contents => Index: 1 | Text: 21490 | Raw: 21490  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:24:59] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:24:59] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:24:59] Passcode => Item: PASSWORD | 58761791
+[2025-07-25 20:24:59] Item => Setcode: DUAD-AE079 | URL: https://yugipedia.com/wiki/DUAD-AE079 | Name: Shipping Error | Category: NORMAL TRAP
+[2025-07-25 20:24:59] ===================================================================================================
+[2025-07-25 20:25:00] Searching passcode for https://yugipedia.com/wiki/DUAD-AE080
+[2025-07-25 20:25:00] Requesting page => https://yugipedia.com/wiki/DUAD-AE080
+[2025-07-25 20:25:03] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:03] Parse Konami Id, contents => Index: 1 | Text: 21491 | Raw: 21491  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+cn
+[2025-07-25 20:25:03] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:25:03] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:25:03] Passcode => Item: PASSWORD | 85150300
+[2025-07-25 20:25:03] Item => Setcode: DUAD-AE080 | URL: https://yugipedia.com/wiki/DUAD-AE080 | Name: Spirit Poacher | Category: CONTINUOUS TRAP
+[2025-07-25 20:25:03] ===================================================================================================
+[2025-07-25 20:25:04] Searching passcode for https://yugipedia.com/wiki/DUAD-AE081
+[2025-07-25 20:25:04] Requesting page => https://yugipedia.com/wiki/DUAD-AE081
+[2025-07-25 20:25:04] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:04] Parse Konami Id, contents => Index: 1 | Text: 10864 | Raw: 10864  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:04] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:04] Passcode => Item: ATTRIBUTE | FIRE
+[2025-07-25 20:25:04] Passcode => Item: TYPES | Warrior / Effect
+[2025-07-25 20:25:04] Passcode => Item: LEVEL | 4
+[2025-07-25 20:25:04] Passcode => Item: ATK  DEF | 1800 / 1600
+[2025-07-25 20:25:04] Passcode => Item: PASSWORD | 50903514
+[2025-07-25 20:25:04] Item => Setcode: DUAD-AE081 | URL: https://yugipedia.com/wiki/DUAD-AE081 | Name: Blue Flame Swordsman | Category: EFFECT MONSTER
+[2025-07-25 20:25:04] ===================================================================================================
+[2025-07-25 20:25:05] Searching passcode for https://yugipedia.com/wiki/DUAD-AE082
+[2025-07-25 20:25:05] Requesting page => https://yugipedia.com/wiki/DUAD-AE082
+[2025-07-25 20:25:05] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:05] Parse Konami Id, contents => Index: 1 | Text: 19087 | Raw: 19087  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:05] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:05] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:25:05] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:25:05] Passcode => Item: LEVEL | 10
+[2025-07-25 20:25:05] Passcode => Item: ATK  DEF | 2000 / 3000
+[2025-07-25 20:25:05] Passcode => Item: PASSWORD | 86999951
+[2025-07-25 20:25:05] Item => Setcode: DUAD-AE082 | URL: https://yugipedia.com/wiki/DUAD-AE082 | Name: Crystal God Tistina | Category: EFFECT MONSTER
+[2025-07-25 20:25:05] ===================================================================================================
+[2025-07-25 20:25:06] Searching passcode for https://yugipedia.com/wiki/DUAD-AE083
+[2025-07-25 20:25:06] Requesting page => https://yugipedia.com/wiki/DUAD-AE083
+[2025-07-25 20:25:06] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:06] Parse Konami Id, contents => Index: 1 | Text: 19086 | Raw: 19086  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:06] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:06] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:25:06] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:25:06] Passcode => Item: LEVEL | 10
+[2025-07-25 20:25:06] Passcode => Item: ATK  DEF | 2000 / 0
+[2025-07-25 20:25:06] Passcode => Item: PASSWORD | 59504256
+[2025-07-25 20:25:06] Item => Setcode: DUAD-AE083 | URL: https://yugipedia.com/wiki/DUAD-AE083 | Name: Demigod of the Tistina | Category: EFFECT MONSTER
+[2025-07-25 20:25:06] ===================================================================================================
+[2025-07-25 20:25:07] Searching passcode for https://yugipedia.com/wiki/DUAD-AE084
+[2025-07-25 20:25:07] Requesting page => https://yugipedia.com/wiki/DUAD-AE084
+[2025-07-25 20:25:07] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:07] Parse Konami Id, contents => Index: 1 | Text: 19084 | Raw: 19084  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:07] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:07] Passcode => Item: ATTRIBUTE | WIND
+[2025-07-25 20:25:07] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:25:07] Passcode => Item: LEVEL | 3
+[2025-07-25 20:25:07] Passcode => Item: ATK  DEF | 1200 / 1400
+[2025-07-25 20:25:07] Passcode => Item: PASSWORD | 86111442
+[2025-07-25 20:25:07] Item => Setcode: DUAD-AE084 | URL: https://yugipedia.com/wiki/DUAD-AE084 | Name: Sentinel of the Tistina | Category: EFFECT MONSTER
+[2025-07-25 20:25:07] ===================================================================================================
+[2025-07-25 20:25:08] Searching passcode for https://yugipedia.com/wiki/DUAD-AE085
+[2025-07-25 20:25:08] Requesting page => https://yugipedia.com/wiki/DUAD-AE085
+[2025-07-25 20:25:08] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:08] Parse Konami Id, contents => Index: 1 | Text: 19085 | Raw: 19085  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:08] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:08] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:25:08] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:25:08] Passcode => Item: LEVEL | 4
+[2025-07-25 20:25:08] Passcode => Item: ATK  DEF | 1800 / 700
+[2025-07-25 20:25:08] Passcode => Item: PASSWORD | 13510157
+[2025-07-25 20:25:08] Item => Setcode: DUAD-AE085 | URL: https://yugipedia.com/wiki/DUAD-AE085 | Name: Hound of the Tistina | Category: EFFECT MONSTER
+[2025-07-25 20:25:08] ===================================================================================================
+[2025-07-25 20:25:09] Searching passcode for https://yugipedia.com/wiki/DUAD-AE086
+[2025-07-25 20:25:09] Requesting page => https://yugipedia.com/wiki/DUAD-AE086
+[2025-07-25 20:25:09] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:10] Parse Konami Id, contents => Index: 1 | Text: 19416 | Raw: 19416  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:10] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:10] Passcode => Item: ATTRIBUTE | WATER
+[2025-07-25 20:25:10] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:25:10] Passcode => Item: LEVEL | 1
+[2025-07-25 20:25:10] Passcode => Item: ATK  DEF | 200 / 0
+[2025-07-25 20:25:10] Passcode => Item: PASSWORD | 87498729
+[2025-07-25 20:25:10] Item => Setcode: DUAD-AE086 | URL: https://yugipedia.com/wiki/DUAD-AE086 | Name: Fallen of the Tistina | Category: EFFECT MONSTER
+[2025-07-25 20:25:10] ===================================================================================================
+[2025-07-25 20:25:11] Searching passcode for https://yugipedia.com/wiki/DUAD-AE087
+[2025-07-25 20:25:11] Requesting page => https://yugipedia.com/wiki/DUAD-AE087
+[2025-07-25 20:25:11] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:11] Parse Konami Id, contents => Index: 1 | Text: 19417 | Raw: 19417  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:11] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:11] Passcode => Item: ATTRIBUTE | FIRE
+[2025-07-25 20:25:11] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:25:11] Passcode => Item: LEVEL | 2
+[2025-07-25 20:25:11] Passcode => Item: ATK  DEF | 500 / 500
+[2025-07-25 20:25:11] Passcode => Item: PASSWORD | 24892828
+[2025-07-25 20:25:11] Item => Setcode: DUAD-AE087 | URL: https://yugipedia.com/wiki/DUAD-AE087 | Name: Returned of the Tistina | Category: EFFECT MONSTER
+[2025-07-25 20:25:11] ===================================================================================================
+[2025-07-25 20:25:12] Searching passcode for https://yugipedia.com/wiki/DUAD-AE088
+[2025-07-25 20:25:12] Requesting page => https://yugipedia.com/wiki/DUAD-AE088
+[2025-07-25 20:25:12] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:12] Parse Konami Id, contents => Index: 1 | Text: 19418 | Raw: 19418  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:12] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:12] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:12] Passcode => Item: TYPES | Aqua / Effect
+[2025-07-25 20:25:12] Passcode => Item: LEVEL | 5
+[2025-07-25 20:25:12] Passcode => Item: ATK  DEF | 2000 / 0
+[2025-07-25 20:25:12] Passcode => Item: PASSWORD | 50281477
+[2025-07-25 20:25:12] Item => Setcode: DUAD-AE088 | URL: https://yugipedia.com/wiki/DUAD-AE088 | Name: Tainted of the Tistina | Category: EFFECT MONSTER
+[2025-07-25 20:25:12] ===================================================================================================
+[2025-07-25 20:25:13] Searching passcode for https://yugipedia.com/wiki/DUAD-AE089
+[2025-07-25 20:25:13] Requesting page => https://yugipedia.com/wiki/DUAD-AE089
+[2025-07-25 20:25:13] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:13] Parse Konami Id, contents => Index: 1 | Text: 19835 | Raw: 19835  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:13] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:13] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:13] Passcode => Item: TYPES | Pyro / Effect
+[2025-07-25 20:25:13] Passcode => Item: LEVEL | 9
+[2025-07-25 20:25:13] Passcode => Item: ATK  DEF | 2800 / 1500
+[2025-07-25 20:25:13] Passcode => Item: PASSWORD | 78783557
+[2025-07-25 20:25:13] Item => Setcode: DUAD-AE089 | URL: https://yugipedia.com/wiki/DUAD-AE089 | Name: Veidos the Eruption Dragon of Extinction | Category: EFFECT MONSTER
+[2025-07-25 20:25:13] ===================================================================================================
+[2025-07-25 20:25:14] Searching passcode for https://yugipedia.com/wiki/DUAD-AE090
+[2025-07-25 20:25:14] Requesting page => https://yugipedia.com/wiki/DUAD-AE090
+[2025-07-25 20:25:17] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:17] Parse Konami Id, contents => Index: 1 | Text: 19836 | Raw: 19836  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:17] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:17] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:17] Passcode => Item: TYPES | Pyro / Effect
+[2025-07-25 20:25:17] Passcode => Item: LEVEL | 8
+[2025-07-25 20:25:17] Passcode => Item: ATK  DEF | 1400 / 2700
+[2025-07-25 20:25:17] Passcode => Item: PASSWORD | 04271596
+[2025-07-25 20:25:17] Item => Setcode: DUAD-AE090 | URL: https://yugipedia.com/wiki/DUAD-AE090 | Name: King of the Ashened City | Category: EFFECT MONSTER
+[2025-07-25 20:25:17] ===================================================================================================
+[2025-07-25 20:25:18] Searching passcode for https://yugipedia.com/wiki/DUAD-AE091
+[2025-07-25 20:25:18] Requesting page => https://yugipedia.com/wiki/DUAD-AE091
+[2025-07-25 20:25:18] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:18] Parse Konami Id, contents => Index: 1 | Text: 19837 | Raw: 19837  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:18] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:18] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:18] Passcode => Item: TYPES | Pyro / Effect
+[2025-07-25 20:25:18] Passcode => Item: LEVEL | 7
+[2025-07-25 20:25:18] Passcode => Item: ATK  DEF | 2600 / 2100
+[2025-07-25 20:25:18] Passcode => Item: PASSWORD | 30676200
+[2025-07-25 20:25:18] Item => Setcode: DUAD-AE091 | URL: https://yugipedia.com/wiki/DUAD-AE091 | Name: Hero of the Ashened City | Category: EFFECT MONSTER
+[2025-07-25 20:25:18] ===================================================================================================
+[2025-07-25 20:25:19] Searching passcode for https://yugipedia.com/wiki/DUAD-AE092
+[2025-07-25 20:25:19] Requesting page => https://yugipedia.com/wiki/DUAD-AE092
+[2025-07-25 20:25:19] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:19] Parse Konami Id, contents => Index: 1 | Text: 19838 | Raw: 19838  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:19] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:19] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:19] Passcode => Item: TYPES | Pyro / Effect
+[2025-07-25 20:25:19] Passcode => Item: LEVEL | 4
+[2025-07-25 20:25:19] Passcode => Item: ATK  DEF | 1200 / 1300
+[2025-07-25 20:25:19] Passcode => Item: PASSWORD | 67660909
+[2025-07-25 20:25:19] Item => Setcode: DUAD-AE092 | URL: https://yugipedia.com/wiki/DUAD-AE092 | Name: Priestess of the Ashened City | Category: EFFECT MONSTER
+[2025-07-25 20:25:19] ===================================================================================================
+[2025-07-25 20:25:20] Searching passcode for https://yugipedia.com/wiki/DUAD-AE093
+[2025-07-25 20:25:20] Requesting page => https://yugipedia.com/wiki/DUAD-AE093
+[2025-07-25 20:25:20] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:20] Parse Konami Id, contents => Index: 1 | Text: 20066 | Raw: 20066  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:20] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:20] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:20] Passcode => Item: TYPES | Pyro / Effect
+[2025-07-25 20:25:20] Passcode => Item: LEVEL | 4
+[2025-07-25 20:25:20] Passcode => Item: ATK  DEF | 1300 / 1200
+[2025-07-25 20:25:20] Passcode => Item: PASSWORD | 35151572
+[2025-07-25 20:25:20] Item => Setcode: DUAD-AE093 | URL: https://yugipedia.com/wiki/DUAD-AE093 | Name: Shaman of the Ashened City | Category: EFFECT MONSTER
+[2025-07-25 20:25:20] ===================================================================================================
+[2025-07-25 20:25:21] Searching passcode for https://yugipedia.com/wiki/DUAD-AE094
+[2025-07-25 20:25:21] Requesting page => https://yugipedia.com/wiki/DUAD-AE094
+[2025-07-25 20:25:21] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:21] Parse Konami Id, contents => Index: 1 | Text: 20067 | Raw: 20067  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:21] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:21] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:21] Passcode => Item: TYPES | Pyro / Effect
+[2025-07-25 20:25:21] Passcode => Item: LEVEL | 4
+[2025-07-25 20:25:21] Passcode => Item: ATK  DEF | 1700 / 100
+[2025-07-25 20:25:21] Passcode => Item: PASSWORD | 62156277
+[2025-07-25 20:25:21] Item => Setcode: DUAD-AE094 | URL: https://yugipedia.com/wiki/DUAD-AE094 | Name: Spearhead of the Ashened City | Category: EFFECT MONSTER
+[2025-07-25 20:25:21] ===================================================================================================
+[2025-07-25 20:25:22] Searching passcode for https://yugipedia.com/wiki/DUAD-AE095
+[2025-07-25 20:25:22] Requesting page => https://yugipedia.com/wiki/DUAD-AE095
+[2025-07-25 20:25:22] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:22] Parse Konami Id, contents => Index: 1 | Text: 14101 | Raw: 14101  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:22] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:22] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:25:22] Passcode => Item: TYPES | Psychic / Tuner / Effect
+[2025-07-25 20:25:22] Passcode => Item: LEVEL | 3
+[2025-07-25 20:25:22] Passcode => Item: ATK  DEF | 600 / 0
+[2025-07-25 20:25:22] Passcode => Item: PASSWORD | 03233859
+[2025-07-25 20:25:22] Item => Setcode: DUAD-AE095 | URL: https://yugipedia.com/wiki/DUAD-AE095 | Name: Psychic Wheeleder | Category: EFFECT TUNER MONSTER
+[2025-07-25 20:25:22] ===================================================================================================
+[2025-07-25 20:25:23] Searching passcode for https://yugipedia.com/wiki/DUAD-AE096
+[2025-07-25 20:25:23] Requesting page => https://yugipedia.com/wiki/DUAD-AE096
+[2025-07-25 20:25:23] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:23] Parse Konami Id, contents => Index: 1 | Text: 14102 | Raw: 14102  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:23] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:23] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:25:23] Passcode => Item: TYPES | Psychic / Effect
+[2025-07-25 20:25:23] Passcode => Item: LEVEL | 3
+[2025-07-25 20:25:24] Passcode => Item: ATK  DEF | 1600 / 600
+[2025-07-25 20:25:24] Passcode => Item: PASSWORD | 30227494
+[2025-07-25 20:25:24] Item => Setcode: DUAD-AE096 | URL: https://yugipedia.com/wiki/DUAD-AE096 | Name: Psychic Tracker | Category: EFFECT MONSTER
+[2025-07-25 20:25:24] ===================================================================================================
+[2025-07-25 20:25:25] Searching passcode for https://yugipedia.com/wiki/DUAD-AE097
+[2025-07-25 20:25:25] Requesting page => https://yugipedia.com/wiki/DUAD-AE097
+[2025-07-25 20:25:25] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:25] Parse Konami Id, contents => Index: 1 | Text: 19826 | Raw: 19826  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:25] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:25] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:25] Passcode => Item: TYPES | Psychic / Effect
+[2025-07-25 20:25:25] Passcode => Item: LEVEL | 3
+[2025-07-25 20:25:25] Passcode => Item: ATK  DEF | 0 / 1500
+[2025-07-25 20:25:25] Passcode => Item: PASSWORD | 70843274
+[2025-07-25 20:25:25] Item => Setcode: DUAD-AE097 | URL: https://yugipedia.com/wiki/DUAD-AE097 | Name: Psychic Processor | Category: EFFECT MONSTER
+[2025-07-25 20:25:25] ===================================================================================================
+[2025-07-25 20:25:26] Searching passcode for https://yugipedia.com/wiki/DUAD-AE098
+[2025-07-25 20:25:26] Requesting page => https://yugipedia.com/wiki/DUAD-AE098
+[2025-07-25 20:25:26] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:26] Parse Konami Id, contents => Index: 1 | Text: 20068 | Raw: 20068  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:26] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:26] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:26] Passcode => Item: TYPES | Pyro / Fusion / Effect
+[2025-07-25 20:25:26] Passcode => Item: LEVEL | 10
+[2025-07-25 20:25:26] Passcode => Item: ATK  DEF | 3000 / 1700
+[2025-07-25 20:25:26] Passcode => Item: PASSWORD | 08540986
+[2025-07-25 20:25:26] Item => Setcode: DUAD-AE098 | URL: https://yugipedia.com/wiki/DUAD-AE098 | Name: Veidos the Dragon of Endless Darkness | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:25:26] ===================================================================================================
+[2025-07-25 20:25:27] Searching passcode for https://yugipedia.com/wiki/DUAD-AE099
+[2025-07-25 20:25:27] Requesting page => https://yugipedia.com/wiki/DUAD-AE099
+[2025-07-25 20:25:27] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:27] Parse Konami Id, contents => Index: 1 | Text: 20069 | Raw: 20069  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:27] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:27] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:27] Passcode => Item: TYPES | Pyro / Fusion / Effect
+[2025-07-25 20:25:27] Passcode => Item: LEVEL | 8
+[2025-07-25 20:25:27] Passcode => Item: ATK  DEF | 2900 / 2400
+[2025-07-25 20:25:27] Passcode => Item: PASSWORD | 35035985
+[2025-07-25 20:25:27] Item => Setcode: DUAD-AE099 | URL: https://yugipedia.com/wiki/DUAD-AE099 | Name: Embers of the Ashened | Category: EFFECT FUSION MONSTER
+[2025-07-25 20:25:27] ===================================================================================================
+[2025-07-25 20:25:28] Searching passcode for https://yugipedia.com/wiki/DUAD-AE100
+[2025-07-25 20:25:28] Requesting page => https://yugipedia.com/wiki/DUAD-AE100
+[2025-07-25 20:25:28] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:28] Parse Konami Id, contents => Index: 1 | Text: 14119 | Raw: 14119  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:28] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:28] Passcode => Item: ATTRIBUTE | EARTH
+[2025-07-25 20:25:28] Passcode => Item: TYPES | Psychic / Synchro / Effect
+[2025-07-25 20:25:28] Passcode => Item: LEVEL | 6
+[2025-07-25 20:25:28] Passcode => Item: ATK  DEF | 2000 / 600
+[2025-07-25 20:25:28] Passcode => Item: PASSWORD | 99115354
+[2025-07-25 20:25:28] Item => Setcode: DUAD-AE100 | URL: https://yugipedia.com/wiki/DUAD-AE100 | Name: Hyper Psychic Riser | Category: EFFECT SYNCHRO MONSTER
+[2025-07-25 20:25:28] ===================================================================================================
+[2025-07-25 20:25:29] Searching passcode for https://yugipedia.com/wiki/DUAD-AE101
+[2025-07-25 20:25:29] Requesting page => https://yugipedia.com/wiki/DUAD-AE101
+[2025-07-25 20:25:29] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:29] Parse Konami Id, contents => Index: 1 | Text: 20436 | Raw: 20436  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:29] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:29] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:29] Passcode => Item: TYPES | Psychic / Synchro / Effect
+[2025-07-25 20:25:29] Passcode => Item: LEVEL | 6
+[2025-07-25 20:25:29] Passcode => Item: ATK  DEF | 1500 / 2600
+[2025-07-25 20:25:29] Passcode => Item: PASSWORD | 12172567
+[2025-07-25 20:25:29] Item => Setcode: DUAD-AE101 | URL: https://yugipedia.com/wiki/DUAD-AE101 | Name: Mind Castlin | Category: EFFECT SYNCHRO MONSTER
+[2025-07-25 20:25:29] ===================================================================================================
+[2025-07-25 20:25:30] Searching passcode for https://yugipedia.com/wiki/DUAD-AE102
+[2025-07-25 20:25:30] Requesting page => https://yugipedia.com/wiki/DUAD-AE102
+[2025-07-25 20:25:30] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:30] Parse Konami Id, contents => Index: 1 | Text: 10977 | Raw: 10977  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:30] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:30] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:25:30] Passcode => Item: TYPES | Warrior / Xyz / Effect
+[2025-07-25 20:25:30] Passcode => Item: RANK | 4
+[2025-07-25 20:25:30] Passcode => Item: ATK  DEF | 2510 / 2000
+[2025-07-25 20:25:30] Passcode => Item: PASSWORD | 86532744
+[2025-07-25 20:25:30] Item => Setcode: DUAD-AE102 | URL: https://yugipedia.com/wiki/DUAD-AE102 | Name: Number S39: Utopia Prime | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:25:30] ===================================================================================================
+[2025-07-25 20:25:31] Searching passcode for https://yugipedia.com/wiki/DUAD-AE103
+[2025-07-25 20:25:31] Requesting page => https://yugipedia.com/wiki/DUAD-AE103
+[2025-07-25 20:25:31] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:31] Parse Konami Id, contents => Index: 1 | Text: 14920 | Raw: 14920  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:31] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:31] Passcode => Item: ATTRIBUTE | DARK
+[2025-07-25 20:25:31] Passcode => Item: TYPES | Spellcaster / Xyz / Effect
+[2025-07-25 20:25:31] Passcode => Item: RANK | 4
+[2025-07-25 20:25:31] Passcode => Item: ATK  DEF | 2000 / 2000
+[2025-07-25 20:25:31] Passcode => Item: PASSWORD | 86331741
+[2025-07-25 20:25:31] Item => Setcode: DUAD-AE103 | URL: https://yugipedia.com/wiki/DUAD-AE103 | Name: Gagagaga Magician | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:25:31] ===================================================================================================
+[2025-07-25 20:25:32] Searching passcode for https://yugipedia.com/wiki/DUAD-AE104
+[2025-07-25 20:25:32] Requesting page => https://yugipedia.com/wiki/DUAD-AE104
+[2025-07-25 20:25:32] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:32] Parse Konami Id, contents => Index: 1 | Text: 16472 | Raw: 16472  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:32] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:32] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:25:32] Passcode => Item: TYPES | Warrior / Xyz / Effect
+[2025-07-25 20:25:32] Passcode => Item: RANK | 4
+[2025-07-25 20:25:32] Passcode => Item: ATK  DEF | 2000 / 2500
+[2025-07-25 20:25:32] Passcode => Item: PASSWORD | 31123642
+[2025-07-25 20:25:32] Item => Setcode: DUAD-AE104 | URL: https://yugipedia.com/wiki/DUAD-AE104 | Name: ZS - Utopic Sage | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:25:32] ===================================================================================================
+[2025-07-25 20:25:33] Searching passcode for https://yugipedia.com/wiki/DUAD-AE105
+[2025-07-25 20:25:33] Requesting page => https://yugipedia.com/wiki/DUAD-AE105
+[2025-07-25 20:25:33] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:33] Parse Konami Id, contents => Index: 1 | Text: 19419 | Raw: 19419  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:33] Passcode => Item: CARD TYPE | Monster
+[2025-07-25 20:25:33] Passcode => Item: ATTRIBUTE | LIGHT
+[2025-07-25 20:25:33] Passcode => Item: TYPES | Aqua / Xyz / Effect
+[2025-07-25 20:25:33] Passcode => Item: RANK | 10
+[2025-07-25 20:25:33] Passcode => Item: ATK  DEF | 2000 / 3000
+[2025-07-25 20:25:33] Passcode => Item: PASSWORD | 87676171
+[2025-07-25 20:25:33] Item => Setcode: DUAD-AE105 | URL: https://yugipedia.com/wiki/DUAD-AE105 | Name: Tistina, the Divinity that Defies Darkness | Category: EFFECT XYZ MONSTER
+[2025-07-25 20:25:33] ===================================================================================================
+[2025-07-25 20:25:34] Searching passcode for https://yugipedia.com/wiki/DUAD-AE106
+[2025-07-25 20:25:34] Requesting page => https://yugipedia.com/wiki/DUAD-AE106
+[2025-07-25 20:25:35] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:35] Parse Konami Id, contents => Index: 1 | Text: 17254 | Raw: 17254  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:35] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:35] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:25:35] Passcode => Item: PASSWORD | 67378935
+[2025-07-25 20:25:35] Item => Setcode: DUAD-AE106 | URL: https://yugipedia.com/wiki/DUAD-AE106 | Name: Overlay Network | Category: CONTINUOUS SPELL
+[2025-07-25 20:25:35] ===================================================================================================
+[2025-07-25 20:25:36] Searching passcode for https://yugipedia.com/wiki/DUAD-AE107
+[2025-07-25 20:25:36] Requesting page => https://yugipedia.com/wiki/DUAD-AE107
+[2025-07-25 20:25:36] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:36] Parse Konami Id, contents => Index: 1 | Text: 19088 | Raw: 19088  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:36] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:36] Passcode => Item: PROPERTY | Field
+[2025-07-25 20:25:36] Passcode => Item: PASSWORD | 12397569
+[2025-07-25 20:25:36] Item => Setcode: DUAD-AE107 | URL: https://yugipedia.com/wiki/DUAD-AE107 | Name: Divine Domain Baatistina | Category: FIELD SPELL
+[2025-07-25 20:25:36] ===================================================================================================
+[2025-07-25 20:25:37] Searching passcode for https://yugipedia.com/wiki/DUAD-AE108
+[2025-07-25 20:25:37] Requesting page => https://yugipedia.com/wiki/DUAD-AE108
+[2025-07-25 20:25:37] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:37] Parse Konami Id, contents => Index: 1 | Text: 19420 | Raw: 19420  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:37] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:37] Passcode => Item: PROPERTY | Quick-Play
+[2025-07-25 20:25:37] Passcode => Item: PASSWORD | 13070280
+[2025-07-25 20:25:37] Item => Setcode: DUAD-AE108 | URL: https://yugipedia.com/wiki/DUAD-AE108 | Name: Play of the Tistina | Category: QUICK-PLAY SPELL
+[2025-07-25 20:25:37] ===================================================================================================
+[2025-07-25 20:25:38] Searching passcode for https://yugipedia.com/wiki/DUAD-AE109
+[2025-07-25 20:25:38] Requesting page => https://yugipedia.com/wiki/DUAD-AE109
+[2025-07-25 20:25:38] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:38] Parse Konami Id, contents => Index: 1 | Text: 19089 | Raw: 19089  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:38] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:38] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:25:38] Passcode => Item: PASSWORD | 58882608
+[2025-07-25 20:25:38] Item => Setcode: DUAD-AE109 | URL: https://yugipedia.com/wiki/DUAD-AE109 | Name: Breath of the Tistina | Category: CONTINUOUS SPELL
+[2025-07-25 20:25:38] ===================================================================================================
+[2025-07-25 20:25:39] Searching passcode for https://yugipedia.com/wiki/DUAD-AE110
+[2025-07-25 20:25:39] Requesting page => https://yugipedia.com/wiki/DUAD-AE110
+[2025-07-25 20:25:39] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:39] Parse Konami Id, contents => Index: 1 | Text: 19839 | Raw: 19839  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:39] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:39] Passcode => Item: PROPERTY | Field
+[2025-07-25 20:25:39] Passcode => Item: PASSWORD | 03055018
+[2025-07-25 20:25:39] Item => Setcode: DUAD-AE110 | URL: https://yugipedia.com/wiki/DUAD-AE110 | Name: Obsidim, the Ashened City | Category: FIELD SPELL
+[2025-07-25 20:25:39] ===================================================================================================
+[2025-07-25 20:25:40] Searching passcode for https://yugipedia.com/wiki/DUAD-AE111
+[2025-07-25 20:25:40] Requesting page => https://yugipedia.com/wiki/DUAD-AE111
+[2025-07-25 20:25:42] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:42] Parse Konami Id, contents => Index: 1 | Text: 19840 | Raw: 19840  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:42] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:42] Passcode => Item: PROPERTY | Quick-Play
+[2025-07-25 20:25:42] Passcode => Item: PASSWORD | 30453613
+[2025-07-25 20:25:42] Item => Setcode: DUAD-AE111 | URL: https://yugipedia.com/wiki/DUAD-AE111 | Name: Awakening of Veidos | Category: QUICK-PLAY SPELL
+[2025-07-25 20:25:42] ===================================================================================================
+[2025-07-25 20:25:43] Searching passcode for https://yugipedia.com/wiki/DUAD-AE112
+[2025-07-25 20:25:43] Requesting page => https://yugipedia.com/wiki/DUAD-AE112
+[2025-07-25 20:25:43] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:43] Parse Konami Id, contents => Index: 1 | Text: 20070 | Raw: 20070  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:43] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:43] Passcode => Item: PROPERTY | Quick-Play
+[2025-07-25 20:25:43] Passcode => Item: PASSWORD | 61434639
+[2025-07-25 20:25:43] Item => Setcode: DUAD-AE112 | URL: https://yugipedia.com/wiki/DUAD-AE112 | Name: Rekindling the Ashened | Category: QUICK-PLAY SPELL
+[2025-07-25 20:25:43] ===================================================================================================
+[2025-07-25 20:25:44] Searching passcode for https://yugipedia.com/wiki/DUAD-AE113
+[2025-07-25 20:25:44] Requesting page => https://yugipedia.com/wiki/DUAD-AE113
+[2025-07-25 20:25:44] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:44] Parse Konami Id, contents => Index: 1 | Text: 20071 | Raw: 20071  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:44] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:44] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:25:44] Passcode => Item: PASSWORD | 98828338
+[2025-07-25 20:25:44] Item => Setcode: DUAD-AE113 | URL: https://yugipedia.com/wiki/DUAD-AE113 | Name: Extinguishing the Ashened | Category: NORMAL SPELL
+[2025-07-25 20:25:44] ===================================================================================================
+[2025-07-25 20:25:45] Searching passcode for https://yugipedia.com/wiki/DUAD-AE114
+[2025-07-25 20:25:45] Requesting page => https://yugipedia.com/wiki/DUAD-AE114
+[2025-07-25 20:25:45] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:45] Parse Konami Id, contents => Index: 1 | Text: 19827 | Raw: 19827  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:45] Passcode => Item: CARD TYPE | Spell
+[2025-07-25 20:25:45] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:25:45] Passcode => Item: PASSWORD | 16238373
+[2025-07-25 20:25:45] Item => Setcode: DUAD-AE114 | URL: https://yugipedia.com/wiki/DUAD-AE114 | Name: Psychic Arsenal | Category: NORMAL SPELL
+[2025-07-25 20:25:45] ===================================================================================================
+[2025-07-25 20:25:46] Searching passcode for https://yugipedia.com/wiki/DUAD-AE115
+[2025-07-25 20:25:46] Requesting page => https://yugipedia.com/wiki/DUAD-AE115
+[2025-07-25 20:25:46] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:46] Parse Konami Id, contents => Index: 1 | Text: 19090 | Raw: 19090  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:46] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:25:46] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:25:46] Passcode => Item: PASSWORD | 85277313
+[2025-07-25 20:25:46] Item => Setcode: DUAD-AE115 | URL: https://yugipedia.com/wiki/DUAD-AE115 | Name: Signs of the Tistina | Category: CONTINUOUS TRAP
+[2025-07-25 20:25:46] ===================================================================================================
+[2025-07-25 20:25:47] Searching passcode for https://yugipedia.com/wiki/DUAD-AE116
+[2025-07-25 20:25:47] Requesting page => https://yugipedia.com/wiki/DUAD-AE116
+[2025-07-25 20:25:48] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:48] Parse Konami Id, contents => Index: 1 | Text: 19421 | Raw: 19421  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:48] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:25:48] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:25:48] Passcode => Item: PASSWORD | 59069885
+[2025-07-25 20:25:48] Item => Setcode: DUAD-AE116 | URL: https://yugipedia.com/wiki/DUAD-AE116 | Name: Embrace of the Tistina | Category: CONTINUOUS TRAP
+[2025-07-25 20:25:48] ===================================================================================================
+[2025-07-25 20:25:49] Searching passcode for https://yugipedia.com/wiki/DUAD-AE117
+[2025-07-25 20:25:49] Requesting page => https://yugipedia.com/wiki/DUAD-AE117
+[2025-07-25 20:25:49] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:49] Parse Konami Id, contents => Index: 1 | Text: 19422 | Raw: 19422  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:49] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:25:49] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:25:49] Passcode => Item: PASSWORD | 86553594
+[2025-07-25 20:25:49] Item => Setcode: DUAD-AE117 | URL: https://yugipedia.com/wiki/DUAD-AE117 | Name: Discordance of the Tistina | Category: NORMAL TRAP
+[2025-07-25 20:25:49] ===================================================================================================
+[2025-07-25 20:25:50] Searching passcode for https://yugipedia.com/wiki/DUAD-AE118
+[2025-07-25 20:25:50] Requesting page => https://yugipedia.com/wiki/DUAD-AE118
+[2025-07-25 20:25:50] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:50] Parse Konami Id, contents => Index: 1 | Text: 19841 | Raw: 19841  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:50] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:25:50] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:25:50] Passcode => Item: PASSWORD | 66848311
+[2025-07-25 20:25:50] Item => Setcode: DUAD-AE118 | URL: https://yugipedia.com/wiki/DUAD-AE118 | Name: Ashened for Eternity | Category: CONTINUOUS TRAP
+[2025-07-25 20:25:50] ===================================================================================================
+[2025-07-25 20:25:51] Searching passcode for https://yugipedia.com/wiki/DUAD-AE119
+[2025-07-25 20:25:51] Requesting page => https://yugipedia.com/wiki/DUAD-AE119
+[2025-07-25 20:25:51] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:51] Parse Konami Id, contents => Index: 1 | Text: 20072 | Raw: 20072  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2025-07-25 20:25:51] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:25:51] Passcode => Item: PROPERTY | Continuous
+[2025-07-25 20:25:51] Passcode => Item: PASSWORD | 34813443
+[2025-07-25 20:25:51] Item => Setcode: DUAD-AE119 | URL: https://yugipedia.com/wiki/DUAD-AE119 | Name: Ashened to Endlessness | Category: CONTINUOUS TRAP
+[2025-07-25 20:25:51] ===================================================================================================
+[2025-07-25 20:25:52] Searching passcode for https://yugipedia.com/wiki/DUAD-AE120
+[2025-07-25 20:25:52] Requesting page => https://yugipedia.com/wiki/DUAD-AE120
+[2025-07-25 20:25:52] Passcode => Page downloaded. Parsing content
+[2025-07-25 20:25:52] Parse Konami Id, contents => Index: 1 | Text: 19828 | Raw: 19828  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+[2025-07-25 20:25:52] Passcode => Item: CARD TYPE | Trap
+[2025-07-25 20:25:52] Passcode => Item: PROPERTY | Normal
+[2025-07-25 20:25:52] Passcode => Item: PASSWORD | 43633088
+[2025-07-25 20:25:52] Item => Setcode: DUAD-AE120 | URL: https://yugipedia.com/wiki/DUAD-AE120 | Name: Emergency Apport | Category: NORMAL TRAP
+[2025-07-25 20:25:52] ===================================================================================================
+[2025-07-25 20:25:53] Creating output json file for set 'DUAD-AE' => output/AE_DUAD-AE.json
+[2025-07-25 20:25:53] Saving Card List to JSON file => output/AE_DUAD-AE.json
+[2025-07-25 20:25:53] Successfully created json file.
+[2025-07-25 20:25:53] ===================================================================================================
+[2025-07-25 20:25:55] Set details => Deck-Build Pack: Justice Hunters | https://yugipedia.com/wiki/Deck-Build_Pack:_Justice_Hunters
+[2025-07-25 20:25:55] Skipped : Set 'DBJH-AE' is still unreleased. Release date: 2025-08-16
+[2025-07-25 20:25:55] Set details => Creation Pack 09 | https://yugipedia.com/wiki/Creation_Pack_09
+[2025-07-25 20:25:55] Skipped : Set 'CR09-AE' is still unreleased. Release date: 2025-09-27
+[2025-07-25 20:25:55] Banlist => Parsed JSON file.
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4518 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4678 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4842 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4844 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4851 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4885 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4891 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4898 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4900 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4901 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4907 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4910 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4911 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4913 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4960 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 4966 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5123 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5127 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5195 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5236 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5328 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5371 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5389 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5399 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5406 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5433 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5446 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5537 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5539 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5605 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5657 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5671 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5724 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5740 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 5906 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 6444 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 6708 | Limit: 0
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 7652 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 8197 | Limit: 2
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 12465 | Limit: 2
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 13619 | Limit: 2
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 13622 | Limit: 2
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 14144 | Limit: 2
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 14627 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 15756 | Limit: 2
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 17381 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 18524 | Limit: 2
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 19027 | Limit: 2
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 19148 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 19149 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 19196 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 19467 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 19859 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Limit Count => Konami Id: 19900 | Limit: 1
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR07-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_2012-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR08-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_PHNI-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SDSS-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR08-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SDY.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR06-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR01-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_PHNI-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_LOB.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_ROTA-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_LEDE-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR02-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_WCPS-AE7.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_2010-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_WCS.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_AGOV-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_WCPS-AE8.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_24AT-AE5.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_EEN-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_RDS-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_AGOV-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_MRL.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_ES01-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SDK.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_DI01-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_RGBT-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_FET-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SOD-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_MFC.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_WCS-AE4.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_TT02-AEA.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SDID-AEP.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR03-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SSD1-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_ALIN-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR01-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_BN01-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_DBCB-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SDID-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_PGD.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_25AT-AE2.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_24AT-AE2.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_DUAD-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SD16-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CRV-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_DCR.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR07-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_DI02-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CRMS-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR05-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_LOD.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_25AT-AE1.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_25YC-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_DUNE-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_24OT-AESG.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_24AT-AE3.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_LON.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_PSV.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SDRB-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_DUNE-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_ALIN-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SLF1-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SDRB-AEP.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_24AT-AE4.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_TT02-AEB.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_2011-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_INFO-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_TLM-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_LEDE-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_WCPS-AE6.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_WCS-AE5.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_2014-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR04-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR05-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_24AT-AE1.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_2013-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_ROTA-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_2015-JPP.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR03-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SUDA-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR06-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SDSS-AEP.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_AST-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SSD2-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_MRD.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_24CC-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_IOC-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR04-AES.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_WCPS-AE9.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SUDA-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_SOI-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_RC04-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_INFO-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_CR02-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_EOJ-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, Set File => Filename: output/AE_DUAD-AE.json
+[2025-07-25 20:25:55] Banlist, Set File => JSON file parsed.
+[2025-07-25 20:25:55] Banlist, Set File => CardData processed.
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Snake-Eyes Poplar
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 2 | Bonfire
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Crossout Designator
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Monster Reborn
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Last Will
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Ultimate Offering
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Runick Fountain
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Pot of Greed
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Diabellstar the Black Witch
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Snake-Eye Ash
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | WANTED: Seeker of Sinful Spoils
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Snatch Steal
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Confiscation
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Delinquent Duo
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | The Forceful Sentry
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Giant Trunade
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Painful Choice
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Cyber Jar
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Skill Drain
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Reinforcement of the Army
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 2 | Called by the Grave
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 2 | One for One
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Kaiser Colosseum
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Magical Scientist
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Mass Driver
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 2 | Pot of Prosperity
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Mirage of Nightmare
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Trap Dustshoot
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Terraforming
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Metamorphosis
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Magical Explosion
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Butterfly Dagger - Elma
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Harpie's Feather Duster
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Fiber Jar
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Smoke Grenade of the Thief
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Royal Oppression
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Last Turn
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Card of Safe Return
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Amazoness Archer
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Premature Burial
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Cold Wave
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Imperial Order
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Foolish Burial
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 2 | Purrely Sleepy Memory
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Tenpai Dragon Chundra
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Sangen Summoning
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 2 | Red Reboot
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Heavy Storm
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Dimension Fusion
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 2 | Pot of Desires
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 2 | Pot of Extravagance
+[2025-07-25 20:25:55] Banlist, CONF => Card is restricted to 1 | Summon Limit
+[2025-07-25 20:25:55] Banlist, CONF => Card is banned | Life Equalizer
+[2025-07-25 20:25:55] Elapsed minutes: 3.9299700180689494
