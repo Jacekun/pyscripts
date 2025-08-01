@@ -1913,9 +1913,41 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Creation Pack 09"
+        },
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)": {
+            "printouts": {
+                "Prefix": [],
+                "Release date": [
+                    {
+                        "timestamp": "1761350400",
+                        "raw": "1/2025/10/25"
+                    }
+                ]
+            },
+            "fulltext": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "fullurl": "https://yugipedia.com/wiki/THE_CHRONICLES_DECK:_The_Fallen_%26_The_Virtuous_(All-Foil_Edition)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)"
+        },
+        "The Fallen & The Virtuous": {
+            "printouts": {
+                "Prefix": [],
+                "Release date": [
+                    {
+                        "timestamp": "1763164800",
+                        "raw": "1/2025/11/15"
+                    }
+                ]
+            },
+            "fulltext": "The Fallen & The Virtuous",
+            "fullurl": "https://yugipedia.com/wiki/The_Fallen_%26_The_Virtuous",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "The Fallen & The Virtuous"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 105
+    "rows": 107
 }
