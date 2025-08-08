@@ -1932,7 +1932,9 @@
         },
         "The Fallen & The Virtuous": {
             "printouts": {
-                "Prefix": [],
+                "Prefix": [
+                    "TFTV-AE"
+                ],
                 "Release date": [
                     {
                         "timestamp": "1763164800",
