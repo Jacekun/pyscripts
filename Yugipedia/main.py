@@ -360,13 +360,11 @@ def process_banlist():
     listLimitBanned: list[tuple[int, int]] = []
 
     # First, get the banlist and process it
-    dataBanlistJson: any = None
-    if not os.path.exists(FILE_CACHE_BANLIST):
-        reqObj = request_page(URL_BANLIST_AE, False)
-        if reqObj.ok:
-            contentsHtml = reqObj.text.strip()
-            Utils.write_file(FILE_CACHE_BANLIST, contentsHtml)
-    
+    reqObj = request_page(URL_BANLIST_AE, False)
+    if reqObj.ok:
+        contentsHtml = reqObj.text.strip()
+        Utils.write_file(FILE_CACHE_BANLIST, contentsHtml)
+        
     # read from file
     dataBanlistJson = Utils.read_json(FILE_CACHE_BANLIST)
     
