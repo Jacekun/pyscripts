@@ -1967,9 +1967,27 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "The Fallen & The Virtuous"
+        },
+        "Doom of Dimensions": {
+            "printouts": {
+                "Prefix": [
+                    "DOOD-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1765584000",
+                        "raw": "1/2025/12/13"
+                    }
+                ]
+            },
+            "fulltext": "Doom of Dimensions",
+            "fullurl": "https://yugipedia.com/wiki/Doom_of_Dimensions",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Doom of Dimensions"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 108
+    "rows": 109
 }
