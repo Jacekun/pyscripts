@@ -20,7 +20,7 @@ NEWLINE = '\n'
 DELAY_SETLIST = 2
 DELAY_PASSCODE = 1
 BANLIST_FORMAT = "Yu-Gi-Oh! AE"
-BANLIST_TITLE = "2025.04 OCG-AE"
+BANLIST_TITLE = "2025.10 OCG-AE"
 LINE_BREAK = "==================================================================================================="
 
 # Index
@@ -453,20 +453,6 @@ try:
     # Clear old log files
     Utils.clear_logs()
 
-    # Clear existing banlist output files
-    dirPath = os.path.dirname(os.path.realpath(__file__))
-    banlistOutputFiles = os.listdir(dirPath)
-    for item in banlistOutputFiles:
-        if item.endswith(EXT_OUTPUT_BANLIST):
-            outputBanlistFileItem: str = os.path.join(dirPath, item)
-            if os.path.isfile(outputBanlistFileItem):
-                Utils.log(f"Output file deleted (BANLIST) => {outputBanlistFileItem}")
-                os.remove(outputBanlistFileItem)
-    
-    # Clear existing setlist with error
-    Utils.write_file(FILE_OUTPUT_ERROR_SET, "")
-    Utils.write_file(FILE_CACHE_SKIPPED_CARDS, "")
-
     # Check URL
     if INPUT_URL is None or INPUT_URL == "":
         raise Exception("Invalid INPUT_URL : Blank or null.")
@@ -494,6 +480,22 @@ try:
     CONTENTS_HTML = Utils.read_json(FILE_OUTPUT_BODY)
     if CONTENTS_HTML is None:
         raise Exception("No valid data found!")
+    
+    # Reset outputs after downloading content list
+
+    # Clear existing banlist output files
+    dirPath = os.path.dirname(os.path.realpath(__file__))
+    banlistOutputFiles = os.listdir(dirPath)
+    for item in banlistOutputFiles:
+        if item.endswith(EXT_OUTPUT_BANLIST):
+            outputBanlistFileItem: str = os.path.join(dirPath, item)
+            if os.path.isfile(outputBanlistFileItem):
+                Utils.log(f"Output file deleted (BANLIST) => {outputBanlistFileItem}")
+                os.remove(outputBanlistFileItem)
+    
+    # Clear existing setlist with error
+    Utils.write_file(FILE_OUTPUT_ERROR_SET, "")
+    Utils.write_file(FILE_CACHE_SKIPPED_CARDS, "")
 
     # Load already done sets
     LIST_DONESET_FROMFILE = Utils.read_file(FILE_OUTPUT_DONE_SET).split()
