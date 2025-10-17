@@ -2039,9 +2039,27 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Creation Pack 10"
+        },
+        "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)": {
+            "printouts": {
+                "Prefix": [
+                    "CH02-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1769212800",
+                        "raw": "1/2026/1/24"
+                    }
+                ]
+            },
+            "fulltext": "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)",
+            "fullurl": "https://yugipedia.com/wiki/THE_CHRONICLES_DECK:_Spirit_Charmers_(All-Foil_Edition)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 112
+    "rows": 113
 }
