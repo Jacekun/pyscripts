@@ -2022,6 +2022,24 @@
             "exists": "1",
             "displaytitle": "Doom of Dimensions"
         },
+        "Yu-Gi-Oh! Championship Series Asia 2025 prize cards": {
+            "printouts": {
+                "Prefix": [
+                    "25YC-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1766188800",
+                        "raw": "1/2025/12/20"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! Championship Series Asia 2025 prize cards",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Championship_Series_Asia_2025_prize_cards",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! Championship Series Asia 2025 prize cards"
+        },
         "Creation Pack 10": {
             "printouts": {
                 "Prefix": [
@@ -2061,5 +2079,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 113
+    "rows": 114
 }

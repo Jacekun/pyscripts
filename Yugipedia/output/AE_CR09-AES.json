@@ -1,0 +1,492 @@
+[
+    {
+        "name": "D/D Savant Kepler",
+        "passcode": 11609969,
+        "konami_id": 11442,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES01",
+        "set_number": "CR09-AES01",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D Savant Copernicus",
+        "passcode": 46796664,
+        "konami_id": 12227,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES02",
+        "set_number": "CR09-AES02",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D Swirl Slime",
+        "passcode": 45206713,
+        "konami_id": 11955,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES03",
+        "set_number": "CR09-AES03",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D Necro Slime",
+        "passcode": 72291412,
+        "konami_id": 11956,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES04",
+        "set_number": "CR09-AES04",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D Count Surveyor",
+        "passcode": 5997110,
+        "konami_id": 21069,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES05",
+        "set_number": "CR09-AES05",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D Count Surveyor",
+        "passcode": 5997110,
+        "konami_id": 21069,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES05",
+        "set_number": "CR09-AES05",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D Count Surveyor",
+        "passcode": 5997110,
+        "konami_id": 21069,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES05",
+        "set_number": "CR09-AES05",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D Scale Surveyor",
+        "passcode": 42382265,
+        "konami_id": 21070,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES06",
+        "set_number": "CR09-AES06",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D/D Chaos King Apocalypse",
+        "passcode": 83303851,
+        "konami_id": 12225,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES07",
+        "set_number": "CR09-AES07",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D/D Vice King Requiem",
+        "passcode": 25857977,
+        "konami_id": 14961,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES08",
+        "set_number": "CR09-AES08",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D/D Duo-Dawn King Kali Yuga",
+        "passcode": 15939229,
+        "konami_id": 11994,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES09",
+        "set_number": "CR09-AES09",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D/D Wave High King Caesar",
+        "passcode": 79559912,
+        "konami_id": 13081,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES10",
+        "set_number": "CR09-AES10",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "D/D/D Abyss King Gilgamesh",
+        "passcode": 9024198,
+        "konami_id": 14204,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES11",
+        "set_number": "CR09-AES11",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Dark Contract with the Gate",
+        "passcode": 46372010,
+        "konami_id": 11446,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES12",
+        "set_number": "CR09-AES12",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Dark Contract with Patent License",
+        "passcode": 33814281,
+        "konami_id": 16861,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES13",
+        "set_number": "CR09-AES13",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Black Rose Dragon",
+        "passcode": 73580471,
+        "konami_id": 7898,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES14",
+        "set_number": "CR09-AES14",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Garden Rose Flora",
+        "passcode": 76524506,
+        "konami_id": 15997,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES15",
+        "set_number": "CR09-AES15",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Crossrose Dragon",
+        "passcode": 72218246,
+        "konami_id": 14938,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES16",
+        "set_number": "CR09-AES16",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Black Garden",
+        "passcode": 71645242,
+        "konami_id": 7904,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES17",
+        "set_number": "CR09-AES17",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "White Rose Cloister",
+        "passcode": 84335863,
+        "konami_id": 14978,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES18",
+        "set_number": "CR09-AES18",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Basal Rose Shoot",
+        "passcode": 69167267,
+        "konami_id": 16020,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES19",
+        "set_number": "CR09-AES19",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Gouki The Powerload Ogre",
+        "passcode": 11516241,
+        "konami_id": 15039,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES20",
+        "set_number": "CR09-AES20",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Gouki The Powerload Ogre",
+        "passcode": 11516241,
+        "konami_id": 15039,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES20",
+        "set_number": "CR09-AES20",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Gouki The Powerload Ogre",
+        "passcode": 11516241,
+        "konami_id": 15039,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES20",
+        "set_number": "CR09-AES20",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Gouki Re-Match",
+        "passcode": 62376646,
+        "konami_id": 13093,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES21",
+        "set_number": "CR09-AES21",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "DoSolfachord Cutia",
+        "passcode": 55226153,
+        "konami_id": 16084,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES22",
+        "set_number": "CR09-AES22",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "DoSolfachord Cutia",
+        "passcode": 55226153,
+        "konami_id": 16084,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES22",
+        "set_number": "CR09-AES22",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "DoSolfachord Cutia",
+        "passcode": 55226153,
+        "konami_id": 16084,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES22",
+        "set_number": "CR09-AES22",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Solfachord Elegance",
+        "passcode": 27870337,
+        "konami_id": 16092,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES23",
+        "set_number": "CR09-AES23",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Solfachord Elegance",
+        "passcode": 27870337,
+        "konami_id": 16092,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES23",
+        "set_number": "CR09-AES23",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Solfachord Elegance",
+        "passcode": 27870337,
+        "konami_id": 16092,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES23",
+        "set_number": "CR09-AES23",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Mitsurugi no Mikoto, Aramasa",
+        "passcode": 40543231,
+        "konami_id": 21347,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES24",
+        "set_number": "CR09-AES24",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Mitsurugi no Mikoto, Aramasa",
+        "passcode": 40543231,
+        "konami_id": 21347,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES24",
+        "set_number": "CR09-AES24",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Mitsurugi no Mikoto, Aramasa",
+        "passcode": 40543231,
+        "konami_id": 21347,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES24",
+        "set_number": "CR09-AES24",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Ame no Murakumo no Mitsurugi",
+        "passcode": 19899073,
+        "konami_id": 21054,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES25",
+        "set_number": "CR09-AES25",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Futsu no Mitama no Mitsurugi",
+        "passcode": 55397172,
+        "konami_id": 21055,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES26",
+        "set_number": "CR09-AES26",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Ame no Habakiri no Mitsurugi",
+        "passcode": 13332685,
+        "konami_id": 21349,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES27",
+        "set_number": "CR09-AES27",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Mitsurugi Prayers",
+        "passcode": 45171524,
+        "konami_id": 21058,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES28",
+        "set_number": "CR09-AES28",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Mitsurugi Ritual",
+        "passcode": 81560239,
+        "konami_id": 21059,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES29",
+        "set_number": "CR09-AES29",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Mitsurugi Ritual",
+        "passcode": 81560239,
+        "konami_id": 21059,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES29",
+        "set_number": "CR09-AES29",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Mitsurugi Ritual",
+        "passcode": 81560239,
+        "konami_id": 21059,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES29",
+        "set_number": "CR09-AES29",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Dragonmaid Cehrmba",
+        "passcode": 12163590,
+        "konami_id": 20943,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES30",
+        "set_number": "CR09-AES30",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Lady's Dragonmaid",
+        "passcode": 48658295,
+        "konami_id": 20944,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES31",
+        "set_number": "CR09-AES31",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Noh-P.U.N.K. Rising Scale",
+        "passcode": 75046994,
+        "konami_id": 20945,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES32",
+        "set_number": "CR09-AES32",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Galatea-I, the Orcust Automaton",
+        "passcode": 48835607,
+        "konami_id": 20947,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES33",
+        "set_number": "CR09-AES33",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Galatea-I, the Orcust Automaton",
+        "passcode": 48835607,
+        "konami_id": 20947,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES33",
+        "set_number": "CR09-AES33",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Galatea-I, the Orcust Automaton",
+        "passcode": 48835607,
+        "konami_id": 20947,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES33",
+        "set_number": "CR09-AES33",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Enlilgirsu, the Orcust Mekk-Knight",
+        "passcode": 74820316,
+        "konami_id": 20948,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES34",
+        "set_number": "CR09-AES34",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    },
+    {
+        "name": "Lamia",
+        "passcode": 84900597,
+        "konami_id": 17104,
+        "wikilink": "https://yugipedia.com/wiki/CR09-AES35",
+        "set_number": "CR09-AES35",
+        "set_name": "Creation Pack 09 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "27 SEPTEMBER 2025"
+    }
+]
