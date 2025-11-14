@@ -2022,6 +2022,60 @@
             "exists": "1",
             "displaytitle": "Doom of Dimensions"
         },
+        "Doom of Dimensions +1 Assist Pack": {
+            "printouts": {
+                "Prefix": [
+                    "DOOD-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1765584000",
+                        "raw": "1/2025/12/13"
+                    }
+                ]
+            },
+            "fulltext": "Doom of Dimensions +1 Assist Pack",
+            "fullurl": "https://yugipedia.com/wiki/Doom_of_Dimensions_%2B1_Assist_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Doom of Dimensions +1 Assist Pack"
+        },
+        "DoomZ Duel Set": {
+            "printouts": {
+                "Prefix": [
+                    "25YC-AET"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1766188800",
+                        "raw": "1/2025/12/20"
+                    }
+                ]
+            },
+            "fulltext": "DoomZ Duel Set",
+            "fullurl": "https://yugipedia.com/wiki/DoomZ_Duel_Set",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "DoomZ Duel Set"
+        },
+        "K9 Duel Set": {
+            "printouts": {
+                "Prefix": [
+                    "25YC-AET"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1766188800",
+                        "raw": "1/2025/12/20"
+                    }
+                ]
+            },
+            "fulltext": "K9 Duel Set",
+            "fullurl": "https://yugipedia.com/wiki/K9_Duel_Set",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "K9 Duel Set"
+        },
         "Yu-Gi-Oh! Championship Series Asia 2025 prize cards": {
             "printouts": {
                 "Prefix": [
@@ -2075,9 +2129,27 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)"
+        },
+        "Deck-Build Pack: Phantom Revengers": {
+            "printouts": {
+                "Prefix": [
+                    "DBPR-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1771027200",
+                        "raw": "1/2026/2/14"
+                    }
+                ]
+            },
+            "fulltext": "Deck-Build Pack: Phantom Revengers",
+            "fullurl": "https://yugipedia.com/wiki/Deck-Build_Pack:_Phantom_Revengers",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Deck-Build Pack: Phantom Revengers"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 114
+    "rows": 118
 }
