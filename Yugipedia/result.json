@@ -2040,6 +2040,24 @@
             "exists": "1",
             "displaytitle": "Doom of Dimensions +1 Assist Pack"
         },
+        "Doom of Dimensions Complement Pack": {
+            "printouts": {
+                "Prefix": [
+                    "DOOD-AEC"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1765584000",
+                        "raw": "1/2025/12/13"
+                    }
+                ]
+            },
+            "fulltext": "Doom of Dimensions Complement Pack",
+            "fullurl": "https://yugipedia.com/wiki/Doom_of_Dimensions_Complement_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Doom of Dimensions Complement Pack"
+        },
         "DoomZ Duel Set": {
             "printouts": {
                 "Prefix": [
@@ -2151,5 +2169,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 118
+    "rows": 119
 }
