@@ -346,7 +346,11 @@ def process_setlist(setFullName: str, inputString: str, filename: str, listCardI
                     time.sleep(DELAY_PASSCODE) # Throttle process to prevent overloading website.
             ##
     elif reqMain.status_code == 404:
-        Utils.log(f"[Error] Page not found. Will skip.")
+        if ("_(set)" in inputString):
+            Utils.log(f"[Error] Page not found. Will try to remove '(set)' from url")
+            return process_setlist(setFullName, inputString.replace("_(set)", ""), filename, listCardItems)
+        else:
+            Utils.log(f"[Error] Page not found. Skipped")
     else:
         raise Exception(f"Cannot download page: {inputString} \n Code: {reqMain.status_code}")
     
