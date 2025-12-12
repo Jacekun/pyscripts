@@ -2165,9 +2165,27 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Deck-Build Pack: Phantom Revengers"
+        },
+        "Burst Protocol": {
+            "printouts": {
+                "Prefix": [
+                    "BPRO-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1774656000",
+                        "raw": "1/2026/3/28"
+                    }
+                ]
+            },
+            "fulltext": "Burst Protocol",
+            "fullurl": "https://yugipedia.com/wiki/Burst_Protocol",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Burst Protocol"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 119
+    "rows": 120
 }
