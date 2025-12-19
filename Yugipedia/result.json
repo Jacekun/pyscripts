@@ -2112,6 +2112,24 @@
             "exists": "1",
             "displaytitle": "Yu-Gi-Oh! Championship Series Asia 2025 prize cards"
         },
+        "Tournament Pack 2025 Vol.4 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "25AT-AE4"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1767225600",
+                        "raw": "1/2026/1/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2025 Vol.4 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.4_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Tournament Pack 2025 Vol.4 (Asian-English)"
+        },
         "Creation Pack 10": {
             "printouts": {
                 "Prefix": [
@@ -2129,6 +2147,24 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Creation Pack 10"
+        },
+        "Creation Pack 10 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR10-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1768003200",
+                        "raw": "1/2026/1/10"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 10 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_10_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 10 +1 Bonus Pack"
         },
         "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)": {
             "printouts": {
@@ -2183,9 +2219,27 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Burst Protocol"
+        },
+        "Creation Pack 11": {
+            "printouts": {
+                "Prefix": [
+                    "CR11-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1775865600",
+                        "raw": "1/2026/4/11"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 11",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_11",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 120
+    "rows": 123
 }
