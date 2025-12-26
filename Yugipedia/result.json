@@ -2236,7 +2236,7 @@
             "fullurl": "https://yugipedia.com/wiki/Creation_Pack_11",
             "namespace": 0,
             "exists": "1",
-            "displaytitle": ""
+            "displaytitle": "Creation Pack 11"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
