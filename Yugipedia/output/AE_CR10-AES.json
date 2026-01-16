@@ -1,0 +1,532 @@
+[
+    {
+        "name": "Rokket Tracer",
+        "passcode": 68464358,
+        "konami_id": 14615,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES01",
+        "set_number": "CR10-AES01",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Rokket Recharger",
+        "passcode": 5969957,
+        "konami_id": 14616,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES02",
+        "set_number": "CR10-AES02",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Borrelend Dragon",
+        "passcode": 98630720,
+        "konami_id": 14963,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES03",
+        "set_number": "CR10-AES03",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Quick Launch",
+        "passcode": 31443476,
+        "konami_id": 13272,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES04",
+        "set_number": "CR10-AES04",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Quick Launch",
+        "passcode": 31443476,
+        "konami_id": 13272,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES04",
+        "set_number": "CR10-AES04",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Quick Launch",
+        "passcode": 31443476,
+        "konami_id": 13272,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES04",
+        "set_number": "CR10-AES04",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Nasten",
+        "passcode": 25339070,
+        "konami_id": 12726,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES05",
+        "set_number": "CR10-AES05",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Superbia",
+        "passcode": 11260714,
+        "konami_id": 8288,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES06",
+        "set_number": "CR10-AES06",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Superbia",
+        "passcode": 11260714,
+        "konami_id": 8288,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES06",
+        "set_number": "CR10-AES06",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Superbia",
+        "passcode": 11260714,
+        "konami_id": 8288,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES06",
+        "set_number": "CR10-AES06",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Nergal",
+        "passcode": 18168997,
+        "konami_id": 15259,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES07",
+        "set_number": "CR10-AES07",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Ixchel",
+        "passcode": 52840267,
+        "konami_id": 12724,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES08",
+        "set_number": "CR10-AES08",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Ixchel",
+        "passcode": 52840267,
+        "konami_id": 12724,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES08",
+        "set_number": "CR10-AES08",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Ixchel",
+        "passcode": 52840267,
+        "konami_id": 12724,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES08",
+        "set_number": "CR10-AES08",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Morningstar",
+        "passcode": 25451652,
+        "konami_id": 12723,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES09",
+        "set_number": "CR10-AES09",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Condemned Darklord",
+        "passcode": 35306215,
+        "konami_id": 14208,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES10",
+        "set_number": "CR10-AES10",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Banishment of the Darklords",
+        "passcode": 87112784,
+        "konami_id": 12728,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES11",
+        "set_number": "CR10-AES11",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Banishment of the Darklords",
+        "passcode": 87112784,
+        "konami_id": 12728,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES11",
+        "set_number": "CR10-AES11",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Banishment of the Darklords",
+        "passcode": 87112784,
+        "konami_id": 12728,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES11",
+        "set_number": "CR10-AES11",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Contact",
+        "passcode": 14517422,
+        "konami_id": 12729,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES12",
+        "set_number": "CR10-AES12",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Contact",
+        "passcode": 14517422,
+        "konami_id": 12729,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES12",
+        "set_number": "CR10-AES12",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Contact",
+        "passcode": 14517422,
+        "konami_id": 12729,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES12",
+        "set_number": "CR10-AES12",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Descent",
+        "passcode": 58787301,
+        "konami_id": 8286,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES13",
+        "set_number": "CR10-AES13",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Rebellion",
+        "passcode": 50501121,
+        "konami_id": 12730,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES14",
+        "set_number": "CR10-AES14",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Enchantment",
+        "passcode": 87990236,
+        "konami_id": 12731,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES15",
+        "set_number": "CR10-AES15",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "The Sanctified Darklord",
+        "passcode": 48152161,
+        "konami_id": 13629,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES16",
+        "set_number": "CR10-AES16",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Darklord Uprising",
+        "passcode": 54527349,
+        "konami_id": 15309,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES17",
+        "set_number": "CR10-AES17",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Rex, Freight Fur Hire",
+        "passcode": 28004531,
+        "konami_id": 17783,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES18",
+        "set_number": "CR10-AES18",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Beat, Bladesman Fur Hire",
+        "passcode": 93850652,
+        "konami_id": 13658,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES19",
+        "set_number": "CR10-AES19",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Wiz, Sage Fur Hire",
+        "passcode": 1527418,
+        "konami_id": 13663,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES20",
+        "set_number": "CR10-AES20",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Rafale, Champion Fur Hire",
+        "passcode": 38916526,
+        "konami_id": 13664,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES21",
+        "set_number": "CR10-AES21",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Folgo, Justice Fur Hire",
+        "passcode": 66023650,
+        "konami_id": 13934,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES22",
+        "set_number": "CR10-AES22",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "The Man with the Mark",
+        "passcode": 97522863,
+        "konami_id": 21035,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES23",
+        "set_number": "CR10-AES23",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "The Man with the Mark",
+        "passcode": 97522863,
+        "konami_id": 21035,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES23",
+        "set_number": "CR10-AES23",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "The Man with the Mark",
+        "passcode": 97522863,
+        "konami_id": 21035,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES23",
+        "set_number": "CR10-AES23",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Treasures of the Kings",
+        "passcode": 69299029,
+        "konami_id": 21040,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES24",
+        "set_number": "CR10-AES24",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "R.B. VALCan Rocket",
+        "passcode": 79436874,
+        "konami_id": 21635,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES25",
+        "set_number": "CR10-AES25",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "R.B. Ga10 Pile Bunker",
+        "passcode": 44573911,
+        "konami_id": 22074,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES26",
+        "set_number": "CR10-AES26",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "R.B. The Brute Blues",
+        "passcode": 32216688,
+        "konami_id": 21637,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES27",
+        "set_number": "CR10-AES27",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "R.B. Funk Dock",
+        "passcode": 78710386,
+        "konami_id": 21638,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES28",
+        "set_number": "CR10-AES28",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "R.B. Stage Landing",
+        "passcode": 5109321,
+        "konami_id": 21639,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES29",
+        "set_number": "CR10-AES29",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "R.B. Stage Landing",
+        "passcode": 5109321,
+        "konami_id": 21639,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES29",
+        "set_number": "CR10-AES29",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "R.B. Stage Landing",
+        "passcode": 5109321,
+        "konami_id": 21639,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES29",
+        "set_number": "CR10-AES29",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "R.B. Operation Test",
+        "passcode": 16066654,
+        "konami_id": 22076,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES30",
+        "set_number": "CR10-AES30",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Starliege Seyfert",
+        "passcode": 15381421,
+        "konami_id": 14641,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES31",
+        "set_number": "CR10-AES31",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Starliege Seyfert",
+        "passcode": 15381421,
+        "konami_id": 14641,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES31",
+        "set_number": "CR10-AES31",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Starliege Seyfert",
+        "passcode": 15381421,
+        "konami_id": 14641,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES31",
+        "set_number": "CR10-AES31",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Galaxy-Eyes Tachyon Primal",
+        "passcode": 45710945,
+        "konami_id": 20277,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES32",
+        "set_number": "CR10-AES32",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Ultra Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Galaxy-Eyes Tachyon Primal",
+        "passcode": 45710945,
+        "konami_id": 20277,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES32",
+        "set_number": "CR10-AES32",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Galaxy-Eyes Tachyon Primal",
+        "passcode": 45710945,
+        "konami_id": 20277,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES32",
+        "set_number": "CR10-AES32",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Number 107: Galaxy-Eyes Tachyon Dragon",
+        "passcode": 88177324,
+        "konami_id": 10525,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES33",
+        "set_number": "CR10-AES33",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+        "passcode": 68396121,
+        "konami_id": 11070,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES34",
+        "set_number": "CR10-AES34",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    },
+    {
+        "name": "Number 97: Draglubion",
+        "passcode": 28400508,
+        "konami_id": 14566,
+        "wikilink": "https://yugipedia.com/wiki/CR10-AES35",
+        "set_number": "CR10-AES35",
+        "set_name": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "10 JANUARY 2026"
+    }
+]
