@@ -1,0 +1,2143 @@
+[2026-02-20 20:31:22] Done deleting old log files.
+[2026-02-20 20:31:22] Delete old file => result.json
+[2026-02-20 20:31:22] Fetching wiki data...Link => https://yugipedia.com/index.php?title=Special:Ask&x=-5B-5BMedium%3A%3AOfficial-5D-5D-20-20-3Cq-3E-20-3Cq-3E-5B-5BAsian-2DEnglish-20set-20prefix%3A%3A%2B-5D-5D-3C-2Fq-3E-20-20OR-20-20-3Cq-3E-5B-5BAsian-2DEnglish-20release-20date%3A%3A%2B-5D-5D-3C-2Fq-3E-20-3C-2Fq-3E%2F-3FAsian-2DEnglish-20set-20and-20region-20prefix%3DPrefix%2F-3FAsian-2DEnglish-20release-20date%3DRelease-20date&mainlabel=Set&format=json&headers=+plain&class=+wikitable+sortable+card-list&sort=Asian-English+release+date%2CAsian-English+set+prefix%2C%23&order=asc%2Casc%2Casc&offset=0&limit=500&prettyprint=true&unescape=true
+[2026-02-20 20:31:22] Requesting page => https://yugipedia.com/index.php?title=Special:Ask&x=-5B-5BMedium%3A%3AOfficial-5D-5D-20-20-3Cq-3E-20-3Cq-3E-5B-5BAsian-2DEnglish-20set-20prefix%3A%3A%2B-5D-5D-3C-2Fq-3E-20-20OR-20-20-3Cq-3E-5B-5BAsian-2DEnglish-20release-20date%3A%3A%2B-5D-5D-3C-2Fq-3E-20-3C-2Fq-3E%2F-3FAsian-2DEnglish-20set-20and-20region-20prefix%3DPrefix%2F-3FAsian-2DEnglish-20release-20date%3DRelease-20date&mainlabel=Set&format=json&headers=+plain&class=+wikitable+sortable+card-list&sort=Asian-English+release+date%2CAsian-English+set+prefix%2C%23&order=asc%2Casc%2Casc&offset=0&limit=500&prettyprint=true&unescape=true
+[2026-02-20 20:31:42] Output file deleted (BANLIST) => /home/runner/work/pyscripts/pyscripts/Yugipedia/AE_Banlist.lflist.conf
+[2026-02-20 20:31:42] Parsing JSON response...
+[2026-02-20 20:31:42] Set details => Legend of Blue Eyes White Dragon | https://yugipedia.com/wiki/Legend_of_Blue_Eyes_White_Dragon
+[2026-02-20 20:31:42] Prefix: LOB is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:31:42] Set details => Starter Deck: Kaiba | https://yugipedia.com/wiki/Starter_Deck:_Kaiba
+[2026-02-20 20:31:42] Prefix: SDK is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:31:42] Set details => Starter Deck: Yugi | https://yugipedia.com/wiki/Starter_Deck:_Yugi
+[2026-02-20 20:31:42] Prefix: SDY is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:31:42] Set details => Metal Raiders | https://yugipedia.com/wiki/Metal_Raiders
+[2026-02-20 20:31:42] Prefix: MRD is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:31:42] Set details => Spell Ruler | https://yugipedia.com/wiki/Spell_Ruler
+[2026-02-20 20:31:42] Prefix: MRL is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:31:42] Set details => Yu-Gi-Oh! Duel Monsters International: Worldwide Edition promotional cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards
+[2026-02-20 20:31:42] Set 'GBI' Release date => Raw: 1050537600 | Converted: 2003-04-17 00:00:00
+[2026-02-20 20:31:42] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards_(OCG-AE)
+[2026-02-20 20:32:01] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Duel_Monsters_International:_Worldwide_Edition_promotional_cards_(OCG-AE)
+[2026-02-20 20:32:01] Set list page => Release date: 17 APRIL 2003
+[2026-02-20 20:32:01] Set list page => Use cached passcode from existing json file. Passcode: 0 | Konami Id: 0
+[2026-02-20 20:32:01] Searching passcode for https://yugipedia.com/wiki/GBI-001
+[2026-02-20 20:32:01] Requesting page => https://yugipedia.com/wiki/GBI-001
+[2026-02-20 20:32:01] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:32:01] [Error] Parse Konami Id, contents => Null, not found 'li' tag.
+[2026-02-20 20:32:01] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:32:01] [Error] Parse list, main => Invalid Konami Id
+[2026-02-20 20:32:01] ===================================================================================================
+[2026-02-20 20:32:03] Set details => Pharaoh's Servant | https://yugipedia.com/wiki/Pharaoh%27s_Servant
+[2026-02-20 20:32:03] Prefix: PSV is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:03] Set details => Labyrinth of Nightmare | https://yugipedia.com/wiki/Labyrinth_of_Nightmare
+[2026-02-20 20:32:03] Prefix: LON is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:03] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2003 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2003_participation_card
+[2026-02-20 20:32:03] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:03] Set details => Duelist King Tournament: World Ranking Season 3 top 100 prize card | https://yugipedia.com/wiki/Duelist_King_Tournament:_World_Ranking_Season_3_top_100_prize_card
+[2026-02-20 20:32:03] Prefix: WCS is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:03] Set details => Legacy of Darkness | https://yugipedia.com/wiki/Legacy_of_Darkness
+[2026-02-20 20:32:03] Prefix: LOD is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:03] Set details => Pharaonic Guardian | https://yugipedia.com/wiki/Pharaonic_Guardian
+[2026-02-20 20:32:03] Prefix: PGD is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:03] Set details => Magician's Force | https://yugipedia.com/wiki/Magician%27s_Force
+[2026-02-20 20:32:03] Prefix: MFC is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:03] Set details => Dark Crisis | https://yugipedia.com/wiki/Dark_Crisis
+[2026-02-20 20:32:03] Prefix: DCR is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:03] Set details => Yu-Gi-Oh! World Championship 2004 tournament promotional cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards
+[2026-02-20 20:32:03] Set 'WCS-AE' Release date => Raw: 1085184000 | Converted: 2004-05-22 00:00:00
+[2026-02-20 20:32:03] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2026-02-20 20:32:21] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_World_Championship_2004_tournament_promotional_cards_(OCG-AE)
+[2026-02-20 20:32:21] [Error] Page not found. Skipped
+[2026-02-20 20:32:21] ===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2004 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2004_participation_card
+[2026-02-20 20:32:23] Prefix: WCS-AE4 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Invasion of Chaos | https://yugipedia.com/wiki/Invasion_of_Chaos
+[2026-02-20 20:32:23] Prefix: IOC-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Ancient Sanctuary | https://yugipedia.com/wiki/Ancient_Sanctuary
+[2026-02-20 20:32:23] Prefix: AST-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Soul of the Duelist | https://yugipedia.com/wiki/Soul_of_the_Duelist
+[2026-02-20 20:32:23] Prefix: SOD-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Rise of Destiny | https://yugipedia.com/wiki/Rise_of_Destiny
+[2026-02-20 20:32:23] Prefix: RDS-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! World Championship 2005 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2005_prize_cards
+[2026-02-20 20:32:23] Prefix: WCS-AE5 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Flaming Eternity | https://yugipedia.com/wiki/Flaming_Eternity
+[2026-02-20 20:32:23] Prefix: FET-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => The Lost Millennium | https://yugipedia.com/wiki/The_Lost_Millennium
+[2026-02-20 20:32:23] Prefix: TLM-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Cybernetic Revolution | https://yugipedia.com/wiki/Cybernetic_Revolution
+[2026-02-20 20:32:23] Prefix: CRV-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! World Championship 2006 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2006_prize_cards
+[2026-02-20 20:32:23] Prefix: WCPS-AE6 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Elemental Energy | https://yugipedia.com/wiki/Elemental_Energy
+[2026-02-20 20:32:23] Prefix: EEN-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Shadow of Infinity | https://yugipedia.com/wiki/Shadow_of_Infinity
+[2026-02-20 20:32:23] Prefix: SOI-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Enemy of Justice | https://yugipedia.com/wiki/Enemy_of_Justice
+[2026-02-20 20:32:23] Prefix: EOJ-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! World Championship 2007 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2007_prize_cards
+[2026-02-20 20:32:23] Prefix: WCPS-AE7 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! World Championship 2008 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2008_prize_cards
+[2026-02-20 20:32:23] Prefix: WCPS-AE8 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Crimson Crisis | https://yugipedia.com/wiki/Crimson_Crisis
+[2026-02-20 20:32:23] Prefix: CRMS-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Structure Deck: Lord of Magician | https://yugipedia.com/wiki/Structure_Deck:_Lord_of_Magician
+[2026-02-20 20:32:23] Prefix: SD16-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Raging Battle | https://yugipedia.com/wiki/Raging_Battle
+[2026-02-20 20:32:23] Prefix: RGBT-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! World Championship 2009 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2009_prize_cards
+[2026-02-20 20:32:23] Prefix: WCPS-AE9 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! World Championship 2010 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2010_prize_cards
+[2026-02-20 20:32:23] Prefix: 2010-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! World Championship 2011 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2011_prize_cards
+[2026-02-20 20:32:23] Prefix: 2011-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2012 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2012_participation_card
+[2026-02-20 20:32:23] Prefix: 2012-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2013 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2013_participation_card
+[2026-02-20 20:32:23] Prefix: 2013-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! Japanese World Championship Qualifier 2014 participation card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Japanese_World_Championship_Qualifier_2014_participation_card
+[2026-02-20 20:32:23] Prefix: 2014-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Yu-Gi-Oh! World Championship 2015 attendance cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_2015_attendance_cards
+[2026-02-20 20:32:23] Prefix: 2015-JPP is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Speed Start Deck: Link Edition | https://yugipedia.com/wiki/Speed_Start_Deck:_Link_Edition
+[2026-02-20 20:32:23] Prefix: SSD1-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Speed Start Deck: Synchro Edition | https://yugipedia.com/wiki/Speed_Start_Deck:_Synchro_Edition
+[2026-02-20 20:32:23] Prefix: SSD2-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Structure Deck: Illusion of the Dark Magicians | https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians
+[2026-02-20 20:32:23] Prefix: SDID-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Structure Deck: Illusion of the Dark Magicians Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Illusion_of_the_Dark_Magicians_Power-Up_Pack
+[2026-02-20 20:32:23] Prefix: SDID-AEP is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Structure Deck: Rise of the Blue-Eyes | https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes
+[2026-02-20 20:32:23] Prefix: SDRB-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Structure Deck: Rise of the Blue-Eyes Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Rise_of_the_Blue-Eyes_Power-Up_Pack
+[2026-02-20 20:32:23] Prefix: SDRB-AEP is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Creation Pack 01 | https://yugipedia.com/wiki/Creation_Pack_01
+[2026-02-20 20:32:23] Prefix: CR01-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Creation Pack 01 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_01_%2B1_Bonus_Pack
+[2026-02-20 20:32:23] Prefix: CR01-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Duelist Nexus | https://yugipedia.com/wiki/Duelist_Nexus
+[2026-02-20 20:32:23] Prefix: DUNE-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Duelist Nexus +1 Bonus Pack | https://yugipedia.com/wiki/Duelist_Nexus_%2B1_Bonus_Pack
+[2026-02-20 20:32:23] Prefix: DUNE-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Tournament Pack 2024 Vol.1 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.1_(Asian-English)
+[2026-02-20 20:32:23] Prefix: 24AT-AE1 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Rarity Collection Quarter Century Edition | https://yugipedia.com/wiki/Rarity_Collection_Quarter_Century_Edition
+[2026-02-20 20:32:23] Prefix: RC04-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Creation Pack 02 | https://yugipedia.com/wiki/Creation_Pack_02
+[2026-02-20 20:32:23] Prefix: CR02-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Creation Pack 02 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_02_%2B1_Bonus_Pack
+[2026-02-20 20:32:23] Prefix: CR02-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Age of Overlord | https://yugipedia.com/wiki/Age_of_Overlord
+[2026-02-20 20:32:23] Prefix: AGOV-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Age of Overlord +1 Bonus Pack | https://yugipedia.com/wiki/Age_of_Overlord_%2B1_Bonus_Pack
+[2026-02-20 20:32:23] Prefix: AGOV-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Creation Pack 03 | https://yugipedia.com/wiki/Creation_Pack_03
+[2026-02-20 20:32:23] Prefix: CR03-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Creation Pack 03 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_03_%2B1_Bonus_Pack
+[2026-02-20 20:32:23] Prefix: CR03-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:23] Set details => Stainless Steel Egyptian God Cards | https://yugipedia.com/wiki/Stainless_Steel_Egyptian_God_Cards
+[2026-02-20 20:32:23] [Error] [Parse Set prefix] => list index out of range
+[2026-02-20 20:32:23] Set '' Release date => Raw: 1711152000 | Converted: 2024-03-23 00:00:00
+[2026-02-20 20:32:23] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2026-02-20 20:32:40] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Stainless_Steel_Egyptian_God_Cards_(OCG-AE)
+[2026-02-20 20:32:40] [Error] Page not found. Skipped
+[2026-02-20 20:32:40] ===================================================================================================
+[2026-02-20 20:32:42] Set details => Phantom Nightmare | https://yugipedia.com/wiki/Phantom_Nightmare
+[2026-02-20 20:32:42] Prefix: PHNI-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Phantom Nightmare +1 Bonus Pack | https://yugipedia.com/wiki/Phantom_Nightmare_%2B1_Bonus_Pack
+[2026-02-20 20:32:42] Prefix: PHNI-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Tournament Pack 2024 Vol.2 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.2_(Asian-English)
+[2026-02-20 20:32:42] Prefix: 24AT-AE2 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Challenger Cup 2024 Qualifiers prize card | https://yugipedia.com/wiki/Challenger_Cup_2024_Qualifiers_prize_card
+[2026-02-20 20:32:42] Prefix: 24CC-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Creation Pack 04 | https://yugipedia.com/wiki/Creation_Pack_04
+[2026-02-20 20:32:42] Prefix: CR04-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Creation Pack 04 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_04_%2B1_Bonus_Pack
+[2026-02-20 20:32:42] Prefix: CR04-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Structure Deck: Salamangreat Sanctum | https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum
+[2026-02-20 20:32:42] Prefix: SDSS-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack | https://yugipedia.com/wiki/Structure_Deck:_Salamangreat_Sanctum_Transcend_Power-Up_Pack
+[2026-02-20 20:32:42] Prefix: SDSS-AEP is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Legacy of Destruction | https://yugipedia.com/wiki/Legacy_of_Destruction
+[2026-02-20 20:32:42] Prefix: LEDE-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Legacy of Destruction +1 Bonus Pack | https://yugipedia.com/wiki/Legacy_of_Destruction_%2B1_Bonus_Pack
+[2026-02-20 20:32:42] Prefix: LEDE-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Tournament Pack 2024 Vol.3 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.3_(Asian-English)
+[2026-02-20 20:32:42] Prefix: 24AT-AE3 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Essential Selection 01 | https://yugipedia.com/wiki/Essential_Selection_01
+[2026-02-20 20:32:42] Prefix: ES01-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Creation Pack 05 | https://yugipedia.com/wiki/Creation_Pack_05
+[2026-02-20 20:32:42] Prefix: CR05-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Creation Pack 05 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_05_%2B1_Bonus_Pack
+[2026-02-20 20:32:42] Prefix: CR05-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Infinite Forbidden +1 Bonus Pack | https://yugipedia.com/wiki/Infinite_Forbidden_%2B1_Bonus_Pack
+[2026-02-20 20:32:42] Prefix: INFO-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => The Infinite Forbidden | https://yugipedia.com/wiki/The_Infinite_Forbidden
+[2026-02-20 20:32:42] Prefix: INFO-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Yu-Gi-Oh! Open Tournament Singapore 2024 prize card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Singapore_2024_prize_card
+[2026-02-20 20:32:42] Prefix: 24OT-AESG is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Tournament Pack 2024 Vol.4 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.4_(Asian-English)
+[2026-02-20 20:32:42] Prefix: 24AT-AE4 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Bonus Pack: Awakened by the Primites | https://yugipedia.com/wiki/Bonus_Pack:_Awakened_by_the_Primites
+[2026-02-20 20:32:42] Prefix: BN01-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Rage of the Abyss | https://yugipedia.com/wiki/Rage_of_the_Abyss
+[2026-02-20 20:32:42] Prefix: ROTA-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Rage of the Abyss +1 Bonus Pack | https://yugipedia.com/wiki/Rage_of_the_Abyss_%2B1_Bonus_Pack
+[2026-02-20 20:32:42] Prefix: ROTA-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Duel-Ignition Deck: HERO | https://yugipedia.com/wiki/Duel-Ignition_Deck:_HERO
+[2026-02-20 20:32:42] Prefix: DI01-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Duel-Ignition Deck: Swordsoul | https://yugipedia.com/wiki/Duel-Ignition_Deck:_Swordsoul
+[2026-02-20 20:32:42] Prefix: DI02-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Selection 5: Quarter Century Edition | https://yugipedia.com/wiki/Selection_5:_Quarter_Century_Edition
+[2026-02-20 20:32:42] Prefix: SLF1-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Tournament Pack 2024 Vol.5 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2024_Vol.5_(Asian-English)
+[2026-02-20 20:32:42] Prefix: 24AT-AE5 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Creation Pack 06 | https://yugipedia.com/wiki/Creation_Pack_06
+[2026-02-20 20:32:42] Prefix: CR06-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Creation Pack 06 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_06_%2B1_Bonus_Pack
+[2026-02-20 20:32:42] Prefix: CR06-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Supreme Darkness | https://yugipedia.com/wiki/Supreme_Darkness
+[2026-02-20 20:32:42] Prefix: SUDA-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Supreme Darkness +1 Bonus Pack | https://yugipedia.com/wiki/Supreme_Darkness_%2B1_Bonus_Pack
+[2026-02-20 20:32:42] Prefix: SUDA-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Deck-Build Pack: Crossover Breakers | https://yugipedia.com/wiki/Deck-Build_Pack:_Crossover_Breakers
+[2026-02-20 20:32:42] Prefix: DBCB-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:32:42] Set details => Yu-Gi-Oh! Open Tournament Hong Kong 2025 prize card | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card
+[2026-02-20 20:32:42] Set '25OT-AEHK' Release date => Raw: 1742688000 | Converted: 2025-03-23 00:00:00
+[2026-02-20 20:32:42] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card_(OCG-AE)
+[2026-02-20 20:32:58] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Yu-Gi-Oh!_Open_Tournament_Hong_Kong_2025_prize_card_(OCG-AE)
+[2026-02-20 20:32:58] Set list page => Release date: 23 MARCH 2025
+[2026-02-20 20:32:58] File does not exist => output/AE_25OT-AEHK.json
+[2026-02-20 20:32:58] Searching passcode for https://yugipedia.com/wiki/25OT-AEHK1?action=edit&redlink=1
+[2026-02-20 20:32:58] Requesting page => https://yugipedia.com/wiki/25OT-AEHK1?action=edit&redlink=1
+[2026-02-20 20:33:14] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:33:14] [Error] Parse Konami Id, contents => Null, not found 'div' class 'below hlist plainlinks'.
+[2026-02-20 20:33:14] [Error] Parse list, main => Passcode => 'table' element not found.
+[2026-02-20 20:33:14] ===================================================================================================
+[2026-02-20 20:33:16] Set details => Tournament Pack 2025 Vol.1 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.1_(Asian-English)
+[2026-02-20 20:33:16] Prefix: 25AT-AE1 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Creation Pack 07 | https://yugipedia.com/wiki/Creation_Pack_07
+[2026-02-20 20:33:16] Prefix: CR07-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Creation Pack 07 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_07_%2B1_Bonus_Pack
+[2026-02-20 20:33:16] Prefix: CR07-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Challenger Cup 2025 Finals prize card | https://yugipedia.com/wiki/Challenger_Cup_2025_Finals_prize_card
+[2026-02-20 20:33:16] Prefix: 25YC-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Alliance Insight | https://yugipedia.com/wiki/Alliance_Insight
+[2026-02-20 20:33:16] Prefix: ALIN-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Alliance Insight +1 Bonus Pack | https://yugipedia.com/wiki/Alliance_Insight_%2B1_Bonus_Pack
+[2026-02-20 20:33:16] Prefix: ALIN-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Tactical-Try Deck: Exosister | https://yugipedia.com/wiki/Tactical-Try_Deck:_Exosister
+[2026-02-20 20:33:16] Prefix: TT02-AEB is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Tactical-Try Deck: Rescue-ACE | https://yugipedia.com/wiki/Tactical-Try_Deck:_Rescue-ACE
+[2026-02-20 20:33:16] Prefix: TT02-AEA is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Creation Pack 08 | https://yugipedia.com/wiki/Creation_Pack_08
+[2026-02-20 20:33:16] Prefix: CR08-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Creation Pack 08 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_08_%2B1_Bonus_Pack
+[2026-02-20 20:33:16] Prefix: CR08-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Tournament Pack 2025 Vol.2 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.2_(Asian-English)
+[2026-02-20 20:33:16] Prefix: 25AT-AE2 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Duelist Advance +1 Assist Pack | https://yugipedia.com/wiki/Duelist_Advance_%2B1_Assist_Pack
+[2026-02-20 20:33:16] Prefix: DUAD-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Duelist's Advance | https://yugipedia.com/wiki/Duelist%27s_Advance
+[2026-02-20 20:33:16] Prefix: DUAD-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Deck-Build Pack: Justice Hunters | https://yugipedia.com/wiki/Deck-Build_Pack:_Justice_Hunters
+[2026-02-20 20:33:16] Prefix: DBJH-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Creation Pack 09 | https://yugipedia.com/wiki/Creation_Pack_09
+[2026-02-20 20:33:16] Prefix: CR09-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Creation Pack 09 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_09_%2B1_Bonus_Pack
+[2026-02-20 20:33:16] Prefix: CR09-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Tournament Pack 2025 Vol.3 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.3_(Asian-English)
+[2026-02-20 20:33:16] Prefix: 25AT-AE3 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition) | https://yugipedia.com/wiki/THE_CHRONICLES_DECK:_The_Fallen_%26_The_Virtuous_(All-Foil_Edition)
+[2026-02-20 20:33:16] Prefix: CH01-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Yu-Gi-Oh! Open Tournament Indonesia 2025 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_Open_Tournament_Indonesia_2025_prize_cards
+[2026-02-20 20:33:16] Prefix: 25YC-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => The Fallen & The Virtuous (set) | https://yugipedia.com/wiki/The_Fallen_%26_The_Virtuous_(set)
+[2026-02-20 20:33:16] Prefix: TFTV-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Doom of Dimensions | https://yugipedia.com/wiki/Doom_of_Dimensions
+[2026-02-20 20:33:16] Prefix: DOOD-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Doom of Dimensions +1 Assist Pack | https://yugipedia.com/wiki/Doom_of_Dimensions_%2B1_Assist_Pack
+[2026-02-20 20:33:16] Prefix: DOOD-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Doom of Dimensions Complement Pack | https://yugipedia.com/wiki/Doom_of_Dimensions_Complement_Pack
+[2026-02-20 20:33:16] Prefix: DOOD-AEC is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => DoomZ Duel Set | https://yugipedia.com/wiki/DoomZ_Duel_Set
+[2026-02-20 20:33:16] Prefix: 25YC-AET is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => K9 Duel Set | https://yugipedia.com/wiki/K9_Duel_Set
+[2026-02-20 20:33:16] Prefix: 25YC-AET is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Yu-Gi-Oh! Championship Series Asia 2025 prize cards | https://yugipedia.com/wiki/Yu-Gi-Oh!_Championship_Series_Asia_2025_prize_cards
+[2026-02-20 20:33:16] Prefix: 25YC-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Tournament Pack 2025 Vol.4 (Asian-English) | https://yugipedia.com/wiki/Tournament_Pack_2025_Vol.4_(Asian-English)
+[2026-02-20 20:33:16] Prefix: 25AT-AE4 is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Creation Pack 10 | https://yugipedia.com/wiki/Creation_Pack_10
+[2026-02-20 20:33:16] Prefix: CR10-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Creation Pack 10 +1 Bonus Pack | https://yugipedia.com/wiki/Creation_Pack_10_%2B1_Bonus_Pack
+[2026-02-20 20:33:16] Prefix: CR10-AES is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition) | https://yugipedia.com/wiki/THE_CHRONICLES_DECK:_Spirit_Charmers_(All-Foil_Edition)
+[2026-02-20 20:33:16] Prefix: CH02-AE is skipped. Already processed.
+===================================================================================================
+[2026-02-20 20:33:16] Set details => Deck-Build Pack: Phantom Revengers | https://yugipedia.com/wiki/Deck-Build_Pack:_Phantom_Revengers
+[2026-02-20 20:33:16] Set 'DBPR-AE' Release date => Raw: 1771027200 | Converted: 2026-02-14 00:00:00
+[2026-02-20 20:33:16] Requesting page => https://yugipedia.com/wiki/Set_Card_Lists:Deck-Build_Pack:_Phantom_Revengers_(OCG-AE)
+[2026-02-20 20:33:16] Processing page => https://yugipedia.com/wiki/Set_Card_Lists:Deck-Build_Pack:_Phantom_Revengers_(OCG-AE)
+[2026-02-20 20:33:16] Set list page => Release date: 14 FEBRUARY 2026
+[2026-02-20 20:33:16] File does not exist => output/AE_DBPR-AE.json
+[2026-02-20 20:33:16] Searching passcode for https://yugipedia.com/wiki/DBPR-AE001
+[2026-02-20 20:33:16] Requesting page => https://yugipedia.com/wiki/DBPR-AE001
+[2026-02-20 20:33:35] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:33:35] Parse Konami Id, contents => Index: 1 | Text: 21931 | Raw: 21931  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:33:35] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:33:35] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:33:35] Passcode => Item: TYPES | Illusion / Effect
+[2026-02-20 20:33:35] Passcode => Item: LEVEL | 6
+[2026-02-20 20:33:35] Passcode => Item: ATK  DEF | 1600 / 2100
+[2026-02-20 20:33:35] Passcode => Item: PASSWORD | 95365081
+[2026-02-20 20:33:35] Item => Setcode: DBPR-AE001 | URL: https://yugipedia.com/wiki/DBPR-AE001 | Name: Hecahands Ibtel | Category: EFFECT MONSTER
+[2026-02-20 20:33:35] ===================================================================================================
+[2026-02-20 20:33:36] Searching passcode for https://yugipedia.com/wiki/DBPR-AE002
+[2026-02-20 20:33:36] Requesting page => https://yugipedia.com/wiki/DBPR-AE002
+[2026-02-20 20:33:54] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:33:54] Parse Konami Id, contents => Index: 1 | Text: 21932 | Raw: 21932  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:33:54] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:33:54] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:33:54] Passcode => Item: TYPES | Illusion / Effect
+[2026-02-20 20:33:54] Passcode => Item: LEVEL | 6
+[2026-02-20 20:33:54] Passcode => Item: ATK  DEF | 2100 / 1600
+[2026-02-20 20:33:54] Passcode => Item: PASSWORD | 32759190
+[2026-02-20 20:33:54] Item => Setcode: DBPR-AE002 | URL: https://yugipedia.com/wiki/DBPR-AE002 | Name: Hecahands Yadel | Category: EFFECT MONSTER
+[2026-02-20 20:33:54] ===================================================================================================
+[2026-02-20 20:33:55] Searching passcode for https://yugipedia.com/wiki/DBPR-AE003
+[2026-02-20 20:33:55] Requesting page => https://yugipedia.com/wiki/DBPR-AE003
+[2026-02-20 20:34:10] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:34:11] Parse Konami Id, contents => Index: 1 | Text: 21933 | Raw: 21933  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:34:11] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:34:11] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:34:11] Passcode => Item: TYPES | Illusion / Effect
+[2026-02-20 20:34:11] Passcode => Item: LEVEL | 7
+[2026-02-20 20:34:11] Passcode => Item: ATK  DEF | 2300 / 2000
+[2026-02-20 20:34:11] Passcode => Item: PASSWORD | 68144894
+[2026-02-20 20:34:11] Item => Setcode: DBPR-AE003 | URL: https://yugipedia.com/wiki/DBPR-AE003 | Name: Hecahands Godos | Category: EFFECT MONSTER
+[2026-02-20 20:34:11] ===================================================================================================
+[2026-02-20 20:34:12] Searching passcode for https://yugipedia.com/wiki/DBPR-AE004
+[2026-02-20 20:34:12] Requesting page => https://yugipedia.com/wiki/DBPR-AE004
+[2026-02-20 20:34:30] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:34:30] Parse Konami Id, contents => Index: 1 | Text: 21934 | Raw: 21934  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:34:30] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:34:30] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:34:30] Passcode => Item: TYPES | Illusion / Effect
+[2026-02-20 20:34:30] Passcode => Item: LEVEL | 7
+[2026-02-20 20:34:30] Passcode => Item: ATK  DEF | 1200 / 2800
+[2026-02-20 20:34:30] Passcode => Item: PASSWORD | 95132593
+[2026-02-20 20:34:30] Item => Setcode: DBPR-AE004 | URL: https://yugipedia.com/wiki/DBPR-AE004 | Name: Hecahands Gaigas | Category: EFFECT MONSTER
+[2026-02-20 20:34:30] ===================================================================================================
+[2026-02-20 20:34:31] Searching passcode for https://yugipedia.com/wiki/DBPR-AE005
+[2026-02-20 20:34:31] Requesting page => https://yugipedia.com/wiki/DBPR-AE005
+[2026-02-20 20:34:51] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:34:51] Parse Konami Id, contents => Index: 1 | Text: 21935 | Raw: 21935  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:34:51] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:34:51] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:34:51] Passcode => Item: TYPES | Illusion / Effect
+[2026-02-20 20:34:51] Passcode => Item: LEVEL | 7
+[2026-02-20 20:34:51] Passcode => Item: ATK  DEF | 2800 / 1300
+[2026-02-20 20:34:51] Passcode => Item: PASSWORD | 21637502
+[2026-02-20 20:34:51] Item => Setcode: DBPR-AE005 | URL: https://yugipedia.com/wiki/DBPR-AE005 | Name: Hecahands Breus | Category: EFFECT MONSTER
+[2026-02-20 20:34:51] ===================================================================================================
+[2026-02-20 20:34:52] Searching passcode for https://yugipedia.com/wiki/DBPR-AE006
+[2026-02-20 20:34:52] Requesting page => https://yugipedia.com/wiki/DBPR-AE006
+[2026-02-20 20:35:12] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:35:12] Parse Konami Id, contents => Index: 1 | Text: 21936 | Raw: 21936  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:35:12] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:35:12] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:35:12] Passcode => Item: TYPES | Illusion / Fusion / Effect
+[2026-02-20 20:35:12] Passcode => Item: LEVEL | 8
+[2026-02-20 20:35:12] Passcode => Item: ATK  DEF | 2400 / 2500
+[2026-02-20 20:35:12] Passcode => Item: PASSWORD | 67021206
+[2026-02-20 20:35:12] Item => Setcode: DBPR-AE006 | URL: https://yugipedia.com/wiki/DBPR-AE006 | Name: Hecahands Jauzah | Category: EFFECT FUSION MONSTER
+[2026-02-20 20:35:12] ===================================================================================================
+[2026-02-20 20:35:13] Searching passcode for https://yugipedia.com/wiki/DBPR-AE007
+[2026-02-20 20:35:13] Requesting page => https://yugipedia.com/wiki/DBPR-AE007
+[2026-02-20 20:35:26] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:35:27] Parse Konami Id, contents => Index: 1 | Text: 21937 | Raw: 21937  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:35:27] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:35:27] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:35:27] Passcode => Item: TYPES | Illusion / Fusion / Effect
+[2026-02-20 20:35:27] Passcode => Item: LEVEL | 9
+[2026-02-20 20:35:27] Passcode => Item: ATK  DEF | 3400 / 3500
+[2026-02-20 20:35:27] Passcode => Item: PASSWORD | 94410955
+[2026-02-20 20:35:27] Item => Setcode: DBPR-AE007 | URL: https://yugipedia.com/wiki/DBPR-AE007 | Name: Hecahands Xeno | Category: EFFECT FUSION MONSTER
+[2026-02-20 20:35:27] ===================================================================================================
+[2026-02-20 20:35:28] Searching passcode for https://yugipedia.com/wiki/DBPR-AE008
+[2026-02-20 20:35:28] Requesting page => https://yugipedia.com/wiki/DBPR-AE008
+[2026-02-20 20:35:28] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:35:28] Parse Konami Id, contents => Index: 1 | Text: 21938 | Raw: 21938  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:35:28] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:35:28] Passcode => Item: PROPERTY | Normal
+[2026-02-20 20:35:28] Passcode => Item: PASSWORD | 20415050
+[2026-02-20 20:35:28] Item => Setcode: DBPR-AE008 | URL: https://yugipedia.com/wiki/DBPR-AE008 | Name: The Hidden Hecahands | Category: NORMAL SPELL
+[2026-02-20 20:35:28] ===================================================================================================
+[2026-02-20 20:35:29] Searching passcode for https://yugipedia.com/wiki/DBPR-AE009
+[2026-02-20 20:35:29] Requesting page => https://yugipedia.com/wiki/DBPR-AE009
+[2026-02-20 20:35:29] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:35:29] Parse Konami Id, contents => Index: 1 | Text: 21939 | Raw: 21939  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:35:29] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:35:29] Passcode => Item: PROPERTY | Quick-Play
+[2026-02-20 20:35:29] Passcode => Item: PASSWORD | 57809669
+[2026-02-20 20:35:29] Item => Setcode: DBPR-AE009 | URL: https://yugipedia.com/wiki/DBPR-AE009 | Name: Hecahands Tartaros | Category: QUICK-PLAY SPELL
+[2026-02-20 20:35:29] ===================================================================================================
+[2026-02-20 20:35:30] Searching passcode for https://yugipedia.com/wiki/DBPR-AE010
+[2026-02-20 20:35:30] Requesting page => https://yugipedia.com/wiki/DBPR-AE010
+[2026-02-20 20:35:30] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:35:30] Parse Konami Id, contents => Index: 1 | Text: 21940 | Raw: 21940  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:35:30] Passcode => Item: CARD TYPE | Trap
+[2026-02-20 20:35:30] Passcode => Item: PROPERTY | Counter
+[2026-02-20 20:35:30] Passcode => Item: PASSWORD | 93294363
+[2026-02-20 20:35:30] Item => Setcode: DBPR-AE010 | URL: https://yugipedia.com/wiki/DBPR-AE010 | Name: Ib'al-Hecahands | Category: COUNTER TRAP
+[2026-02-20 20:35:30] ===================================================================================================
+[2026-02-20 20:35:31] Searching passcode for https://yugipedia.com/wiki/DBPR-AE011
+[2026-02-20 20:35:31] Requesting page => https://yugipedia.com/wiki/DBPR-AE011
+[2026-02-20 20:35:31] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:35:31] Parse Konami Id, contents => Index: 1 | Text: 21941 | Raw: 21941  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:35:31] Passcode => Item: CARD TYPE | Trap
+[2026-02-20 20:35:31] Passcode => Item: PROPERTY | Counter
+[2026-02-20 20:35:31] Passcode => Item: PASSWORD | 29792472
+[2026-02-20 20:35:31] Item => Setcode: DBPR-AE011 | URL: https://yugipedia.com/wiki/DBPR-AE011 | Name: Yad'al-Hecahands | Category: COUNTER TRAP
+[2026-02-20 20:35:31] ===================================================================================================
+[2026-02-20 20:35:32] Searching passcode for https://yugipedia.com/wiki/DBPR-AE012
+[2026-02-20 20:35:32] Requesting page => https://yugipedia.com/wiki/DBPR-AE012
+[2026-02-20 20:35:49] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:35:49] Parse Konami Id, contents => Index: 1 | Text: 19167 | Raw: 19167  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:35:49] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:35:49] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:35:49] Passcode => Item: TYPES | Illusion / Effect
+[2026-02-20 20:35:49] Passcode => Item: LEVEL | 3
+[2026-02-20 20:35:49] Passcode => Item: ATK  DEF | 1200 / 900
+[2026-02-20 20:35:49] Passcode => Item: PASSWORD | 34541543
+[2026-02-20 20:35:49] Item => Setcode: DBPR-AE012 | URL: https://yugipedia.com/wiki/DBPR-AE012 | Name: Master Tao the Chanter | Category: EFFECT MONSTER
+[2026-02-20 20:35:49] ===================================================================================================
+[2026-02-20 20:35:50] Searching passcode for https://yugipedia.com/wiki/DBPR-AE013
+[2026-02-20 20:35:50] Requesting page => https://yugipedia.com/wiki/DBPR-AE013
+[2026-02-20 20:36:11] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:36:11] Parse Konami Id, contents => Index: 1 | Text: 15464 | Raw: 15464  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:36:11] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:36:11] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:36:11] Passcode => Item: TYPES | Machine / Xyz / Effect
+[2026-02-20 20:36:11] Passcode => Item: RANK | 6
+[2026-02-20 20:36:11] Passcode => Item: ATK  DEF | 2400 / 1500
+[2026-02-20 20:36:11] Passcode => Item: PASSWORD | 99666430
+[2026-02-20 20:36:11] Item => Setcode: DBPR-AE013 | URL: https://yugipedia.com/wiki/DBPR-AE013 | Name: Jinzo - Layered | Category: EFFECT XYZ MONSTER
+[2026-02-20 20:36:11] ===================================================================================================
+[2026-02-20 20:36:12] Searching passcode for https://yugipedia.com/wiki/DBPR-AE014
+[2026-02-20 20:36:12] Requesting page => https://yugipedia.com/wiki/DBPR-AE014
+[2026-02-20 20:36:29] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:36:29] Parse Konami Id, contents => Index: 1 | Text: 19022 | Raw: 19022  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:36:29] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:36:29] Passcode => Item: PROPERTY | Quick-Play
+[2026-02-20 20:36:29] Passcode => Item: PASSWORD | 23446369
+[2026-02-20 20:36:29] Item => Setcode: DBPR-AE014 | URL: https://yugipedia.com/wiki/DBPR-AE014 | Name: Eye of Illusion | Category: QUICK-PLAY SPELL
+[2026-02-20 20:36:29] ===================================================================================================
+[2026-02-20 20:36:30] Searching passcode for https://yugipedia.com/wiki/DBPR-AE015
+[2026-02-20 20:36:30] Requesting page => https://yugipedia.com/wiki/DBPR-AE015
+[2026-02-20 20:36:58] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:36:58] Parse Konami Id, contents => Index: 1 | Text: 14328 | Raw: 14328  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:36:58] Passcode => Item: CARD TYPE | Trap
+[2026-02-20 20:36:58] Passcode => Item: PROPERTY | Continuous
+[2026-02-20 20:36:58] Passcode => Item: PASSWORD | 36975314
+[2026-02-20 20:36:58] Item => Setcode: DBPR-AE015 | URL: https://yugipedia.com/wiki/DBPR-AE015 | Name: Crackdown | Category: CONTINUOUS TRAP
+[2026-02-20 20:36:58] ===================================================================================================
+[2026-02-20 20:36:59] Searching passcode for https://yugipedia.com/wiki/DBPR-AE016
+[2026-02-20 20:36:59] Requesting page => https://yugipedia.com/wiki/DBPR-AE016
+[2026-02-20 20:37:16] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:37:16] Parse Konami Id, contents => Index: 1 | Text: 21942 | Raw: 21942  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:37:16] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:37:16] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:37:16] Passcode => Item: TYPES | Machine / Pendulum / Flip / Effect
+[2026-02-20 20:37:16] Passcode => Item: LEVEL | 1
+[2026-02-20 20:37:16] Passcode => Item: PENDULUM SCALE | 0
+[2026-02-20 20:37:16] Passcode => Item: ATK  DEF | 100 / 1000
+[2026-02-20 20:37:16] Passcode => Item: PASSWORD | 56187077
+[2026-02-20 20:37:16] Item => Setcode: DBPR-AE016 | URL: https://yugipedia.com/wiki/DBPR-AE016 | Name: Proto Enneacraft - "orgIA" | Category: FLIP PENDULUM MONSTER
+[2026-02-20 20:37:16] ===================================================================================================
+[2026-02-20 20:37:17] Searching passcode for https://yugipedia.com/wiki/DBPR-AE017
+[2026-02-20 20:37:17] Requesting page => https://yugipedia.com/wiki/DBPR-AE017
+[2026-02-20 20:37:31] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:37:31] Parse Konami Id, contents => Index: 1 | Text: 21943 | Raw: 21943  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:37:31] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:37:31] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:37:31] Passcode => Item: TYPES | Machine / Pendulum / Flip / Effect
+[2026-02-20 20:37:31] Passcode => Item: LEVEL | 1
+[2026-02-20 20:37:31] Passcode => Item: PENDULUM SCALE | 0
+[2026-02-20 20:37:31] Passcode => Item: ATK  DEF | 100 / 1000
+[2026-02-20 20:37:31] Passcode => Item: PASSWORD | 92171126
+[2026-02-20 20:37:31] Item => Setcode: DBPR-AE017 | URL: https://yugipedia.com/wiki/DBPR-AE017 | Name: Deftero Enneacraft - "alazoneIA" | Category: FLIP PENDULUM MONSTER
+[2026-02-20 20:37:31] ===================================================================================================
+[2026-02-20 20:37:32] Searching passcode for https://yugipedia.com/wiki/DBPR-AE018
+[2026-02-20 20:37:32] Requesting page => https://yugipedia.com/wiki/DBPR-AE018
+[2026-02-20 20:37:49] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:37:49] Parse Konami Id, contents => Index: 1 | Text: 21944 | Raw: 21944  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:37:49] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:37:49] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:37:49] Passcode => Item: TYPES | Machine / Pendulum / Flip / Effect
+[2026-02-20 20:37:49] Passcode => Item: LEVEL | 1
+[2026-02-20 20:37:49] Passcode => Item: PENDULUM SCALE | 0
+[2026-02-20 20:37:49] Passcode => Item: ATK  DEF | 100 / 1000
+[2026-02-20 20:37:49] Passcode => Item: PASSWORD | 29570824
+[2026-02-20 20:37:49] Item => Setcode: DBPR-AE018 | URL: https://yugipedia.com/wiki/DBPR-AE018 | Name: Ekto Enneacraft - "tromarIA" | Category: FLIP PENDULUM MONSTER
+[2026-02-20 20:37:49] ===================================================================================================
+[2026-02-20 20:37:50] Searching passcode for https://yugipedia.com/wiki/DBPR-AE019
+[2026-02-20 20:37:50] Requesting page => https://yugipedia.com/wiki/DBPR-AE019
+[2026-02-20 20:38:07] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:38:07] Parse Konami Id, contents => Index: 1 | Text: 21945 | Raw: 21945  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:38:07] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:38:07] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:38:07] Passcode => Item: TYPES | Machine / Pendulum / Flip / Effect
+[2026-02-20 20:38:07] Passcode => Item: LEVEL | 1
+[2026-02-20 20:38:07] Passcode => Item: PENDULUM SCALE | 0
+[2026-02-20 20:38:07] Passcode => Item: ATK  DEF | 100 / 1000
+[2026-02-20 20:38:07] Passcode => Item: PASSWORD | 55965529
+[2026-02-20 20:38:07] Item => Setcode: DBPR-AE019 | URL: https://yugipedia.com/wiki/DBPR-AE019 | Name: Enato Enneacraft - "oknirIA" | Category: FLIP PENDULUM MONSTER
+[2026-02-20 20:38:07] ===================================================================================================
+[2026-02-20 20:38:08] Searching passcode for https://yugipedia.com/wiki/DBPR-AE020
+[2026-02-20 20:38:08] Requesting page => https://yugipedia.com/wiki/DBPR-AE020
+[2026-02-20 20:38:24] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:38:24] Parse Konami Id, contents => Index: 1 | Text: 21946 | Raw: 21946  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:38:24] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:38:24] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:38:24] Passcode => Item: TYPES | Machine / Pendulum / Flip / Effect
+[2026-02-20 20:38:24] Passcode => Item: LEVEL | 9
+[2026-02-20 20:38:24] Passcode => Item: PENDULUM SCALE | 0
+[2026-02-20 20:38:24] Passcode => Item: ATK  DEF | 3000 / 2500
+[2026-02-20 20:38:24] Passcode => Item: PASSWORD | 82359538
+[2026-02-20 20:38:24] Item => Setcode: DBPR-AE020 | URL: https://yugipedia.com/wiki/DBPR-AE020 | Name: Enneacraft - Aiza.LEON | Category: FLIP PENDULUM MONSTER
+[2026-02-20 20:38:24] ===================================================================================================
+[2026-02-20 20:38:25] Searching passcode for https://yugipedia.com/wiki/DBPR-AE021
+[2026-02-20 20:38:25] Requesting page => https://yugipedia.com/wiki/DBPR-AE021
+[2026-02-20 20:38:41] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:38:41] Parse Konami Id, contents => Index: 1 | Text: 21947 | Raw: 21947  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:38:41] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:38:41] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:38:41] Passcode => Item: TYPES | Machine / Pendulum / Flip / Effect
+[2026-02-20 20:38:41] Passcode => Item: LEVEL | 9
+[2026-02-20 20:38:41] Passcode => Item: PENDULUM SCALE | 0
+[2026-02-20 20:38:41] Passcode => Item: ATK  DEF | 3000 / 2500
+[2026-02-20 20:38:41] Passcode => Item: PASSWORD | 28454232
+[2026-02-20 20:38:41] Item => Setcode: DBPR-AE021 | URL: https://yugipedia.com/wiki/DBPR-AE021 | Name: Enneacraft - Asta.PIXEA | Category: FLIP PENDULUM MONSTER
+[2026-02-20 20:38:41] ===================================================================================================
+[2026-02-20 20:38:42] Searching passcode for https://yugipedia.com/wiki/DBPR-AE022
+[2026-02-20 20:38:42] Requesting page => https://yugipedia.com/wiki/DBPR-AE022
+[2026-02-20 20:38:53] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:38:53] Parse Konami Id, contents => Index: 1 | Text: 21948 | Raw: 21948  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:38:53] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:38:53] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:38:53] Passcode => Item: TYPES | Machine / Pendulum / Flip / Effect
+[2026-02-20 20:38:53] Passcode => Item: LEVEL | 9
+[2026-02-20 20:38:53] Passcode => Item: PENDULUM SCALE | 0
+[2026-02-20 20:38:53] Passcode => Item: ATK  DEF | 3000 / 2500
+[2026-02-20 20:38:53] Passcode => Item: PASSWORD | 54842941
+[2026-02-20 20:38:53] Item => Setcode: DBPR-AE022 | URL: https://yugipedia.com/wiki/DBPR-AE022 | Name: Enneacraft - Atori.MAR | Category: FLIP PENDULUM MONSTER
+[2026-02-20 20:38:53] ===================================================================================================
+[2026-02-20 20:38:54] Searching passcode for https://yugipedia.com/wiki/DBPR-AE023
+[2026-02-20 20:38:54] Requesting page => https://yugipedia.com/wiki/DBPR-AE023
+[2026-02-20 20:39:11] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:39:11] Parse Konami Id, contents => Index: 1 | Text: 21949 | Raw: 21949  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:39:11] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:39:11] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:39:11] Passcode => Item: TYPES | Machine / Pendulum / Flip / Effect
+[2026-02-20 20:39:11] Passcode => Item: LEVEL | 9
+[2026-02-20 20:39:11] Passcode => Item: PENDULUM SCALE | 0
+[2026-02-20 20:39:11] Passcode => Item: ATK  DEF | 3000 / 2500
+[2026-02-20 20:39:11] Passcode => Item: PASSWORD | 81237046
+[2026-02-20 20:39:11] Item => Setcode: DBPR-AE023 | URL: https://yugipedia.com/wiki/DBPR-AE023 | Name: Enneacraft - Archa.TAIL | Category: FLIP PENDULUM MONSTER
+[2026-02-20 20:39:11] ===================================================================================================
+[2026-02-20 20:39:12] Searching passcode for https://yugipedia.com/wiki/DBPR-AE024
+[2026-02-20 20:39:12] Requesting page => https://yugipedia.com/wiki/DBPR-AE024
+[2026-02-20 20:40:26] Item => Setcode: DBPR-AE024 | URL: https://yugipedia.com/wiki/DBPR-AE024 | Name: Enneapolis | Category: FIELD SPELL
+[2026-02-20 20:40:26] ===================================================================================================
+[2026-02-20 20:40:27] Searching passcode for https://yugipedia.com/wiki/DBPR-AE025
+[2026-02-20 20:40:27] Requesting page => https://yugipedia.com/wiki/DBPR-AE025
+[2026-02-20 20:40:30] Item => Setcode: DBPR-AE025 | URL: https://yugipedia.com/wiki/DBPR-AE025 | Name: Enneacraft Release | Category: NORMAL SPELL
+[2026-02-20 20:40:30] ===================================================================================================
+[2026-02-20 20:40:31] Searching passcode for https://yugipedia.com/wiki/DBPR-AE026
+[2026-02-20 20:40:31] Requesting page => https://yugipedia.com/wiki/DBPR-AE026
+[2026-02-20 20:40:31] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:40:31] Parse Konami Id, contents => Index: 1 | Text: 21952 | Raw: 21952  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:40:31] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:40:31] Passcode => Item: PROPERTY | Normal
+[2026-02-20 20:40:31] Passcode => Item: PASSWORD | 80015408
+[2026-02-20 20:40:31] Item => Setcode: DBPR-AE026 | URL: https://yugipedia.com/wiki/DBPR-AE026 | Name: Enneacraft Reverth | Category: NORMAL SPELL
+[2026-02-20 20:40:31] ===================================================================================================
+[2026-02-20 20:40:32] Searching passcode for https://yugipedia.com/wiki/DBPR-AE027
+[2026-02-20 20:40:32] Requesting page => https://yugipedia.com/wiki/DBPR-AE027
+[2026-02-20 20:40:32] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:40:32] Parse Konami Id, contents => Index: 1 | Text: 11984 | Raw: 11984  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:40:32] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:40:32] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:40:32] Passcode => Item: TYPES | Rock / Flip / Effect
+[2026-02-20 20:40:32] Passcode => Item: LEVEL | 9
+[2026-02-20 20:40:32] Passcode => Item: ATK  DEF | 2000 / 3000
+[2026-02-20 20:40:32] Passcode => Item: PASSWORD | 91501248
+[2026-02-20 20:40:32] Item => Setcode: DBPR-AE027 | URL: https://yugipedia.com/wiki/DBPR-AE027 | Name: Pot of The Forbidden | Category: FLIP MONSTER
+[2026-02-20 20:40:32] ===================================================================================================
+[2026-02-20 20:40:33] Searching passcode for https://yugipedia.com/wiki/DBPR-AE028
+[2026-02-20 20:40:33] Requesting page => https://yugipedia.com/wiki/DBPR-AE028
+[2026-02-20 20:40:48] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:40:48] Parse Konami Id, contents => Index: 1 | Text: 12311 | Raw: 12311  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:40:48] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:40:48] Passcode => Item: ATTRIBUTE | WIND
+[2026-02-20 20:40:48] Passcode => Item: TYPES | Fairy / Effect
+[2026-02-20 20:40:48] Passcode => Item: LEVEL | 4
+[2026-02-20 20:40:48] Passcode => Item: ATK  DEF | 1800 / 900
+[2026-02-20 20:40:48] Passcode => Item: PASSWORD | 26517393
+[2026-02-20 20:40:48] Item => Setcode: DBPR-AE028 | URL: https://yugipedia.com/wiki/DBPR-AE028 | Name: Spirit of the Fall Wind | Category: EFFECT MONSTER
+[2026-02-20 20:40:48] ===================================================================================================
+[2026-02-20 20:40:49] Searching passcode for https://yugipedia.com/wiki/DBPR-AE029
+[2026-02-20 20:40:49] Requesting page => https://yugipedia.com/wiki/DBPR-AE029
+[2026-02-20 20:41:04] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:04] Parse Konami Id, contents => Index: 1 | Text: 13977 | Raw: 13977  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:04] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:41:04] Passcode => Item: PROPERTY | Continuous
+[2026-02-20 20:41:04] Passcode => Item: PASSWORD | 17322533
+[2026-02-20 20:41:04] Item => Setcode: DBPR-AE029 | URL: https://yugipedia.com/wiki/DBPR-AE029 | Name: Pinpoint Landing | Category: CONTINUOUS SPELL
+[2026-02-20 20:41:04] ===================================================================================================
+[2026-02-20 20:41:05] Searching passcode for https://yugipedia.com/wiki/DBPR-AE030
+[2026-02-20 20:41:05] Requesting page => https://yugipedia.com/wiki/DBPR-AE030
+[2026-02-20 20:41:12] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:12] Parse Konami Id, contents => Index: 1 | Text: 18034 | Raw: 18034  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:12] Passcode => Item: CARD TYPE | Trap
+[2026-02-20 20:41:12] Passcode => Item: PROPERTY | Normal
+[2026-02-20 20:41:12] Passcode => Item: PASSWORD | 30748475
+[2026-02-20 20:41:12] Item => Setcode: DBPR-AE030 | URL: https://yugipedia.com/wiki/DBPR-AE030 | Name: Destructive Daruma Karma Cannon | Category: NORMAL TRAP
+[2026-02-20 20:41:12] ===================================================================================================
+[2026-02-20 20:41:13] Searching passcode for https://yugipedia.com/wiki/DBPR-AE031
+[2026-02-20 20:41:13] Requesting page => https://yugipedia.com/wiki/DBPR-AE031
+[2026-02-20 20:41:23] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:23] Parse Konami Id, contents => Index: 1 | Text: 21953 | Raw: 21953  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:23] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:41:23] Passcode => Item: ATTRIBUTE | WIND
+[2026-02-20 20:41:23] Passcode => Item: TYPES | Warrior / Tuner / Effect
+[2026-02-20 20:41:23] Passcode => Item: LEVEL | 2
+[2026-02-20 20:41:23] Passcode => Item: ATK  DEF | 100 / 2000
+[2026-02-20 20:41:23] Passcode => Item: PASSWORD | 16509007
+[2026-02-20 20:41:23] Item => Setcode: DBPR-AE031 | URL: https://yugipedia.com/wiki/DBPR-AE031 | Name: Kewl Tune Mix | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:41:23] ===================================================================================================
+[2026-02-20 20:41:24] Searching passcode for https://yugipedia.com/wiki/DBPR-AE032
+[2026-02-20 20:41:24] Requesting page => https://yugipedia.com/wiki/DBPR-AE032
+[2026-02-20 20:41:27] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:27] Parse Konami Id, contents => Index: 1 | Text: 21954 | Raw: 21954  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:27] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:41:27] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:41:27] Passcode => Item: TYPES | Thunder / Tuner / Effect
+[2026-02-20 20:41:27] Passcode => Item: LEVEL | 2
+[2026-02-20 20:41:27] Passcode => Item: ATK  DEF | 800 / 1000
+[2026-02-20 20:41:27] Passcode => Item: PASSWORD | 43904702
+[2026-02-20 20:41:27] Item => Setcode: DBPR-AE032 | URL: https://yugipedia.com/wiki/DBPR-AE032 | Name: Kewl Tune Clip | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:41:27] ===================================================================================================
+[2026-02-20 20:41:28] Searching passcode for https://yugipedia.com/wiki/DBPR-AE033
+[2026-02-20 20:41:28] Requesting page => https://yugipedia.com/wiki/DBPR-AE033
+[2026-02-20 20:41:31] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:31] Parse Konami Id, contents => Index: 1 | Text: 21955 | Raw: 21955  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:31] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:41:31] Passcode => Item: ATTRIBUTE | FIRE
+[2026-02-20 20:41:31] Passcode => Item: TYPES | Fiend / Tuner / Effect
+[2026-02-20 20:41:31] Passcode => Item: LEVEL | 3
+[2026-02-20 20:41:31] Passcode => Item: ATK  DEF | 1500 / 800
+[2026-02-20 20:41:31] Passcode => Item: PASSWORD | 89392810
+[2026-02-20 20:41:31] Item => Setcode: DBPR-AE033 | URL: https://yugipedia.com/wiki/DBPR-AE033 | Name: Kewl Tune Reco | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:41:31] ===================================================================================================
+[2026-02-20 20:41:32] Searching passcode for https://yugipedia.com/wiki/DBPR-AE034
+[2026-02-20 20:41:32] Requesting page => https://yugipedia.com/wiki/DBPR-AE034
+[2026-02-20 20:41:32] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:32] Parse Konami Id, contents => Index: 1 | Text: 21956 | Raw: 21956  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:32] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:41:32] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:41:32] Passcode => Item: TYPES | Fairy / Tuner / Effect
+[2026-02-20 20:41:32] Passcode => Item: LEVEL | 3
+[2026-02-20 20:41:32] Passcode => Item: ATK  DEF | 900 / 1900
+[2026-02-20 20:41:32] Passcode => Item: PASSWORD | 16387555
+[2026-02-20 20:41:32] Item => Setcode: DBPR-AE034 | URL: https://yugipedia.com/wiki/DBPR-AE034 | Name: Kewl Tune Cue | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:41:32] ===================================================================================================
+[2026-02-20 20:41:33] Searching passcode for https://yugipedia.com/wiki/DBPR-AE035
+[2026-02-20 20:41:33] Requesting page => https://yugipedia.com/wiki/DBPR-AE035
+[2026-02-20 20:41:43] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:43] Parse Konami Id, contents => Index: 1 | Text: 21957 | Raw: 21957  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:43] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:41:43] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:41:43] Passcode => Item: TYPES | Machine / Synchro / Tuner / Effect
+[2026-02-20 20:41:43] Passcode => Item: LEVEL | 4
+[2026-02-20 20:41:43] Passcode => Item: ATK  DEF | 0 / 2500
+[2026-02-20 20:41:43] Passcode => Item: PASSWORD | 42781164
+[2026-02-20 20:41:43] Item => Setcode: DBPR-AE035 | URL: https://yugipedia.com/wiki/DBPR-AE035 | Name: Kewl Tune Track Maker | Category: EFFECT TUNER SYNCHRO MONSTER
+[2026-02-20 20:41:43] ===================================================================================================
+[2026-02-20 20:41:44] Searching passcode for https://yugipedia.com/wiki/DBPR-AE036
+[2026-02-20 20:41:44] Requesting page => https://yugipedia.com/wiki/DBPR-AE036
+[2026-02-20 20:41:44] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:44] Parse Konami Id, contents => Index: 1 | Text: 21958 | Raw: 21958  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:44] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:41:44] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:41:44] Passcode => Item: TYPES | Warrior / Synchro / Tuner / Effect
+[2026-02-20 20:41:44] Passcode => Item: LEVEL | 5
+[2026-02-20 20:41:44] Passcode => Item: ATK  DEF | 1500 / 2000
+[2026-02-20 20:41:44] Passcode => Item: PASSWORD | 88170262
+[2026-02-20 20:41:44] Item => Setcode: DBPR-AE036 | URL: https://yugipedia.com/wiki/DBPR-AE036 | Name: Kewl Tune Remix | Category: EFFECT TUNER SYNCHRO MONSTER
+[2026-02-20 20:41:44] ===================================================================================================
+[2026-02-20 20:41:45] Searching passcode for https://yugipedia.com/wiki/DBPR-AE037
+[2026-02-20 20:41:45] Requesting page => https://yugipedia.com/wiki/DBPR-AE037
+[2026-02-20 20:41:47] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:48] Parse Konami Id, contents => Index: 1 | Text: 21959 | Raw: 21959  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:48] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:41:48] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:41:48] Passcode => Item: TYPES | Fiend / Synchro / Tuner / Effect
+[2026-02-20 20:41:48] Passcode => Item: LEVEL | 5
+[2026-02-20 20:41:48] Passcode => Item: ATK  DEF | 1700 / 2400
+[2026-02-20 20:41:48] Passcode => Item: PASSWORD | 15665977
+[2026-02-20 20:41:48] Item => Setcode: DBPR-AE037 | URL: https://yugipedia.com/wiki/DBPR-AE037 | Name: Kewl Tune RS | Category: EFFECT TUNER SYNCHRO MONSTER
+[2026-02-20 20:41:48] ===================================================================================================
+[2026-02-20 20:41:49] Searching passcode for https://yugipedia.com/wiki/DBPR-AE038
+[2026-02-20 20:41:49] Requesting page => https://yugipedia.com/wiki/DBPR-AE038
+[2026-02-20 20:41:54] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:54] Parse Konami Id, contents => Index: 1 | Text: 21960 | Raw: 21960  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:54] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:41:54] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:41:54] Passcode => Item: TYPES | Machine / Synchro / Tuner / Effect
+[2026-02-20 20:41:54] Passcode => Item: LEVEL | 6
+[2026-02-20 20:41:54] Passcode => Item: ATK  DEF | 0 / 3000
+[2026-02-20 20:41:54] Passcode => Item: PASSWORD | 41069676
+[2026-02-20 20:41:54] Item => Setcode: DBPR-AE038 | URL: https://yugipedia.com/wiki/DBPR-AE038 | Name: Kewl Tune Loudness War | Category: EFFECT TUNER SYNCHRO MONSTER
+[2026-02-20 20:41:54] ===================================================================================================
+[2026-02-20 20:41:55] Searching passcode for https://yugipedia.com/wiki/DBPR-AE039
+[2026-02-20 20:41:55] Requesting page => https://yugipedia.com/wiki/DBPR-AE039
+[2026-02-20 20:41:55] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:56] Parse Konami Id, contents => Index: 1 | Text: 21961 | Raw: 21961  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:56] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:41:56] Passcode => Item: PROPERTY | Quick-Play
+[2026-02-20 20:41:56] Passcode => Item: PASSWORD | 78058681
+[2026-02-20 20:41:56] Item => Setcode: DBPR-AE039 | URL: https://yugipedia.com/wiki/DBPR-AE039 | Name: Kewl Tune Synchro | Category: QUICK-PLAY SPELL
+[2026-02-20 20:41:56] ===================================================================================================
+[2026-02-20 20:41:57] Searching passcode for https://yugipedia.com/wiki/DBPR-AE040
+[2026-02-20 20:41:57] Requesting page => https://yugipedia.com/wiki/DBPR-AE040
+[2026-02-20 20:41:57] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:57] Parse Konami Id, contents => Index: 1 | Text: 21962 | Raw: 21962  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:57] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:41:57] Passcode => Item: PROPERTY | Field
+[2026-02-20 20:41:57] Passcode => Item: PASSWORD | 14442329
+[2026-02-20 20:41:57] Item => Setcode: DBPR-AE040 | URL: https://yugipedia.com/wiki/DBPR-AE040 | Name: JJ "Kewl Tune" | Category: FIELD SPELL
+[2026-02-20 20:41:57] ===================================================================================================
+[2026-02-20 20:41:58] Searching passcode for https://yugipedia.com/wiki/DBPR-AE041
+[2026-02-20 20:41:58] Requesting page => https://yugipedia.com/wiki/DBPR-AE041
+[2026-02-20 20:41:58] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:41:58] Parse Konami Id, contents => Index: 1 | Text: 21963 | Raw: 21963  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:41:58] Passcode => Item: CARD TYPE | Trap
+[2026-02-20 20:41:58] Passcode => Item: PROPERTY | Normal
+[2026-02-20 20:41:58] Passcode => Item: PASSWORD | 40847034
+[2026-02-20 20:41:58] Item => Setcode: DBPR-AE041 | URL: https://yugipedia.com/wiki/DBPR-AE041 | Name: Kewl Tune Playlist | Category: NORMAL TRAP
+[2026-02-20 20:41:58] ===================================================================================================
+[2026-02-20 20:41:59] Searching passcode for https://yugipedia.com/wiki/DBPR-AE042
+[2026-02-20 20:41:59] Requesting page => https://yugipedia.com/wiki/DBPR-AE042
+[2026-02-20 20:42:00] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:00] Parse Konami Id, contents => Index: 1 | Text: 9198 | Raw: 9198  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:00] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:00] Passcode => Item: ATTRIBUTE | LIGHT
+[2026-02-20 20:42:00] Passcode => Item: TYPES | Machine / Tuner / Effect
+[2026-02-20 20:42:00] Passcode => Item: LEVEL | 2
+[2026-02-20 20:42:00] Passcode => Item: ATK  DEF | 400 / 200
+[2026-02-20 20:42:00] Passcode => Item: PASSWORD | 19642774
+[2026-02-20 20:42:00] Item => Setcode: DBPR-AE042 | URL: https://yugipedia.com/wiki/DBPR-AE042 | Name: Fleur Synchron | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:42:00] ===================================================================================================
+[2026-02-20 20:42:01] Searching passcode for https://yugipedia.com/wiki/DBPR-AE043
+[2026-02-20 20:42:01] Requesting page => https://yugipedia.com/wiki/DBPR-AE043
+[2026-02-20 20:42:02] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:02] Parse Konami Id, contents => Index: 1 | Text: 13587 | Raw: 13587  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:02] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:02] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:42:02] Passcode => Item: TYPES | Zombie / Tuner / Effect
+[2026-02-20 20:42:02] Passcode => Item: LEVEL | 3
+[2026-02-20 20:42:02] Passcode => Item: ATK  DEF | 0 / 1800
+[2026-02-20 20:42:02] Passcode => Item: PASSWORD | 73642296
+[2026-02-20 20:42:02] Item => Setcode: DBPR-AE043 | URL: https://yugipedia.com/wiki/DBPR-AE043 | Name: Ghost Belle & Haunted Mansion | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:42:02] ===================================================================================================
+[2026-02-20 20:42:03] Searching passcode for https://yugipedia.com/wiki/DBPR-AE044
+[2026-02-20 20:42:03] Requesting page => https://yugipedia.com/wiki/DBPR-AE044
+[2026-02-20 20:42:09] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:09] Parse Konami Id, contents => Index: 1 | Text: 19039 | Raw: 19039  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:09] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:09] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:42:09] Passcode => Item: TYPES | Fiend / Effect
+[2026-02-20 20:42:09] Passcode => Item: LEVEL | 5
+[2026-02-20 20:42:09] Passcode => Item: ATK  DEF | 1600 / 1600
+[2026-02-20 20:42:09] Passcode => Item: PASSWORD | 72323266
+[2026-02-20 20:42:09] Item => Setcode: DBPR-AE044 | URL: https://yugipedia.com/wiki/DBPR-AE044 | Name: Earthbound Prisoner Stone Sweeper | Category: EFFECT MONSTER
+[2026-02-20 20:42:09] ===================================================================================================
+[2026-02-20 20:42:10] Searching passcode for https://yugipedia.com/wiki/DBPR-AE045
+[2026-02-20 20:42:10] Requesting page => https://yugipedia.com/wiki/DBPR-AE045
+[2026-02-20 20:42:11] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:11] Parse Konami Id, contents => Index: 1 | Text: 16256 | Raw: 16256  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:11] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:42:11] Passcode => Item: PROPERTY | Normal
+[2026-02-20 20:42:11] Passcode => Item: PASSWORD | 99243014
+[2026-02-20 20:42:11] Item => Setcode: DBPR-AE045 | URL: https://yugipedia.com/wiki/DBPR-AE045 | Name: Synchro Overtake | Category: NORMAL SPELL
+[2026-02-20 20:42:11] ===================================================================================================
+[2026-02-20 20:42:12] Searching passcode for https://yugipedia.com/wiki/DBPR-AE046
+[2026-02-20 20:42:12] Requesting page => https://yugipedia.com/wiki/DBPR-AE046
+[2026-02-20 20:42:19] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:20] Parse Konami Id, contents => Index: 1 | Text: 7514 | Raw: 7514  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+[2026-02-20 20:42:20] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:20] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:42:20] Passcode => Item: TYPES | Fiend / Effect
+[2026-02-20 20:42:20] Passcode => Item: LEVEL | 6
+[2026-02-20 20:42:20] Passcode => Item: ATK  DEF | 2200 / 2000
+[2026-02-20 20:42:20] Passcode => Item: PASSWORD | 37955049
+[2026-02-20 20:42:20] Item => Setcode: DBPR-AE046 | URL: https://yugipedia.com/wiki/DBPR-AE046 | Name: Gaap the Divine Soldier | Category: EFFECT MONSTER
+[2026-02-20 20:42:20] ===================================================================================================
+[2026-02-20 20:42:21] Searching passcode for https://yugipedia.com/wiki/DBPR-AE047
+[2026-02-20 20:42:21] Requesting page => https://yugipedia.com/wiki/DBPR-AE047
+[2026-02-20 20:42:28] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:28] Parse Konami Id, contents => Index: 1 | Text: 7840 | Raw: 7840  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+[2026-02-20 20:42:28] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:28] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:42:28] Passcode => Item: TYPES | Machine / Tuner / Effect
+[2026-02-20 20:42:28] Passcode => Item: LEVEL | 3
+[2026-02-20 20:42:28] Passcode => Item: ATK  DEF | 1400 / 1200
+[2026-02-20 20:42:28] Passcode => Item: PASSWORD | 45586855
+[2026-02-20 20:42:28] Item => Setcode: DBPR-AE047 | URL: https://yugipedia.com/wiki/DBPR-AE047 | Name: Ally of Justice Cyclone Creator | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:42:28] ===================================================================================================
+[2026-02-20 20:42:29] Searching passcode for https://yugipedia.com/wiki/DBPR-AE048
+[2026-02-20 20:42:29] Requesting page => https://yugipedia.com/wiki/DBPR-AE048
+[2026-02-20 20:42:39] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:39] Parse Konami Id, contents => Index: 1 | Text: 8089 | Raw: 8089  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:39] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:39] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:42:39] Passcode => Item: TYPES | Fiend / Effect
+[2026-02-20 20:42:39] Passcode => Item: LEVEL | 10
+[2026-02-20 20:42:39] Passcode => Item: ATK  DEF | ? / ?
+[2026-02-20 20:42:39] Passcode => Item: PASSWORD | 98777036
+[2026-02-20 20:42:39] Item => Setcode: DBPR-AE048 | URL: https://yugipedia.com/wiki/DBPR-AE048 | Name: Tragoedia | Category: EFFECT MONSTER
+[2026-02-20 20:42:39] ===================================================================================================
+[2026-02-20 20:42:40] Searching passcode for https://yugipedia.com/wiki/DBPR-AE049
+[2026-02-20 20:42:40] Requesting page => https://yugipedia.com/wiki/DBPR-AE049
+[2026-02-20 20:42:41] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:41] Parse Konami Id, contents => Index: 1 | Text: 11824 | Raw: 11824  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:41] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:41] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:42:41] Passcode => Item: TYPES | Wyrm / Tuner / Effect
+[2026-02-20 20:42:41] Passcode => Item: LEVEL | 8
+[2026-02-20 20:42:41] Passcode => Item: ATK  DEF | 2700 / 1500
+[2026-02-20 20:42:41] Passcode => Item: PASSWORD | 84845628
+[2026-02-20 20:42:41] Item => Setcode: DBPR-AE049 | URL: https://yugipedia.com/wiki/DBPR-AE049 | Name: Bird of Paradise Lost | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:42:41] ===================================================================================================
+[2026-02-20 20:42:42] Searching passcode for https://yugipedia.com/wiki/DBPR-AE050
+[2026-02-20 20:42:42] Requesting page => https://yugipedia.com/wiki/DBPR-AE050
+[2026-02-20 20:42:48] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:48] Parse Konami Id, contents => Index: 1 | Text: 12540 | Raw: 12540  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:48] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:48] Passcode => Item: ATTRIBUTE | FIRE
+[2026-02-20 20:42:48] Passcode => Item: TYPES | Fairy / Tuner / Effect
+[2026-02-20 20:42:48] Passcode => Item: LEVEL | 1
+[2026-02-20 20:42:48] Passcode => Item: ATK  DEF | 0 / 0
+[2026-02-20 20:42:48] Passcode => Item: PASSWORD | 21142671
+[2026-02-20 20:42:48] Item => Setcode: DBPR-AE050 | URL: https://yugipedia.com/wiki/DBPR-AE050 | Name: Red Nova | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:42:48] ===================================================================================================
+[2026-02-20 20:42:49] Searching passcode for https://yugipedia.com/wiki/DBPR-AE051
+[2026-02-20 20:42:49] Requesting page => https://yugipedia.com/wiki/DBPR-AE051
+[2026-02-20 20:42:49] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:49] Parse Konami Id, contents => Index: 1 | Text: 12766 | Raw: 12766  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:49] Passcode => Item: OTHER NAMES | Yokozuna Tuner
+[2026-02-20 20:42:49] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:49] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:42:49] Passcode => Item: TYPES | Beast / Tuner / Effect
+[2026-02-20 20:42:49] Passcode => Item: LEVEL | 1
+[2026-02-20 20:42:49] Passcode => Item: ATK  DEF | 800 / 600
+[2026-02-20 20:42:49] Passcode => Item: PASSWORD | 27750191
+[2026-02-20 20:42:49] Item => Setcode: DBPR-AE051 | URL: https://yugipedia.com/wiki/DBPR-AE051 | Name: Yokotuner | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:42:49] ===================================================================================================
+[2026-02-20 20:42:50] Searching passcode for https://yugipedia.com/wiki/DBPR-AE052
+[2026-02-20 20:42:50] Requesting page => https://yugipedia.com/wiki/DBPR-AE052
+[2026-02-20 20:42:57] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:57] Parse Konami Id, contents => Index: 1 | Text: 14269 | Raw: 14269  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:57] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:57] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:42:57] Passcode => Item: TYPES | Insect / Flip / Effect
+[2026-02-20 20:42:57] Passcode => Item: LEVEL | 9
+[2026-02-20 20:42:57] Passcode => Item: ATK  DEF | 2000 / 3000
+[2026-02-20 20:42:57] Passcode => Item: PASSWORD | 62587693
+[2026-02-20 20:42:57] Item => Setcode: DBPR-AE052 | URL: https://yugipedia.com/wiki/DBPR-AE052 | Name: Deus X-Krawler | Category: FLIP MONSTER
+[2026-02-20 20:42:57] ===================================================================================================
+[2026-02-20 20:42:58] Searching passcode for https://yugipedia.com/wiki/DBPR-AE053
+[2026-02-20 20:42:58] Requesting page => https://yugipedia.com/wiki/DBPR-AE053
+[2026-02-20 20:42:58] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:42:58] Parse Konami Id, contents => Index: 1 | Text: 15085 | Raw: 15085  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:42:58] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:42:58] Passcode => Item: ATTRIBUTE | DARK
+[2026-02-20 20:42:58] Passcode => Item: TYPES | Fairy / Tuner / Effect
+[2026-02-20 20:42:58] Passcode => Item: LEVEL | 2
+[2026-02-20 20:42:58] Passcode => Item: ATK  DEF | 800 / 0
+[2026-02-20 20:42:58] Passcode => Item: PASSWORD | 55702233
+[2026-02-20 20:42:58] Item => Setcode: DBPR-AE053 | URL: https://yugipedia.com/wiki/DBPR-AE053 | Name: Ret-time Reviver Emit-ter | Category: EFFECT TUNER MONSTER
+[2026-02-20 20:42:58] ===================================================================================================
+[2026-02-20 20:42:59] Searching passcode for https://yugipedia.com/wiki/DBPR-AE054
+[2026-02-20 20:42:59] Requesting page => https://yugipedia.com/wiki/DBPR-AE054
+[2026-02-20 20:43:04] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:43:04] Parse Konami Id, contents => Index: 1 | Text: 19829 | Raw: 19829  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:43:04] Passcode => Item: CARD TYPE | Monster
+[2026-02-20 20:43:04] Passcode => Item: ATTRIBUTE | EARTH
+[2026-02-20 20:43:04] Passcode => Item: TYPES | Winged Beast / Flip / Effect
+[2026-02-20 20:43:04] Passcode => Item: LEVEL | 8
+[2026-02-20 20:43:04] Passcode => Item: ATK  DEF | 1400 / 2800
+[2026-02-20 20:43:04] Passcode => Item: PASSWORD | 79627627
+[2026-02-20 20:43:04] Item => Setcode: DBPR-AE054 | URL: https://yugipedia.com/wiki/DBPR-AE054 | Name: Conbirdable | Category: FLIP MONSTER
+[2026-02-20 20:43:04] ===================================================================================================
+[2026-02-20 20:43:05] Searching passcode for https://yugipedia.com/wiki/DBPR-AE055
+[2026-02-20 20:43:05] Requesting page => https://yugipedia.com/wiki/DBPR-AE055
+[2026-02-20 20:43:06] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:43:06] Parse Konami Id, contents => Index: 1 | Text: 4898 | Raw: 4898  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:43:06] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:43:06] Passcode => Item: PROPERTY | Equip
+[2026-02-20 20:43:06] Passcode => Item: PASSWORD | 45986603
+[2026-02-20 20:43:06] Item => Setcode: DBPR-AE055 | URL: https://yugipedia.com/wiki/DBPR-AE055 | Name: Snatch Steal | Category: EQUIP SPELL
+[2026-02-20 20:43:06] ===================================================================================================
+[2026-02-20 20:43:07] Searching passcode for https://yugipedia.com/wiki/DBPR-AE056
+[2026-02-20 20:43:07] Requesting page => https://yugipedia.com/wiki/DBPR-AE056
+[2026-02-20 20:43:13] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:43:13] Parse Konami Id, contents => Index: 1 | Text: 5606 | Raw: 5606  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+[2026-02-20 20:43:13] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:43:13] Passcode => Item: PROPERTY | Equip
+[2026-02-20 20:43:13] Passcode => Item: PASSWORD | 71453557
+[2026-02-20 20:43:13] Item => Setcode: DBPR-AE056 | URL: https://yugipedia.com/wiki/DBPR-AE056 | Name: Autonomous Action Unit | Category: EQUIP SPELL
+[2026-02-20 20:43:13] ===================================================================================================
+[2026-02-20 20:43:14] Searching passcode for https://yugipedia.com/wiki/DBPR-AE057
+[2026-02-20 20:43:14] Requesting page => https://yugipedia.com/wiki/DBPR-AE057
+[2026-02-20 20:43:15] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:43:15] Parse Konami Id, contents => Index: 1 | Text: 5431 | Raw: 5431  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:43:15] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:43:15] Passcode => Item: PROPERTY | Normal
+[2026-02-20 20:43:15] Passcode => Item: PASSWORD | 38699854
+[2026-02-20 20:43:15] Item => Setcode: DBPR-AE057 | URL: https://yugipedia.com/wiki/DBPR-AE057 | Name: Book of Taiyou | Category: NORMAL SPELL
+[2026-02-20 20:43:15] ===================================================================================================
+[2026-02-20 20:43:16] Searching passcode for https://yugipedia.com/wiki/DBPR-AE058
+[2026-02-20 20:43:16] Requesting page => https://yugipedia.com/wiki/DBPR-AE058
+[2026-02-20 20:43:16] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:43:16] Parse Konami Id, contents => Index: 1 | Text: 17231 | Raw: 17231  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:43:16] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:43:16] Passcode => Item: PROPERTY | Quick-Play
+[2026-02-20 20:43:16] Passcode => Item: PASSWORD | 19739265
+[2026-02-20 20:43:16] Item => Setcode: DBPR-AE058 | URL: https://yugipedia.com/wiki/DBPR-AE058 | Name: Sol and Luna | Category: QUICK-PLAY SPELL
+[2026-02-20 20:43:16] ===================================================================================================
+[2026-02-20 20:43:17] Searching passcode for https://yugipedia.com/wiki/DBPR-AE059
+[2026-02-20 20:43:17] Requesting page => https://yugipedia.com/wiki/DBPR-AE059
+[2026-02-20 20:43:22] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:43:23] Parse Konami Id, contents => Index: 1 | Text: 17824 | Raw: 17824  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:43:23] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:43:23] Passcode => Item: PROPERTY | Continuous
+[2026-02-20 20:43:23] Passcode => Item: PASSWORD | 06589707
+[2026-02-20 20:43:23] Item => Setcode: DBPR-AE059 | URL: https://yugipedia.com/wiki/DBPR-AE059 | Name: Terrors in the Hidden City | Category: CONTINUOUS SPELL
+[2026-02-20 20:43:23] ===================================================================================================
+[2026-02-20 20:43:24] Searching passcode for https://yugipedia.com/wiki/DBPR-AE060
+[2026-02-20 20:43:24] Requesting page => https://yugipedia.com/wiki/DBPR-AE060
+[2026-02-20 20:43:24] Passcode => Page downloaded. Parsing content
+[2026-02-20 20:43:24] Parse Konami Id, contents => Index: 1 | Text: 19831 | Raw: 19831  
+ja - rulings
+en
+fr
+de
+it
+pt
+es
+ae
+ko
+cn
+[2026-02-20 20:43:24] Passcode => Item: CARD TYPE | Spell
+[2026-02-20 20:43:24] Passcode => Item: PROPERTY | Continuous
+[2026-02-20 20:43:24] Passcode => Item: PASSWORD | 42510430
+[2026-02-20 20:43:24] Item => Setcode: DBPR-AE060 | URL: https://yugipedia.com/wiki/DBPR-AE060 | Name: Sunset Beat | Category: CONTINUOUS SPELL
+[2026-02-20 20:43:24] ===================================================================================================
+[2026-02-20 20:43:25] Creating output json file for set 'DBPR-AE' => output/AE_DBPR-AE.json
+[2026-02-20 20:43:25] Saving Card List to JSON file => output/AE_DBPR-AE.json
+[2026-02-20 20:43:25] Successfully created json file.
+[2026-02-20 20:43:25] ===================================================================================================
+[2026-02-20 20:43:27] Set details => Burst Protocol | https://yugipedia.com/wiki/Burst_Protocol
+[2026-02-20 20:43:27] Skipped : Set 'BPRO-AE' is still unreleased. Release date: 2026-03-28
+[2026-02-20 20:43:27] Set details => Creation Pack 11 | https://yugipedia.com/wiki/Creation_Pack_11
+[2026-02-20 20:43:27] Skipped : Set 'CR11-AE' is still unreleased. Release date: 2026-04-11
+[2026-02-20 20:43:27] Set details => Blazing Dominion | https://yugipedia.com/wiki/Blazing_Dominion
+[2026-02-20 20:43:27] Skipped : Set 'BLZD-AE' is still unreleased. Release date: 2026-05-16
+[2026-02-20 20:43:27] Set details => Essential Selection 02 | https://yugipedia.com/wiki/Essential_Selection_02
+[2026-02-20 20:43:27] Skipped : Set 'ES02-AE' is still unreleased. Release date: 2026-06-13
+[2026-02-20 20:43:27] Requesting page => https://dawnbrandbots.github.io/yaml-yugi-limit-regulation/ocg-ae/current.vector.json
+[2026-02-20 20:43:27] Banlist => Parsed JSON file.
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4518 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4678 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4842 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4844 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4851 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4885 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4891 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4900 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4901 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4907 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4910 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4911 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4960 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 4966 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5123 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5127 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5195 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5236 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5328 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5371 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5389 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5399 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5406 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5433 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5446 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5537 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5539 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5605 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5622 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5657 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5671 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5724 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5740 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 5906 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 6161 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 6444 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 6708 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 7652 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 7934 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 8197 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 9455 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 10354 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 10992 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 11384 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 12070 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 12337 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 12950 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 13619 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 13622 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 13824 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 14144 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 14496 | Limit: 0
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 14627 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 14740 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 15756 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 17381 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 18727 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 19027 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 19148 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 19149 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 19196 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 19467 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 19859 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 19900 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 20196 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 20240 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 20572 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 20574 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 20575 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 20582 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 20584 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 20588 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 21160 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 21361 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 21365 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 21371 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 21376 | Limit: 2
+[2026-02-20 20:43:27] Banlist, Limit Count => Konami Id: 21377 | Limit: 1
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_RC04-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CH02-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SDID-AEP.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_GBI.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SDSS-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_WCS-AE5.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_24AT-AE4.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR08-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SUDA-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DCR.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR01-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR08-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SDK.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR06-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR04-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_IOC-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SDID-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SDY.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CRV-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR04-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR10-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_25YC-AET.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_2014-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DOOD-AEC.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR02-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_TT02-AEB.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_ROTA-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR07-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_2013-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_24CC-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_INFO-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_WCPS-AE8.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_25AT-AE1.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR09-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_TFTV-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SDRB-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_WCPS-AE9.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_INFO-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_LOD.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DUNE-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_25AT-AE4.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_LEDE-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_PHNI-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_PHNI-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_25YC-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_24AT-AE5.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_PGD.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_WCS-AE4.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_25AT-AE2.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_25AT-AE3.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DI02-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_RDS-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR01-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR03-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_MRD.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SOI-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR10-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_WCPS-AE6.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR03-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR09-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SSD1-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SDSS-AEP.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR06-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_24AT-AE1.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_2010-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_2011-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SSD2-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_24AT-AE3.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SLF1-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CH01-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_MRL.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_TT02-AEA.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DOOD-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_ROTA-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DBJH-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR05-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_ALIN-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_WCS.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_AGOV-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_EOJ-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SD16-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SUDA-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_2015-JPP.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_PSV.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CRMS-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DI01-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DBPR-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DOOD-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR05-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_AGOV-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_2012-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DUNE-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_LON.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_MFC.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_24AT-AE2.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_BN01-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_FET-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_WCPS-AE7.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_ES01-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR07-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_EEN-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_ALIN-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_24OT-AESG.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_RGBT-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_TLM-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DUAD-AES.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SOD-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DBCB-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_LOB.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_SDRB-AEP.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_DUAD-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_AST-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_LEDE-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, Set File => Filename: output/AE_CR02-AE.json
+[2026-02-20 20:43:27] Banlist, Set File => JSON file parsed.
+[2026-02-20 20:43:27] Banlist, Set File => CardData processed.
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Maxx "C"
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Ash Blossom & Joyous Spring
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Dimension Shifter
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Herald of the Arc Light
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Reinforcement of the Army
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Pre-Preparation of Rites
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Called by the Grave
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Pot of Extravagance
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Pot of Prosperity
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Summon Limit
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Crossout Designator
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Butterfly Dagger - Elma
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Skill Drain
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Runick Fountain
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Monster Reborn
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Ultimate Offering
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | PSY-Framegear Gamma
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Dimension Fusion
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Last Will
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Magical Explosion
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Vanquish Soul Razen
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Fiendsmith Engraver
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Fiendsmith's Tract
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Harpie's Feather Duster
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Foolish Burial
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Terraforming
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | One for One
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Fiber Jar
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Smoke Grenade of the Thief
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Royal Oppression
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Last Turn
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Snake-Eyes Poplar
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Bonfire
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Mirage of Nightmare
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Trap Dustshoot
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Metamorphosis
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Heavy Storm
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Kaiser Colosseum
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Red Reboot
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Gozen Match
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Gold Sarcophagus
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Confiscation
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Delinquent Duo
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | The Forceful Sentry
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Giant Trunade
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Painful Choice
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Ketu Dracotail
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Cupsy☆Yummy
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Yummy★Snatchy
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Obedience Schooled
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | K9-17 Izuna
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | K9-66a Jokul
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Number 67: Pair-a-Dice Smasher
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Maliss <P> March Hare
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Diabellstar the Black Witch
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Snake-Eye Ash
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | WANTED: Seeker of Sinful Spoils
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Life Equalizer
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Premature Burial
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Cold Wave
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Imperial Order
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Card of Safe Return
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Amazoness Archer
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Rivalry of Warlords
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Magical Scientist
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Mass Driver
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Abyss Dweller
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Apollousa, Bow of the Goddess
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Sword Ryzeal
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 2 | Ice Ryzeal
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Ext Ryzeal
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Maliss <P> White Rabbit
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Maliss <P> Dormouse
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Maliss in Underground
+[2026-02-20 20:43:27] Banlist, CONF => Card is banned | Pot of Greed
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Tenpai Dragon Chundra
+[2026-02-20 20:43:27] Banlist, CONF => Card is restricted to 1 | Sangen Summoning
+[2026-02-20 20:43:27] Elapsed minutes: 12.090077205499012

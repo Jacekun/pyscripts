@@ -2237,9 +2237,45 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Creation Pack 11"
+        },
+        "Blazing Dominion": {
+            "printouts": {
+                "Prefix": [
+                    "BLZD-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1778889600",
+                        "raw": "1/2026/5/16"
+                    }
+                ]
+            },
+            "fulltext": "Blazing Dominion",
+            "fullurl": "https://yugipedia.com/wiki/Blazing_Dominion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Blazing Dominion"
+        },
+        "Essential Selection 02": {
+            "printouts": {
+                "Prefix": [
+                    "ES02-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1781308800",
+                        "raw": "1/2026/6/13"
+                    }
+                ]
+            },
+            "fulltext": "Essential Selection 02",
+            "fullurl": "https://yugipedia.com/wiki/Essential_Selection_02",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 123
+    "rows": 125
 }
