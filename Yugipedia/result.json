@@ -2220,6 +2220,24 @@
             "exists": "1",
             "displaytitle": "Burst Protocol"
         },
+        "Burst Protocol Complement Pack": {
+            "printouts": {
+                "Prefix": [
+                    "BPRO-AEC"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1774656000",
+                        "raw": "1/2026/3/28"
+                    }
+                ]
+            },
+            "fulltext": "Burst Protocol Complement Pack",
+            "fullurl": "https://yugipedia.com/wiki/Burst_Protocol_Complement_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Burst Protocol Complement Pack"
+        },
         "Creation Pack 11": {
             "printouts": {
                 "Prefix": [
@@ -2277,5 +2295,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 125
+    "rows": 126
 }
