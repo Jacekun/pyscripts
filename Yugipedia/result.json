@@ -2220,6 +2220,24 @@
             "exists": "1",
             "displaytitle": "Burst Protocol"
         },
+        "Burst Protocol +1 Assist Pack": {
+            "printouts": {
+                "Prefix": [
+                    "BPRO-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1774656000",
+                        "raw": "1/2026/3/28"
+                    }
+                ]
+            },
+            "fulltext": "Burst Protocol +1 Assist Pack",
+            "fullurl": "https://yugipedia.com/wiki/Burst_Protocol_%2B1_Assist_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Burst Protocol +1 Assist Pack"
+        },
         "Burst Protocol Complement Pack": {
             "printouts": {
                 "Prefix": [
@@ -2291,9 +2309,27 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Essential Selection 02"
+        },
+        "Creation Pack 12": {
+            "printouts": {
+                "Prefix": [
+                    "CR12-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1783728000",
+                        "raw": "1/2026/7/11"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 12",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_12",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 126
+    "rows": 128
 }
