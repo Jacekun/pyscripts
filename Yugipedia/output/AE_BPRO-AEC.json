@@ -1,0 +1,642 @@
+[
+    {
+        "name": "Anesthrokket Dragon",
+        "passcode": 53266486,
+        "konami_id": 13225,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC01",
+        "set_number": "BPRO-AEC01",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Autorokket Dragon",
+        "passcode": 80250185,
+        "konami_id": 13226,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC02",
+        "set_number": "BPRO-AEC02",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Shelrokket Dragon",
+        "passcode": 5087128,
+        "konami_id": 13377,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC03",
+        "set_number": "BPRO-AEC03",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Metalrokket Dragon",
+        "passcode": 32472237,
+        "konami_id": 13378,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC04",
+        "set_number": "BPRO-AEC04",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Speedburst Dragon",
+        "passcode": 12950294,
+        "konami_id": 14083,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC05",
+        "set_number": "BPRO-AEC05",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Exploderokket Dragon",
+        "passcode": 31353051,
+        "konami_id": 14617,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC06",
+        "set_number": "BPRO-AEC06",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Double Disruptor Dragon",
+        "passcode": 93612434,
+        "konami_id": 16488,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC07",
+        "set_number": "BPRO-AEC07",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Outburst Dragon",
+        "passcode": 87263576,
+        "konami_id": 16723,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC08",
+        "set_number": "BPRO-AEC08",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Squib Draw",
+        "passcode": 54458867,
+        "konami_id": 13271,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC09",
+        "set_number": "BPRO-AEC09",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Borrel Supplier",
+        "passcode": 30131474,
+        "konami_id": 14620,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC10",
+        "set_number": "BPRO-AEC10",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Rapid Trigger",
+        "passcode": 67526112,
+        "konami_id": 14621,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC11",
+        "set_number": "BPRO-AEC11",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Bayonet Punisher",
+        "passcode": 36092504,
+        "konami_id": 14786,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC12",
+        "set_number": "BPRO-AEC12",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Twin Triangle Dragon",
+        "passcode": 66015185,
+        "konami_id": 13262,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC13",
+        "set_number": "BPRO-AEC13",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Overburst Dragon",
+        "passcode": 15627227,
+        "konami_id": 13342,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC14",
+        "set_number": "BPRO-AEC14",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Miniborrel Dragon",
+        "passcode": 73341839,
+        "konami_id": 13756,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC15",
+        "set_number": "BPRO-AEC15",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Flash Charge Dragon",
+        "passcode": 95372220,
+        "konami_id": 13838,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC16",
+        "set_number": "BPRO-AEC16",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Borrel Cooling",
+        "passcode": 62753201,
+        "konami_id": 13439,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC17",
+        "set_number": "BPRO-AEC17",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Link Turret",
+        "passcode": 55034079,
+        "konami_id": 13786,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC18",
+        "set_number": "BPRO-AEC18",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Execute Protocols",
+        "passcode": 20419926,
+        "konami_id": 14623,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC19",
+        "set_number": "BPRO-AEC19",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Detonation Code",
+        "passcode": 41348446,
+        "konami_id": 16557,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC20",
+        "set_number": "BPRO-AEC20",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Alpha The Magnet Warrior",
+        "passcode": 99785935,
+        "konami_id": 4744,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC21",
+        "set_number": "BPRO-AEC21",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Beta The Magnet Warrior",
+        "passcode": 39256679,
+        "konami_id": 4763,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC22",
+        "set_number": "BPRO-AEC22",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Gamma The Magnet Warrior",
+        "passcode": 11549357,
+        "konami_id": 4792,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC23",
+        "set_number": "BPRO-AEC23",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Magnet Induction",
+        "passcode": 54734082,
+        "konami_id": 16485,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC24",
+        "set_number": "BPRO-AEC24",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Magnetic Field",
+        "passcode": 4740489,
+        "konami_id": 12578,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC25",
+        "set_number": "BPRO-AEC25",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Magnet Reverse",
+        "passcode": 80352158,
+        "konami_id": 12568,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC26",
+        "set_number": "BPRO-AEC26",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Magnet Force",
+        "passcode": 17841166,
+        "konami_id": 12569,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC27",
+        "set_number": "BPRO-AEC27",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Magnet Conversion",
+        "passcode": 77133792,
+        "konami_id": 12580,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC28",
+        "set_number": "BPRO-AEC28",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Water Dragon",
+        "passcode": 85066822,
+        "konami_id": 6481,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC29",
+        "set_number": "BPRO-AEC29",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Water Dragon Cluster",
+        "passcode": 6022371,
+        "konami_id": 13188,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC30",
+        "set_number": "BPRO-AEC30",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Bonding - D2O",
+        "passcode": 79402185,
+        "konami_id": 13190,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC31",
+        "set_number": "BPRO-AEC31",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Bonding - DHO",
+        "passcode": 6890729,
+        "konami_id": 13191,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC32",
+        "set_number": "BPRO-AEC32",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Doomkaiser Dragon",
+        "passcode": 6021033,
+        "konami_id": 7848,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC33",
+        "set_number": "BPRO-AEC33",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Doomkaiser Dragon/Assault Mode",
+        "passcode": 1764972,
+        "konami_id": 8017,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC34",
+        "set_number": "BPRO-AEC34",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Colossal Fighter",
+        "passcode": 23693634,
+        "konami_id": 7698,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC35",
+        "set_number": "BPRO-AEC35",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Colossal Fighter/Assault Mode",
+        "passcode": 38898779,
+        "konami_id": 8138,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC36",
+        "set_number": "BPRO-AEC36",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Hyper Psychic Blaster/Assault Mode",
+        "passcode": 37169670,
+        "konami_id": 8018,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC37",
+        "set_number": "BPRO-AEC37",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Arcanite Magician/Assault Mode",
+        "passcode": 14553285,
+        "konami_id": 8019,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC38",
+        "set_number": "BPRO-AEC38",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Assault Mode Zero",
+        "passcode": 88332693,
+        "konami_id": 14305,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC39",
+        "set_number": "BPRO-AEC39",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Assault Reboot",
+        "passcode": 74431740,
+        "konami_id": 14320,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC40",
+        "set_number": "BPRO-AEC40",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Jade Knight",
+        "passcode": 44364207,
+        "konami_id": 7843,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC41",
+        "set_number": "BPRO-AEC41",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Falchion\u03b2",
+        "passcode": 86170989,
+        "konami_id": 8330,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC42",
+        "set_number": "BPRO-AEC42",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Lord British Space Fighter",
+        "passcode": 35514096,
+        "konami_id": 8470,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC43",
+        "set_number": "BPRO-AEC43",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Delta Tri",
+        "passcode": 12079734,
+        "konami_id": 8806,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC44",
+        "set_number": "BPRO-AEC44",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "DUCKER Mobile Cannon",
+        "passcode": 14506878,
+        "konami_id": 7610,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC45",
+        "set_number": "BPRO-AEC45",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Ambitious Gofer",
+        "passcode": 41224658,
+        "konami_id": 8967,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC46",
+        "set_number": "BPRO-AEC46",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "B.E.S. Crystal Core",
+        "passcode": 22790789,
+        "konami_id": 6419,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC47",
+        "set_number": "BPRO-AEC47",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "B.E.S. Blaster Cannon Core",
+        "passcode": 84257883,
+        "konami_id": 14471,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC48",
+        "set_number": "BPRO-AEC48",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Vic Viper T301",
+        "passcode": 10642488,
+        "konami_id": 14472,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC49",
+        "set_number": "BPRO-AEC49",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "B.E.S. Big Core",
+        "passcode": 14148099,
+        "konami_id": 6199,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC50",
+        "set_number": "BPRO-AEC50",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "B.E.S. Big Core MK-2",
+        "passcode": 75937826,
+        "konami_id": 7678,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC51",
+        "set_number": "BPRO-AEC51",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "B.E.S. Big Core MK-3",
+        "passcode": 82821760,
+        "konami_id": 12946,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC52",
+        "set_number": "BPRO-AEC52",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Penguin Soldier",
+        "passcode": 93920745,
+        "konami_id": 4608,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC53",
+        "set_number": "BPRO-AEC53",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Penguin Torpedo",
+        "passcode": 17679043,
+        "konami_id": 5807,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC54",
+        "set_number": "BPRO-AEC54",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "The Great Emperor Penguin",
+        "passcode": 6836211,
+        "konami_id": 9654,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC55",
+        "set_number": "BPRO-AEC55",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Puny Penguin",
+        "passcode": 76442347,
+        "konami_id": 10259,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC56",
+        "set_number": "BPRO-AEC56",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Nopenguin",
+        "passcode": 32623004,
+        "konami_id": 11066,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC57",
+        "set_number": "BPRO-AEC57",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Glacial Beast Polar Penguin",
+        "passcode": 79169622,
+        "konami_id": 15390,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC58",
+        "set_number": "BPRO-AEC58",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Penguin Brave",
+        "passcode": 91397409,
+        "konami_id": 15518,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC59",
+        "set_number": "BPRO-AEC59",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Penguin Sword",
+        "passcode": 69792699,
+        "konami_id": 16404,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC60",
+        "set_number": "BPRO-AEC60",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Penguin Squire",
+        "passcode": 14761450,
+        "konami_id": 16510,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC61",
+        "set_number": "BPRO-AEC61",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Penguin Ninja",
+        "passcode": 41255165,
+        "konami_id": 16511,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC62",
+        "set_number": "BPRO-AEC62",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Penguin Cleric",
+        "passcode": 73640163,
+        "konami_id": 16512,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC63",
+        "set_number": "BPRO-AEC63",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    },
+    {
+        "name": "Royal Penguins Garden",
+        "passcode": 80893872,
+        "konami_id": 16549,
+        "wikilink": "https://yugipedia.com/wiki/BPRO-AEC64",
+        "set_number": "BPRO-AEC64",
+        "set_name": "Burst Protocol Complement Pack",
+        "rarity": "Common",
+        "date_release": "28 MARCH 2026"
+    }
+]
