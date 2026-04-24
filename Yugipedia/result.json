@@ -2328,6 +2328,24 @@
             "exists": "1",
             "displaytitle": "Blazing Dominion"
         },
+        "Blazing Dominion Complement Pack": {
+            "printouts": {
+                "Prefix": [
+                    "BLZD-AEC"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1778889600",
+                        "raw": "1/2026/5/16"
+                    }
+                ]
+            },
+            "fulltext": "Blazing Dominion Complement Pack",
+            "fullurl": "https://yugipedia.com/wiki/Blazing_Dominion_Complement_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Blazing Dominion Complement Pack"
+        },
         "Essential Selection 02": {
             "printouts": {
                 "Prefix": [
@@ -2367,5 +2385,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 130
+    "rows": 131
 }
