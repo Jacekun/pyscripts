@@ -2328,6 +2328,24 @@
             "exists": "1",
             "displaytitle": "Blazing Dominion"
         },
+        "Blazing Dominion +1 Assist Pack": {
+            "printouts": {
+                "Prefix": [
+                    "BLZD-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1778889600",
+                        "raw": "1/2026/5/16"
+                    }
+                ]
+            },
+            "fulltext": "Blazing Dominion +1 Assist Pack",
+            "fullurl": "https://yugipedia.com/wiki/Blazing_Dominion_%2B1_Assist_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Blazing Dominion +1 Assist Pack"
+        },
         "Blazing Dominion Complement Pack": {
             "printouts": {
                 "Prefix": [
@@ -2385,5 +2403,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 131
+    "rows": 132
 }
