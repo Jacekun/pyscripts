@@ -1,0 +1,2202 @@
+[
+    {
+        "name": "Darkness Resonator",
+        "passcode": 83445539,
+        "konami_id": 22510,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE001",
+        "set_number": "BLZD-AE001",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Power Vice Dragon",
+        "passcode": 19434243,
+        "konami_id": 22511,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE002",
+        "set_number": "BLZD-AE002",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Power Vice Dragon",
+        "passcode": 19434243,
+        "konami_id": 22511,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE002",
+        "set_number": "BLZD-AE002",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Power Vice Dragon",
+        "passcode": 19434243,
+        "konami_id": 22511,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE002",
+        "set_number": "BLZD-AE002",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fiend Piece Golem",
+        "passcode": 0,
+        "konami_id": 0,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE003",
+        "set_number": "BLZD-AE003",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Nova Dragon/Assault Mode",
+        "passcode": 82323997,
+        "konami_id": 22513,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE004",
+        "set_number": "BLZD-AE004",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Assault Sonic Warrior",
+        "passcode": 18711696,
+        "konami_id": 22514,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE005",
+        "set_number": "BLZD-AE005",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Heavy Armored Knight Babeldecker",
+        "passcode": 45116390,
+        "konami_id": 22515,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE006",
+        "set_number": "BLZD-AE006",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Night Train Blue Traveler",
+        "passcode": 81101309,
+        "konami_id": 22516,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE007",
+        "set_number": "BLZD-AE007",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Lilizard",
+        "passcode": 18595008,
+        "konami_id": 22517,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE008",
+        "set_number": "BLZD-AE008",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Longinephila",
+        "passcode": 44994712,
+        "konami_id": 22518,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE009",
+        "set_number": "BLZD-AE009",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Vidolium the Unstable Power Patron of Unity",
+        "passcode": 70488851,
+        "konami_id": 22519,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE010",
+        "set_number": "BLZD-AE010",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Vidolium the Unstable Power Patron of Unity",
+        "passcode": 70488851,
+        "konami_id": 22519,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE010",
+        "set_number": "BLZD-AE010",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Vidolium the Unstable Power Patron of Unity",
+        "passcode": 70488851,
+        "konami_id": 22519,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE010",
+        "set_number": "BLZD-AE010",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Nervedo the Shadebeast Power Patron",
+        "passcode": 17473466,
+        "konami_id": 22520,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE011",
+        "set_number": "BLZD-AE011",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Nervedo the Shadebeast Power Patron",
+        "passcode": 17473466,
+        "konami_id": 22520,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE011",
+        "set_number": "BLZD-AE011",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Nervedo the Shadebeast Power Patron",
+        "passcode": 17473466,
+        "konami_id": 22520,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE011",
+        "set_number": "BLZD-AE011",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Jupredo the Shademachine Power Patron",
+        "passcode": 43871165,
+        "konami_id": 22521,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE012",
+        "set_number": "BLZD-AE012",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Jupredo the Shademachine Power Patron",
+        "passcode": 43871165,
+        "konami_id": 22521,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE012",
+        "set_number": "BLZD-AE012",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Jupredo the Shademachine Power Patron",
+        "passcode": 43871165,
+        "konami_id": 22521,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE012",
+        "set_number": "BLZD-AE012",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junoldo the Shadespirit Power Patron",
+        "passcode": 10266279,
+        "konami_id": 22522,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE013",
+        "set_number": "BLZD-AE013",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junoldo the Shadespirit Power Patron",
+        "passcode": 10266279,
+        "konami_id": 22522,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE013",
+        "set_number": "BLZD-AE013",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junoldo the Shadespirit Power Patron",
+        "passcode": 10266279,
+        "konami_id": 22522,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE013",
+        "set_number": "BLZD-AE013",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Elfnote Regina",
+        "passcode": 56651978,
+        "konami_id": 22523,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE014",
+        "set_number": "BLZD-AE014",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Elfnote Regina",
+        "passcode": 56651978,
+        "konami_id": 22523,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE014",
+        "set_number": "BLZD-AE014",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Elfnote Regina",
+        "passcode": 56651978,
+        "konami_id": 22523,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE014",
+        "set_number": "BLZD-AE014",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Biancaviso",
+        "passcode": 82159583,
+        "konami_id": 22524,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE015",
+        "set_number": "BLZD-AE015",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Biancaviso",
+        "passcode": 82159583,
+        "konami_id": 22524,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE015",
+        "set_number": "BLZD-AE015",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Biancaviso",
+        "passcode": 82159583,
+        "konami_id": 22524,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE015",
+        "set_number": "BLZD-AE015",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fairy Tail - Matchgiru",
+        "passcode": 19144622,
+        "konami_id": 22525,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE016",
+        "set_number": "BLZD-AE016",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fairy Tail - Matchgiru",
+        "passcode": 19144622,
+        "konami_id": 22525,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE016",
+        "set_number": "BLZD-AE016",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fairy Tail - Matchgiru",
+        "passcode": 19144622,
+        "konami_id": 22525,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE016",
+        "set_number": "BLZD-AE016",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mimighoul Flower",
+        "passcode": 82933935,
+        "konami_id": 22527,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE017",
+        "set_number": "BLZD-AE017",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Hecahands Mankibuel",
+        "passcode": 18321034,
+        "konami_id": 22528,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE018",
+        "set_number": "BLZD-AE018",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Hecahands Mankibuel",
+        "passcode": 18321034,
+        "konami_id": 22528,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE018",
+        "set_number": "BLZD-AE018",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Hecahands Mankibuel",
+        "passcode": 18321034,
+        "konami_id": 22528,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE018",
+        "set_number": "BLZD-AE018",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Trito Enneacraft - \"exapatisIA\"",
+        "passcode": 44716748,
+        "konami_id": 22529,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE019",
+        "set_number": "BLZD-AE019",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Enneacraft - Atil.SPIA",
+        "passcode": 71801447,
+        "konami_id": 22530,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE020",
+        "set_number": "BLZD-AE020",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Enneacraft - Atil.SPIA",
+        "passcode": 71801447,
+        "konami_id": 22530,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE020",
+        "set_number": "BLZD-AE020",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Enneacraft - Atil.SPIA",
+        "passcode": 71801447,
+        "konami_id": 22530,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE020",
+        "set_number": "BLZD-AE020",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune Rotary",
+        "passcode": 17209452,
+        "konami_id": 22531,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE021",
+        "set_number": "BLZD-AE021",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune Rotary",
+        "passcode": 17209452,
+        "konami_id": 22531,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE021",
+        "set_number": "BLZD-AE021",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune Rotary",
+        "passcode": 17209452,
+        "konami_id": 22531,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE021",
+        "set_number": "BLZD-AE021",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Spiritual Art Familiars",
+        "passcode": 45538320,
+        "konami_id": 22526,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE022",
+        "set_number": "BLZD-AE022",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fleeting Phantom Mask Master",
+        "passcode": 44694191,
+        "konami_id": 22532,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE023",
+        "set_number": "BLZD-AE023",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fleeting Phantom Mask Master",
+        "passcode": 44694191,
+        "konami_id": 22532,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE023",
+        "set_number": "BLZD-AE023",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fleeting Phantom Mask Master",
+        "passcode": 44694191,
+        "konami_id": 22532,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE023",
+        "set_number": "BLZD-AE023",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fydraulis Harmonia",
+        "passcode": 70088809,
+        "konami_id": 22533,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE024",
+        "set_number": "BLZD-AE024",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fydraulis Harmonia",
+        "passcode": 70088809,
+        "konami_id": 22533,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE024",
+        "set_number": "BLZD-AE024",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fydraulis Harmonia",
+        "passcode": 70088809,
+        "konami_id": 22533,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE024",
+        "set_number": "BLZD-AE024",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fydraulis Harmonia",
+        "passcode": 70088809,
+        "konami_id": 22533,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE024",
+        "set_number": "BLZD-AE024",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fydraulis Harmonia",
+        "passcode": 70088809,
+        "konami_id": 22533,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE024",
+        "set_number": "BLZD-AE024",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Diabrocken the Ominous Specter",
+        "passcode": 6083904,
+        "konami_id": 22534,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE025",
+        "set_number": "BLZD-AE025",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Convex Knight",
+        "passcode": 43471513,
+        "konami_id": 22535,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE026",
+        "set_number": "BLZD-AE026",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Princess Dracaena, the Thirsting Tree",
+        "passcode": 79966218,
+        "konami_id": 22536,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE027",
+        "set_number": "BLZD-AE027",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Princess Dracaena, the Thirsting Tree",
+        "passcode": 79966218,
+        "konami_id": 22536,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE027",
+        "set_number": "BLZD-AE027",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Princess Dracaena, the Thirsting Tree",
+        "passcode": 79966218,
+        "konami_id": 22536,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE027",
+        "set_number": "BLZD-AE027",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "WAKE CUP! Kuro",
+        "passcode": 6361316,
+        "konami_id": 22537,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE028",
+        "set_number": "BLZD-AE028",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "WAKE CUP! Kuro",
+        "passcode": 6361316,
+        "konami_id": 22537,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE028",
+        "set_number": "BLZD-AE028",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "WAKE CUP! Kuro",
+        "passcode": 6361316,
+        "konami_id": 22537,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE028",
+        "set_number": "BLZD-AE028",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Flair",
+        "passcode": 42759961,
+        "konami_id": 22538,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE029",
+        "set_number": "BLZD-AE029",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Flair",
+        "passcode": 42759961,
+        "konami_id": 22538,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE029",
+        "set_number": "BLZD-AE029",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Flair",
+        "passcode": 42759961,
+        "konami_id": 22538,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE029",
+        "set_number": "BLZD-AE029",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Archfiend Matriarch",
+        "passcode": 78744660,
+        "konami_id": 22539,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE030",
+        "set_number": "BLZD-AE030",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Starving Venom Wing Dragon",
+        "passcode": 5148778,
+        "konami_id": 22540,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE031",
+        "set_number": "BLZD-AE031",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Starving Venom Wing Dragon",
+        "passcode": 5148778,
+        "konami_id": 22540,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE031",
+        "set_number": "BLZD-AE031",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Starving Venom Wing Dragon",
+        "passcode": 5148778,
+        "konami_id": 22540,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE031",
+        "set_number": "BLZD-AE031",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Diabolo",
+        "passcode": 31533473,
+        "konami_id": 22541,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE032",
+        "set_number": "BLZD-AE032",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Weaver of Fairy Tails",
+        "passcode": 78021082,
+        "konami_id": 22542,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE033",
+        "set_number": "BLZD-AE033",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Weaver of Fairy Tails",
+        "passcode": 78021082,
+        "konami_id": 22542,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE033",
+        "set_number": "BLZD-AE033",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Weaver of Fairy Tails",
+        "passcode": 78021082,
+        "konami_id": 22542,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE033",
+        "set_number": "BLZD-AE033",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Teller of Fairy Tails",
+        "passcode": 4026187,
+        "konami_id": 22543,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE034",
+        "set_number": "BLZD-AE034",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Teller of Fairy Tails",
+        "passcode": 4026187,
+        "konami_id": 22543,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE034",
+        "set_number": "BLZD-AE034",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Teller of Fairy Tails",
+        "passcode": 4026187,
+        "konami_id": 22543,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE034",
+        "set_number": "BLZD-AE034",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Hecahands Dandalos",
+        "passcode": 31411835,
+        "konami_id": 22544,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE035",
+        "set_number": "BLZD-AE035",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "The Crimson King",
+        "passcode": 67809530,
+        "konami_id": 22545,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE036",
+        "set_number": "BLZD-AE036",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "The Crimson King",
+        "passcode": 67809530,
+        "konami_id": 22545,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE036",
+        "set_number": "BLZD-AE036",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "The Crimson King",
+        "passcode": 67809530,
+        "konami_id": 22545,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE036",
+        "set_number": "BLZD-AE036",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "The Crimson King",
+        "passcode": 67809530,
+        "konami_id": 22545,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE036",
+        "set_number": "BLZD-AE036",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "The Crimson King",
+        "passcode": 67809530,
+        "konami_id": 22545,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE036",
+        "set_number": "BLZD-AE036",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Crimson Blade Dragon",
+        "passcode": 3294539,
+        "konami_id": 22546,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE037",
+        "set_number": "BLZD-AE037",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Hypernova Dragon",
+        "passcode": 30698243,
+        "konami_id": 22547,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE038",
+        "set_number": "BLZD-AE038",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultimate Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Hypernova Dragon",
+        "passcode": 30698243,
+        "konami_id": 22547,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE038",
+        "set_number": "BLZD-AE038",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Hypernova Dragon",
+        "passcode": 30698243,
+        "konami_id": 22547,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE038",
+        "set_number": "BLZD-AE038",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Hypernova Dragon",
+        "passcode": 30698243,
+        "konami_id": 22547,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE038",
+        "set_number": "BLZD-AE038",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Hypernova Dragon",
+        "passcode": 30698243,
+        "konami_id": 22547,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE038",
+        "set_number": "BLZD-AE038",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Bal Teah",
+        "passcode": 66787942,
+        "konami_id": 22548,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE039",
+        "set_number": "BLZD-AE039",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Meteor",
+        "passcode": 93172951,
+        "konami_id": 22549,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE040",
+        "set_number": "BLZD-AE040",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune Crackle",
+        "passcode": 39576656,
+        "konami_id": 22550,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE041",
+        "set_number": "BLZD-AE041",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune B2B",
+        "passcode": 65961304,
+        "konami_id": 22551,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE042",
+        "set_number": "BLZD-AE042",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultimate Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune B2B",
+        "passcode": 65961304,
+        "konami_id": 22551,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE042",
+        "set_number": "BLZD-AE042",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune B2B",
+        "passcode": 65961304,
+        "konami_id": 22551,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE042",
+        "set_number": "BLZD-AE042",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune B2B",
+        "passcode": 65961304,
+        "konami_id": 22551,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE042",
+        "set_number": "BLZD-AE042",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kewl Tune B2B",
+        "passcode": 65961304,
+        "konami_id": 22551,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE042",
+        "set_number": "BLZD-AE042",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Superdreadnought Rail Cannon Gustav Rocket",
+        "passcode": 92359409,
+        "konami_id": 22552,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE043",
+        "set_number": "BLZD-AE043",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Superdreadnought Rail Cannon Gustav Rocket",
+        "passcode": 92359409,
+        "konami_id": 22552,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE043",
+        "set_number": "BLZD-AE043",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Superdreadnought Rail Cannon Gustav Rocket",
+        "passcode": 92359409,
+        "konami_id": 22552,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE043",
+        "set_number": "BLZD-AE043",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Superdreadnought Rail Cannon Flying Launcher",
+        "passcode": 38354018,
+        "konami_id": 22553,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE044",
+        "set_number": "BLZD-AE044",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Superdreadnought Rail Cannon Flying Launcher",
+        "passcode": 38354018,
+        "konami_id": 22553,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE044",
+        "set_number": "BLZD-AE044",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Superdreadnought Rail Cannon Flying Launcher",
+        "passcode": 38354018,
+        "konami_id": 22553,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE044",
+        "set_number": "BLZD-AE044",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "DoomZ XIII Over - Graflareio",
+        "passcode": 65848113,
+        "konami_id": 22554,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE045",
+        "set_number": "BLZD-AE045",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Fiends",
+        "passcode": 91237821,
+        "konami_id": 22555,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE046",
+        "set_number": "BLZD-AE046",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fairy Tail - Wiccat",
+        "passcode": 27632520,
+        "konami_id": 22556,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE047",
+        "set_number": "BLZD-AE047",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fairy Tail - Wiccat",
+        "passcode": 27632520,
+        "konami_id": 22556,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE047",
+        "set_number": "BLZD-AE047",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fairy Tail - Wiccat",
+        "passcode": 27632520,
+        "konami_id": 22556,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE047",
+        "set_number": "BLZD-AE047",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dark Ceruvim Irisfil",
+        "passcode": 64626565,
+        "konami_id": 22557,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE048",
+        "set_number": "BLZD-AE048",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dark Ceruvim Irisfil",
+        "passcode": 64626565,
+        "konami_id": 22557,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE048",
+        "set_number": "BLZD-AE048",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dark Ceruvim Irisfil",
+        "passcode": 64626565,
+        "konami_id": 22557,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE048",
+        "set_number": "BLZD-AE048",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Breachborrel Dragon",
+        "passcode": 90011273,
+        "konami_id": 22558,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE049",
+        "set_number": "BLZD-AE049",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Charmer Quartet in Bloom",
+        "passcode": 27519978,
+        "konami_id": 22559,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE050",
+        "set_number": "BLZD-AE050",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Charmer Quartet in Bloom",
+        "passcode": 27519978,
+        "konami_id": 22559,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE050",
+        "set_number": "BLZD-AE050",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Charmer Quartet in Bloom",
+        "passcode": 27519978,
+        "konami_id": 22559,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE050",
+        "set_number": "BLZD-AE050",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Rahamu, Envoy of the Sacred Tome",
+        "passcode": 53904087,
+        "konami_id": 22560,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE051",
+        "set_number": "BLZD-AE051",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Crimson Call",
+        "passcode": 99398682,
+        "konami_id": 22561,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE052",
+        "set_number": "BLZD-AE052",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Signal",
+        "passcode": 26387390,
+        "konami_id": 22562,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE053",
+        "set_number": "BLZD-AE053",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Exceptional Schedule",
+        "passcode": 52782439,
+        "konami_id": 22563,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE054",
+        "set_number": "BLZD-AE054",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaprimitive",
+        "passcode": 89176044,
+        "konami_id": 22564,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE055",
+        "set_number": "BLZD-AE055",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Prohibited Power Patron Portal - Terminus",
+        "passcode": 25661743,
+        "konami_id": 22565,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE056",
+        "set_number": "BLZD-AE056",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Prohibited Power Patron Portal - Terminus",
+        "passcode": 25661743,
+        "konami_id": 22565,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE056",
+        "set_number": "BLZD-AE056",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Prohibited Power Patron Portal - Terminus",
+        "passcode": 25661743,
+        "konami_id": 22565,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE056",
+        "set_number": "BLZD-AE056",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Plundered Power Patron Plane - Vidolia",
+        "passcode": 51669847,
+        "konami_id": 22566,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE057",
+        "set_number": "BLZD-AE057",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Plundered Power Patron Plane - Vidolia",
+        "passcode": 51669847,
+        "konami_id": 22566,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE057",
+        "set_number": "BLZD-AE057",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Plundered Power Patron Plane - Vidolia",
+        "passcode": 51669847,
+        "konami_id": 22566,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE057",
+        "set_number": "BLZD-AE057",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
+        "passcode": 84054556,
+        "konami_id": 22567,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE058",
+        "set_number": "BLZD-AE058",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Rehearsal",
+        "passcode": 20448151,
+        "konami_id": 22568,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE059",
+        "set_number": "BLZD-AE059",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Matinee Operatics",
+        "passcode": 57847269,
+        "konami_id": 22569,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE060",
+        "set_number": "BLZD-AE060",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Malabarisme",
+        "passcode": 83232904,
+        "konami_id": 22570,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE061",
+        "set_number": "BLZD-AE061",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Once Upon a Fairy Tail",
+        "passcode": 19326613,
+        "konami_id": 22571,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE062",
+        "set_number": "BLZD-AE062",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fairy Tail Ball",
+        "passcode": 56725612,
+        "konami_id": 22572,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE063",
+        "set_number": "BLZD-AE063",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Tails of the Fairy Tails",
+        "passcode": 82119326,
+        "konami_id": 22573,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE064",
+        "set_number": "BLZD-AE064",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Enneacraft Reset",
+        "passcode": 19504025,
+        "konami_id": 22574,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE065",
+        "set_number": "BLZD-AE065",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Possessed Destiny",
+        "passcode": 45508030,
+        "konami_id": 22575,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE066",
+        "set_number": "BLZD-AE066",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Possessed Destiny",
+        "passcode": 45508030,
+        "konami_id": 22575,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE066",
+        "set_number": "BLZD-AE066",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Possessed Destiny",
+        "passcode": 45508030,
+        "konami_id": 22575,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE066",
+        "set_number": "BLZD-AE066",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Archfiend's Usurpation",
+        "passcode": 82997779,
+        "konami_id": 22576,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE067",
+        "set_number": "BLZD-AE067",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "H.E.R.O. Flash!",
+        "passcode": 18482473,
+        "konami_id": 22577,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE068",
+        "set_number": "BLZD-AE068",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Super Duper Polymerization",
+        "passcode": 44886582,
+        "konami_id": 22578,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE069",
+        "set_number": "BLZD-AE069",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultimate Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Super Duper Polymerization",
+        "passcode": 44886582,
+        "konami_id": 22578,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE069",
+        "set_number": "BLZD-AE069",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Super Duper Polymerization",
+        "passcode": 44886582,
+        "konami_id": 22578,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE069",
+        "set_number": "BLZD-AE069",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Super Duper Polymerization",
+        "passcode": 44886582,
+        "konami_id": 22578,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE069",
+        "set_number": "BLZD-AE069",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Super Duper Polymerization",
+        "passcode": 44886582,
+        "konami_id": 22578,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE069",
+        "set_number": "BLZD-AE069",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fifty Fifty?",
+        "passcode": 71275181,
+        "konami_id": 22579,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE070",
+        "set_number": "BLZD-AE070",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "King's Resonance",
+        "passcode": 17269895,
+        "konami_id": 22580,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE071",
+        "set_number": "BLZD-AE071",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Artmage Impasto -Recapture-",
+        "passcode": 44654994,
+        "konami_id": 22581,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE072",
+        "set_number": "BLZD-AE072",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew Soiree Operations",
+        "passcode": 70058649,
+        "konami_id": 22582,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE073",
+        "set_number": "BLZD-AE073",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clown Crew New Face",
+        "passcode": 6547248,
+        "konami_id": 22583,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE074",
+        "set_number": "BLZD-AE074",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Hecahands Bait",
+        "passcode": 43932352,
+        "konami_id": 22584,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE075",
+        "set_number": "BLZD-AE075",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Northern Crossfire",
+        "passcode": 79936051,
+        "konami_id": 22585,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE076",
+        "set_number": "BLZD-AE076",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dominus Spark",
+        "passcode": 6325660,
+        "konami_id": 22586,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE077",
+        "set_number": "BLZD-AE077",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultimate Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dominus Spark",
+        "passcode": 6325660,
+        "konami_id": 22586,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE077",
+        "set_number": "BLZD-AE077",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dominus Spark",
+        "passcode": 6325660,
+        "konami_id": 22586,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE077",
+        "set_number": "BLZD-AE077",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dominus Spark",
+        "passcode": 6325660,
+        "konami_id": 22586,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE077",
+        "set_number": "BLZD-AE077",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dominus Spark",
+        "passcode": 6325660,
+        "konami_id": 22586,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE077",
+        "set_number": "BLZD-AE077",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Summon Shock",
+        "passcode": 42719764,
+        "konami_id": 22587,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE078",
+        "set_number": "BLZD-AE078",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Summon Shock",
+        "passcode": 42719764,
+        "konami_id": 22587,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE078",
+        "set_number": "BLZD-AE078",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Summon Shock",
+        "passcode": 42719764,
+        "konami_id": 22587,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE078",
+        "set_number": "BLZD-AE078",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Solemn Accusation",
+        "passcode": 78114463,
+        "konami_id": 22588,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE079",
+        "set_number": "BLZD-AE079",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Solemn Accusation",
+        "passcode": 78114463,
+        "konami_id": 22588,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE079",
+        "set_number": "BLZD-AE079",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Solemn Accusation",
+        "passcode": 78114463,
+        "konami_id": 22588,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE079",
+        "set_number": "BLZD-AE079",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Solving for Pendulum",
+        "passcode": 5208118,
+        "konami_id": 22589,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE080",
+        "set_number": "BLZD-AE080",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Nurikabe",
+        "passcode": 60681372,
+        "konami_id": 8886,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE081",
+        "set_number": "BLZD-AE081",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Glow-Up Bloom",
+        "passcode": 92964816,
+        "konami_id": 14058,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE082",
+        "set_number": "BLZD-AE082",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Jack-o-Bolan",
+        "passcode": 36016907,
+        "konami_id": 14835,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE083",
+        "set_number": "BLZD-AE083",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Obsessive Uvualoop",
+        "passcode": 98806751,
+        "konami_id": 14837,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE084",
+        "set_number": "BLZD-AE084",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Eda the Sun Magician",
+        "passcode": 96352326,
+        "konami_id": 15575,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE085",
+        "set_number": "BLZD-AE085",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Changshi the Spiridao",
+        "passcode": 76352503,
+        "konami_id": 17345,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE086",
+        "set_number": "BLZD-AE086",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Changshi the Spiridao",
+        "passcode": 76352503,
+        "konami_id": 17345,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE086",
+        "set_number": "BLZD-AE086",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Changshi the Spiridao",
+        "passcode": 76352503,
+        "konami_id": 17345,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE086",
+        "set_number": "BLZD-AE086",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Dragonlet",
+        "passcode": 3121655,
+        "konami_id": 19272,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE087",
+        "set_number": "BLZD-AE087",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fire King Courtier Ulcanix",
+        "passcode": 44455560,
+        "konami_id": 19825,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE088",
+        "set_number": "BLZD-AE088",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultra Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fire King Courtier Ulcanix",
+        "passcode": 44455560,
+        "konami_id": 19825,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE088",
+        "set_number": "BLZD-AE088",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fire King Courtier Ulcanix",
+        "passcode": 44455560,
+        "konami_id": 19825,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE088",
+        "set_number": "BLZD-AE088",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Vulmina, Statue of the Sacred Dragon",
+        "passcode": 93683815,
+        "konami_id": 20420,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE089",
+        "set_number": "BLZD-AE089",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dark Necromancer",
+        "passcode": 21960890,
+        "konami_id": 21045,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE090",
+        "set_number": "BLZD-AE090",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Vulcarrion the Rotting Phoenix",
+        "passcode": 58354899,
+        "konami_id": 21046,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE091",
+        "set_number": "BLZD-AE091",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Starship Adjust Plane",
+        "passcode": 37720300,
+        "konami_id": 21408,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE092",
+        "set_number": "BLZD-AE092",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Treasure Panther",
+        "passcode": 84824728,
+        "konami_id": 22184,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE093",
+        "set_number": "BLZD-AE093",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mechanical Mechanic",
+        "passcode": 22106558,
+        "konami_id": 22327,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE094",
+        "set_number": "BLZD-AE094",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Vodnika the Fountain Spirit",
+        "passcode": 68378605,
+        "konami_id": 22331,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE095",
+        "set_number": "BLZD-AE095",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Shade the Obscure",
+        "passcode": 77157846,
+        "konami_id": 22925,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE096",
+        "set_number": "BLZD-AE096",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Shade the Obscure",
+        "passcode": 77157846,
+        "konami_id": 22925,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE096",
+        "set_number": "BLZD-AE096",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Shade the Obscure",
+        "passcode": 77157846,
+        "konami_id": 22925,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE096",
+        "set_number": "BLZD-AE096",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "VIP Whale",
+        "passcode": 14556954,
+        "konami_id": 22926,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE097",
+        "set_number": "BLZD-AE097",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Genia of the Ring",
+        "passcode": 40041559,
+        "konami_id": 22927,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE098",
+        "set_number": "BLZD-AE098",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Genia of the Ring",
+        "passcode": 40041559,
+        "konami_id": 22927,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE098",
+        "set_number": "BLZD-AE098",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Genia of the Ring",
+        "passcode": 40041559,
+        "konami_id": 22927,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE098",
+        "set_number": "BLZD-AE098",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Checkker",
+        "passcode": 77435268,
+        "konami_id": 22928,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE099",
+        "set_number": "BLZD-AE099",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Rustin Mammoth",
+        "passcode": 3434362,
+        "konami_id": 22929,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE100",
+        "set_number": "BLZD-AE100",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Officiating Reverie",
+        "passcode": 49828011,
+        "konami_id": 22930,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE101",
+        "set_number": "BLZD-AE101",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Officiating Reverie",
+        "passcode": 49828011,
+        "konami_id": 22930,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE101",
+        "set_number": "BLZD-AE101",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Officiating Reverie",
+        "passcode": 49828011,
+        "konami_id": 22930,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE101",
+        "set_number": "BLZD-AE101",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Faisan, Hunting Scout of the Deep Forest",
+        "passcode": 86038337,
+        "konami_id": 22066,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE102",
+        "set_number": "BLZD-AE102",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Chevreuil, Hunting Scout of the Deep Forest",
+        "passcode": 13023431,
+        "konami_id": 22067,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE103",
+        "set_number": "BLZD-AE103",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fata Dragna",
+        "passcode": 41763141,
+        "konami_id": 22924,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE104",
+        "set_number": "BLZD-AE104",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fata Dragna",
+        "passcode": 41763141,
+        "konami_id": 22924,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE104",
+        "set_number": "BLZD-AE104",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Fata Dragna",
+        "passcode": 41763141,
+        "konami_id": 22924,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE104",
+        "set_number": "BLZD-AE104",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Samsara, Dragon of Rebirth",
+        "passcode": 29143726,
+        "konami_id": 11261,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE105",
+        "set_number": "BLZD-AE105",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Jade Dragon Mech",
+        "passcode": 69191257,
+        "konami_id": 22328,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE106",
+        "set_number": "BLZD-AE106",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Storm-Bane Dragon Destorbim",
+        "passcode": 94641726,
+        "konami_id": 22335,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE107",
+        "set_number": "BLZD-AE107",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultimate Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Storm-Bane Dragon Destorbim",
+        "passcode": 94641726,
+        "konami_id": 22335,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE107",
+        "set_number": "BLZD-AE107",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Storm-Bane Dragon Destorbim",
+        "passcode": 94641726,
+        "konami_id": 22335,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE107",
+        "set_number": "BLZD-AE107",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Storm-Bane Dragon Destorbim",
+        "passcode": 94641726,
+        "konami_id": 22335,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE107",
+        "set_number": "BLZD-AE107",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Storm-Bane Dragon Destorbim",
+        "passcode": 94641726,
+        "konami_id": 22335,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE107",
+        "set_number": "BLZD-AE107",
+        "set_name": "Blazing Dominion",
+        "rarity": "Prismatic Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Sakra Vendirage",
+        "passcode": 47060528,
+        "konami_id": 21345,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE108",
+        "set_number": "BLZD-AE108",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dragon Gate",
+        "passcode": 9567495,
+        "konami_id": 21747,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE109",
+        "set_number": "BLZD-AE109",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mercurium the Living Quicksilver",
+        "passcode": 22984000,
+        "konami_id": 22330,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE110",
+        "set_number": "BLZD-AE110",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mercurium the Living Quicksilver",
+        "passcode": 22984000,
+        "konami_id": 22330,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE110",
+        "set_number": "BLZD-AE110",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mercurium the Living Quicksilver",
+        "passcode": 22984000,
+        "konami_id": 22330,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE110",
+        "set_number": "BLZD-AE110",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Gaming Gamer GG",
+        "passcode": 15778492,
+        "konami_id": 22923,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE111",
+        "set_number": "BLZD-AE111",
+        "set_name": "Blazing Dominion",
+        "rarity": "Super Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Officiator of Doom Samuel",
+        "passcode": 76213610,
+        "konami_id": 22931,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE112",
+        "set_number": "BLZD-AE112",
+        "set_name": "Blazing Dominion",
+        "rarity": "Ultimate Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Officiator of Doom Samuel",
+        "passcode": 76213610,
+        "konami_id": 22931,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE112",
+        "set_number": "BLZD-AE112",
+        "set_name": "Blazing Dominion",
+        "rarity": "",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Officiator of Doom Samuel",
+        "passcode": 76213610,
+        "konami_id": 22931,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE112",
+        "set_number": "BLZD-AE112",
+        "set_name": "Blazing Dominion",
+        "rarity": "Secret Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Burning Soul",
+        "passcode": 10723472,
+        "konami_id": 14979,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE113",
+        "set_number": "BLZD-AE113",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Curse of the Ancient Turtle",
+        "passcode": 94749594,
+        "konami_id": 21047,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE114",
+        "set_number": "BLZD-AE114",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Bot Herder",
+        "passcode": 45951104,
+        "konami_id": 21748,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE115",
+        "set_number": "BLZD-AE115",
+        "set_name": "Blazing Dominion",
+        "rarity": "Rare",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Hunting Horn",
+        "passcode": 55421040,
+        "konami_id": 22068,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE116",
+        "set_number": "BLZD-AE116",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mischief of the Wolves",
+        "passcode": 95589901,
+        "konami_id": 22329,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE117",
+        "set_number": "BLZD-AE117",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Kuebiko",
+        "passcode": 20087414,
+        "konami_id": 20421,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE118",
+        "set_number": "BLZD-AE118",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Tiki Peace",
+        "passcode": 14554127,
+        "konami_id": 21346,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE119",
+        "set_number": "BLZD-AE119",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Rain of Frogs",
+        "passcode": 94467314,
+        "konami_id": 22332,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AE120",
+        "set_number": "BLZD-AE120",
+        "set_name": "Blazing Dominion",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    }
+]

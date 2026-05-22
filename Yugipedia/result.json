@@ -2399,9 +2399,45 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Creation Pack 12"
+        },
+        "Chaos Origins": {
+            "printouts": {
+                "Prefix": [
+                    "CORI-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1787356800",
+                        "raw": "1/2026/8/22"
+                    }
+                ]
+            },
+            "fulltext": "Chaos Origins",
+            "fullurl": "https://yugipedia.com/wiki/Chaos_Origins",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Chaos Origins"
+        },
+        "Chaos Origins +1 Expansion Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CORI-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1787356800",
+                        "raw": "1/2026/8/22"
+                    }
+                ]
+            },
+            "fulltext": "Chaos Origins +1 Expansion Pack",
+            "fullurl": "https://yugipedia.com/wiki/Chaos_Origins_%2B1_Expansion_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Chaos Origins +1 Expansion Pack"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 132
+    "rows": 134
 }

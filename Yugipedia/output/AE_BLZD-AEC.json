@@ -1,0 +1,642 @@
+[
+    {
+        "name": "Dark Resonator",
+        "passcode": 97021916,
+        "konami_id": 7708,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC01",
+        "set_number": "BLZD-AEC01",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Flare Resonator",
+        "passcode": 13708425,
+        "konami_id": 8786,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC02",
+        "set_number": "BLZD-AEC02",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Barrier Resonator",
+        "passcode": 89127526,
+        "konami_id": 9297,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC03",
+        "set_number": "BLZD-AEC03",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Force Resonator",
+        "passcode": 40583194,
+        "konami_id": 9477,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC04",
+        "set_number": "BLZD-AEC04",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Clock Resonator",
+        "passcode": 77087109,
+        "konami_id": 9478,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC05",
+        "set_number": "BLZD-AEC05",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mirror Resonator",
+        "passcode": 40159926,
+        "konami_id": 12064,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC06",
+        "set_number": "BLZD-AEC06",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Double Resonator",
+        "passcode": 60832978,
+        "konami_id": 12930,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC07",
+        "set_number": "BLZD-AEC07",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Resonator Engine",
+        "passcode": 15576074,
+        "konami_id": 9347,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC08",
+        "set_number": "BLZD-AEC08",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Small Piece Golem",
+        "passcode": 22754505,
+        "konami_id": 7704,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC09",
+        "set_number": "BLZD-AEC09",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Medium Piece Golem",
+        "passcode": 58843503,
+        "konami_id": 7705,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC10",
+        "set_number": "BLZD-AEC10",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Big Piece Golem",
+        "passcode": 25247218,
+        "konami_id": 7706,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC11",
+        "set_number": "BLZD-AEC11",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Multiple Piece Golem",
+        "passcode": 71628381,
+        "konami_id": 7732,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC12",
+        "set_number": "BLZD-AEC12",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Sinister Sprocket",
+        "passcode": 61632317,
+        "konami_id": 7707,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC13",
+        "set_number": "BLZD-AEC13",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Twin-Shield Defender",
+        "passcode": 24025620,
+        "konami_id": 7709,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC14",
+        "set_number": "BLZD-AEC14",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mad Archfiend",
+        "passcode": 94664694,
+        "konami_id": 7871,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC15",
+        "set_number": "BLZD-AEC15",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Vice Dragon",
+        "passcode": 54343893,
+        "konami_id": 7991,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC16",
+        "set_number": "BLZD-AEC16",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Majestic Dragon",
+        "passcode": 21159309,
+        "konami_id": 8436,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC17",
+        "set_number": "BLZD-AEC17",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Majestic Red Dragon",
+        "passcode": 67030233,
+        "konami_id": 8651,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC18",
+        "set_number": "BLZD-AEC18",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Chaos King Archfiend",
+        "passcode": 36407615,
+        "konami_id": 8816,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC19",
+        "set_number": "BLZD-AEC19",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Supremacy",
+        "passcode": 50584941,
+        "konami_id": 12272,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC20",
+        "set_number": "BLZD-AEC20",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Gash the Dust Lord",
+        "passcode": 19012345,
+        "konami_id": 9012,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC21",
+        "set_number": "BLZD-AEC21",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Phantom King Hydride",
+        "passcode": 6901008,
+        "konami_id": 9717,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC22",
+        "set_number": "BLZD-AEC22",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Dark Highlander",
+        "passcode": 75326861,
+        "konami_id": 9040,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC23",
+        "set_number": "BLZD-AEC23",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Celestial Wolf Lord, Blue Sirius",
+        "passcode": 32995007,
+        "konami_id": 9718,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC24",
+        "set_number": "BLZD-AEC24",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Sprinter",
+        "passcode": 14886469,
+        "konami_id": 12060,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC25",
+        "set_number": "BLZD-AEC25",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Warg",
+        "passcode": 45313993,
+        "konami_id": 12413,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC26",
+        "set_number": "BLZD-AEC26",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Gardna",
+        "passcode": 72318602,
+        "konami_id": 12414,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC27",
+        "set_number": "BLZD-AEC27",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Mirror",
+        "passcode": 8706701,
+        "konami_id": 12415,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC28",
+        "set_number": "BLZD-AEC28",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Resonant Destruction",
+        "passcode": 59593925,
+        "konami_id": 9519,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC29",
+        "set_number": "BLZD-AEC29",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Scarlet Security",
+        "passcode": 50215517,
+        "konami_id": 9516,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC30",
+        "set_number": "BLZD-AEC30",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Carpet",
+        "passcode": 41197012,
+        "konami_id": 9534,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC31",
+        "set_number": "BLZD-AEC31",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Red Cocoon",
+        "passcode": 2542230,
+        "konami_id": 12066,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC32",
+        "set_number": "BLZD-AEC32",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Flytrap",
+        "passcode": 96622984,
+        "konami_id": 12596,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC33",
+        "set_number": "BLZD-AEC33",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Moray Nepenthes",
+        "passcode": 22011689,
+        "konami_id": 12597,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC34",
+        "set_number": "BLZD-AEC34",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Squid Drosera",
+        "passcode": 69105797,
+        "konami_id": 12598,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC35",
+        "set_number": "BLZD-AEC35",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Sarraceniant",
+        "passcode": 53819028,
+        "konami_id": 12830,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC36",
+        "set_number": "BLZD-AEC36",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Drosophyllum Hydra",
+        "passcode": 99913726,
+        "konami_id": 12831,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC37",
+        "set_number": "BLZD-AEC37",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Pterapenthes",
+        "passcode": 26308721,
+        "konami_id": 12832,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC38",
+        "set_number": "BLZD-AEC38",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Spinodionaea",
+        "passcode": 52792430,
+        "konami_id": 12833,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC39",
+        "set_number": "BLZD-AEC39",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Cordyceps",
+        "passcode": 7161742,
+        "konami_id": 12925,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC40",
+        "set_number": "BLZD-AEC40",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Banksiogre",
+        "passcode": 22138839,
+        "konami_id": 13055,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC41",
+        "set_number": "BLZD-AEC41",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplant Spider Orchid",
+        "passcode": 30537973,
+        "konami_id": 13990,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC42",
+        "set_number": "BLZD-AEC42",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predapruning",
+        "passcode": 14463695,
+        "konami_id": 12838,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC43",
+        "set_number": "BLZD-AEC43",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Predaplanet",
+        "passcode": 51858200,
+        "konami_id": 12839,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC44",
+        "set_number": "BLZD-AEC44",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Mist Archfiend",
+        "passcode": 28601770,
+        "konami_id": 7149,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC45",
+        "set_number": "BLZD-AEC45",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Archfiend Cavalry",
+        "passcode": 92039899,
+        "konami_id": 10633,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC46",
+        "set_number": "BLZD-AEC46",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Archfiend Emperor, the First Lord of Horror",
+        "passcode": 28423537,
+        "konami_id": 10634,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC47",
+        "set_number": "BLZD-AEC47",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Archfiend Palabyrinth",
+        "passcode": 63883999,
+        "konami_id": 10669,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC48",
+        "set_number": "BLZD-AEC48",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Collector",
+        "passcode": 58242947,
+        "konami_id": 8606,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC49",
+        "set_number": "BLZD-AEC49",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Servant",
+        "passcode": 78922939,
+        "konami_id": 9472,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC50",
+        "set_number": "BLZD-AEC50",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Barrage",
+        "passcode": 79068663,
+        "konami_id": 7741,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC51",
+        "set_number": "BLZD-AEC51",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Starlight Junktion",
+        "passcode": 1003840,
+        "konami_id": 11625,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC52",
+        "set_number": "BLZD-AEC52",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Blader",
+        "passcode": 51855378,
+        "konami_id": 8735,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC53",
+        "set_number": "BLZD-AEC53",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Forward",
+        "passcode": 56410040,
+        "konami_id": 9013,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC54",
+        "set_number": "BLZD-AEC54",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Defender",
+        "passcode": 68120130,
+        "konami_id": 9215,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC55",
+        "set_number": "BLZD-AEC55",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Giant",
+        "passcode": 34492631,
+        "konami_id": 11641,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC56",
+        "set_number": "BLZD-AEC56",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Breaker",
+        "passcode": 43436049,
+        "konami_id": 11781,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC57",
+        "set_number": "BLZD-AEC57",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Changer",
+        "passcode": 1006081,
+        "konami_id": 12255,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC58",
+        "set_number": "BLZD-AEC58",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junkuriboh",
+        "passcode": 38491199,
+        "konami_id": 12256,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC59",
+        "set_number": "BLZD-AEC59",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Connector",
+        "passcode": 37337327,
+        "konami_id": 13544,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC60",
+        "set_number": "BLZD-AEC60",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Archer",
+        "passcode": 42810973,
+        "konami_id": 8581,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC61",
+        "set_number": "BLZD-AEC61",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Destroyer",
+        "passcode": 74860293,
+        "konami_id": 8860,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC62",
+        "set_number": "BLZD-AEC62",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Gardna",
+        "passcode": 37993923,
+        "konami_id": 9045,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC63",
+        "set_number": "BLZD-AEC63",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    },
+    {
+        "name": "Junk Berserker",
+        "passcode": 59771339,
+        "konami_id": 9508,
+        "wikilink": "https://yugipedia.com/wiki/BLZD-AEC64",
+        "set_number": "BLZD-AEC64",
+        "set_name": "Blazing Dominion Complement Pack",
+        "rarity": "Common",
+        "date_release": "16 MAY 2026"
+    }
+]
