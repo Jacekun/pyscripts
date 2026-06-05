@@ -2435,9 +2435,27 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Chaos Origins +1 Expansion Pack"
+        },
+        "Legendary Arc-V Decks": {
+            "printouts": {
+                "Prefix": [
+                    "LAVD-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1789171200",
+                        "raw": "1/2026/9/12"
+                    }
+                ]
+            },
+            "fulltext": "Legendary Arc-V Decks",
+            "fullurl": "https://yugipedia.com/wiki/Legendary_Arc-V_Decks",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Legendary Arc-V Decks"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 134
+    "rows": 135
 }
