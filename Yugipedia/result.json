@@ -2382,6 +2382,24 @@
             "exists": "1",
             "displaytitle": "Essential Selection 02"
         },
+        "Tournament Pack 2026 Vol.2 (Asian-English)": {
+            "printouts": {
+                "Prefix": [
+                    "26AT-AE1"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1782864000",
+                        "raw": "1/2026/7/1"
+                    }
+                ]
+            },
+            "fulltext": "Tournament Pack 2026 Vol.2 (Asian-English)",
+            "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2026_Vol.2_(Asian-English)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
         "Creation Pack 12": {
             "printouts": {
                 "Prefix": [
@@ -2457,5 +2475,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 135
+    "rows": 136
 }
