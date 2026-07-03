@@ -2382,6 +2382,24 @@
             "exists": "1",
             "displaytitle": "Essential Selection 02"
         },
+        "Yu-Gi-Oh! World Championship Qualifier 2026 Asia Finals prize card": {
+            "printouts": {
+                "Prefix": [
+                    "26YC-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1782518400",
+                        "raw": "1/2026/6/27"
+                    }
+                ]
+            },
+            "fulltext": "Yu-Gi-Oh! World Championship Qualifier 2026 Asia Finals prize card",
+            "fullurl": "https://yugipedia.com/wiki/Yu-Gi-Oh!_World_Championship_Qualifier_2026_Asia_Finals_prize_card",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Yu-Gi-Oh! World Championship Qualifier 2026 Asia Finals prize card"
+        },
         "Tournament Pack 2026 Vol.2 (Asian-English)": {
             "printouts": {
                 "Prefix": [
@@ -2398,7 +2416,7 @@
             "fullurl": "https://yugipedia.com/wiki/Tournament_Pack_2026_Vol.2_(Asian-English)",
             "namespace": 0,
             "exists": "1",
-            "displaytitle": ""
+            "displaytitle": "Tournament Pack 2026 Vol.2 (Asian-English)"
         },
         "Creation Pack 12": {
             "printouts": {
@@ -2417,6 +2435,24 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Creation Pack 12"
+        },
+        "Creation Pack 12 +1 Bonus Pack": {
+            "printouts": {
+                "Prefix": [
+                    "CR12-AES"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1783728000",
+                        "raw": "1/2026/7/11"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 12 +1 Bonus Pack",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_12_%2B1_Bonus_Pack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 12 +1 Bonus Pack"
         },
         "Chaos Origins": {
             "printouts": {
@@ -2471,9 +2507,27 @@
             "namespace": 0,
             "exists": "1",
             "displaytitle": "Legendary Arc-V Decks"
+        },
+        "Creation Pack 13": {
+            "printouts": {
+                "Prefix": [
+                    "CR13-AE"
+                ],
+                "Release date": [
+                    {
+                        "timestamp": "1791590400",
+                        "raw": "1/2026/10/10"
+                    }
+                ]
+            },
+            "fulltext": "Creation Pack 13",
+            "fullurl": "https://yugipedia.com/wiki/Creation_Pack_13",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "Creation Pack 13"
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 136
+    "rows": 139
 }
